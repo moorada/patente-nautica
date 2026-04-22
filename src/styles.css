@@ -130,6 +130,7 @@ body {
   border: 1px solid var(--line);
   background: transparent;
   color: var(--ink);
+  text-decoration: none;
   border-radius: 999px;
   padding: 7px 11px;
   font: inherit;

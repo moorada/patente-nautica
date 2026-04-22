@@ -4,9 +4,10 @@ Web app responsive per allenarsi ai quiz della patente nautica con dataset uffic
 
 ## Demo links
 
+- 🌐 Web app: https://moorada.github.io/patente-nautica/
 - ☕ Supporta il progetto: https://www.buymeacoffee.com/moorada
-- 📝 Feedback: https://github.com/moorada/patentenautica/issues/new
-- ⭐ Metti una stella: https://github.com/moorada/patentenautica/stargazers
+- 📝 Feedback: https://github.com/moorada/patente-nautica/issues/new
+- ⭐ Metti una stella: https://github.com/moorada/patente-nautica/stargazers
 
 ## Funzionalità
 
@@ -50,7 +51,7 @@ git commit -m "Initial commit"
 ### 2) Crea repo su GitHub e collega remote
 
 ```bash
-git remote add origin https://github.com/<TUO_USERNAME>/<TUO_REPO>.git
+git remote add origin https://github.com/moorada/patente-nautica.git
 git push -u origin main
 ```
 
