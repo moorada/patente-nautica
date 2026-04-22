@@ -4,6 +4,9 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Patente Nautica Trainer</title>
+  <link rel="icon" type="image/svg+xml" href="src/favicon-light.svg?v=2" media="(prefers-color-scheme: light)" />
+  <link rel="icon" type="image/svg+xml" href="src/favicon-dark.svg?v=2" media="(prefers-color-scheme: dark)" />
+  <link rel="icon" type="image/svg+xml" href="src/favicon-light.svg?v=2" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;700;800&display=swap" rel="stylesheet" />
@@ -12,14 +15,20 @@
 <body>
   <div class="bg-shape bg-shape-a" aria-hidden="true"></div>
   <div class="bg-shape bg-shape-b" aria-hidden="true"></div>
+  <div class="bg-nautica bg-nautica-wheel" aria-hidden="true"></div>
+  <div class="bg-nautica bg-nautica-sail" aria-hidden="true"></div>
 
   <main class="app-shell">
     <header class="app-header panel-lite">
-      <div>
-        <p class="app-kicker">Nautica Quiz</p>
-        <h1>Allenamento patente nautica</h1>
+      <div class="app-brand">
+        <img class="app-logo" src="src/assets/logo-nautica-sail.svg" alt="Logo Patente Nautica Trainer" />
+        <div class="app-brand-text">
+          <p class="app-kicker">Nautica Quiz</p>
+          <h1>Allenamento patente nautica</h1>
+        </div>
       </div>
       <div class="header-actions">
+        <button id="open-support-btn" class="header-btn" type="button" aria-label="Apri supporto e feedback">☕ Supporto</button>
         <button id="open-ranking-btn" class="header-btn" type="button">Classifica errori</button>
         <button id="reset-memory-btn" class="header-btn danger" type="button">Reset memoria</button>
         <button id="theme-toggle" class="header-btn" type="button" aria-pressed="false">
@@ -90,8 +99,14 @@
         <article class="question-card">
           <p id="question-source" class="question-source"></p>
 
-          <div class="question-scroll">
-            <h3 id="question-text">Domanda</h3>
+          <div id="question-scroll" class="question-scroll">
+            <div class="question-head">
+              <h3 id="question-text">Domanda</h3>
+              <button id="toggle-explanation-btn" class="explanation-toggle hidden" type="button" aria-expanded="false" aria-controls="question-explanation" title="Mostra spiegazione">
+                <span class="explanation-icon" aria-hidden="true">i</span>
+                <span>Spiegazione</span>
+              </button>
+            </div>
 
             <figure id="question-image-wrap" class="question-image-wrap hidden">
               <img id="question-image" alt="Immagine della domanda" loading="lazy" />
@@ -103,14 +118,19 @@
               <button id="show-solution-btn" class="btn btn-secondary" type="button">Mostra soluzione</button>
             </div>
 
+            <div id="question-explanation" class="question-explanation hidden"></div>
+
             <div id="solution" class="solution hidden"></div>
           </div>
         </article>
+
+        <p id="scroll-hint" class="scroll-hint hidden">Scorri per vedere il resto.</p>
 
         <div class="helpbar" id="helpbar">
           <span><kbd>1..9</kbd> risposta</span>
           <span><kbd>Enter</kbd>/<kbd>→</kbd> invia-avanti</span>
           <span><kbd>←</kbd> indietro</span>
+          <span><kbd>E</kbd> spiegazione</span>
           <span><kbd>S</kbd> mostra soluzione</span>
           <span>aperta: <kbd>1</kbd> giusta, <kbd>2</kbd> sbagliata</span>
         </div>
@@ -134,8 +154,6 @@
       <div id="ranking-list" class="ranking-list"></div>
     </section>
   </div>
-
-  <button id="open-support-btn" class="support-fab" type="button" aria-label="Apri supporto e feedback">☕</button>
 
   <div id="support-modal" class="ranking-modal hidden" role="dialog" aria-modal="true" aria-labelledby="support-title">
     <section class="ranking-panel support-panel">

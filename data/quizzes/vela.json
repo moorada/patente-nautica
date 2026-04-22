@@ -14,7 +14,8 @@
     "meta": {
       "table_index": 0,
       "row_index": 0
-    }
+    },
+    "spiegazione": "Falso. Lo scafo è la struttura galleggiante e portante dell'unità; la deriva è la parte immersa che aiuta la tenuta di rotta. La risposta corretta è FALSO, quindi VERO è sbagliata perché ribalterebbe il significato tecnico della definizione. Lo scafo è la struttura galleggiante e portante dell'unità, mentre la deriva è la parte immersa che aiuta la tenuta di rotta."
   },
   {
     "id": 2,
@@ -31,7 +32,8 @@
     "meta": {
       "table_index": 0,
       "row_index": 1
-    }
+    },
+    "spiegazione": "Vero. Lo scafo è proprio la struttura galleggiante e portante dell'unità; FALSO negherebbe questa definizione. La risposta corretta è VERO, quindi FALSO è sbagliata perché ribalterebbe il significato tecnico della definizione. Lo scafo è la struttura galleggiante e portante dell'unità, mentre la deriva è la parte immersa che aiuta la tenuta di rotta."
   },
   {
     "id": 3,
@@ -48,7 +50,8 @@
     "meta": {
       "table_index": 0,
       "row_index": 2
-    }
+    },
+    "spiegazione": "Vero. Il bulbo zavorrato, massa posta in basso, aumenta la stabilità e contrasta lo sbandamento dovuto al vento. La risposta corretta è VERO, quindi FALSO è sbagliata perché ribalterebbe il significato tecnico della definizione. Il bulbo zavorrato abbassa il baricentro e aumenta la stabilità, non la velocità di punta."
   },
   {
     "id": 4,
@@ -65,7 +68,8 @@
     "meta": {
       "table_index": 0,
       "row_index": 3
-    }
+    },
+    "spiegazione": "Falso. Il bulbo zavorrato serve alla stabilità, non a migliorare la penetrazione della prua o la velocità. La risposta corretta è FALSO, quindi VERO è sbagliata perché ribalterebbe il significato tecnico della definizione. Il bulbo zavorrato abbassa il baricentro e aumenta la stabilità, non la velocità di punta."
   },
   {
     "id": 5,
@@ -82,7 +86,8 @@
     "meta": {
       "table_index": 0,
       "row_index": 4
-    }
+    },
+    "spiegazione": "Vero. La vela si orienta rispetto al flusso del vento per produrre portanza, cioè la forza utile alla navigazione. La risposta corretta è VERO, quindi FALSO è sbagliata perché ribalterebbe il significato tecnico della definizione."
   },
   {
     "id": 6,
@@ -99,7 +104,8 @@
     "meta": {
       "table_index": 0,
       "row_index": 5
-    }
+    },
+    "spiegazione": "Vero. L'andatura è la direzione di avanzamento rispetto al vento reale. La risposta corretta è VERO, quindi FALSO è sbagliata perché ribalterebbe il significato tecnico della definizione. L'andatura indica il modo in cui l'unità procede rispetto al vento reale, non la sua velocità."
   },
   {
     "id": 7,
@@ -116,7 +122,8 @@
     "meta": {
       "table_index": 0,
       "row_index": 6
-    }
+    },
+    "spiegazione": "Falso. L'andatura non è la velocità: indica la rotta dell'unità rispetto al vento. La risposta corretta è FALSO, quindi VERO è sbagliata perché ribalterebbe il significato tecnico della definizione. L'andatura indica il modo in cui l'unità procede rispetto al vento reale, non la sua velocità."
   },
   {
     "id": 8,
@@ -133,7 +140,8 @@
     "meta": {
       "table_index": 0,
       "row_index": 7
-    }
+    },
+    "spiegazione": "Vero. A favore di vento il vento apparente è la differenza tra vento reale e velocità dell'unità. La risposta corretta è VERO, quindi FALSO è sbagliata perché ribalterebbe il significato tecnico della definizione. Il vento apparente è il vento percepito a bordo, risultato del vento reale e del moto dell'unità."
   },
   {
     "id": 9,
@@ -150,7 +158,8 @@
     "meta": {
       "table_index": 0,
       "row_index": 8
-    }
+    },
+    "spiegazione": "Falso. A favore di vento il vento apparente non si somma: si riduce per effetto del moto dell'unità. La risposta corretta è FALSO, quindi VERO è sbagliata perché ribalterebbe il significato tecnico della definizione. Il vento apparente è il vento percepito a bordo, risultato del vento reale e del moto dell'unità."
   },
   {
     "id": 10,
@@ -167,7 +176,8 @@
     "meta": {
       "table_index": 1,
       "row_index": 0
-    }
+    },
+    "spiegazione": "Vero. Controvento il vento apparente è la somma tra vento reale e velocità dell'unità. La risposta corretta è VERO, quindi FALSO è sbagliata perché ribalterebbe il significato tecnico della definizione. Il vento apparente è il vento percepito a bordo, risultato del vento reale e del moto dell'unità."
   },
   {
     "id": 11,
@@ -184,7 +194,8 @@
     "meta": {
       "table_index": 1,
       "row_index": 1
-    }
+    },
+    "spiegazione": "Falso. Controvento il vento apparente non coincide solo con la velocità dell'unità: conta anche il vento reale. La risposta corretta è FALSO, quindi VERO è sbagliata perché ribalterebbe il significato tecnico della definizione. Il vento apparente è il vento percepito a bordo, risultato del vento reale e del moto dell'unità."
   },
   {
     "id": 12,
@@ -201,7 +212,8 @@
     "meta": {
       "table_index": 1,
       "row_index": 2
-    }
+    },
+    "spiegazione": "Vero. Il vento apparente ruota verso prua rispetto al vento reale, quindi appare più proravia. La risposta corretta è VERO, quindi FALSO è sbagliata perché ribalterebbe il significato tecnico della definizione. Il vento apparente è il vento percepito a bordo, risultato del vento reale e del moto dell'unità."
   },
   {
     "id": 13,
@@ -218,7 +230,8 @@
     "meta": {
       "table_index": 1,
       "row_index": 3
-    }
+    },
+    "spiegazione": "Falso. Il vento apparente non è ortogonale per definizione: ha direzione risultante tra vento reale e velocità. La risposta corretta è FALSO, quindi VERO è sbagliata perché ribalterebbe il significato tecnico della definizione. Il vento apparente è il vento percepito a bordo, risultato del vento reale e del moto dell'unità."
   },
   {
     "id": 14,
@@ -235,7 +248,8 @@
     "meta": {
       "table_index": 1,
       "row_index": 4
-    }
+    },
+    "spiegazione": "Vero. Più l'unità va verso la provenienza del vento, più il vento apparente aumenta. La risposta corretta è VERO, quindi FALSO è sbagliata perché ribalterebbe il significato tecnico della definizione. Il vento apparente è il vento percepito a bordo, risultato del vento reale e del moto dell'unità."
   },
   {
     "id": 15,
@@ -252,7 +266,8 @@
     "meta": {
       "table_index": 1,
       "row_index": 5
-    }
+    },
+    "spiegazione": "Falso. Se ci si discosta dalla provenienza del vento, il vento apparente tende a diminuire. La risposta corretta è FALSO, quindi VERO è sbagliata perché ribalterebbe il significato tecnico della definizione. Il vento apparente è il vento percepito a bordo, risultato del vento reale e del moto dell'unità."
   },
   {
     "id": 16,
@@ -269,7 +284,8 @@
     "meta": {
       "table_index": 1,
       "row_index": 6
-    }
+    },
+    "spiegazione": "Falso. La bolina è circa 45° rispetto al vento reale, non 135°. La risposta corretta è FALSO, quindi VERO è sbagliata perché ribalterebbe il significato tecnico della definizione. L'andatura indica il modo in cui l'unità procede rispetto al vento reale, non la sua velocità. La bolina è l'andatura più vicina al vento reale, in genere intorno a 45°."
   },
   {
     "id": 17,
@@ -286,7 +302,8 @@
     "meta": {
       "table_index": 1,
       "row_index": 7
-    }
+    },
+    "spiegazione": "Falso. Il traverso è circa 90° rispetto al vento reale, non 45°. La risposta corretta è FALSO, quindi VERO è sbagliata perché ribalterebbe il significato tecnico della definizione. L'andatura indica il modo in cui l'unità procede rispetto al vento reale, non la sua velocità. Il traverso è un'andatura di circa 90° rispetto al vento reale, quindi con vento che arriva di lato."
   },
   {
     "id": 18,
@@ -303,7 +320,8 @@
     "meta": {
       "table_index": 1,
       "row_index": 8
-    }
+    },
+    "spiegazione": "Falso. Il lasco è circa 135° rispetto al vento reale, non 45°. La risposta corretta è FALSO, quindi VERO è sbagliata perché ribalterebbe il significato tecnico della definizione. L'andatura indica il modo in cui l'unità procede rispetto al vento reale, non la sua velocità. Il lasco è un'andatura ampia, circa 135° rispetto al vento reale."
   },
   {
     "id": 19,
@@ -320,7 +338,8 @@
     "meta": {
       "table_index": 1,
       "row_index": 9
-    }
+    },
+    "spiegazione": "Falso. La poppa, o fil di ruota, è circa 180° rispetto al vento reale, non 90°. La risposta corretta è FALSO, quindi VERO è sbagliata perché ribalterebbe il significato tecnico della definizione. L'andatura indica il modo in cui l'unità procede rispetto al vento reale, non la sua velocità. In poppa il vento arriva da dietro, circa 180° rispetto alla prua."
   },
   {
     "id": 20,
@@ -337,7 +356,8 @@
     "meta": {
       "table_index": 1,
       "row_index": 10
-    }
+    },
+    "spiegazione": "Vero. In bolina il vento apparente cresce e la pressione percepita sulle vele aumenta. La risposta corretta è VERO, quindi FALSO è sbagliata perché ribalterebbe il significato tecnico della definizione. La bolina è l'andatura più vicina al vento reale, in genere intorno a 45°."
   },
   {
     "id": 21,
@@ -354,7 +374,8 @@
     "meta": {
       "table_index": 2,
       "row_index": 0
-    }
+    },
+    "spiegazione": "Falso. In bolina il vento apparente non si attenua: aumenta, quindi la sensazione non è inferiore. La risposta corretta è FALSO, quindi VERO è sbagliata perché ribalterebbe il significato tecnico della definizione. La bolina è l'andatura più vicina al vento reale, in genere intorno a 45°."
   },
   {
     "id": 22,
@@ -371,7 +392,8 @@
     "meta": {
       "table_index": 2,
       "row_index": 1
-    }
+    },
+    "spiegazione": "Vero. In poppa il vento apparente è più debole e la velocita avvertita sembra minore. La risposta corretta è VERO, quindi FALSO è sbagliata perché ribalterebbe il significato tecnico della definizione. In poppa il vento arriva da dietro, circa 180° rispetto alla prua."
   },
   {
     "id": 23,
@@ -388,7 +410,8 @@
     "meta": {
       "table_index": 2,
       "row_index": 2
-    }
+    },
+    "spiegazione": "Falso. In poppa il vento apparente non aumenta: si riduce, quindi la sensazione non è superiore. La risposta corretta è FALSO, quindi VERO è sbagliata perché ribalterebbe il significato tecnico della definizione. In poppa il vento arriva da dietro, circa 180° rispetto alla prua."
   },
   {
     "id": 24,
@@ -405,7 +428,8 @@
     "meta": {
       "table_index": 2,
       "row_index": 3
-    }
+    },
+    "spiegazione": "Vero. Il settore di bordeggio, o angolo morto, è la zona controvento in cui la barca non può andare per mancanza di portanza. La risposta corretta è VERO, quindi FALSO è sbagliata perché ribalterebbe il significato tecnico della definizione. È il settore controvento in cui la vela non genera abbastanza portanza per risalire il vento. La portanza è la componente aerodinamica che contribuisce all'avanzamento."
   },
   {
     "id": 25,
@@ -422,7 +446,8 @@
     "meta": {
       "table_index": 2,
       "row_index": 4
-    }
+    },
+    "spiegazione": "Falso. L'angolo morto non è una zona utile di navigazione: è proprio il settore da cui non si riesce a risalire il vento. La risposta corretta è FALSO, quindi VERO è sbagliata perché ribalterebbe il significato tecnico della definizione. È il settore controvento in cui la vela non genera abbastanza portanza per risalire il vento."
   },
   {
     "id": 26,
@@ -439,7 +464,8 @@
     "meta": {
       "table_index": 2,
       "row_index": 5
-    }
+    },
+    "spiegazione": "Vero. Una raffica aumenta il vento apparente e può migliorare temporaneamente l'angolo di bolina. La risposta corretta è VERO, quindi FALSO è sbagliata perché ribalterebbe il significato tecnico della definizione. Il vento apparente è il vento percepito a bordo, risultato del vento reale e del moto dell'unità. La bolina è l'andatura più vicina al vento reale, in genere intorno a 45°."
   },
   {
     "id": 27,
@@ -456,7 +482,8 @@
     "meta": {
       "table_index": 2,
       "row_index": 6
-    }
+    },
+    "spiegazione": "Falso. Un calo di vento non migliora la bolina: riduce il vento apparente e la portanza. La risposta corretta è FALSO, quindi VERO è sbagliata perché ribalterebbe il significato tecnico della definizione. Il vento apparente è il vento percepito a bordo, risultato del vento reale e del moto dell'unità. La bolina è l'andatura più vicina al vento reale, in genere intorno a 45°."
   },
   {
     "id": 28,
@@ -473,7 +500,8 @@
     "meta": {
       "table_index": 2,
       "row_index": 7
-    }
+    },
+    "spiegazione": "Vero. L'angolo di incidenza è l'angolo tra vento apparente e orientamento della vela. La risposta corretta è VERO, quindi FALSO è sbagliata perché ribalterebbe il significato tecnico della definizione. Il vento apparente è il vento percepito a bordo, risultato del vento reale e del moto dell'unità. È l'angolo tra il vento apparente e l'orientamento della vela ed è decisivo per la portanza."
   },
   {
     "id": 29,
@@ -490,7 +518,8 @@
     "meta": {
       "table_index": 2,
       "row_index": 8
-    }
+    },
+    "spiegazione": "Falso. Il centro velico è il punto di applicazione della risultante del vento sulle vele, non su vele e opera morta. La risposta corretta è FALSO, quindi VERO è sbagliata perché ribalterebbe il significato tecnico della definizione. Il vento apparente è il vento percepito a bordo, risultato del vento reale e del moto dell'unità. È il punto di applicazione della risultante delle forze del vento sulle vele."
   },
   {
     "id": 30,
@@ -507,7 +536,8 @@
     "meta": {
       "table_index": 2,
       "row_index": 9
-    }
+    },
+    "spiegazione": "Falso. Il centro di deriva è il punto di applicazione della resistenza laterale, non un semplice centro geometrico sotto la chiglia. La risposta corretta è FALSO, quindi VERO è sbagliata perché ribalterebbe il significato tecnico della definizione. È il punto di applicazione della resistenza laterale delle parti immerse dell'unità."
   },
   {
     "id": 31,
@@ -524,7 +554,8 @@
     "meta": {
       "table_index": 2,
       "row_index": 10
-    }
+    },
+    "spiegazione": "Vero. Centro velico e centro di deriva interagiscono e determinano il comportamento orziero o poggero. La risposta corretta è VERO, quindi FALSO è sbagliata perché ribalterebbe il significato tecnico della definizione. È il punto di applicazione della risultante delle forze del vento sulle vele. È il punto di applicazione della resistenza laterale delle parti immerse dell'unità."
   },
   {
     "id": 32,
@@ -541,7 +572,8 @@
     "meta": {
       "table_index": 3,
       "row_index": 0
-    }
+    },
+    "spiegazione": "Vero. Se centro velico e centro di deriva sono allineati, l'unità è neutra. La risposta corretta è VERO, quindi FALSO è sbagliata perché ribalterebbe il significato tecnico della definizione. È il punto di applicazione della risultante delle forze del vento sulle vele. È il punto di applicazione della resistenza laterale delle parti immerse dell'unità. Orziera è la tendenza a girare la prua verso il vento. Poggiera è la tendenza opposta, cioè ad allontanare la prua dal vento."
   },
   {
     "id": 33,
@@ -558,7 +590,8 @@
     "meta": {
       "table_index": 3,
       "row_index": 1
-    }
+    },
+    "spiegazione": "Falso. Con i centri allineati l'unità non diventa orziera: resta neutra. La risposta corretta è FALSO, quindi VERO è sbagliata perché ribalterebbe il significato tecnico della definizione. È il punto di applicazione della risultante delle forze del vento sulle vele. È il punto di applicazione della resistenza laterale delle parti immerse dell'unità. Orziera è la tendenza a girare la prua verso il vento."
   },
   {
     "id": 34,
@@ -575,7 +608,8 @@
     "meta": {
       "table_index": 3,
       "row_index": 2
-    }
+    },
+    "spiegazione": "Vero. La posizione del centro velico dipende da superficie, forma, assetto delle vele e regolazioni. La risposta corretta è VERO, quindi FALSO è sbagliata perché ribalterebbe il significato tecnico della definizione. È il punto di applicazione della risultante delle forze del vento sulle vele."
   },
   {
     "id": 35,
@@ -592,7 +626,8 @@
     "meta": {
       "table_index": 3,
       "row_index": 3
-    }
+    },
+    "spiegazione": "Vero. La planata è la navigazione in equilibrio dinamico sulla superficie dell'acqua, favorita dalla velocità. La risposta corretta è VERO, quindi FALSO è sbagliata perché ribalterebbe il significato tecnico della definizione. La planata è la navigazione in cui lo scafo si alleggerisce sull'acqua grazie alla velocità."
   },
   {
     "id": 36,
@@ -609,7 +644,8 @@
     "meta": {
       "table_index": 3,
       "row_index": 4
-    }
+    },
+    "spiegazione": "Vero. La messa a segno delle vele dipende dal vento apparente che si crea durante la navigazione. La risposta corretta è VERO, quindi FALSO è sbagliata perché ribalterebbe il significato tecnico della definizione. Il vento apparente è il vento percepito a bordo, risultato del vento reale e del moto dell'unità. La messa a segno è la regolazione delle vele per farle lavorare bene con il vento apparente."
   },
   {
     "id": 37,
@@ -626,7 +662,8 @@
     "meta": {
       "table_index": 3,
       "row_index": 5
-    }
+    },
+    "spiegazione": "Vero. La pressione sulle vele varia con l'angolo di incidenza. La risposta corretta è VERO, quindi FALSO è sbagliata perché ribalterebbe il significato tecnico della definizione. È l'angolo tra il vento apparente e l'orientamento della vela ed è decisivo per la portanza."
   },
   {
     "id": 38,
@@ -643,7 +680,8 @@
     "meta": {
       "table_index": 3,
       "row_index": 6
-    }
+    },
+    "spiegazione": "Falso. La pressione non dipende solo dalla prora: contano anche vento apparente, forma e regolazione delle vele. La risposta corretta è FALSO, quindi VERO è sbagliata perché ribalterebbe il significato tecnico della definizione."
   },
   {
     "id": 39,
@@ -660,7 +698,8 @@
     "meta": {
       "table_index": 3,
       "row_index": 7
-    }
+    },
+    "spiegazione": "Vero. La forza di scarroccio è laterale, quindi perpendicolare all'asse longitudinale. La risposta corretta è VERO, quindi FALSO è sbagliata perché ribalterebbe il significato tecnico della definizione. Lo scarroccio è lo spostamento laterale prodotto dalla spinta del vento."
   },
   {
     "id": 40,
@@ -677,7 +716,8 @@
     "meta": {
       "table_index": 3,
       "row_index": 8
-    }
+    },
+    "spiegazione": "Falso. La forza di propulsione agisce lungo l'asse longitudinale, non di traverso. La risposta corretta è FALSO, quindi VERO è sbagliata perché ribalterebbe il significato tecnico della definizione."
   },
   {
     "id": 41,
@@ -694,7 +734,8 @@
     "meta": {
       "table_index": 3,
       "row_index": 9
-    }
+    },
+    "spiegazione": "Vero. Un albero inclinato verso poppa rende l'unità più tendenzialmente orziera. La risposta corretta è VERO, quindi FALSO è sbagliata perché ribalterebbe il significato tecnico della definizione. In poppa il vento arriva da dietro, circa 180° rispetto alla prua. Orziera è la tendenza a girare la prua verso il vento."
   },
   {
     "id": 42,
@@ -711,7 +752,8 @@
     "meta": {
       "table_index": 3,
       "row_index": 10
-    }
+    },
+    "spiegazione": "Vero. Un albero inclinato verso prua rende l'unità più tendenzialmente poggiera. La risposta corretta è VERO, quindi FALSO è sbagliata perché ribalterebbe il significato tecnico della definizione. Poggiera è la tendenza opposta, cioè ad allontanare la prua dal vento."
   },
   {
     "id": 43,
@@ -728,7 +770,8 @@
     "meta": {
       "table_index": 4,
       "row_index": 0
-    }
+    },
+    "spiegazione": "Vero. Le stecche mantengono la forma della randa e ne stabilizzano il profilo. La risposta corretta è VERO, quindi FALSO è sbagliata perché ribalterebbe il significato tecnico della definizione. La randa è la vela principale di poppa, quella che lavora più direttamente con l'albero."
   },
   {
     "id": 44,
@@ -745,7 +788,8 @@
     "meta": {
       "table_index": 4,
       "row_index": 1
-    }
+    },
+    "spiegazione": "Falso. Le stecche non indicano il vento: servono a sostenere il profilo della vela. La risposta corretta è FALSO, quindi VERO è sbagliata perché ribalterebbe il significato tecnico della definizione. La randa è la vela principale di poppa, quella che lavora più direttamente con l'albero."
   },
   {
     "id": 45,
@@ -762,7 +806,8 @@
     "meta": {
       "table_index": 4,
       "row_index": 2
-    }
+    },
+    "spiegazione": "Vero. Il multiscafo offre maggiore stabilità grazie alla larghezza e alla distribuzione dei galleggianti. La risposta corretta è VERO, quindi FALSO è sbagliata perché ribalterebbe il significato tecnico della definizione. Lo scafo è la struttura galleggiante e portante dell'unità, mentre la deriva è la parte immersa che aiuta la tenuta di rotta."
   },
   {
     "id": 46,
@@ -779,7 +824,8 @@
     "meta": {
       "table_index": 4,
       "row_index": 3
-    }
+    },
+    "spiegazione": "Vero. Il bulbo zavorrato abbassa il baricentro e aiuta a contrastare lo sbandamento. La risposta corretta è VERO, quindi FALSO è sbagliata perché ribalterebbe il significato tecnico della definizione. Il bulbo zavorrato abbassa il baricentro e aumenta la stabilità, non la velocità di punta."
   },
   {
     "id": 47,
@@ -796,7 +842,8 @@
     "meta": {
       "table_index": 4,
       "row_index": 4
-    }
+    },
+    "spiegazione": "Vero. La stabilità di una barca a vela è favorita dal bulbo zavorrato. La risposta corretta è VERO, quindi FALSO è sbagliata perché ribalterebbe il significato tecnico della definizione. Il bulbo zavorrato abbassa il baricentro e aumenta la stabilità, non la velocità di punta."
   },
   {
     "id": 48,
@@ -813,7 +860,8 @@
     "meta": {
       "table_index": 4,
       "row_index": 5
-    }
+    },
+    "spiegazione": "Falso. La vela non assume spontaneamente 45°: la sua posizione va regolata per generare portanza. La risposta corretta è FALSO, quindi VERO è sbagliata perché ribalterebbe il significato tecnico della definizione."
   },
   {
     "id": 49,
@@ -830,7 +878,8 @@
     "meta": {
       "table_index": 4,
       "row_index": 6
-    }
+    },
+    "spiegazione": "Vero. L'andatura è la direzione di marcia rispetto al vento reale. La risposta corretta è VERO, quindi FALSO è sbagliata perché ribalterebbe il significato tecnico della definizione. L'andatura indica il modo in cui l'unità procede rispetto al vento reale, non la sua velocità."
   },
   {
     "id": 50,
@@ -847,7 +896,8 @@
     "meta": {
       "table_index": 4,
       "row_index": 7
-    }
+    },
+    "spiegazione": "Vero. La bolina è circa 45° rispetto al vento reale. La risposta corretta è VERO, quindi FALSO è sbagliata perché ribalterebbe il significato tecnico della definizione. L'andatura indica il modo in cui l'unità procede rispetto al vento reale, non la sua velocità. La bolina è l'andatura più vicina al vento reale, in genere intorno a 45°."
   },
   {
     "id": 51,
@@ -864,7 +914,8 @@
     "meta": {
       "table_index": 4,
       "row_index": 8
-    }
+    },
+    "spiegazione": "Vero. Il lasco è circa 135° rispetto al vento reale. La risposta corretta è VERO, quindi FALSO è sbagliata perché ribalterebbe il significato tecnico della definizione. L'andatura indica il modo in cui l'unità procede rispetto al vento reale, non la sua velocità. Il lasco è un'andatura ampia, circa 135° rispetto al vento reale."
   },
   {
     "id": 52,
@@ -881,7 +932,8 @@
     "meta": {
       "table_index": 4,
       "row_index": 9
-    }
+    },
+    "spiegazione": "Vero. Il traverso è circa 90° rispetto al vento reale. La risposta corretta è VERO, quindi FALSO è sbagliata perché ribalterebbe il significato tecnico della definizione. L'andatura indica il modo in cui l'unità procede rispetto al vento reale, non la sua velocità. Il traverso è un'andatura di circa 90° rispetto al vento reale, quindi con vento che arriva di lato."
   },
   {
     "id": 53,
@@ -898,7 +950,8 @@
     "meta": {
       "table_index": 4,
       "row_index": 10
-    }
+    },
+    "spiegazione": "Falso. Il lasco non è a 90°: a 90° c'è il traverso. La risposta corretta è FALSO, quindi VERO è sbagliata perché ribalterebbe il significato tecnico della definizione. L'andatura indica il modo in cui l'unità procede rispetto al vento reale, non la sua velocità. Il lasco è un'andatura ampia, circa 135° rispetto al vento reale."
   },
   {
     "id": 54,
@@ -915,7 +968,8 @@
     "meta": {
       "table_index": 5,
       "row_index": 0
-    }
+    },
+    "spiegazione": "Vero. La poppa, o fil di ruota, è circa 180° rispetto al vento reale. La risposta corretta è VERO, quindi FALSO è sbagliata perché ribalterebbe il significato tecnico della definizione. L'andatura indica il modo in cui l'unità procede rispetto al vento reale, non la sua velocità. In poppa il vento arriva da dietro, circa 180° rispetto alla prua."
   },
   {
     "id": 55,
@@ -932,7 +986,8 @@
     "meta": {
       "table_index": 5,
       "row_index": 1
-    }
+    },
+    "spiegazione": "Vero. In bolina il vento percepito è più intenso perché vento reale e velocità si sommano. La risposta corretta è VERO, quindi FALSO è sbagliata perché ribalterebbe il significato tecnico della definizione. La bolina è l'andatura più vicina al vento reale, in genere intorno a 45°."
   },
   {
     "id": 56,
@@ -949,7 +1004,8 @@
     "meta": {
       "table_index": 5,
       "row_index": 2
-    }
+    },
+    "spiegazione": "Falso. In poppa il vento apparente non risulta più intenso: tende invece a diminuire. La risposta corretta è FALSO, quindi VERO è sbagliata perché ribalterebbe il significato tecnico della definizione. In poppa il vento arriva da dietro, circa 180° rispetto alla prua."
   },
   {
     "id": 57,
@@ -966,7 +1022,8 @@
     "meta": {
       "table_index": 5,
       "row_index": 3
-    }
+    },
+    "spiegazione": "Falso. Il settore di bordeggio non è una parte dello scafo: è la zona controvento in cui non si può risalire bene il vento. La risposta corretta è FALSO, quindi VERO è sbagliata perché ribalterebbe il significato tecnico della definizione. Lo scafo è la struttura galleggiante e portante dell'unità, mentre la deriva è la parte immersa che aiuta la tenuta di rotta. È il settore controvento in cui la vela non genera abbastanza portanza per risalire il vento."
   },
   {
     "id": 58,
@@ -983,7 +1040,8 @@
     "meta": {
       "table_index": 5,
       "row_index": 4
-    }
+    },
+    "spiegazione": "Falso. Il lato sottovento non è la faccia sopravento della vela: è il lato opposto al vento, in depressione. La risposta corretta è FALSO, quindi VERO è sbagliata perché ribalterebbe il significato tecnico della definizione. Sottovento è il lato opposto, più riparato dal vento."
   },
   {
     "id": 59,
@@ -1000,7 +1058,8 @@
     "meta": {
       "table_index": 5,
       "row_index": 5
-    }
+    },
+    "spiegazione": "Vero. Il centro velico è il punto di applicazione della risultante delle forze del vento sulle vele. La risposta corretta è VERO, quindi FALSO è sbagliata perché ribalterebbe il significato tecnico della definizione. È il punto di applicazione della risultante delle forze del vento sulle vele."
   },
   {
     "id": 60,
@@ -1017,7 +1076,8 @@
     "meta": {
       "table_index": 5,
       "row_index": 6
-    }
+    },
+    "spiegazione": "Falso. Il centro velico non riguarda le forze idrodinamiche sullo scafo: quelle dipendono dalla deriva e dall'opera viva. La risposta corretta è FALSO, quindi VERO è sbagliata perché ribalterebbe il significato tecnico della definizione. Lo scafo è la struttura galleggiante e portante dell'unità, mentre la deriva è la parte immersa che aiuta la tenuta di rotta. È il punto di applicazione della risultante delle forze del vento sulle vele. Lo scarroccio è lo spostamento laterale prodotto dalla spinta del vento."
   },
   {
     "id": 61,
@@ -1034,7 +1094,8 @@
     "meta": {
       "table_index": 5,
       "row_index": 7
-    }
+    },
+    "spiegazione": "Falso. Il centro di deriva non è il centro di uno scafo piccolo: è il punto di resistenza laterale dell'insieme chiglia/derive. La risposta corretta è FALSO, quindi VERO è sbagliata perché ribalterebbe il significato tecnico della definizione. Lo scafo è la struttura galleggiante e portante dell'unità, mentre la deriva è la parte immersa che aiuta la tenuta di rotta. È il punto di applicazione della resistenza laterale delle parti immerse dell'unità."
   },
   {
     "id": 62,
@@ -1051,7 +1112,8 @@
     "meta": {
       "table_index": 5,
       "row_index": 8
-    }
+    },
+    "spiegazione": "Vero. Il centro di deriva è il punto di applicazione della resistenza laterale che si oppone allo scarroccio. La risposta corretta è VERO, quindi FALSO è sbagliata perché ribalterebbe il significato tecnico della definizione. È il punto di applicazione della resistenza laterale delle parti immerse dell'unità."
   },
   {
     "id": 63,
@@ -1068,7 +1130,8 @@
     "meta": {
       "table_index": 5,
       "row_index": 9
-    }
+    },
+    "spiegazione": "Falso. Centro velico e centro di deriva non servono a fare il punto nave: servono a studiare l'equilibrio dell'unità. La risposta corretta è FALSO, quindi VERO è sbagliata perché ribalterebbe il significato tecnico della definizione. È il punto di applicazione della risultante delle forze del vento sulle vele. È il punto di applicazione della resistenza laterale delle parti immerse dell'unità."
   },
   {
     "id": 64,
@@ -1085,7 +1148,8 @@
     "meta": {
       "table_index": 5,
       "row_index": 10
-    }
+    },
+    "spiegazione": "Vero. Se il centro velico è a proravia del centro di deriva, l'unità tende ad allontanarsi dal vento, cioè è poggiera. La risposta corretta è VERO, quindi FALSO è sbagliata perché ribalterebbe il significato tecnico della definizione. È il punto di applicazione della risultante delle forze del vento sulle vele. È il punto di applicazione della resistenza laterale delle parti immerse dell'unità. Poggiera è la tendenza opposta, cioè ad allontanare la prua dal vento."
   },
   {
     "id": 65,
@@ -1102,7 +1166,8 @@
     "meta": {
       "table_index": 6,
       "row_index": 0
-    }
+    },
+    "spiegazione": "Vero. Se i due centri sono allineati, l'unità è equilibrata e non tende né a orzare né a poggiare. La risposta corretta è VERO, quindi FALSO è sbagliata perché ribalterebbe il significato tecnico della definizione. È il punto di applicazione della risultante delle forze del vento sulle vele. È il punto di applicazione della resistenza laterale delle parti immerse dell'unità. Orziera è la tendenza a girare la prua verso il vento. Poggiera è la tendenza opposta, cioè ad allontanare la prua dal vento."
   },
   {
     "id": 66,
@@ -1119,7 +1184,8 @@
     "meta": {
       "table_index": 6,
       "row_index": 1
-    }
+    },
+    "spiegazione": "Vero. La posizione del centro velico dipende dalla forma delle vele, dalla loro interazione e dalla regolazione dell'attrezzatura. La risposta corretta è VERO, quindi FALSO è sbagliata perché ribalterebbe il significato tecnico della definizione. È il punto di applicazione della risultante delle forze del vento sulle vele."
   },
   {
     "id": 67,
@@ -1136,7 +1202,8 @@
     "meta": {
       "table_index": 6,
       "row_index": 2
-    }
+    },
+    "spiegazione": "Falso. Il centro di deriva non dipende dalla forma delle vele, ma dalle parti immerse che oppongono resistenza laterale. La risposta corretta è FALSO, quindi VERO è sbagliata perché ribalterebbe il significato tecnico della definizione. È il punto di applicazione della resistenza laterale delle parti immerse dell'unità."
   },
   {
     "id": 68,
@@ -1153,7 +1220,8 @@
     "meta": {
       "table_index": 6,
       "row_index": 3
-    }
+    },
+    "spiegazione": "Falso. Sopravento è il lato da cui arriva il vento, non quello al di sotto del punto di applicazione del vento apparente. La risposta corretta è FALSO, quindi VERO è sbagliata perché ribalterebbe il significato tecnico della definizione. Il vento apparente è il vento percepito a bordo, risultato del vento reale e del moto dell'unità. Sopravento è il lato da cui il vento proviene."
   },
   {
     "id": 69,
@@ -1170,7 +1238,8 @@
     "meta": {
       "table_index": 6,
       "row_index": 4
-    }
+    },
+    "spiegazione": "Vero. Sottovento è il lato opposto a quello su cui batte il vento. La risposta corretta è VERO, quindi FALSO è sbagliata perché ribalterebbe il significato tecnico della definizione. Sottovento è il lato opposto, più riparato dal vento."
   },
   {
     "id": 70,
@@ -1187,7 +1256,8 @@
     "meta": {
       "table_index": 6,
       "row_index": 5
-    }
+    },
+    "spiegazione": "Falso. Mure a dritta e mure a sinistra indicano il lato da cui proviene il vento sulle vele, non la parte prodiera. La risposta corretta è FALSO, quindi VERO è sbagliata perché ribalterebbe il significato tecnico della definizione. Lo scafo è la struttura galleggiante e portante dell'unità, mentre la deriva è la parte immersa che aiuta la tenuta di rotta. Le mure indicano da quale lato arriva il vento sulla vela."
   },
   {
     "id": 71,
@@ -1204,7 +1274,8 @@
     "meta": {
       "table_index": 6,
       "row_index": 6
-    }
+    },
+    "spiegazione": "Falso. Il grasso è la concavità massima della vela, non la parte vicina alla drizza. La risposta corretta è FALSO, quindi VERO è sbagliata perché ribalterebbe il significato tecnico della definizione. Per grasso si intende la concavità della vela, cioè quanto il profilo è pieno. La drizza è la cima usata per issare o tesare una vela."
   },
   {
     "id": 72,
@@ -1221,7 +1292,8 @@
     "meta": {
       "table_index": 6,
       "row_index": 7
-    }
+    },
+    "spiegazione": "Vero. Il piano velico è l'insieme ordinato di alberi e vele previsto dal progetto dell'unità. La risposta corretta è VERO, quindi FALSO è sbagliata perché ribalterebbe il significato tecnico della definizione."
   },
   {
     "id": 73,
@@ -1238,7 +1310,8 @@
     "meta": {
       "table_index": 6,
       "row_index": 8
-    }
+    },
+    "spiegazione": "Falso. La portanza è una forza aerodinamica che aiuta l'avanzamento, non il peso delle attrezzature. La risposta corretta è FALSO, quindi VERO è sbagliata perché ribalterebbe il significato tecnico della definizione. La portanza è la componente aerodinamica che contribuisce all'avanzamento."
   },
   {
     "id": 74,
@@ -1255,7 +1328,8 @@
     "meta": {
       "table_index": 6,
       "row_index": 9
-    }
+    },
+    "spiegazione": "Vero. Lo svergolamento dipende dal fatto che il vento reale aumenta con la quota. La risposta corretta è VERO, quindi FALSO è sbagliata perché ribalterebbe il significato tecnico della definizione. Lo svergolamento è la variazione di torsione della vela lungo la sua altezza."
   },
   {
     "id": 75,
@@ -1272,7 +1346,8 @@
     "meta": {
       "table_index": 6,
       "row_index": 10
-    }
+    },
+    "spiegazione": "Vero. Straorza è il brusco giro di prua verso il vento causato da raffica o onda. La risposta corretta è VERO, quindi FALSO è sbagliata perché ribalterebbe il significato tecnico della definizione. Straorza indica un brusco orzare, cioè avvicinare la prua al vento."
   },
   {
     "id": 76,
@@ -1289,7 +1364,8 @@
     "meta": {
       "table_index": 7,
       "row_index": 0
-    }
+    },
+    "spiegazione": "Vero. Strapoggia è il brusco allontanamento della prua dal vento, fino anche a provocare una strambata. La risposta corretta è VERO, quindi FALSO è sbagliata perché ribalterebbe il significato tecnico della definizione. Strapoggia indica un brusco poggiare, cioè allontanare la prua dal vento."
   },
   {
     "id": 77,
@@ -1306,7 +1382,8 @@
     "meta": {
       "table_index": 7,
       "row_index": 1
-    }
+    },
+    "spiegazione": "Falso. La raffica non è un vento di levante o ponente: è un improvviso aumento dell'intensità del vento. La risposta corretta è FALSO, quindi VERO è sbagliata perché ribalterebbe il significato tecnico della definizione."
   },
   {
     "id": 78,
@@ -1323,7 +1400,8 @@
     "meta": {
       "table_index": 7,
       "row_index": 2
-    }
+    },
+    "spiegazione": "Vero. Lo scarroccio è la traslazione laterale dell'unità causata dal vento. La risposta corretta è VERO, quindi FALSO è sbagliata perché ribalterebbe il significato tecnico della definizione. Lo scafo è la struttura galleggiante e portante dell'unità, mentre la deriva è la parte immersa che aiuta la tenuta di rotta. Lo scarroccio è lo spostamento laterale prodotto dalla spinta del vento."
   },
   {
     "id": 79,
@@ -1340,7 +1418,8 @@
     "meta": {
       "table_index": 7,
       "row_index": 3
-    }
+    },
+    "spiegazione": "Vero. La scuffia è il ribaltamento dell'unità, fino a portare l'albero quasi o del tutto in acqua. La risposta corretta è VERO, quindi FALSO è sbagliata perché ribalterebbe il significato tecnico della definizione. La scuffia è il ribaltamento dell'unità, con perdita di equilibrio fino al capovolgimento."
   },
   {
     "id": 80,
@@ -1357,7 +1436,8 @@
     "meta": {
       "table_index": 7,
       "row_index": 4
-    }
+    },
+    "spiegazione": "Vero. Smagrire la vela significa ridurne la concavità per alleggerirla con vento forte. La risposta corretta è VERO, quindi FALSO è sbagliata perché ribalterebbe il significato tecnico della definizione. Smagrire significa ridurre la concavità della vela per alleggerirla con vento forte."
   },
   {
     "id": 81,
@@ -1374,7 +1454,8 @@
     "meta": {
       "table_index": 7,
       "row_index": 5
-    }
+    },
+    "spiegazione": "Falso. Stringere il vento significa avvicinare la prua alla provenienza del vento, non allontanarla. La risposta corretta è FALSO, quindi VERO è sbagliata perché ribalterebbe il significato tecnico della definizione."
   },
   {
     "id": 82,
@@ -1391,7 +1472,8 @@
     "meta": {
       "table_index": 7,
       "row_index": 6
-    }
+    },
+    "spiegazione": "Vero. Poggiare significa allontanare la prua dal vento e lascare le vele. La risposta corretta è VERO, quindi FALSO è sbagliata perché ribalterebbe il significato tecnico della definizione."
   },
   {
     "id": 83,
@@ -1408,7 +1490,8 @@
     "meta": {
       "table_index": 7,
       "row_index": 7
-    }
+    },
+    "spiegazione": "Vero. La forza di propulsione è parallela all'asse longitudinale dell'unità. La risposta corretta è VERO, quindi FALSO è sbagliata perché ribalterebbe il significato tecnico della definizione."
   },
   {
     "id": 84,
@@ -1425,7 +1508,8 @@
     "meta": {
       "table_index": 7,
       "row_index": 8
-    }
+    },
+    "spiegazione": "Vero. La forza risultante del vento si scompone in propulsione e scarroccio. La risposta corretta è VERO, quindi FALSO è sbagliata perché ribalterebbe il significato tecnico della definizione. Lo scarroccio è lo spostamento laterale prodotto dalla spinta del vento."
   },
   {
     "id": 85,
@@ -1442,7 +1526,8 @@
     "meta": {
       "table_index": 7,
       "row_index": 9
-    }
+    },
+    "spiegazione": "Vero. La corda è la linea ideale che unisce le estremità del profilo della vela. La risposta corretta è VERO, quindi FALSO è sbagliata perché ribalterebbe il significato tecnico della definizione."
   },
   {
     "id": 86,
@@ -1459,7 +1544,8 @@
     "meta": {
       "table_index": 7,
       "row_index": 10
-    }
+    },
+    "spiegazione": "Falso. La concavità non diminuisce la resistenza e basta: serve soprattutto a generare portanza. La risposta corretta è FALSO, quindi VERO è sbagliata perché ribalterebbe il significato tecnico della definizione."
   },
   {
     "id": 87,
@@ -1476,7 +1562,8 @@
     "meta": {
       "table_index": 8,
       "row_index": 0
-    }
+    },
+    "spiegazione": "Falso. Spostare i pesi aiuta a correggere lo sbandamento, ma non annulla direttamente scarroccio e spinta propulsiva. La risposta corretta è FALSO, quindi VERO è sbagliata perché ribalterebbe il significato tecnico della definizione. Lo scarroccio è lo spostamento laterale prodotto dalla spinta del vento."
   },
   {
     "id": 88,
@@ -1493,7 +1580,8 @@
     "meta": {
       "table_index": 8,
       "row_index": 1
-    }
+    },
+    "spiegazione": "Vero. Per contrastare la tendenza poggiera conviene spostare i pesi verso prua. La risposta corretta è VERO, quindi FALSO è sbagliata perché ribalterebbe il significato tecnico della definizione."
   },
   {
     "id": 89,
@@ -1510,7 +1598,8 @@
     "meta": {
       "table_index": 8,
       "row_index": 2
-    }
+    },
+    "spiegazione": "Falso. Per contrastare l'orziera non si spostano i pesi verso l'albero: serve un assetto opposto alla prua. La risposta corretta è FALSO, quindi VERO è sbagliata perché ribalterebbe il significato tecnico della definizione. Orziera è la tendenza a girare la prua verso il vento."
   },
   {
     "id": 90,
@@ -1527,7 +1616,8 @@
     "meta": {
       "table_index": 8,
       "row_index": 3
-    }
+    },
+    "spiegazione": "Falso. Un'impostazione troppo poggera non è preferibile perché rende l'unità meno governabile e stressa il timone. La risposta corretta è FALSO, quindi VERO è sbagliata perché ribalterebbe il significato tecnico della definizione."
   },
   {
     "id": 91,
@@ -1544,7 +1634,8 @@
     "meta": {
       "table_index": 8,
       "row_index": 4
-    }
+    },
+    "spiegazione": "Falso. Con eccessivo sbandamento sottovento la barca peggiora, non migliora, velocità e resa delle vele. La risposta corretta è FALSO, quindi VERO è sbagliata perché ribalterebbe il significato tecnico della definizione. L'andatura indica il modo in cui l'unità procede rispetto al vento reale, non la sua velocità. La bolina è l'andatura più vicina al vento reale, in genere intorno a 45°. Sottovento è il lato opposto, più riparato dal vento."
   },
   {
     "id": 92,
@@ -1561,7 +1652,8 @@
     "meta": {
       "table_index": 8,
       "row_index": 5
-    }
+    },
+    "spiegazione": "Vero. Un lieve assetto orziero è preferibile perché mantiene la barca più controllabile e reattiva. La risposta corretta è VERO, quindi FALSO è sbagliata perché ribalterebbe il significato tecnico della definizione. Orziera è la tendenza a girare la prua verso il vento."
   },
   {
     "id": 93,
@@ -1578,7 +1670,8 @@
     "meta": {
       "table_index": 8,
       "row_index": 6
-    }
+    },
+    "spiegazione": "Vero. Un albero inclinato verso prua rende l'unità tendente a poggiare. La risposta corretta è VERO, quindi FALSO è sbagliata perché ribalterebbe il significato tecnico della definizione."
   },
   {
     "id": 94,
@@ -1595,7 +1688,8 @@
     "meta": {
       "table_index": 8,
       "row_index": 7
-    }
+    },
+    "spiegazione": "Falso. Un albero inclinato verso poppa non rende la barca poggiera: la tende semmai a orzare. La risposta corretta è FALSO, quindi VERO è sbagliata perché ribalterebbe il significato tecnico della definizione. In poppa il vento arriva da dietro, circa 180° rispetto alla prua."
   },
   {
     "id": 95,
@@ -1612,7 +1706,8 @@
     "meta": {
       "table_index": 8,
       "row_index": 8
-    }
+    },
+    "spiegazione": "Vero. Lascare drizza e base della randa aumenta il grasso e adatta la vela alla poppa piena, o fil di ruota. La risposta corretta è VERO, quindi FALSO è sbagliata perché ribalterebbe il significato tecnico della definizione. L'andatura indica il modo in cui l'unità procede rispetto al vento reale, non la sua velocità. In poppa il vento arriva da dietro, circa 180° rispetto alla prua. Per grasso si intende la concavità della vela, cioè quanto il profilo è pieno. La drizza è la cima usata per issare o tesare una vela. La randa è la vela principale di poppa, quella che lavora più direttamente con l'albero."
   },
   {
     "id": 96,
@@ -1629,7 +1724,8 @@
     "meta": {
       "table_index": 8,
       "row_index": 9
-    }
+    },
+    "spiegazione": "Vero. L'angolo di incidenza è l'angolo tra vento apparente e orientamento della vela. La risposta corretta è VERO, quindi FALSO è sbagliata perché ribalterebbe il significato tecnico della definizione. Il vento apparente è il vento percepito a bordo, risultato del vento reale e del moto dell'unità. È l'angolo tra il vento apparente e l'orientamento della vela ed è decisivo per la portanza."
   },
   {
     "id": 97,
@@ -1646,7 +1742,8 @@
     "meta": {
       "table_index": 8,
       "row_index": 10
-    }
+    },
+    "spiegazione": "Vero. La randa tende a rendere l'unità orziera, mentre fiocco e genoa possono dare una tendenza più poggiera. La risposta corretta è VERO, quindi FALSO è sbagliata perché ribalterebbe il significato tecnico della definizione. La randa è la vela principale di poppa, quella che lavora più direttamente con l'albero. Orziera è la tendenza a girare la prua verso il vento. Poggiera è la tendenza opposta, cioè ad allontanare la prua dal vento."
   },
   {
     "id": 98,
@@ -1663,7 +1760,8 @@
     "meta": {
       "table_index": 9,
       "row_index": 0
-    }
+    },
+    "spiegazione": "Vero. Con vento crescente si tendono cunningham, tesabase e drizze per appiattire e controllare le vele. La risposta corretta è VERO, quindi FALSO è sbagliata perché ribalterebbe il significato tecnico della definizione. La drizza è la cima usata per issare o tesare una vela. La randa è la vela principale di poppa, quella che lavora più direttamente con l'albero. Sono regolazioni che servono a mettere in forma la vela e a controllarne la tensione."
   },
   {
     "id": 99,
@@ -1680,7 +1778,8 @@
     "meta": {
       "table_index": 9,
       "row_index": 1
-    }
+    },
+    "spiegazione": "Falso. Con più vento il carrello del genoa non va in genere portato troppo a prua, perché si perderebbe controllo del profilo. La risposta corretta è FALSO, quindi VERO è sbagliata perché ribalterebbe il significato tecnico della definizione."
   },
   {
     "id": 100,
@@ -1697,7 +1796,8 @@
     "meta": {
       "table_index": 9,
       "row_index": 2
-    }
+    },
+    "spiegazione": "Vero. Nelle attrezzature frazionate le sartie volanti sostengono l'albero contro le sollecitazioni trasmesse dallo strallo. La risposta corretta è VERO, quindi FALSO è sbagliata perché ribalterebbe il significato tecnico della definizione. Le sartie volanti sono cavi di sostegno variabili che aiutano a controbilanciare le sollecitazioni sull'albero."
   },
   {
     "id": 101,
@@ -1714,7 +1814,8 @@
     "meta": {
       "table_index": 9,
       "row_index": 3
-    }
+    },
+    "spiegazione": "La risposta corretta è VERO, quindi FALSO è sbagliata perché attribuirebbe al termine o alla manovra una funzione diversa da quella reale. Le sartie volanti sono sostegni aggiuntivi dell albero e non elementi strutturali permanenti; nelle attrezzature frazionate con crocette acquartierate e paterazzo aiutano a controllare i carichi, ma non sostituiscono stralli e sartie fisse."
   },
   {
     "id": 102,
@@ -1731,7 +1832,8 @@
     "meta": {
       "table_index": 9,
       "row_index": 4
-    }
+    },
+    "spiegazione": "La risposta corretta è VERO, quindi FALSO è sbagliata perché attribuirebbe al termine o alla manovra una funzione diversa da quella reale. Armo frazionato significa che lo strallo di prua non arriva fino alla testa d albero; “incappellato” vuol dire appunto fissato in testa d albero."
   },
   {
     "id": 103,
@@ -1748,7 +1850,8 @@
     "meta": {
       "table_index": 9,
       "row_index": 5
-    }
+    },
+    "spiegazione": "La risposta corretta è FALSO, quindi VERO è sbagliata perché attribuirebbe al termine o alla manovra una funzione diversa da quella reale. L armo frazionato non riguarda i compartimenti dello scafo: descrive la disposizione dell albero e dello strallo nel piano velico."
   },
   {
     "id": 104,
@@ -1765,7 +1868,8 @@
     "meta": {
       "table_index": 9,
       "row_index": 6
-    }
+    },
+    "spiegazione": "La risposta corretta è FALSO, quindi VERO è sbagliata perché attribuirebbe al termine o alla manovra una funzione diversa da quella reale. Le crocette sono le prolunghe laterali dell albero che danno angolo di lavoro alle sartie; non servono a trattenere le scotte sul piano di coperta."
   },
   {
     "id": 105,
@@ -1782,7 +1886,8 @@
     "meta": {
       "table_index": 9,
       "row_index": 7
-    }
+    },
+    "spiegazione": "La risposta corretta è VERO, quindi FALSO è sbagliata perché attribuirebbe al termine o alla manovra una funzione diversa da quella reale. Le crocette aiutano a tenere le sartie in posizione e a migliorare il sostegno laterale dell albero."
   },
   {
     "id": 106,
@@ -1799,7 +1904,8 @@
     "meta": {
       "table_index": 9,
       "row_index": 8
-    }
+    },
+    "spiegazione": "La risposta corretta è FALSO, quindi VERO è sbagliata perché attribuirebbe al termine o alla manovra una funzione diversa da quella reale. Le sartie sono manovre fisse e si regolano con arridatoi o sistemi equivalenti, mentre il carrello della scotta serve a spostare il punto di scotta."
   },
   {
     "id": 107,
@@ -1816,7 +1922,8 @@
     "meta": {
       "table_index": 9,
       "row_index": 9
-    }
+    },
+    "spiegazione": "La risposta corretta è FALSO, quindi VERO è sbagliata perché attribuirebbe al termine o alla manovra una funzione diversa da quella reale. L avvolgifiocco è il sistema che arrotola il fiocco sullo strallo di prua; la galloccia invece serve a fissare una cima, non ad avvolgerla."
   },
   {
     "id": 108,
@@ -1833,7 +1940,8 @@
     "meta": {
       "table_index": 9,
       "row_index": 10
-    }
+    },
+    "spiegazione": "La risposta corretta è FALSO, quindi VERO è sbagliata perché attribuirebbe al termine o alla manovra una funzione diversa da quella reale. La balumina è il bordo di uscita della vela; la canaletta del boma ospita la base della randa, non la balumina."
   },
   {
     "id": 109,
@@ -1850,7 +1958,8 @@
     "meta": {
       "table_index": 10,
       "row_index": 0
-    }
+    },
+    "spiegazione": "La risposta corretta è VERO, quindi FALSO è sbagliata perché scambierebbe il lato di inferitura con gli altri bordi della vela. La ralinga è il cavo cucito nel lato di inferitura e scorre nella canaletta dell albero per tenere la randa ben guidata e in tiro."
   },
   {
     "id": 110,
@@ -1867,7 +1976,8 @@
     "meta": {
       "table_index": 10,
       "row_index": 1
-    }
+    },
+    "spiegazione": "La risposta corretta è FALSO, quindi VERO è sbagliata perché la base non è il lato libero con le tasche per le stecche. La base della randa è il bordo inferiore che lavora sul boma, mentre le tasche delle stecche si trovano lungo il corpo della vela per mantenerne la forma."
   },
   {
     "id": 111,
@@ -1884,7 +1994,8 @@
     "meta": {
       "table_index": 10,
       "row_index": 2
-    }
+    },
+    "spiegazione": "La risposta corretta è VERO, quindi FALSO è sbagliata perché attribuirebbe al termine o alla manovra una funzione diversa da quella reale. L angolo di scotta è l angolo inferiore di poppa della vela, dove si prende la scotta e spesso agisce il tesabase."
   },
   {
     "id": 112,
@@ -1901,7 +2012,8 @@
     "meta": {
       "table_index": 10,
       "row_index": 3
-    }
+    },
+    "spiegazione": "La risposta corretta è FALSO, quindi VERO è sbagliata perché attribuirebbe al termine o alla manovra una funzione diversa da quella reale. La penna è l angolo superiore della vela, non quello inferiore: la trozza del boma è lo snodo boma-albero, non il punto di penna."
   },
   {
     "id": 113,
@@ -1918,7 +2030,8 @@
     "meta": {
       "table_index": 10,
       "row_index": 4
-    }
+    },
+    "spiegazione": "La risposta corretta è FALSO, quindi VERO è sbagliata perché attribuirebbe al termine o alla manovra una funzione diversa da quella reale. L angolo di mura è l angolo anteriore inferiore della vela; la drizza lavora in testa o sulla penna, non sull angolo di mura."
   },
   {
     "id": 114,
@@ -1935,7 +2048,8 @@
     "meta": {
       "table_index": 10,
       "row_index": 5
-    }
+    },
+    "spiegazione": "La risposta corretta è FALSO, quindi VERO è sbagliata perché attribuirebbe al termine o alla manovra una funzione diversa da quella reale. Il fiocco non è limitato solo a quel settore: contribuisce in modo efficace in varie andature, soprattutto di bolina larga e traverso, secondo il tipo di vela e la regolazione."
   },
   {
     "id": 115,
@@ -1952,7 +2066,8 @@
     "meta": {
       "table_index": 10,
       "row_index": 6
-    }
+    },
+    "spiegazione": "La risposta corretta è VERO, quindi FALSO è sbagliata perché attribuirebbe al termine o alla manovra una funzione diversa da quella reale. La randa è la vela principale di poppa e lavora dietro l albero; la sua forma triangolare è tipica dei moderni armamenti sloop e simili."
   },
   {
     "id": 116,
@@ -1969,7 +2084,8 @@
     "meta": {
       "table_index": 10,
       "row_index": 7
-    }
+    },
+    "spiegazione": "La risposta corretta è FALSO, quindi VERO è sbagliata perché attribuirebbe al termine o alla manovra una funzione diversa da quella reale. Il genoa è una vela prodiera relativamente grande, spesso sovrapposta alla randa; la vela ridotta e più adatta al cattivo tempo è semmai il fiocco di tempesta."
   },
   {
     "id": 117,
@@ -1986,7 +2102,8 @@
     "meta": {
       "table_index": 10,
       "row_index": 8
-    }
+    },
+    "spiegazione": "La risposta corretta è FALSO, quindi VERO è sbagliata perché attribuirebbe al termine o alla manovra una funzione diversa da quella reale. Il genoa, per definizione, può sovrapporsi alla randa; se non si sovrappone, si parla più propriamente di fiocco."
   },
   {
     "id": 118,
@@ -2003,7 +2120,8 @@
     "meta": {
       "table_index": 10,
       "row_index": 9
-    }
+    },
+    "spiegazione": "La risposta corretta è VERO, quindi FALSO è sbagliata perché il genoa, per definizione, può sovrapporsi all albero verso poppa. La sua superficie ampia migliora la spinta con vento medio o debole e la misura indicata nel testo descrive proprio una sovrapposizione tipica del genoa."
   },
   {
     "id": 119,
@@ -2020,7 +2138,8 @@
     "meta": {
       "table_index": 10,
       "row_index": 10
-    }
+    },
+    "spiegazione": "La risposta corretta è VERO, quindi FALSO è sbagliata perché attribuirebbe al termine o alla manovra una funzione diversa da quella reale. Il fiocco è una vela di prua più contenuta del genoa e normalmente non oltrepassa l albero."
   },
   {
     "id": 120,
@@ -2037,7 +2156,8 @@
     "meta": {
       "table_index": 11,
       "row_index": 0
-    }
+    },
+    "spiegazione": "La risposta corretta è FALSO, quindi VERO è sbagliata perché attribuirebbe al termine o alla manovra una funzione diversa da quella reale. Lo spinnaker è una vela di prua grande e molto potente, pensata per andature portanti come lasco e poppa, non per la bolina."
   },
   {
     "id": 121,
@@ -2054,7 +2174,8 @@
     "meta": {
       "table_index": 11,
       "row_index": 1
-    }
+    },
+    "spiegazione": "La risposta corretta è VERO, quindi FALSO è sbagliata perché attribuirebbe al termine o alla manovra una funzione diversa da quella reale. Il gennaker è una vela asimmetrica intermedia tra spinnaker e genoa, usata soprattutto con vento largo e medio debole."
   },
   {
     "id": 122,
@@ -2071,7 +2192,8 @@
     "meta": {
       "table_index": 11,
       "row_index": 2
-    }
+    },
+    "spiegazione": "La risposta corretta è VERO, quindi FALSO è sbagliata perché attribuirebbe al termine o alla manovra una funzione diversa da quella reale. Il code 0 è una vela molto leggera e piatta, utile con poco vento e angoli stretti rispetto a gennaker e spinnaker."
   },
   {
     "id": 123,
@@ -2088,7 +2210,8 @@
     "meta": {
       "table_index": 11,
       "row_index": 3
-    }
+    },
+    "spiegazione": "La risposta corretta è FALSO, quindi VERO è sbagliata perché attribuirebbe al termine o alla manovra una funzione diversa da quella reale. Il code 0 non è una vela inferita nel senso tradizionale del termine: è più una vela asimmetrica ad alte prestazioni."
   },
   {
     "id": 124,
@@ -2105,7 +2228,8 @@
     "meta": {
       "table_index": 11,
       "row_index": 4
-    }
+    },
+    "spiegazione": "La risposta corretta è VERO, quindi FALSO è sbagliata perché lo sloop ha un solo albero e normalmente una sola vela di prua alla volta. È un armo semplice e molto diffuso, con randa e un fiocco o genoa come piano velico essenziale."
   },
   {
     "id": 125,
@@ -2122,7 +2246,8 @@
     "meta": {
       "table_index": 11,
       "row_index": 5
-    }
+    },
+    "spiegazione": "La risposta corretta è VERO, quindi FALSO è sbagliata perché il cutter è un armo a un albero che può portare due vele di prua insieme. In pratica si affiancano spesso fiocco e trinchetta, così da distribuire meglio il piano velico."
   },
   {
     "id": 126,
@@ -2139,7 +2264,8 @@
     "meta": {
       "table_index": 11,
       "row_index": 6
-    }
+    },
+    "spiegazione": "La risposta corretta è VERO, quindi FALSO è sbagliata perché nel ketch la mezzana è un secondo albero collocato a poppa rispetto al maestro e davanti all asse del timone. Questo lo distingue da altri armi a due alberi, come lo yawl."
   },
   {
     "id": 127,
@@ -2156,7 +2282,8 @@
     "meta": {
       "table_index": 11,
       "row_index": 7
-    }
+    },
+    "spiegazione": "La risposta corretta è FALSO, quindi VERO è sbagliata perché attribuirebbe al termine o alla manovra una funzione diversa da quella reale. Le drizze e le scotte sono manovre correnti, non fisse: servono a issare e regolare le vele."
   },
   {
     "id": 128,
@@ -2173,7 +2300,8 @@
     "meta": {
       "table_index": 11,
       "row_index": 8
-    }
+    },
+    "spiegazione": "La risposta corretta è FALSO, quindi VERO è sbagliata perché attribuirebbe al termine o alla manovra una funzione diversa da quella reale. Stralli e sartie sono manovre fisse, cioè elementi di sostegno strutturale dell albero e del piano di armo."
   },
   {
     "id": 129,
@@ -2190,7 +2318,8 @@
     "meta": {
       "table_index": 11,
       "row_index": 9
-    }
+    },
+    "spiegazione": "La risposta corretta è VERO, quindi FALSO è sbagliata perché attribuirebbe al termine o alla manovra una funzione diversa da quella reale. Il paranco di scotta usa bozzelli e cime per demoltiplicare lo sforzo e rendere più agevole la regolazione della vela."
   },
   {
     "id": 130,
@@ -2214,7 +2343,8 @@
     "meta": {
       "table_index": 12,
       "row_index": 0
-    }
+    },
+    "spiegazione": "La risposta corretta è FALSO, quindi VERO è sbagliata perché attribuirebbe al termine o alla manovra una funzione diversa da quella reale. Il rapporto del paranco dipende dal numero di rinvii e di bozzelli effettivamente presenti, quindi non può essere attribuito a priori senza leggere correttamente lo schema."
   },
   {
     "id": 131,
@@ -2238,7 +2368,8 @@
     "meta": {
       "table_index": 12,
       "row_index": 1
-    }
+    },
+    "spiegazione": "La risposta corretta è VERO, quindi FALSO è sbagliata perché attribuirebbe al termine o alla manovra una funzione diversa da quella reale. Un paranco doppio aumenta il vantaggio meccanico e, se configurato correttamente, può arrivare al rapporto indicato nello schema."
   },
   {
     "id": 132,
@@ -2255,7 +2386,8 @@
     "meta": {
       "table_index": 12,
       "row_index": 2
-    }
+    },
+    "spiegazione": "La risposta corretta è VERO, quindi FALSO è sbagliata perché attribuirebbe al termine o alla manovra una funzione diversa da quella reale. Il cunningham tende la parte bassa prodiera della randa e serve a controllare la forma del profilo, soprattutto con vento crescente."
   },
   {
     "id": 133,
@@ -2272,7 +2404,8 @@
     "meta": {
       "table_index": 12,
       "row_index": 3
-    }
+    },
+    "spiegazione": "La risposta corretta è FALSO, quindi VERO è sbagliata perché attribuirebbe al termine o alla manovra una funzione diversa da quella reale. Il tangone è il pennone usato soprattutto con spinnaker; non è la trave su cui si fissa la randa."
   },
   {
     "id": 134,
@@ -2289,7 +2422,8 @@
     "meta": {
       "table_index": 12,
       "row_index": 4
-    }
+    },
+    "spiegazione": "La risposta corretta è FALSO, quindi VERO è sbagliata perché attribuirebbe al termine o alla manovra una funzione diversa da quella reale. Il winch è un verricello a tamburo, non un paranco a bozzelli: moltiplica la forza grazie al diametro del tamburo e alla presa della cima."
   },
   {
     "id": 135,
@@ -2306,7 +2440,8 @@
     "meta": {
       "table_index": 12,
       "row_index": 5
-    }
+    },
+    "spiegazione": "La risposta corretta è VERO, quindi FALSO è sbagliata perché attribuirebbe al termine o alla manovra una funzione diversa da quella reale. Sul winch i giri devono essere ordinati e senza sovrapposizioni dei colli, così la cima lavora bene e non slitta."
   },
   {
     "id": 136,
@@ -2323,7 +2458,8 @@
     "meta": {
       "table_index": 12,
       "row_index": 6
-    }
+    },
+    "spiegazione": "La risposta corretta è VERO, quindi FALSO è sbagliata perché attribuirebbe al termine o alla manovra una funzione diversa da quella reale. La ferramenta di bordo comprende accessori come strozzascotte, winch, arridatori e gallocce, cioè i componenti per fissare, regolare e bloccare le manovre."
   },
   {
     "id": 137,
@@ -2340,7 +2476,8 @@
     "meta": {
       "table_index": 12,
       "row_index": 7
-    }
+    },
+    "spiegazione": "La risposta corretta è VERO, quindi FALSO è sbagliata perché attribuirebbe al termine o alla manovra una funzione diversa da quella reale. Il polipropilene è leggero e galleggia, quindi è usato spesso per sagole, cime e accessori di sicurezza che devono restare in superficie."
   },
   {
     "id": 138,
@@ -2357,7 +2494,8 @@
     "meta": {
       "table_index": 13,
       "row_index": 0
-    }
+    },
+    "spiegazione": "La risposta corretta è FALSO, quindi VERO è sbagliata perché attribuirebbe al termine o alla manovra una funzione diversa da quella reale. I grilli servono a collegare elementi di bordo, non a ridurre lo sforzo di trazione; lo sforzo si gestisce con paranchi e rinvii."
   },
   {
     "id": 139,
@@ -2374,7 +2512,8 @@
     "meta": {
       "table_index": 13,
       "row_index": 1
-    }
+    },
+    "spiegazione": "La risposta corretta è FALSO, quindi VERO è sbagliata perché attribuirebbe al termine o alla manovra una funzione diversa da quella reale. Il carrello di randa, o trasto, fa scorrere il punto di scotta della randa per regolarne il profilo e l angolo di lavoro."
   },
   {
     "id": 140,
@@ -2391,7 +2530,8 @@
     "meta": {
       "table_index": 13,
       "row_index": 2
-    }
+    },
+    "spiegazione": "La risposta corretta è FALSO, quindi VERO è sbagliata perché attribuirebbe al termine o alla manovra una funzione diversa da quella reale. La galloccia blocca cime e piccoli cavi; non serve a fissare le draglie, che sono i cavi di protezione lungo il bordo della coperta."
   },
   {
     "id": 141,
@@ -2408,7 +2548,8 @@
     "meta": {
       "table_index": 13,
       "row_index": 3
-    }
+    },
+    "spiegazione": "La risposta corretta è VERO, quindi FALSO è sbagliata perché attribuirebbe al termine o alla manovra una funzione diversa da quella reale. La landa è il punto di attacco strutturale per sartie e stralli in coperta; trasferisce i carichi dell albero allo scafo."
   },
   {
     "id": 142,
@@ -2425,7 +2566,8 @@
     "meta": {
       "table_index": 13,
       "row_index": 4
-    }
+    },
+    "spiegazione": "La risposta corretta è FALSO, quindi VERO è sbagliata perché attribuirebbe al termine o alla manovra una funzione diversa da quella reale. Il golfare è un anello o punto di attacco fisso in coperta o sulla struttura; non è il carrello del boma."
   },
   {
     "id": 143,
@@ -2442,7 +2584,8 @@
     "meta": {
       "table_index": 13,
       "row_index": 5
-    }
+    },
+    "spiegazione": "La risposta corretta è FALSO, quindi VERO è sbagliata perché attribuirebbe al termine o alla manovra una funzione diversa da quella reale. Il tangone è il pennone usato soprattutto con spinnaker; non è la trave su cui si fissa la randa."
   },
   {
     "id": 144,
@@ -2459,7 +2602,8 @@
     "meta": {
       "table_index": 13,
       "row_index": 6
-    }
+    },
+    "spiegazione": "La risposta corretta è VERO, quindi FALSO è sbagliata perché attribuirebbe al termine o alla manovra una funzione diversa da quella reale. La trozza è il giunto che permette al boma di ruotare sull albero, garantendo il movimento di apertura e chiusura della randa."
   },
   {
     "id": 145,
@@ -2476,7 +2620,8 @@
     "meta": {
       "table_index": 13,
       "row_index": 7
-    }
+    },
+    "spiegazione": "La risposta corretta è VERO, quindi FALSO è sbagliata perché attribuirebbe al termine o alla manovra una funzione diversa da quella reale. La resistenza alla trazione misura quanto il tessuto sopporta gli sforzi di stiramento: è essenziale per mantenere la forma della vela."
   },
   {
     "id": 146,
@@ -2493,7 +2638,8 @@
     "meta": {
       "table_index": 13,
       "row_index": 8
-    }
+    },
+    "spiegazione": "La risposta corretta è FALSO, quindi VERO è sbagliata perché attribuirebbe al termine o alla manovra una funzione diversa da quella reale. Il Dacron è un poliestere molto diffuso per vele da crociera perché è robusto, relativamente stabile e facile da usare."
   },
   {
     "id": 147,
@@ -2510,7 +2656,8 @@
     "meta": {
       "table_index": 13,
       "row_index": 9
-    }
+    },
+    "spiegazione": "La risposta corretta è VERO, quindi FALSO è sbagliata perché attribuirebbe al termine o alla manovra una funzione diversa da quella reale. I raggi UV degradano i materiali tessili nel tempo, indebolendo le fibre e facendo perdere tenuta alla vela."
   },
   {
     "id": 148,
@@ -2527,7 +2674,8 @@
     "meta": {
       "table_index": 13,
       "row_index": 10
-    }
+    },
+    "spiegazione": "La risposta corretta è VERO, quindi FALSO è sbagliata perché attribuirebbe al termine o alla manovra una funzione diversa da quella reale. Su un catamarano il set può includere randa, fiocco e vela asimmetrica come il gennaker, in base all allestimento."
   },
   {
     "id": 149,
@@ -2544,7 +2692,8 @@
     "meta": {
       "table_index": 14,
       "row_index": 0
-    }
+    },
+    "spiegazione": "La risposta corretta è VERO, quindi FALSO è sbagliata perché attribuirebbe al termine o alla manovra una funzione diversa da quella reale. Nello sloop il set base è randa più vela di prua, tipicamente genoa o fiocco a seconda del tipo di armamento."
   },
   {
     "id": 150,
@@ -2561,7 +2710,8 @@
     "meta": {
       "table_index": 14,
       "row_index": 1
-    }
+    },
+    "spiegazione": "La risposta corretta è VERO, quindi FALSO è sbagliata perché attribuirebbe al termine o alla manovra una funzione diversa da quella reale. I garrocci sono i moschettoni o cursori che fissano il gratile/l inferitura della vela allo strallo di prua."
   },
   {
     "id": 151,
@@ -2578,7 +2728,8 @@
     "meta": {
       "table_index": 14,
       "row_index": 2
-    }
+    },
+    "spiegazione": "La risposta corretta è FALSO, quindi VERO è sbagliata perché attribuirebbe al termine o alla manovra una funzione diversa da quella reale. Il paterazzo regola la tensione dello strallo di poppa e influenza anche la forma della randa e della prua, non il vang."
   },
   {
     "id": 152,
@@ -2595,7 +2746,8 @@
     "meta": {
       "table_index": 14,
       "row_index": 3
-    }
+    },
+    "spiegazione": "La risposta corretta è VERO, quindi FALSO è sbagliata perché attribuirebbe al termine o alla manovra una funzione diversa da quella reale. Tirando il paterazzo si tende lo strallo e si appiattisce il profilo di alcune vele, aiutando a smagrire la randa."
   },
   {
     "id": 153,
@@ -2612,7 +2764,8 @@
     "meta": {
       "table_index": 14,
       "row_index": 4
-    }
+    },
+    "spiegazione": "La risposta corretta è FALSO, quindi VERO è sbagliata perché attribuirebbe al termine o alla manovra una funzione diversa da quella reale. La gassa d amante è un nodo sicuro, pensato per formare un occhiello resistente e facile da sciogliere anche dopo sforzo."
   },
   {
     "id": 154,
@@ -2629,7 +2782,8 @@
     "meta": {
       "table_index": 14,
       "row_index": 5
-    }
+    },
+    "spiegazione": "La risposta corretta è FALSO, quindi VERO è sbagliata perché attribuirebbe al termine o alla manovra una funzione diversa da quella reale. La gassa d amante è un nodo sicuro, pensato per formare un occhiello resistente e facile da sciogliere anche dopo sforzo."
   },
   {
     "id": 155,
@@ -2646,7 +2800,8 @@
     "meta": {
       "table_index": 14,
       "row_index": 6
-    }
+    },
+    "spiegazione": "La risposta corretta è FALSO, quindi VERO è sbagliata perché attribuirebbe al termine o alla manovra una funzione diversa da quella reale. Il nodo piano funziona bene con cavi dello stesso diametro; con diametri diversi può sciogliersi o scivolare."
   },
   {
     "id": 156,
@@ -2663,7 +2818,8 @@
     "meta": {
       "table_index": 14,
       "row_index": 7
-    }
+    },
+    "spiegazione": "La risposta corretta è VERO, quindi FALSO è sbagliata perché attribuirebbe al termine o alla manovra una funzione diversa da quella reale. Il nodo savoia fa da fermo terminale e impedisce a una cima di passare accidentalmente attraverso un foro o un passacavo."
   },
   {
     "id": 157,
@@ -2680,7 +2836,8 @@
     "meta": {
       "table_index": 14,
       "row_index": 8
-    }
+    },
+    "spiegazione": "La risposta corretta è VERO, quindi FALSO è sbagliata perché attribuirebbe al termine o alla manovra una funzione diversa da quella reale. Il nodo parlato è rapido e utile per fissare oggetti come parabordi alle draglie o a un corrimano."
   },
   {
     "id": 158,
@@ -2697,7 +2854,8 @@
     "meta": {
       "table_index": 14,
       "row_index": 9
-    }
+    },
+    "spiegazione": "La risposta corretta è VERO, quindi FALSO è sbagliata perché attribuirebbe al termine o alla manovra una funzione diversa da quella reale. Per accorciare temporaneamente una cima si usano altri sistemi; la gassa d amante serve a fare un occhiello, non a ridurre la lunghezza."
   },
   {
     "id": 159,
@@ -2714,7 +2872,8 @@
     "meta": {
       "table_index": 14,
       "row_index": 10
-    }
+    },
+    "spiegazione": "La risposta corretta è FALSO, quindi VERO è sbagliata perché attribuirebbe al termine o alla manovra una funzione diversa da quella reale. Il lazy jack è un sistema di sagole che guida e raccoglie la randa durante l ammainata, non una drizza di emergenza."
   },
   {
     "id": 160,
@@ -2731,7 +2890,8 @@
     "meta": {
       "table_index": 15,
       "row_index": 0
-    }
+    },
+    "spiegazione": "La risposta corretta è VERO, quindi FALSO è sbagliata perché attribuirebbe al termine o alla manovra una funzione diversa da quella reale. Il lazy jack è un sistema di sagole che guida e raccoglie la randa durante l ammainata, non una drizza di emergenza."
   },
   {
     "id": 161,
@@ -2748,7 +2908,8 @@
     "meta": {
       "table_index": 15,
       "row_index": 1
-    }
+    },
+    "spiegazione": "La risposta corretta è VERO, quindi FALSO è sbagliata perché attribuirebbe al termine o alla manovra una funzione diversa da quella reale. Il feeder è il guidacavo o guida-inferitura che aiuta a far entrare la vela nella canaletta dello strallo o del profilo."
   },
   {
     "id": 162,
@@ -2765,7 +2926,8 @@
     "meta": {
       "table_index": 15,
       "row_index": 2
-    }
+    },
+    "spiegazione": "La risposta corretta è FALSO, quindi VERO è sbagliata perché attribuirebbe al termine o alla manovra una funzione diversa da quella reale. Il tesabase lavora sulla base della randa, non su quella del fiocco: serve a tenere corretta la tensione del bordo inferiore della vela principale."
   },
   {
     "id": 163,
@@ -2782,7 +2944,8 @@
     "meta": {
       "table_index": 15,
       "row_index": 3
-    }
+    },
+    "spiegazione": "La risposta corretta è FALSO, quindi VERO è sbagliata perché attribuirebbe al termine o alla manovra una funzione diversa da quella reale. Il tangone è il pennone usato soprattutto con spinnaker; non è la trave su cui si fissa la randa."
   },
   {
     "id": 164,
@@ -2799,7 +2962,8 @@
     "meta": {
       "table_index": 15,
       "row_index": 4
-    }
+    },
+    "spiegazione": "La risposta corretta è VERO, quindi FALSO è sbagliata perché attribuirebbe al termine o alla manovra una funzione diversa da quella reale. Il braccio è una manovra dello spinnaker che serve a regolare la posizione del lato sopravento e quindi l assetto della vela."
   },
   {
     "id": 165,
@@ -2816,7 +2980,8 @@
     "meta": {
       "table_index": 15,
       "row_index": 5
-    }
+    },
+    "spiegazione": "La risposta corretta è FALSO, quindi VERO è sbagliata perché attribuirebbe al termine o alla manovra una funzione diversa da quella reale. Il matafione non è una vela di rispetto: è una legatura o accessorio usato per fissare o raccogliere materiale di bordo."
   },
   {
     "id": 166,
@@ -2833,7 +2998,8 @@
     "meta": {
       "table_index": 15,
       "row_index": 6
-    }
+    },
+    "spiegazione": "La risposta corretta è VERO, quindi FALSO è sbagliata perché attribuirebbe al termine o alla manovra una funzione diversa da quella reale. L impiombatura intreccia i trefoli o le fibre terminali per creare un collegamento forte e ordinato, spesso anche per formare un occhiello."
   },
   {
     "id": 167,
@@ -2850,7 +3016,8 @@
     "meta": {
       "table_index": 15,
       "row_index": 7
-    }
+    },
+    "spiegazione": "La risposta corretta è FALSO, quindi VERO è sbagliata perché attribuirebbe al termine o alla manovra una funzione diversa da quella reale. La borosa non è la parte terminale dello strallo cavo: è una manovra accessoria legata a sistemi di controllo o regolazione, a seconda dell armamento."
   },
   {
     "id": 168,
@@ -2867,7 +3034,8 @@
     "meta": {
       "table_index": 15,
       "row_index": 8
-    }
+    },
+    "spiegazione": "La risposta corretta è VERO, quindi FALSO è sbagliata perché le sartie sono proprio i cavi laterali che sorreggono l albero. Possono essere in acciaio o in fibre ad alta tenacità e trasferiscono al piano di coperta i carichi laterali dell albero."
   },
   {
     "id": 169,
@@ -2884,7 +3052,8 @@
     "meta": {
       "table_index": 15,
       "row_index": 9
-    }
+    },
+    "spiegazione": "La risposta corretta è FALSO, quindi VERO è sbagliata perché attribuirebbe al termine o alla manovra una funzione diversa da quella reale. Il tornichetto è un tenditore che mette in tiro stralli e sartie, non un giunto per cime di materiali diversi."
   },
   {
     "id": 170,
@@ -2901,7 +3070,8 @@
     "meta": {
       "table_index": 15,
       "row_index": 10
-    }
+    },
+    "spiegazione": "La risposta corretta è VERO, quindi FALSO è sbagliata perché attribuirebbe al termine o alla manovra una funzione diversa da quella reale. Il vang trattiene il boma verso il basso, controlla il twist della randa e influisce quindi sia sulla flessione dell albero sia sulla superficie utile della vela."
   },
   {
     "id": 171,
@@ -2918,7 +3088,8 @@
     "meta": {
       "table_index": 16,
       "row_index": 0
-    }
+    },
+    "spiegazione": "La risposta corretta è FALSO, quindi VERO è sbagliata perché attribuirebbe al termine o alla manovra una funzione diversa da quella reale. Nell albero passano soprattutto le manovre correnti in alcune configurazioni; sartie e stralli restano manovre fisse esterne che sostengono l albero."
   },
   {
     "id": 172,
@@ -2935,7 +3106,8 @@
     "meta": {
       "table_index": 16,
       "row_index": 1
-    }
+    },
+    "spiegazione": "La risposta corretta è FALSO, quindi VERO è sbagliata perché attribuirebbe al termine o alla manovra una funzione diversa da quella reale. L avvolgiranda è un sistema per avvolgere la randa sull albero o sul boma; non serve a riporla in un gavone come una semplice vela da stivare."
   },
   {
     "id": 173,
@@ -2952,7 +3124,8 @@
     "meta": {
       "table_index": 16,
       "row_index": 2
-    }
+    },
+    "spiegazione": "La risposta corretta è FALSO, quindi VERO è sbagliata perché attribuirebbe al termine o alla manovra una funzione diversa da quella reale. La messa a punto dell albero richiede prove e regolazioni coerenti con il piano velico; non si riduce a una singola manovra corrente effettuata da fermo."
   },
   {
     "id": 174,
@@ -2969,7 +3142,8 @@
     "meta": {
       "table_index": 16,
       "row_index": 3
-    }
+    },
+    "spiegazione": "La risposta corretta è VERO, quindi FALSO è sbagliata perché attribuirebbe al termine o alla manovra una funzione diversa da quella reale. Le manovre correnti sono quelle che si muovono e si regolano durante la navigazione: scotte, drizze, vang, tesabase e simili."
   },
   {
     "id": 175,
@@ -2986,7 +3160,8 @@
     "meta": {
       "table_index": 16,
       "row_index": 4
-    }
+    },
+    "spiegazione": "La risposta corretta è FALSO, quindi VERO è sbagliata perché attribuirebbe al termine o alla manovra una funzione diversa da quella reale. Il self-tailing è il sistema che blocca automaticamente la cima sul winch; non significa che il verricello sia elettrico."
   },
   {
     "id": 176,
@@ -3003,7 +3178,8 @@
     "meta": {
       "table_index": 16,
       "row_index": 5
-    }
+    },
+    "spiegazione": "La risposta corretta è VERO, quindi FALSO è sbagliata perché attribuirebbe al termine o alla manovra una funzione diversa da quella reale. Stralli e sartie sono manovre fisse, cioè elementi di sostegno strutturale dell albero e del piano di armo."
   },
   {
     "id": 177,
@@ -3020,7 +3196,8 @@
     "meta": {
       "table_index": 16,
       "row_index": 6
-    }
+    },
+    "spiegazione": "La risposta corretta è VERO, quindi FALSO è sbagliata perché attribuirebbe al termine o alla manovra una funzione diversa da quella reale. Il winch aumenta la trazione quando la cima viene avvolta correttamente sul tamburo; il senso di lavoro dipende dalla configurazione, ma qui l effetto descritto è quello di maggior potenza meccanica."
   },
   {
     "id": 178,
@@ -3037,7 +3214,8 @@
     "meta": {
       "table_index": 16,
       "row_index": 7
-    }
+    },
+    "spiegazione": "La risposta corretta è VERO, quindi FALSO è sbagliata perché attribuirebbe al termine o alla manovra una funzione diversa da quella reale. Il grillo con perno di blocco evita aperture accidentali e consente di sganciare la vela senza perdere il pezzo in mare."
   },
   {
     "id": 179,
@@ -3054,7 +3232,8 @@
     "meta": {
       "table_index": 16,
       "row_index": 8
-    }
+    },
+    "spiegazione": "La risposta corretta è VERO, quindi FALSO è sbagliata perché attribuirebbe al termine o alla manovra una funzione diversa da quella reale. La calza è un manicotto che avvolge la vela per ammainarla in modo controllato, soprattutto su spinnaker e gennaker."
   },
   {
     "id": 180,
@@ -3071,7 +3250,8 @@
     "meta": {
       "table_index": 16,
       "row_index": 9
-    }
+    },
+    "spiegazione": "La risposta corretta è FALSO, quindi VERO è sbagliata perché attribuirebbe al termine o alla manovra una funzione diversa da quella reale. Con il fiocco autovirante la vela passa da sola da un lato all altro durante la virata grazie al sistema di guida sulla rotaia o sulla barra dedicata."
   },
   {
     "id": 181,
@@ -3088,7 +3268,8 @@
     "meta": {
       "table_index": 16,
       "row_index": 10
-    }
+    },
+    "spiegazione": "La risposta corretta è VERO, quindi FALSO è sbagliata perché attribuirebbe al termine o alla manovra una funzione diversa da quella reale. Con il fiocco autovirante la vela passa da sola da un lato all altro durante la virata grazie al sistema di guida sulla rotaia o sulla barra dedicata."
   },
   {
     "id": 182,
@@ -3105,7 +3286,8 @@
     "meta": {
       "table_index": 17,
       "row_index": 0
-    }
+    },
+    "spiegazione": "La risposta corretta è VERO, quindi FALSO è sbagliata perché attribuirebbe al termine o alla manovra una funzione diversa da quella reale. Ridurre molto un genoa avvolgibile altera il profilo e fa perdere efficienza aerodinamica; oltre una certa riduzione conviene passare a una vela più adatta."
   },
   {
     "id": 183,
@@ -3122,7 +3304,8 @@
     "meta": {
       "table_index": 17,
       "row_index": 1
-    }
+    },
+    "spiegazione": "La risposta corretta è VERO, quindi FALSO è sbagliata perché attribuirebbe al termine o alla manovra una funzione diversa da quella reale. L avvolgifiocco consente di ridurre la vela di prua senza smontarla, migliorando la gestione del vento forte."
   },
   {
     "id": 184,
@@ -3139,7 +3322,8 @@
     "meta": {
       "table_index": 17,
       "row_index": 2
-    }
+    },
+    "spiegazione": "La risposta corretta è FALSO, quindi VERO è sbagliata perché attribuirebbe al termine o alla manovra una funzione diversa da quella reale. Lo stopper blocca o libera una cima in coperta; non serve a immobilizzare il boma come fosse un freno del suo movimento."
   },
   {
     "id": 185,
@@ -3156,7 +3340,8 @@
     "meta": {
       "table_index": 17,
       "row_index": 3
-    }
+    },
+    "spiegazione": "La risposta corretta è VERO, quindi FALSO è sbagliata perché attribuirebbe al termine o alla manovra una funzione diversa da quella reale. Lo stopper serve a bloccare una drizza o un altra cima sotto carico, evitando che scorra all indietro."
   },
   {
     "id": 186,
@@ -3173,7 +3358,8 @@
     "meta": {
       "table_index": 17,
       "row_index": 4
-    }
+    },
+    "spiegazione": "La risposta corretta è VERO, quindi FALSO è sbagliata perché attribuirebbe al termine o alla manovra una funzione diversa da quella reale. Sventare significa mettere la barca prua al vento o lasciare le vele senza portanza, così non spingono più."
   },
   {
     "id": 187,
@@ -3190,7 +3376,8 @@
     "meta": {
       "table_index": 17,
       "row_index": 5
-    }
+    },
+    "spiegazione": "La risposta corretta è FALSO, quindi VERO è sbagliata perché attribuirebbe al termine o alla manovra una funzione diversa da quella reale. Sventare significa mettere la barca prua al vento o lasciare le vele senza portanza, così non spingono più."
   },
   {
     "id": 188,
@@ -3207,7 +3394,8 @@
     "meta": {
       "table_index": 17,
       "row_index": 6
-    }
+    },
+    "spiegazione": "La risposta corretta è VERO, quindi FALSO è sbagliata perché attribuirebbe al termine o alla manovra una funzione diversa da quella reale. Per poggiare si porta normalmente il timone nel verso che allontana la prua dal vento; il lato sopravento/sottovento va inteso in relazione alla posizione della randa e alla direzione della manovra."
   },
   {
     "id": 189,
@@ -3224,7 +3412,8 @@
     "meta": {
       "table_index": 17,
       "row_index": 7
-    }
+    },
+    "spiegazione": "La risposta corretta è FALSO, quindi VERO è sbagliata perché attribuirebbe al termine o alla manovra una funzione diversa da quella reale. Poggiare non significa tenere la barra sottovento: la barra si muove nel verso che induce la barca ad allontanarsi dal vento."
   },
   {
     "id": 190,
@@ -3241,7 +3430,8 @@
     "meta": {
       "table_index": 17,
       "row_index": 8
-    }
+    },
+    "spiegazione": "La risposta corretta è VERO, quindi FALSO è sbagliata perché attribuirebbe al termine o alla manovra una funzione diversa da quella reale. Con mure diverse e rotte convergenti valgono le regole di precedenza: l unità con le mure a dritta ha la rotta libera e quella con le mure a sinistra deve lasciarla."
   },
   {
     "id": 191,
@@ -3258,7 +3448,8 @@
     "meta": {
       "table_index": 17,
       "row_index": 9
-    }
+    },
+    "spiegazione": "La risposta corretta è FALSO, quindi VERO è sbagliata perché attribuirebbe al termine o alla manovra una funzione diversa da quella reale. La precedenza non dipende dalla velocità ma dalle mure e dalla posizione relativa delle unità."
   },
   {
     "id": 192,
@@ -3275,7 +3466,8 @@
     "meta": {
       "table_index": 17,
       "row_index": 10
-    }
+    },
+    "spiegazione": "La risposta corretta è VERO, quindi FALSO è sbagliata perché attribuirebbe al termine o alla manovra una funzione diversa da quella reale. Quando due unità hanno le stesse mure, quella sopravento deve lasciare spazio a quella sottovento orzando o allontanandosi dalla rotta."
   },
   {
     "id": 193,
@@ -3292,7 +3484,8 @@
     "meta": {
       "table_index": 18,
       "row_index": 0
-    }
+    },
+    "spiegazione": "La risposta corretta è VERO, quindi FALSO è sbagliata perché attribuirebbe al termine o alla manovra una funzione diversa da quella reale. Tesare la drizza imposta l altezza corretta della vela; poi la base si regola per adattare la randa alle diverse andature."
   },
   {
     "id": 194,
@@ -3309,7 +3502,8 @@
     "meta": {
       "table_index": 18,
       "row_index": 1
-    }
+    },
+    "spiegazione": "La risposta corretta è VERO, quindi FALSO è sbagliata perché attribuirebbe al termine o alla manovra una funzione diversa da quella reale. L abbattuta è la strambata: il cambio di mure avviene passando con la poppa verso il vento, non con la prua."
   },
   {
     "id": 195,
@@ -3326,7 +3520,8 @@
     "meta": {
       "table_index": 18,
       "row_index": 2
-    }
+    },
+    "spiegazione": "La risposta corretta è FALSO, quindi VERO è sbagliata perché attribuirebbe al termine o alla manovra una funzione diversa da quella reale. La virata è il cambio di mura passando con la prua al vento, non una manovra generica di evitamento ostacoli."
   },
   {
     "id": 196,
@@ -3343,7 +3538,8 @@
     "meta": {
       "table_index": 18,
       "row_index": 3
-    }
+    },
+    "spiegazione": "La risposta corretta è FALSO, quindi VERO è sbagliata perché attribuirebbe al termine o alla manovra una funzione diversa da quella reale. Con il vento in fil di ruota si procede di poppa; per cambiare mure in quel caso si parla di abbattuta, non di virata."
   },
   {
     "id": 197,
@@ -3360,7 +3556,8 @@
     "meta": {
       "table_index": 18,
       "row_index": 4
-    }
+    },
+    "spiegazione": "La risposta corretta è FALSO, quindi VERO è sbagliata perché attribuirebbe al termine o alla manovra una funzione diversa da quella reale. L abbattuta si esegue soprattutto con andature portanti; non è una manovra tipica di bolina o traverso, dove si fa la virata."
   },
   {
     "id": 198,
@@ -3377,7 +3574,8 @@
     "meta": {
       "table_index": 18,
       "row_index": 5
-    }
+    },
+    "spiegazione": "La risposta corretta è FALSO, quindi VERO è sbagliata perché attribuirebbe al termine o alla manovra una funzione diversa da quella reale. La borosa non è la parte terminale dello strallo cavo: è una manovra accessoria legata a sistemi di controllo o regolazione, a seconda dell armamento."
   },
   {
     "id": 199,
@@ -3394,7 +3592,8 @@
     "meta": {
       "table_index": 18,
       "row_index": 6
-    }
+    },
+    "spiegazione": "La risposta corretta è FALSO, quindi VERO è sbagliata perché attribuirebbe al termine o alla manovra una funzione diversa da quella reale. Il punto di mura è l angolo anteriore inferiore della vela, vicino all attacco sul boma o sulla base d albero, non sulla varea del boma."
   },
   {
     "id": 200,
@@ -3411,7 +3610,8 @@
     "meta": {
       "table_index": 18,
       "row_index": 7
-    }
+    },
+    "spiegazione": "La risposta corretta è FALSO, quindi VERO è sbagliata perché attribuirebbe al termine o alla manovra una funzione diversa da quella reale. Il meolo non serve per armare la randa in quel modo; la randa va montata e regolata con i suoi punti di mura, scotta, drizza e inferitura corretti."
   },
   {
     "id": 201,
@@ -3428,7 +3628,8 @@
     "meta": {
       "table_index": 18,
       "row_index": 8
-    }
+    },
+    "spiegazione": "La risposta corretta è FALSO, quindi VERO è sbagliata perché lascare la base della randa non serve a selezionare solo bolina o bolina larga in quel modo. La base della randa va regolata in funzione dell andatura e della tensione del profilo, mentre lascare e cazzare sono azioni opposte che cambiano la forma della vela."
   },
   {
     "id": 202,
@@ -3445,7 +3646,8 @@
     "meta": {
       "table_index": 18,
       "row_index": 9
-    }
+    },
+    "spiegazione": "La risposta corretta è VERO, quindi FALSO è sbagliata perché genoa e fiocco sono entrambe vele di prua inferite allo strallo e si armando con logiche simili. Cambiano soprattutto superficie e sovrapposizione alla randa, non il principio di montaggio."
   },
   {
     "id": 203,
@@ -3462,7 +3664,8 @@
     "meta": {
       "table_index": 18,
       "row_index": 10
-    }
+    },
+    "spiegazione": "La risposta corretta è FALSO, quindi VERO è sbagliata perché la prima operazione non è fissare l occhiello di bugna ma issare e agganciare correttamente i garrocci o l inferitura allo strallo. La bugna è l angolo di scotta, cioè quello di poppa inferiore della vela, non il primo punto da fissare."
   },
   {
     "id": 204,
@@ -3479,7 +3682,8 @@
     "meta": {
       "table_index": 19,
       "row_index": 0
-    }
+    },
+    "spiegazione": "La risposta corretta è FALSO, quindi VERO è sbagliata perché i garrocci si incocciano partendo dal basso verso l alto, non dal punto di penna. La penna è l angolo superiore della vela, mentre il punto di scotta è l angolo inferiore di poppa."
   },
   {
     "id": 205,
@@ -3496,7 +3700,8 @@
     "meta": {
       "table_index": 19,
       "row_index": 1
-    }
+    },
+    "spiegazione": "La risposta corretta è VERO, quindi FALSO è sbagliata perché la penna della vela viene normalmente collegata alla drizza con un moschettone o un grillo impiombato. La drizza è la cima di issata, quindi il collegamento deve essere sicuro e rapido."
   },
   {
     "id": 206,
@@ -3513,7 +3718,8 @@
     "meta": {
       "table_index": 19,
       "row_index": 2
-    }
+    },
+    "spiegazione": "La risposta corretta è FALSO, quindi VERO è sbagliata perché le scotte non si fissano alla bugna con il parlato doppio. Il parlato doppio è un nodo di fermo usato in altri contesti; per le scotte si usano sistemi e nodi adatti al carico e alla rapidità di sgancio."
   },
   {
     "id": 207,
@@ -3530,7 +3736,8 @@
     "meta": {
       "table_index": 19,
       "row_index": 3
-    }
+    },
+    "spiegazione": "La risposta corretta è VERO, quindi FALSO è sbagliata perché con la prua al vento il fiocco non riceve portanza e può essere issato senza gonfiarsi. “Prua al vento” significa mettere la barca con il naso contro il vento, così la vela di prua resta scarica."
   },
   {
     "id": 208,
@@ -3547,7 +3754,8 @@
     "meta": {
       "table_index": 19,
       "row_index": 4
-    }
+    },
+    "spiegazione": "La risposta corretta è FALSO, quindi VERO è sbagliata perché lo strallo cavo non abbassa il centro velico del fiocco. Lo strallo cavo serve piuttosto a migliorare la guidatura dell inferitura e a facilitare le manovre di issata e sostituzione della vela di prua."
   },
   {
     "id": 209,
@@ -3564,7 +3772,8 @@
     "meta": {
       "table_index": 19,
       "row_index": 5
-    }
+    },
+    "spiegazione": "La risposta corretta è VERO, quindi FALSO è sbagliata perché la doppia canaletta dello strallo cavo serve proprio a facilitare il cambio tra una vela di prua e l altra. In questo modo si può armare una vela mentre l altra resta già predisposta."
   },
   {
     "id": 210,
@@ -3581,7 +3790,8 @@
     "meta": {
       "table_index": 19,
       "row_index": 6
-    }
+    },
+    "spiegazione": "La risposta corretta è FALSO, quindi VERO è sbagliata perché issare la tormentina non è una manovra per aumentare la velocità risalendo il vento. La tormentina è una piccola vela di prua per vento forte, usata per ridurre la tela esposta e mantenere controllo, non per spingere di più."
   },
   {
     "id": 211,
@@ -3598,7 +3808,8 @@
     "meta": {
       "table_index": 19,
       "row_index": 7
-    }
+    },
+    "spiegazione": "La risposta corretta è FALSO, quindi VERO è sbagliata perché far fileggiare la randa non è la soluzione per ridurre la velocità nelle andature portanti. Far fileggiare significa lasciare la vela quasi senza portanza, ma la frase descrive una funzione impropria rispetto alla manovra."
   },
   {
     "id": 212,
@@ -3615,7 +3826,8 @@
     "meta": {
       "table_index": 19,
       "row_index": 8
-    }
+    },
+    "spiegazione": "La risposta corretta è FALSO, quindi VERO è sbagliata perché mettersi in panna non serve ad aumentare la velocità. È una manovra di sicurezza per fermare o rallentare molto l unità, mantenendola quasi in equilibrio."
   },
   {
     "id": 213,
@@ -3632,7 +3844,8 @@
     "meta": {
       "table_index": 19,
       "row_index": 9
-    }
+    },
+    "spiegazione": "La risposta corretta è VERO, quindi FALSO è sbagliata perché la panna consiste nel mettere a collo la vela di prua, lasciare la randa bordata per la bolina larga e tenere il timone all orza. “A collo” significa con la vela che lavora in modo incrociato e contrapposto, così la barca procede lentamente e in controllo."
   },
   {
     "id": 214,
@@ -3649,7 +3862,8 @@
     "meta": {
       "table_index": 19,
       "row_index": 10
-    }
+    },
+    "spiegazione": "La risposta corretta è FALSO, quindi VERO è sbagliata perché mettersi alla cappa non è una tecnica che usa l ancora galleggiante in quel modo. La cappa è una manovra di quiete e di sicurezza con vele e timone regolati per tenere la barca più ferma o governabile con mare formato."
   },
   {
     "id": 215,
@@ -3666,7 +3880,8 @@
     "meta": {
       "table_index": 20,
       "row_index": 0
-    }
+    },
+    "spiegazione": "La risposta corretta è FALSO, quindi VERO è sbagliata perché la presa di terzaroli non riguarda lo spinnaker ma la riduzione della randa. Terzarolare significa ridurre la superficie velica della randa per vento forte, non abbassare il tangone."
   },
   {
     "id": 216,
@@ -3683,7 +3898,8 @@
     "meta": {
       "table_index": 20,
       "row_index": 1
-    }
+    },
+    "spiegazione": "La risposta corretta è FALSO, quindi VERO è sbagliata perché la presa di terzaroli non consiste nell ammainare la randa e sostituirla con una “randa di rispetto” chiamata matafione. Il matafione è un termine diverso e il terzarolo serve a diminuire la superficie della randa, non a cambiarla con un altra vela."
   },
   {
     "id": 217,
@@ -3700,7 +3916,8 @@
     "meta": {
       "table_index": 20,
       "row_index": 2
-    }
+    },
+    "spiegazione": "La risposta corretta è FALSO, quindi VERO è sbagliata perché mettere a segno le vele non significa avvolgerle dopo l uso. “Mettere a segno” vuol dire regolare bene le vele in navigazione per farle lavorare correttamente con il vento apparente."
   },
   {
     "id": 218,
@@ -3717,7 +3934,8 @@
     "meta": {
       "table_index": 20,
       "row_index": 3
-    }
+    },
+    "spiegazione": "La risposta corretta è FALSO, quindi VERO è sbagliata perché la planata non aumenta il dislocamento dell unità. La planata è una condizione di scorrimento veloce in cui lo scafo si alleggerisce sull acqua, migliorando la velocità."
   },
   {
     "id": 219,
@@ -3734,7 +3952,8 @@
     "meta": {
       "table_index": 20,
       "row_index": 4
-    }
+    },
+    "spiegazione": "La risposta corretta è FALSO, quindi VERO è sbagliata perché con la prua al vento le vele non si dispongono trasversalmente in modo portante. In quella posizione si sventano o fileggiano e perdono portanza, quindi non lavorano come nella navigazione."
   },
   {
     "id": 220,
@@ -3751,7 +3970,8 @@
     "meta": {
       "table_index": 20,
       "row_index": 5
-    }
+    },
+    "spiegazione": "La risposta corretta è VERO, quindi FALSO è sbagliata perché strallare significa portare il tangone verso la parte prodiera e avvicinare la sua estremità allo strallo. È una manovra tipica nella gestione dello spinnaker, non una regolazione casuale."
   },
   {
     "id": 221,
@@ -3768,7 +3988,8 @@
     "meta": {
       "table_index": 20,
       "row_index": 6
-    }
+    },
+    "spiegazione": "La risposta corretta è FALSO, quindi VERO è sbagliata perché quadrare non significa avvicinare il tangone allo strallo: vuol dire portarlo più perpendicolare alla linea del vento o comunque nella posizione adatta all andatura. È quindi una regolazione diversa da strallare."
   },
   {
     "id": 222,
@@ -3785,7 +4006,8 @@
     "meta": {
       "table_index": 20,
       "row_index": 7
-    }
+    },
+    "spiegazione": "La risposta corretta è VERO, quindi FALSO è sbagliata perché poggiare vuol dire allontanare la prua dalla direzione da cui proviene il vento. È la manovra opposta all orzare."
   },
   {
     "id": 223,
@@ -3802,7 +4024,8 @@
     "meta": {
       "table_index": 20,
       "row_index": 8
-    }
+    },
+    "spiegazione": "La risposta corretta è FALSO, quindi VERO è sbagliata perché orzare non significa assumere una rotta opposta al vento, ma avvicinare la prua alla provenienza del vento. In altre parole si riduce l angolo tra prua e vento."
   },
   {
     "id": 224,
@@ -3819,7 +4042,8 @@
     "meta": {
       "table_index": 20,
       "row_index": 9
-    }
+    },
+    "spiegazione": "La risposta corretta è FALSO, quindi VERO è sbagliata perché sventare non significa andare con la poppa al vento. Sventare vuol dire togliere portanza alle vele mettendo la barca prua al vento o lasciando le scotte."
   },
   {
     "id": 225,
@@ -3836,7 +4060,8 @@
     "meta": {
       "table_index": 20,
       "row_index": 10
-    }
+    },
+    "spiegazione": "La risposta corretta è VERO, quindi FALSO è sbagliata perché virata e abbattuta sono le due manovre fondamentali per cambiare mure: una passa con la prua al vento, l altra con la poppa al vento."
   },
   {
     "id": 226,
@@ -3853,7 +4078,8 @@
     "meta": {
       "table_index": 21,
       "row_index": 0
-    }
+    },
+    "spiegazione": "La risposta corretta è FALSO, quindi VERO è sbagliata perché la virata non serve ad ammainare lo spinnaker. La virata è il cambio di mure passando con la prua al vento, tipico delle andature di bolina."
   },
   {
     "id": 227,
@@ -3870,7 +4096,8 @@
     "meta": {
       "table_index": 21,
       "row_index": 1
-    }
+    },
+    "spiegazione": "La risposta corretta è VERO, quindi FALSO è sbagliata perché per poggiare la barra va mossa nel senso che allontana la prua dal vento, non per forza in una posizione estrema. “Barra al centro” è il punto di partenza o di equilibrio, ma la frase indica il controllo del timone durante la manovra."
   },
   {
     "id": 228,
@@ -3887,7 +4114,8 @@
     "meta": {
       "table_index": 21,
       "row_index": 2
-    }
+    },
+    "spiegazione": "La risposta corretta è FALSO, quindi VERO è sbagliata perché in rotta convergente non decide la velocità ma la precedenza prevista dalle regole di navigazione. Inoltre l unità più lenta non è automaticamente quella che deve dare strada."
   },
   {
     "id": 229,
@@ -3904,7 +4132,8 @@
     "meta": {
       "table_index": 21,
       "row_index": 3
-    }
+    },
+    "spiegazione": "La risposta corretta è VERO, quindi FALSO è sbagliata perché tra unità con le stesse mure ha precedenza quella sottovento. “Sottovento” è il lato opposto a quello da cui arriva il vento, quindi la posizione relativa conta più della velocità."
   },
   {
     "id": 230,
@@ -3921,7 +4150,8 @@
     "meta": {
       "table_index": 21,
       "row_index": 4
-    }
+    },
+    "spiegazione": "La risposta corretta è FALSO, quindi VERO è sbagliata perché con mure diverse non ha precedenza chi ha il vento a sinistra, ma chi lo prende a dritta. Le regole di precedenza in bolina distinguono proprio tra mure a dritta e mure a sinistra."
   },
   {
     "id": 231,
@@ -3938,7 +4168,8 @@
     "meta": {
       "table_index": 21,
       "row_index": 5
-    }
+    },
+    "spiegazione": "La risposta corretta è FALSO, quindi VERO è sbagliata perché con mure diverse non conta chi “prende il vento a sinistra” come formula di precedenza. La precedenza spetta all unità con mure a dritta, cioè con il vento che arriva da dritta."
   },
   {
     "id": 232,
@@ -3955,7 +4186,8 @@
     "meta": {
       "table_index": 21,
       "row_index": 6
-    }
+    },
+    "spiegazione": "La risposta corretta è VERO, quindi FALSO è sbagliata perché con mure diverse ha precedenza chi prende il vento a dritta. È la regola classica di precedenza tra unità a vela con rotte convergenti."
   },
   {
     "id": 233,
@@ -3972,7 +4204,8 @@
     "meta": {
       "table_index": 21,
       "row_index": 7
-    }
+    },
+    "spiegazione": "La risposta corretta è VERO, quindi FALSO è sbagliata perché su rotte opposte deve dare strada l unità che ha il vento a sinistra. Le regole servono a evitare il conflitto di rotta quando le unità si avvicinano frontalmente."
   },
   {
     "id": 234,
@@ -3989,7 +4222,8 @@
     "meta": {
       "table_index": 21,
       "row_index": 8
-    }
+    },
+    "spiegazione": "La risposta corretta è VERO, quindi FALSO è sbagliata perché quando non si riesce a capire con sicurezza le mure dell altra unità si deve comunque manovrare per lasciare libera la rotta. È una regola prudenziale che privilegia la sicurezza."
   },
   {
     "id": 235,
@@ -4006,7 +4240,8 @@
     "meta": {
       "table_index": 21,
       "row_index": 9
-    }
+    },
+    "spiegazione": "La risposta corretta è VERO, quindi FALSO è sbagliata perché stringere il vento oltre l angolo di bordeggio significa andare troppo vicino al vento, riducendo temporaneamente la velocità. “Angolo di bordeggio” è il limite utile per risalire il vento senza perdere portanza."
   },
   {
     "id": 236,
@@ -4023,7 +4258,8 @@
     "meta": {
       "table_index": 21,
       "row_index": 10
-    }
+    },
+    "spiegazione": "La risposta corretta è VERO, quindi FALSO è sbagliata perché poggiando da bolina stretta a bolina larga la barca in genere acquista velocità. L angolo al vento si apre e le vele lavorano con un flusso più favorevole."
   },
   {
     "id": 237,
@@ -4040,7 +4276,8 @@
     "meta": {
       "table_index": 22,
       "row_index": 0
-    }
+    },
+    "spiegazione": "La risposta corretta è VERO, quindi FALSO è sbagliata perché con vento forte si smagriscono le vele e si tendono le regolazioni per ridurre lo sbandamento. Cunninham, tesabase e scotta del genoa servono a controllare forma e potenza del piano velico."
   },
   {
     "id": 238,
@@ -4057,7 +4294,8 @@
     "meta": {
       "table_index": 22,
       "row_index": 1
-    }
+    },
+    "spiegazione": "La risposta corretta è FALSO, quindi VERO è sbagliata perché con vento debole non si smagriscono le vele per aumentare potenza in quel modo. In condizioni di poco vento spesso si cerca più superficie e più grasso, non meno."
   },
   {
     "id": 239,
@@ -4074,7 +4312,8 @@
     "meta": {
       "table_index": 22,
       "row_index": 2
-    }
+    },
+    "spiegazione": "La risposta corretta è FALSO, quindi VERO è sbagliata perché mettere a segno le vele non significa semplicemente averle poste a riva. Il senso corretto è regolarle bene per farle lavorare, non solo issarle."
   },
   {
     "id": 240,
@@ -4091,7 +4330,8 @@
     "meta": {
       "table_index": 22,
       "row_index": 3
-    }
+    },
+    "spiegazione": "La risposta corretta è VERO, quindi FALSO è sbagliata perché sotto raffica spostare il trasto della randa sottovento o lascare la scotta aiuta a scaricare potenza e ridurre lo sbandamento. Il trasto è il carrello di scotta della randa."
   },
   {
     "id": 241,
@@ -4108,7 +4348,8 @@
     "meta": {
       "table_index": 22,
       "row_index": 4
-    }
+    },
+    "spiegazione": "La risposta corretta è FALSO, quindi VERO è sbagliata perché per assecondare una rapida poggiata non basta lascare solo il fiocco. Bisogna coordinare le vele e il timone, altrimenti la barca non gira in modo equilibrato."
   },
   {
     "id": 242,
@@ -4125,7 +4366,8 @@
     "meta": {
       "table_index": 22,
       "row_index": 5
-    }
+    },
+    "spiegazione": "La risposta corretta è VERO, quindi FALSO è sbagliata perché la ritenuta del boma serve proprio a limitare il salto improvviso del boma, cioè la strambata, nelle andature portanti come granlasco e giardinetto. È una misura di sicurezza importante."
   },
   {
     "id": 243,
@@ -4142,7 +4384,8 @@
     "meta": {
       "table_index": 22,
       "row_index": 6
-    }
+    },
+    "spiegazione": "La risposta corretta è VERO, quindi FALSO è sbagliata perché con vento crescente conviene prima ridurre il genoa, che è la vela più esposta e influente sulla gestione dell unità, e poi eventualmente la randa. Si procede per mantenere equilibrio e controllo."
   },
   {
     "id": 244,
@@ -4159,7 +4402,8 @@
     "meta": {
       "table_index": 22,
       "row_index": 7
-    }
+    },
+    "spiegazione": "La risposta corretta è VERO, quindi FALSO è sbagliata perché se inizi a pensare di ridurre vela per troppo sbandamento, molto probabilmente sei già al limite utile. È il classico segnale che la riduzione va fatta subito."
   },
   {
     "id": 245,
@@ -4176,7 +4420,8 @@
     "meta": {
       "table_index": 22,
       "row_index": 8
-    }
+    },
+    "spiegazione": "La risposta corretta è VERO, quindi FALSO è sbagliata perché avere stabilmente la falchetta in acqua significa sbandare troppo e perdere sicurezza. La falchetta è il bordo superiore della murata: se entra in acqua, l unità è già molto inclinata."
   },
   {
     "id": 246,
@@ -4193,7 +4438,8 @@
     "meta": {
       "table_index": 22,
       "row_index": 9
-    }
+    },
+    "spiegazione": "La risposta corretta è VERO, quindi FALSO è sbagliata perché in gran lasco o in poppa la strambata è il rischio principale. In queste andature la randa e il boma possono passare violentemente da un lato all altro."
   },
   {
     "id": 247,
@@ -4210,7 +4456,8 @@
     "meta": {
       "table_index": 22,
       "row_index": 10
-    }
+    },
+    "spiegazione": "La risposta corretta è FALSO, quindi VERO è sbagliata perché strambata e abbattuta non sono la stessa cosa. La strambata è il cambiamento di mure con passaggio della poppa al vento, mentre l abbattuta è una manovra correlata ma il termine non coincide in senso stretto con una semplice definizione duplicata."
   },
   {
     "id": 248,
@@ -4227,7 +4474,8 @@
     "meta": {
       "table_index": 23,
       "row_index": 0
-    }
+    },
+    "spiegazione": "La risposta corretta è VERO, quindi FALSO è sbagliata perché la strambata può essere intesa come un abbattimento involontario e incontrollato della barca, con cambio di mure brusco e potenzialmente pericoloso. È una situazione da evitare con ritenuta del boma e buona manovra."
   },
   {
     "id": 249,
@@ -4244,7 +4492,8 @@
     "meta": {
       "table_index": 23,
       "row_index": 1
-    }
+    },
+    "spiegazione": "La risposta corretta è FALSO, quindi VERO è sbagliata perché l ingresso in porto a vela non è normalmente consentito, salvo ordinarie locali o casi specifici. In porto le manovre sono limitate per sicurezza e per ridurre il rischio di urti o perdita di controllo."
   },
   {
     "id": 250,
@@ -4261,6 +4510,7 @@
     "meta": {
       "table_index": 23,
       "row_index": 2
-    }
+    },
+    "spiegazione": "La risposta corretta è VERO, quindi FALSO è sbagliata perché lascare la randa aiuta la barca a poggiare, cioè ad allontanare la prua dal vento. Allentando la randa si scarica parte della spinta e si facilita la rotazione verso sottovento."
   }
 ]

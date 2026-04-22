@@ -139,6 +139,7 @@ const state = {
   session: null,
   cursor: 0,
   examFinalized: false,
+  lastRenderedQuestionUid: null,
   progress: loadProgress(),
 };
 
@@ -177,10 +178,14 @@ const refs = {
   wrong: document.getElementById("wrong"),
   answered: document.getElementById("answered"),
   questionSource: document.getElementById("question-source"),
+  questionScroll: document.getElementById("question-scroll"),
+  scrollHint: document.getElementById("scroll-hint"),
   questionText: document.getElementById("question-text"),
+  toggleExplanationBtn: document.getElementById("toggle-explanation-btn"),
   questionImageWrap: document.getElementById("question-image-wrap"),
   questionImage: document.getElementById("question-image"),
   answers: document.getElementById("answers"),
+  questionExplanation: document.getElementById("question-explanation"),
   openActions: document.getElementById("open-actions"),
   showSolutionBtn: document.getElementById("show-solution-btn"),
   solution: document.getElementById("solution"),
@@ -225,6 +230,9 @@ function bindEvents() {
   refs.backToSetupBtn.addEventListener("click", showSetupView);
   refs.prevBtn.addEventListener("click", goPrev);
   refs.nextBtn.addEventListener("click", goNext);
+  refs.toggleExplanationBtn.addEventListener("click", toggleExplanation);
+  refs.questionScroll.addEventListener("scroll", updateScrollHint);
+  window.addEventListener("resize", updateScrollHint);
   refs.showSolutionBtn.addEventListener("click", revealSolution);
   refs.submitExamBtn.addEventListener("click", finalizeExam);
   document.addEventListener("keydown", handleKeyboardShortcuts);
@@ -269,6 +277,12 @@ function handleKeyboardShortcuts(event) {
   if (event.key === "ArrowRight" || event.key === "Enter") {
     event.preventDefault();
     handleAdvanceShortcut();
+    return;
+  }
+
+  if (event.key.toLowerCase() === "e") {
+    event.preventDefault();
+    toggleExplanation();
     return;
   }
 
@@ -623,6 +637,7 @@ function normalizeDataset(dataset, chunks) {
         sourceLabel: dataset.label,
         kind: "choice",
         text: cleanText(item.domanda),
+        spiegazione: cleanText(item.spiegazione || ""),
         image: resolveImage(item.immagine),
         answers,
         correctAnswerId: correctAnswer ? correctAnswer.id : null,
@@ -649,6 +664,7 @@ function normalizeDataset(dataset, chunks) {
         sourceLabel: dataset.label,
         kind: "choice",
         text: cleanText(item.domanda),
+        spiegazione: cleanText(item.spiegazione || ""),
         image: resolveImage(item.immagine),
         answers,
         correctAnswerId: correctAnswer ? correctAnswer.id : null,
@@ -679,6 +695,7 @@ function normalizeDataset(dataset, chunks) {
           sourceLabel: dataset.label,
           kind: "open",
           text: cleanText(item.domanda),
+          spiegazione: cleanText(item.spiegazione || ""),
           image: null,
           solutionParts,
         });
@@ -743,6 +760,7 @@ function startSession() {
 
   state.cursor = 0;
   state.examFinalized = false;
+  state.lastRenderedQuestionUid = null;
   showQuizView();
   renderQuiz();
 }
@@ -854,6 +872,7 @@ function cloneForSession(question, sectionId, sectionLabel) {
       sourceLabel: question.sourceLabel,
       datasetId: question.datasetId,
       text: question.text,
+      spiegazione: question.spiegazione || "",
       image: question.image,
       answers: shuffle([...question.answers]),
       correctAnswerId: question.correctAnswerId,
@@ -873,6 +892,7 @@ function cloneForSession(question, sectionId, sectionLabel) {
     sourceLabel: question.sourceLabel,
     datasetId: question.datasetId,
     text: question.text,
+    spiegazione: question.spiegazione || "",
     image: question.image,
     solutionParts: parts,
   };
@@ -881,12 +901,14 @@ function cloneForSession(question, sectionId, sectionLabel) {
 function createQuestionState(question) {
   if (question.kind === "choice") {
     return {
+      explanationShown: false,
       selectedAnswerId: null,
       recorded: false,
     };
   }
 
   return {
+    explanationShown: false,
     solutionShown: false,
     partMarks: Array(question.solutionParts.length).fill(null),
     recordedParts: Array(question.solutionParts.length).fill(false),
@@ -900,6 +922,7 @@ function resetSelections() {
   state.session = null;
   state.cursor = 0;
   state.examFinalized = false;
+  state.lastRenderedQuestionUid = null;
 
   renderPrimaryModes();
   renderExamModes();
@@ -917,6 +940,7 @@ function renderQuiz() {
   const { mode, questions, questionStates } = state.session;
   const question = questions[state.cursor];
   const qState = questionStates[state.cursor];
+  const isNewQuestion = state.lastRenderedQuestionUid !== question.uid;
 
   const metrics = computeMetrics(questions, questionStates);
 
@@ -955,15 +979,60 @@ function renderQuiz() {
   }
 
   refs.answers.innerHTML = "";
+  refs.questionExplanation.classList.add("hidden");
+  refs.questionExplanation.textContent = "";
   refs.openActions.classList.add("hidden");
   refs.solution.classList.add("hidden");
   refs.solution.innerHTML = "";
+  renderExplanation(question, qState);
 
   if (question.kind === "choice") {
     renderChoiceQuestion(question, qState, mode.type);
   } else {
     renderOpenQuestion(question, qState);
   }
+
+  if (isNewQuestion) {
+    refs.questionScroll.scrollTop = 0;
+    state.lastRenderedQuestionUid = question.uid;
+  }
+  requestAnimationFrame(updateScrollHint);
+}
+
+function renderExplanation(question, qState) {
+  const hasExplanation = Boolean(question.spiegazione && question.spiegazione.length > 0);
+  const text = hasExplanation
+    ? question.spiegazione
+    : "Spiegazione non disponibile per questa domanda.";
+
+  refs.toggleExplanationBtn.classList.remove("hidden");
+  refs.toggleExplanationBtn.setAttribute("aria-expanded", String(qState.explanationShown));
+  refs.toggleExplanationBtn.title = qState.explanationShown ? "Nascondi spiegazione" : "Mostra spiegazione";
+
+  refs.questionExplanation.textContent = text;
+  refs.questionExplanation.classList.toggle("placeholder", !hasExplanation);
+  refs.questionExplanation.classList.toggle("hidden", !qState.explanationShown);
+}
+
+function toggleExplanation() {
+  if (!state.session) {
+    return;
+  }
+
+  const qState = state.session.questionStates[state.cursor];
+  if (!qState) {
+    return;
+  }
+
+  qState.explanationShown = !qState.explanationShown;
+  renderQuiz();
+}
+
+function updateScrollHint() {
+  const scrollEl = refs.questionScroll;
+  const hasOverflow = scrollEl.scrollHeight - scrollEl.clientHeight > 8;
+  const nearBottom = scrollEl.scrollTop + scrollEl.clientHeight >= scrollEl.scrollHeight - 8;
+  refs.scrollHint.classList.toggle("hidden", !hasOverflow || nearBottom);
 }
 
 function renderSectionStatus(metrics) {

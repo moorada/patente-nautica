@@ -14,7 +14,8 @@
         "numero_risposte": 1,
         "formato_riga": "singola_risposta"
       },
-      "risposta": "Vp = 9 ÷ 11 kn"
+      "risposta": "Vp = 9 ÷ 11 kn",
+      "spiegazione": "La risposta corretta è Vp = 9 ÷ 11 kn perché si ricava dalla distanza da coprire e dal tempo disponibile, correggendo eventualmente per la corrente presente in zona. Il rilevamento vero è misurato rispetto al Nord geografico. La corrente è lo spostamento della massa d'acqua che modifica il moto reale dell'unità. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
     },
     {
       "id": 2,
@@ -28,7 +29,8 @@
         "numero_risposte": 1,
         "formato_riga": "singola_risposta"
       },
-      "risposta": "Dc = 221° ÷ 227°"
+      "risposta": "Dc = 221° ÷ 227°",
+      "spiegazione": "La risposta corretta è Dc = 221° ÷ 227° perché si ricava confrontando il punto stimato con quello osservato per dedurre direzione e intensità della corrente. Il rilevamento vero è misurato rispetto al Nord geografico. La prora vera è la direzione della prua rispetto al Nord vero. La corrente è lo spostamento della massa d'acqua che modifica il moto reale dell'unità. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
     },
     {
       "id": 3,
@@ -42,7 +44,8 @@
         "numero_risposte": 1,
         "formato_riga": "singola_risposta"
       },
-      "risposta": "Tempo di navigazione 1h14m ÷ 1h20m"
+      "risposta": "Tempo di navigazione 1h14m ÷ 1h20m",
+      "spiegazione": "La risposta corretta è Tempo di navigazione 1h14m ÷ 1h20m perché si ricava dividendo la distanza per la velocità effettiva e sommando poi il tempo di navigazione all orario di partenza. La corrente è lo spostamento della massa d'acqua che modifica il moto reale dell'unità. Il solcometro è lo strumento che misura la velocità dell'unità attraverso l'acqua. Il punto nave è la posizione dell'unità determinata con carteggio o strumenti di bordo. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
     },
     {
       "id": 4,
@@ -56,7 +59,8 @@
         "numero_risposte": 1,
         "formato_riga": "singola_risposta"
       },
-      "risposta": "Dc = 027° ÷ 033°"
+      "risposta": "Dc = 027° ÷ 033°",
+      "spiegazione": "La risposta corretta è Dc = 027° ÷ 033° perché si ricava confrontando il punto stimato con quello osservato per dedurre direzione e intensità della corrente. Il rilevamento vero è misurato rispetto al Nord geografico. La prora vera è la direzione della prua rispetto al Nord vero. La corrente è lo spostamento della massa d'acqua che modifica il moto reale dell'unità. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
     },
     {
       "id": 5,
@@ -70,7 +74,8 @@
         "numero_risposte": 1,
         "formato_riga": "singola_risposta"
       },
-      "risposta": "Dc = 288° ÷ 294°"
+      "risposta": "Dc = 288° ÷ 294°",
+      "spiegazione": "La risposta corretta è Dc = 288° ÷ 294° perché si ricava confrontando il punto stimato con quello osservato per dedurre direzione e intensità della corrente. La corrente è lo spostamento della massa d'acqua che modifica il moto reale dell'unità. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
     },
     {
       "id": 6,
@@ -84,7 +89,8 @@
         "numero_risposte": 1,
         "formato_riga": "singola_risposta"
       },
-      "risposta": "Ora di arrivo 11h05m ÷ 11h11m"
+      "risposta": "Ora di arrivo 11h05m ÷ 11h11m",
+      "spiegazione": "La risposta corretta è Ora di arrivo 11h05m ÷ 11h11m perché si ricava dividendo la distanza per la velocità effettiva e sommando poi il tempo di navigazione all orario di partenza. La corrente è lo spostamento della massa d'acqua che modifica il moto reale dell'unità. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
     },
     {
       "id": 7,
@@ -98,7 +104,8 @@
         "numero_risposte": 1,
         "formato_riga": "singola_risposta"
       },
-      "risposta": "Carburante 29 ÷ 31 litri"
+      "risposta": "Carburante 29 ÷ 31 litri",
+      "spiegazione": "La risposta corretta è Carburante 29 ÷ 31 litri perché si calcola moltiplicando il consumo orario per la durata del tratto e, se previsto, aggiungendo la riserva del 30%. Al traverso significa a 90° rispetto alla prua, sul lato dell'unità. Il punto nave è la posizione dell'unità determinata con carteggio o strumenti di bordo. La riserva del 30% è il margine di sicurezza da aggiungere al consumo teorico. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
     },
     {
       "id": 8,
@@ -112,7 +119,8 @@
         "numero_risposte": 1,
         "formato_riga": "singola_risposta"
       },
-      "risposta": "Carburante 19 ÷ 21 litri"
+      "risposta": "Carburante 19 ÷ 21 litri",
+      "spiegazione": "La risposta corretta è Carburante 19 ÷ 21 litri perché si calcola moltiplicando il consumo orario per la durata del tratto e, se previsto, aggiungendo la riserva del 30%. Il rilevamento polare è l'angolo misurato rispetto alla prua dell'unità. La prora bussola è la direzione della prua rispetto al Nord bussola. Il punto nave è la posizione dell'unità determinata con carteggio o strumenti di bordo. Il consumo orario indica i litri consumati in un'ora di moto. La riserva del 30% è il margine di sicurezza da aggiungere al consumo teorico. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
     },
     {
       "id": 9,
@@ -126,7 +134,8 @@
         "numero_risposte": 1,
         "formato_riga": "singola_risposta"
       },
-      "risposta": "Carburante 13 ÷ 15 litri"
+      "risposta": "Carburante 13 ÷ 15 litri",
+      "spiegazione": "La risposta corretta è Carburante 13 ÷ 15 litri perché si calcola moltiplicando il consumo orario per la durata del tratto e, se previsto, aggiungendo la riserva del 30%. Il rilevamento polare è l'angolo misurato rispetto alla prua dell'unità. La prora vera è la direzione della prua rispetto al Nord vero. Al traverso significa a 90° rispetto alla prua, sul lato dell'unità. Il punto nave è la posizione dell'unità determinata con carteggio o strumenti di bordo. La riserva del 30% è il margine di sicurezza da aggiungere al consumo teorico. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
     },
     {
       "id": 10,
@@ -140,7 +149,8 @@
         "numero_risposte": 1,
         "formato_riga": "singola_risposta"
       },
-      "risposta": "Carburante 33 ÷ 35 litri"
+      "risposta": "Carburante 33 ÷ 35 litri",
+      "spiegazione": "La risposta corretta è Carburante 33 ÷ 35 litri perché si calcola moltiplicando il consumo orario per la durata del tratto e, se previsto, aggiungendo la riserva del 30%. La prora bussola è la direzione della prua rispetto al Nord bussola. Il fanale è un segnalamento luminoso costiero. Il punto nave è la posizione dell'unità determinata con carteggio o strumenti di bordo. La riserva del 30% è il margine di sicurezza da aggiungere al consumo teorico. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
     },
     {
       "id": 11,
@@ -154,7 +164,8 @@
         "numero_risposte": 1,
         "formato_riga": "singola_risposta"
       },
-      "risposta": "Carburante 30 ÷ 32 litri"
+      "risposta": "Carburante 30 ÷ 32 litri",
+      "spiegazione": "La risposta corretta è Carburante 30 ÷ 32 litri perché si calcola moltiplicando il consumo orario per la durata del tratto e, se previsto, aggiungendo la riserva del 30%. La prora vera è la direzione della prua rispetto al Nord vero. Il punto nave è la posizione dell'unità determinata con carteggio o strumenti di bordo. La riserva del 30% è il margine di sicurezza da aggiungere al consumo teorico. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
     },
     {
       "id": 12,
@@ -168,7 +179,8 @@
         "numero_risposte": 1,
         "formato_riga": "singola_risposta"
       },
-      "risposta": "Lat. 42°49’,7 N ÷ 42°50’,3 N Long.\n010°02’,0 E ÷ 010° 02’,6 E"
+      "risposta": "Lat. 42°49’,7 N ÷ 42°50’,3 N Long.\n010°02’,0 E ÷ 010° 02’,6 E",
+      "spiegazione": "La risposta corretta è Lat. 42°49’,7 N ÷ 42°50’,3 N Long. 010°02’,0 E ÷ 010° 02’,6 E perché si ottiene dall intersezione dei rilevamenti o dal punto stimato sulla carta. La prora bussola è la direzione della prua rispetto al Nord bussola. Il punto nave è la posizione dell'unità determinata con carteggio o strumenti di bordo. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
     },
     {
       "id": 13,
@@ -182,7 +194,8 @@
         "numero_risposte": 1,
         "formato_riga": "singola_risposta"
       },
-      "risposta": "Lat. 42°52’,2 N ÷ 42°52’,8 N Long\n010°20’,3 E ÷ 010° 20’,9 E"
+      "risposta": "Lat. 42°52’,2 N ÷ 42°52’,8 N Long\n010°20’,3 E ÷ 010° 20’,9 E",
+      "spiegazione": "La risposta corretta è Lat. 42°52’,2 N ÷ 42°52’,8 N Long 010°20’,3 E ÷ 010° 20’,9 E perché si ottiene dall intersezione dei rilevamenti o dal punto stimato sulla carta. Il rilevamento bussola è misurato rispetto al Nord bussola. La prora bussola è la direzione della prua rispetto al Nord bussola. Il punto nave è la posizione dell'unità determinata con carteggio o strumenti di bordo. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
     },
     {
       "id": 14,
@@ -196,7 +209,8 @@
         "numero_risposte": 1,
         "formato_riga": "singola_risposta"
       },
-      "risposta": "Lat.42°38’,7 N ÷ 42°39’,3 N Long.\n010°19’,8 ÷ 010°20’,4 E"
+      "risposta": "Lat.42°38’,7 N ÷ 42°39’,3 N Long.\n010°19’,8 ÷ 010°20’,4 E",
+      "spiegazione": "La risposta corretta è Lat.42°38’,7 N ÷ 42°39’,3 N Long. 010°19’,8 ÷ 010°20’,4 E perché si ottiene dall intersezione dei rilevamenti o dal punto stimato sulla carta. La prora bussola è la direzione della prua rispetto al Nord bussola. Il punto nave è la posizione dell'unità determinata con carteggio o strumenti di bordo. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
     },
     {
       "id": 15,
@@ -210,7 +224,8 @@
         "numero_risposte": 1,
         "formato_riga": "singola_risposta"
       },
-      "risposta": "Lat 42°45’,9 N ÷ 42°46’,5 N Long\n010°02’,4 E ÷ 010°03’,0 E"
+      "risposta": "Lat 42°45’,9 N ÷ 42°46’,5 N Long\n010°02’,4 E ÷ 010°03’,0 E",
+      "spiegazione": "La risposta corretta è Lat 42°45’,9 N ÷ 42°46’,5 N Long 010°02’,4 E ÷ 010°03’,0 E perché è coerente con i dati di partenza e con le formule di carteggio previste dal quesito. Il rilevamento bussola è misurato rispetto al Nord bussola. La prora vera è la direzione della prua rispetto al Nord vero. Il punto nave è la posizione dell'unità determinata con carteggio o strumenti di bordo. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
     },
     {
       "id": 16,
@@ -224,7 +239,8 @@
         "numero_risposte": 1,
         "formato_riga": "singola_risposta"
       },
-      "risposta": "Lat. 42°46’,6 N ÷ 42°47’,2 N Long.\n009°59’,3 E ÷ 010°00’,0 E"
+      "risposta": "Lat. 42°46’,6 N ÷ 42°47’,2 N Long.\n009°59’,3 E ÷ 010°00’,0 E",
+      "spiegazione": "La risposta corretta è Lat. 42°46’,6 N ÷ 42°47’,2 N Long. 009°59’,3 E ÷ 010°00’,0 E perché si ottiene dall intersezione dei rilevamenti o dal punto stimato sulla carta. Il rilevamento bussola è misurato rispetto al Nord bussola. Il punto nave è la posizione dell'unità determinata con carteggio o strumenti di bordo. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
     },
     {
       "id": 17,
@@ -238,7 +254,8 @@
         "numero_risposte": 1,
         "formato_riga": "singola_risposta"
       },
-      "risposta": "Lat. 42° 52’,5 N ÷ 42°53’,1 N - Long. 010°\n05’,7 E ÷ 010° 06’,3 E"
+      "risposta": "Lat. 42° 52’,5 N ÷ 42°53’,1 N - Long. 010°\n05’,7 E ÷ 010° 06’,3 E",
+      "spiegazione": "La risposta corretta è Lat. 42° 52’,5 N ÷ 42°53’,1 N - Long. 010° 05’,7 E ÷ 010° 06’,3 E perché si ottiene dall intersezione dei rilevamenti o dal punto stimato sulla carta. L'intercettazione si ricava dall'incontro tra le due rotte o tra la rotta dell'unità soccorritrice e quella dell'unità in difficoltà. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
     },
     {
       "id": 18,
@@ -252,7 +269,8 @@
         "numero_risposte": 1,
         "formato_riga": "singola_risposta"
       },
-      "risposta": "Ora traverso 11h33m ÷11h39m"
+      "risposta": "Ora traverso 11h33m ÷11h39m",
+      "spiegazione": "La risposta corretta è Ora traverso 11h33m ÷11h39m perché è coerente con i dati di partenza e con le formule di carteggio previste dal quesito. Lo scarroccio è la deviazione laterale causata dal vento rispetto alla rotta impostata. Il fanale è un segnalamento luminoso costiero. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
     },
     {
       "id": 19,
@@ -266,7 +284,8 @@
         "numero_risposte": 1,
         "formato_riga": "singola_risposta"
       },
-      "risposta": "Ora traverso 10h27m ÷ 10h33m"
+      "risposta": "Ora traverso 10h27m ÷ 10h33m",
+      "spiegazione": "La risposta corretta è Ora traverso 10h27m ÷ 10h33m perché è coerente con i dati di partenza e con le formule di carteggio previste dal quesito. Lo scarroccio è la deviazione laterale causata dal vento rispetto alla rotta impostata. Il punto nave è la posizione dell'unità determinata con carteggio o strumenti di bordo. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
     },
     {
       "id": 20,
@@ -280,7 +299,8 @@
         "numero_risposte": 1,
         "formato_riga": "singola_risposta"
       },
-      "risposta": "Lat. 42° 39’,7 N ÷ 42°41’,3 N Long. 010°\n25',2 E ÷ 010°25’,8 E"
+      "risposta": "Lat. 42° 39’,7 N ÷ 42°41’,3 N Long. 010°\n25',2 E ÷ 010°25’,8 E",
+      "spiegazione": "La risposta corretta è Lat. 42° 39’,7 N ÷ 42°41’,3 N Long. 010° 25',2 E ÷ 010°25’,8 E perché si ottiene dall intersezione dei rilevamenti o dal punto stimato sulla carta. La prora vera è la direzione della prua rispetto al Nord vero. Lo scarroccio è la deviazione laterale causata dal vento rispetto alla rotta impostata. Al traverso significa a 90° rispetto alla prua, sul lato dell'unità. Il punto nave è la posizione dell'unità determinata con carteggio o strumenti di bordo. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
     },
     {
       "id": 21,
@@ -294,7 +314,8 @@
         "numero_risposte": 1,
         "formato_riga": "singola_risposta"
       },
-      "risposta": "Lat. 42° 42’,6 N ÷ 42°43’,2 N Long. 010°\n07’,5 E ÷ 010°08’,1 E"
+      "risposta": "Lat. 42° 42’,6 N ÷ 42°43’,2 N Long. 010°\n07’,5 E ÷ 010°08’,1 E",
+      "spiegazione": "La risposta corretta è Lat. 42° 42’,6 N ÷ 42°43’,2 N Long. 010° 07’,5 E ÷ 010°08’,1 E perché si ottiene dall intersezione dei rilevamenti o dal punto stimato sulla carta. La prora vera è la direzione della prua rispetto al Nord vero. Lo scarroccio è la deviazione laterale causata dal vento rispetto alla rotta impostata. Al traverso significa a 90° rispetto alla prua, sul lato dell'unità. Il punto nave è la posizione dell'unità determinata con carteggio o strumenti di bordo. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
     },
     {
       "id": 22,
@@ -308,7 +329,8 @@
         "numero_risposte": 1,
         "formato_riga": "singola_risposta"
       },
-      "risposta": "Ora traverso 11h37m ÷ 11h43m"
+      "risposta": "Ora traverso 11h37m ÷ 11h43m",
+      "spiegazione": "La risposta corretta è Ora traverso 11h37m ÷ 11h43m perché è coerente con i dati di partenza e con le formule di carteggio previste dal quesito. La prora vera è la direzione della prua rispetto al Nord vero. Lo scarroccio è la deviazione laterale causata dal vento rispetto alla rotta impostata. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
     },
     {
       "id": 23,
@@ -322,7 +344,8 @@
         "numero_risposte": 1,
         "formato_riga": "singola_risposta"
       },
-      "risposta": "Lat. 42°39’,1 N ÷ 42°39’,7 N\nLong.010°44’,2 E ÷ 010°44’,8 E"
+      "risposta": "Lat. 42°39’,1 N ÷ 42°39’,7 N\nLong.010°44’,2 E ÷ 010°44’,8 E",
+      "spiegazione": "La risposta corretta è Lat. 42°39’,1 N ÷ 42°39’,7 N Long.010°44’,2 E ÷ 010°44’,8 E perché si ottiene dall intersezione dei rilevamenti o dal punto stimato sulla carta. La prora bussola è la direzione della prua rispetto al Nord bussola. La corrente è lo spostamento della massa d'acqua che modifica il moto reale dell'unità. Il punto nave è la posizione dell'unità determinata con carteggio o strumenti di bordo. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
     },
     {
       "id": 24,
@@ -336,7 +359,8 @@
         "numero_risposte": 1,
         "formato_riga": "singola_risposta"
       },
-      "risposta": "Ora arrivo 11h19m ÷ 11h24m"
+      "risposta": "Ora arrivo 11h19m ÷ 11h24m",
+      "spiegazione": "La risposta corretta è Ora arrivo 11h19m ÷ 11h24m perché si ricava dividendo la distanza per la velocità effettiva e sommando poi il tempo di navigazione all orario di partenza. La corrente è lo spostamento della massa d'acqua che modifica il moto reale dell'unità. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
     },
     {
       "id": 25,
@@ -350,7 +374,8 @@
         "numero_risposte": 1,
         "formato_riga": "singola_risposta"
       },
-      "risposta": "Pb = 008° ÷ 014°"
+      "risposta": "Pb = 008° ÷ 014°",
+      "spiegazione": "La risposta corretta è Pb = 008° ÷ 014° perché è coerente con i dati di partenza e con le formule di carteggio previste dal quesito. La prora bussola è la direzione della prua rispetto al Nord bussola. La corrente è lo spostamento della massa d'acqua che modifica il moto reale dell'unità. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
     },
     {
       "id": 26,
@@ -364,7 +389,8 @@
         "numero_risposte": 1,
         "formato_riga": "singola_risposta"
       },
-      "risposta": "Ora del traverso 12h50m ÷ 12h57m"
+      "risposta": "Ora del traverso 12h50m ÷ 12h57m",
+      "spiegazione": "La risposta corretta è Ora del traverso 12h50m ÷ 12h57m perché è coerente con i dati di partenza e con le formule di carteggio previste dal quesito. La corrente è lo spostamento della massa d'acqua che modifica il moto reale dell'unità. Al traverso significa a 90° rispetto alla prua, sul lato dell'unità. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
     },
     {
       "id": 27,
@@ -378,7 +404,8 @@
         "numero_risposte": 1,
         "formato_riga": "singola_risposta"
       },
-      "risposta": "Dc = 359° ÷ 005°"
+      "risposta": "Dc = 359° ÷ 005°",
+      "spiegazione": "La risposta corretta è Dc = 359° ÷ 005° perché si ricava confrontando il punto stimato con quello osservato per dedurre direzione e intensità della corrente. La prora vera è la direzione della prua rispetto al Nord vero. La corrente è lo spostamento della massa d'acqua che modifica il moto reale dell'unità. Il punto nave è la posizione dell'unità determinata con carteggio o strumenti di bordo. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
     },
     {
       "id": 28,
@@ -392,7 +419,8 @@
         "numero_risposte": 1,
         "formato_riga": "singola_risposta"
       },
-      "risposta": "Carburante 28 ÷ 30 litri"
+      "risposta": "Carburante 28 ÷ 30 litri",
+      "spiegazione": "La risposta corretta è Carburante 28 ÷ 30 litri perché si calcola moltiplicando il consumo orario per la durata del tratto e, se previsto, aggiungendo la riserva del 30%. La prora bussola è la direzione della prua rispetto al Nord bussola. Al traverso significa a 90° rispetto alla prua, sul lato dell'unità. Il punto nave è la posizione dell'unità determinata con carteggio o strumenti di bordo. La riserva del 30% è il margine di sicurezza da aggiungere al consumo teorico. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
     },
     {
       "id": 29,
@@ -406,7 +434,8 @@
         "numero_risposte": 1,
         "formato_riga": "singola_risposta"
       },
-      "risposta": "Carburante 14,5 ÷ 16,5 litri"
+      "risposta": "Carburante 14,5 ÷ 16,5 litri",
+      "spiegazione": "La risposta corretta è Carburante 14,5 ÷ 16,5 litri perché si calcola moltiplicando il consumo orario per la durata del tratto e, se previsto, aggiungendo la riserva del 30%. Il rilevamento polare è l'angolo misurato rispetto alla prua dell'unità. Al traverso significa a 90° rispetto alla prua, sul lato dell'unità. Il punto nave è la posizione dell'unità determinata con carteggio o strumenti di bordo. La riserva del 30% è il margine di sicurezza da aggiungere al consumo teorico. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
     },
     {
       "id": 30,
@@ -420,7 +449,8 @@
         "numero_risposte": 1,
         "formato_riga": "singola_risposta"
       },
-      "risposta": "Carburante 54 ÷ 57 litri"
+      "risposta": "Carburante 54 ÷ 57 litri",
+      "spiegazione": "La risposta corretta è Carburante 54 ÷ 57 litri perché si calcola moltiplicando il consumo orario per la durata del tratto e, se previsto, aggiungendo la riserva del 30%. Al traverso significa a 90° rispetto alla prua, sul lato dell'unità. Il fanale è un segnalamento luminoso costiero. Il punto nave è la posizione dell'unità determinata con carteggio o strumenti di bordo. Il consumo orario indica i litri consumati in un'ora di moto. La riserva del 30% è il margine di sicurezza da aggiungere al consumo teorico. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
     },
     {
       "id": 31,
@@ -434,7 +464,8 @@
         "numero_risposte": 1,
         "formato_riga": "singola_risposta"
       },
-      "risposta": "Carburante 35 ÷ 37 litri"
+      "risposta": "Carburante 35 ÷ 37 litri",
+      "spiegazione": "La risposta corretta è Carburante 35 ÷ 37 litri perché si calcola moltiplicando il consumo orario per la durata del tratto e, se previsto, aggiungendo la riserva del 30%. Il consumo orario indica i litri consumati in un'ora di moto. La riserva del 30% è il margine di sicurezza da aggiungere al consumo teorico. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
     },
     {
       "id": 32,
@@ -448,7 +479,8 @@
         "numero_risposte": 1,
         "formato_riga": "singola_risposta"
       },
-      "risposta": "Carburante 17 ÷ 19 litri"
+      "risposta": "Carburante 17 ÷ 19 litri",
+      "spiegazione": "La risposta corretta è Carburante 17 ÷ 19 litri perché si calcola moltiplicando il consumo orario per la durata del tratto e, se previsto, aggiungendo la riserva del 30%. La prora bussola è la direzione della prua rispetto al Nord bussola. Al traverso significa a 90° rispetto alla prua, sul lato dell'unità. Il punto nave è la posizione dell'unità determinata con carteggio o strumenti di bordo. La riserva del 30% è il margine di sicurezza da aggiungere al consumo teorico. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
     },
     {
       "id": 33,
@@ -462,7 +494,8 @@
         "numero_risposte": 1,
         "formato_riga": "singola_risposta"
       },
-      "risposta": "Lat. 42°45’,4 N ÷ 42°46’,0 N Long.\n010°43’,0 E ÷ 010°43’,6 E"
+      "risposta": "Lat. 42°45’,4 N ÷ 42°46’,0 N Long.\n010°43’,0 E ÷ 010°43’,6 E",
+      "spiegazione": "La risposta corretta è Lat. 42°45’,4 N ÷ 42°46’,0 N Long. 010°43’,0 E ÷ 010°43’,6 E perché si ottiene dall intersezione dei rilevamenti o dal punto stimato sulla carta. Il rilevamento bussola è misurato rispetto al Nord bussola. La prora bussola è la direzione della prua rispetto al Nord bussola. Il punto nave è la posizione dell'unità determinata con carteggio o strumenti di bordo. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
     },
     {
       "id": 34,
@@ -476,7 +509,8 @@
         "numero_risposte": 1,
         "formato_riga": "singola_risposta"
       },
-      "risposta": "Lat. 42°46’,4 N ÷ 42° 47’,0 N Long.\n010°37’,9 E ÷ 010° 38’,5 E"
+      "risposta": "Lat. 42°46’,4 N ÷ 42° 47’,0 N Long.\n010°37’,9 E ÷ 010° 38’,5 E",
+      "spiegazione": "La risposta corretta è Lat. 42°46’,4 N ÷ 42° 47’,0 N Long. 010°37’,9 E ÷ 010° 38’,5 E perché si ottiene dall intersezione dei rilevamenti o dal punto stimato sulla carta. Il rilevamento bussola è misurato rispetto al Nord bussola. La prora vera è la direzione della prua rispetto al Nord vero. Il punto nave è la posizione dell'unità determinata con carteggio o strumenti di bordo. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
     },
     {
       "id": 35,
@@ -490,7 +524,8 @@
         "numero_risposte": 1,
         "formato_riga": "singola_risposta"
       },
-      "risposta": "Lat. 42°46’,5 N ÷ 42°47’,1N Long.\n010°41’,9 E ÷ 010°42’,5 E"
+      "risposta": "Lat. 42°46’,5 N ÷ 42°47’,1N Long.\n010°41’,9 E ÷ 010°42’,5 E",
+      "spiegazione": "La risposta corretta è Lat. 42°46’,5 N ÷ 42°47’,1N Long. 010°41’,9 E ÷ 010°42’,5 E perché si ottiene dall intersezione dei rilevamenti o dal punto stimato sulla carta. Il rilevamento bussola è misurato rispetto al Nord bussola. La prora bussola è la direzione della prua rispetto al Nord bussola. Il punto nave è la posizione dell'unità determinata con carteggio o strumenti di bordo. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
     },
     {
       "id": 36,
@@ -504,7 +539,8 @@
         "numero_risposte": 1,
         "formato_riga": "singola_risposta"
       },
-      "risposta": "Lat. 42°50’,2 N ÷ 42°50’,8 N Long.\n010°41’,9 E ÷ 010°42’,5 E"
+      "risposta": "Lat. 42°50’,2 N ÷ 42°50’,8 N Long.\n010°41’,9 E ÷ 010°42’,5 E",
+      "spiegazione": "La risposta corretta è Lat. 42°50’,2 N ÷ 42°50’,8 N Long. 010°41’,9 E ÷ 010°42’,5 E perché si ottiene dall intersezione dei rilevamenti o dal punto stimato sulla carta. Il rilevamento bussola è misurato rispetto al Nord bussola. La prora bussola è la direzione della prua rispetto al Nord bussola. Il punto nave è la posizione dell'unità determinata con carteggio o strumenti di bordo. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
     },
     {
       "id": 37,
@@ -518,7 +554,8 @@
         "numero_risposte": 1,
         "formato_riga": "singola_risposta"
       },
-      "risposta": "Lat. 42°41’,8 N ÷ 42°42’,4 N Long.\n010°51’,8 E ÷ 010°52’,4 E"
+      "risposta": "Lat. 42°41’,8 N ÷ 42°42’,4 N Long.\n010°51’,8 E ÷ 010°52’,4 E",
+      "spiegazione": "La risposta corretta è Lat. 42°41’,8 N ÷ 42°42’,4 N Long. 010°51’,8 E ÷ 010°52’,4 E perché si ottiene dall intersezione dei rilevamenti o dal punto stimato sulla carta. Il rilevamento vero è misurato rispetto al Nord geografico. Il punto nave è la posizione dell'unità determinata con carteggio o strumenti di bordo. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
     },
     {
       "id": 38,
@@ -532,7 +569,8 @@
         "numero_risposte": 1,
         "formato_riga": "singola_risposta"
       },
-      "risposta": "Lat. 42°48’,4 N ÷ 42°48’,8 N Long.\n010°39’,2 E ÷ 010°39’,6 E"
+      "risposta": "Lat. 42°48’,4 N ÷ 42°48’,8 N Long.\n010°39’,2 E ÷ 010°39’,6 E",
+      "spiegazione": "La risposta corretta è Lat. 42°48’,4 N ÷ 42°48’,8 N Long. 010°39’,2 E ÷ 010°39’,6 E perché si ottiene dall intersezione dei rilevamenti o dal punto stimato sulla carta. Il rilevamento polare è l'angolo misurato rispetto alla prua dell'unità. Lo scarroccio è la deviazione laterale causata dal vento rispetto alla rotta impostata. Il punto nave è la posizione dell'unità determinata con carteggio o strumenti di bordo. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
     },
     {
       "id": 39,
@@ -546,7 +584,8 @@
         "numero_risposte": 1,
         "formato_riga": "singola_risposta"
       },
-      "risposta": "Lat. 42°39’,7 N ÷ 42°40,1’ N Long.\n010°51’,6 E ÷ 010°52,0’ E"
+      "risposta": "Lat. 42°39’,7 N ÷ 42°40,1’ N Long.\n010°51’,6 E ÷ 010°52,0’ E",
+      "spiegazione": "La risposta corretta è Lat. 42°39’,7 N ÷ 42°40,1’ N Long. 010°51’,6 E ÷ 010°52,0’ E perché si ottiene dall intersezione dei rilevamenti o dal punto stimato sulla carta. Lo scarroccio è la deviazione laterale causata dal vento rispetto alla rotta impostata. Al traverso significa a 90° rispetto alla prua, sul lato dell'unità. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
     },
     {
       "id": 40,
@@ -560,7 +599,8 @@
         "numero_risposte": 1,
         "formato_riga": "singola_risposta"
       },
-      "risposta": "Lat. 42°42’,8 N ÷ 42°43’,2 N Long.\n010°46’,3 E ÷ 010°46’,7 E"
+      "risposta": "Lat. 42°42’,8 N ÷ 42°43’,2 N Long.\n010°46’,3 E ÷ 010°46’,7 E",
+      "spiegazione": "La risposta corretta è Lat. 42°42’,8 N ÷ 42°43’,2 N Long. 010°46’,3 E ÷ 010°46’,7 E perché si ottiene dall intersezione dei rilevamenti o dal punto stimato sulla carta. Lo scarroccio è la deviazione laterale causata dal vento rispetto alla rotta impostata. Al traverso significa a 90° rispetto alla prua, sul lato dell'unità. Il punto nave è la posizione dell'unità determinata con carteggio o strumenti di bordo. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
     },
     {
       "id": 41,
@@ -574,7 +614,8 @@
         "numero_risposte": 1,
         "formato_riga": "singola_risposta"
       },
-      "risposta": "Lat. 42°43’,2 N ÷ 42°43’,6 N Long.\n010°42’,6 E ÷ 010°43’,0 E"
+      "risposta": "Lat. 42°43’,2 N ÷ 42°43’,6 N Long.\n010°42’,6 E ÷ 010°43’,0 E",
+      "spiegazione": "La risposta corretta è Lat. 42°43’,2 N ÷ 42°43’,6 N Long. 010°42’,6 E ÷ 010°43’,0 E perché si ottiene dall intersezione dei rilevamenti o dal punto stimato sulla carta. Il rilevamento vero è misurato rispetto al Nord geografico. La prora vera è la direzione della prua rispetto al Nord vero. Lo scarroccio è la deviazione laterale causata dal vento rispetto alla rotta impostata. Il fanale è un segnalamento luminoso costiero. Il punto nave è la posizione dell'unità determinata con carteggio o strumenti di bordo. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
     },
     {
       "id": 42,
@@ -588,7 +629,8 @@
         "numero_risposte": 1,
         "formato_riga": "singola_risposta"
       },
-      "risposta": "Pv = 302°÷ 304°"
+      "risposta": "Pv = 302°÷ 304°",
+      "spiegazione": "La risposta corretta è Pv = 302°÷ 304° perché si ottiene correggendo la rotta vera per lo scarroccio e, quando presente, per l effetto della corrente. La prora vera è la direzione della prua rispetto al Nord vero. Lo scarroccio è la deviazione laterale causata dal vento rispetto alla rotta impostata. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
     },
     {
       "id": 43,
@@ -602,7 +644,8 @@
         "numero_risposte": 1,
         "formato_riga": "singola_risposta"
       },
-      "risposta": "Vc = 2,9 ÷ 3,5 kn"
+      "risposta": "Vc = 2,9 ÷ 3,5 kn",
+      "spiegazione": "La risposta corretta è Vc = 2,9 ÷ 3,5 kn perché è coerente con i dati di partenza e con le formule di carteggio previste dal quesito. Il rilevamento vero è misurato rispetto al Nord geografico. La corrente è lo spostamento della massa d'acqua che modifica il moto reale dell'unità. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
     },
     {
       "id": 44,
@@ -616,7 +659,8 @@
         "numero_risposte": 1,
         "formato_riga": "singola_risposta"
       },
-      "risposta": "Dc = 039° ÷ 045°"
+      "risposta": "Dc = 039° ÷ 045°",
+      "spiegazione": "La risposta corretta è Dc = 039° ÷ 045° perché si ricava confrontando il punto stimato con quello osservato per dedurre direzione e intensità della corrente. Il rilevamento vero è misurato rispetto al Nord geografico. La corrente è lo spostamento della massa d'acqua che modifica il moto reale dell'unità. Il punto nave è la posizione dell'unità determinata con carteggio o strumenti di bordo. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
     },
     {
       "id": 45,
@@ -630,7 +674,8 @@
         "numero_risposte": 1,
         "formato_riga": "singola_risposta"
       },
-      "risposta": "Dc = 353° ÷ 359°"
+      "risposta": "Dc = 353° ÷ 359°",
+      "spiegazione": "La risposta corretta è Dc = 353° ÷ 359° perché si ricava confrontando il punto stimato con quello osservato per dedurre direzione e intensità della corrente. Il rilevamento vero è misurato rispetto al Nord geografico. La prora vera è la direzione della prua rispetto al Nord vero. La corrente è lo spostamento della massa d'acqua che modifica il moto reale dell'unità. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
     },
     {
       "id": 46,
@@ -644,7 +689,8 @@
         "numero_risposte": 1,
         "formato_riga": "singola_risposta"
       },
-      "risposta": "Vc = 1 ÷ 1,6 kn"
+      "risposta": "Vc = 1 ÷ 1,6 kn",
+      "spiegazione": "La risposta corretta è Vc = 1 ÷ 1,6 kn perché è coerente con i dati di partenza e con le formule di carteggio previste dal quesito. Il rilevamento vero è misurato rispetto al Nord geografico. La prora vera è la direzione della prua rispetto al Nord vero. La corrente è lo spostamento della massa d'acqua che modifica il moto reale dell'unità. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
     },
     {
       "id": 47,
@@ -658,7 +704,8 @@
         "numero_risposte": 1,
         "formato_riga": "singola_risposta"
       },
-      "risposta": "Vp = 10,3 ÷ 10,9 kn"
+      "risposta": "Vp = 10,3 ÷ 10,9 kn",
+      "spiegazione": "La risposta corretta è Vp = 10,3 ÷ 10,9 kn perché si ricava dalla distanza da coprire e dal tempo disponibile, correggendo eventualmente per la corrente presente in zona. La corrente è lo spostamento della massa d'acqua che modifica il moto reale dell'unità. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
     },
     {
       "id": 48,
@@ -672,7 +719,8 @@
         "numero_risposte": 1,
         "formato_riga": "singola_risposta"
       },
-      "risposta": "Vp = 4,3 ÷ 4,9 kn"
+      "risposta": "Vp = 4,3 ÷ 4,9 kn",
+      "spiegazione": "La risposta corretta è Vp = 4,3 ÷ 4,9 kn perché si ricava dalla distanza da coprire e dal tempo disponibile, correggendo eventualmente per la corrente presente in zona. La corrente è lo spostamento della massa d'acqua che modifica il moto reale dell'unità. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
     },
     {
       "id": 49,
@@ -686,7 +734,8 @@
         "numero_risposte": 1,
         "formato_riga": "singola_risposta"
       },
-      "risposta": "Rv = 043° ÷ 049°"
+      "risposta": "Rv = 043° ÷ 049°",
+      "spiegazione": "La risposta corretta è Rv = 043° ÷ 049° perché è coerente con i dati di partenza e con le formule di carteggio previste dal quesito. La prora vera è la direzione della prua rispetto al Nord vero. La corrente è lo spostamento della massa d'acqua che modifica il moto reale dell'unità. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
     },
     {
       "id": 50,
@@ -700,7 +749,8 @@
         "numero_risposte": 1,
         "formato_riga": "singola_risposta"
       },
-      "risposta": "Vc = 0,9 ÷1,5 kn"
+      "risposta": "Vc = 0,9 ÷1,5 kn",
+      "spiegazione": "La risposta corretta è Vc = 0,9 ÷1,5 kn perché è coerente con i dati di partenza e con le formule di carteggio previste dal quesito. La corrente è lo spostamento della massa d'acqua che modifica il moto reale dell'unità. Il punto nave è la posizione dell'unità determinata con carteggio o strumenti di bordo. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
     },
     {
       "id": 51,
@@ -714,7 +764,8 @@
         "numero_risposte": 1,
         "formato_riga": "singola_risposta"
       },
-      "risposta": "Ve = 9,5 ÷ 10,1 kn"
+      "risposta": "Ve = 9,5 ÷ 10,1 kn",
+      "spiegazione": "La risposta corretta è Ve = 9,5 ÷ 10,1 kn perché si ottiene combinando la velocità propulsiva con il contributo della corrente. La prora vera è la direzione della prua rispetto al Nord vero. La corrente è lo spostamento della massa d'acqua che modifica il moto reale dell'unità. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
     },
     {
       "id": 52,
@@ -728,7 +779,8 @@
         "numero_risposte": 1,
         "formato_riga": "singola_risposta"
       },
-      "risposta": "Pv = 144° ÷ 150°"
+      "risposta": "Pv = 144° ÷ 150°",
+      "spiegazione": "La risposta corretta è Pv = 144° ÷ 150° perché si ottiene correggendo la rotta vera per lo scarroccio e, quando presente, per l effetto della corrente. Il rilevamento vero è misurato rispetto al Nord geografico. La prora vera è la direzione della prua rispetto al Nord vero. La corrente è lo spostamento della massa d'acqua che modifica il moto reale dell'unità. Il punto nave è la posizione dell'unità determinata con carteggio o strumenti di bordo. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
     },
     {
       "id": 53,
@@ -742,7 +794,8 @@
         "numero_risposte": 1,
         "formato_riga": "singola_risposta"
       },
-      "risposta": "Carburante 90 ÷ 92 litri"
+      "risposta": "Carburante 90 ÷ 92 litri",
+      "spiegazione": "La risposta corretta è Carburante 90 ÷ 92 litri perché si calcola moltiplicando il consumo orario per la durata del tratto e, se previsto, aggiungendo la riserva del 30%. Il rilevamento vero è misurato rispetto al Nord geografico. Il punto nave è la posizione dell'unità determinata con carteggio o strumenti di bordo. Il consumo orario indica i litri consumati in un'ora di moto. La riserva del 30% è il margine di sicurezza da aggiungere al consumo teorico. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
     },
     {
       "id": 54,
@@ -756,7 +809,8 @@
         "numero_risposte": 1,
         "formato_riga": "singola_risposta"
       },
-      "risposta": "Carburante 58 ÷ 60 litri"
+      "risposta": "Carburante 58 ÷ 60 litri",
+      "spiegazione": "La risposta corretta è Carburante 58 ÷ 60 litri perché si calcola moltiplicando il consumo orario per la durata del tratto e, se previsto, aggiungendo la riserva del 30%. La prora vera è la direzione della prua rispetto al Nord vero. Il punto nave è la posizione dell'unità determinata con carteggio o strumenti di bordo. La riserva del 30% è il margine di sicurezza da aggiungere al consumo teorico. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
     },
     {
       "id": 55,
@@ -770,7 +824,8 @@
         "numero_risposte": 1,
         "formato_riga": "singola_risposta"
       },
-      "risposta": "Carburante 60 ÷ 62 litri"
+      "risposta": "Carburante 60 ÷ 62 litri",
+      "spiegazione": "La risposta corretta è Carburante 60 ÷ 62 litri perché si calcola moltiplicando il consumo orario per la durata del tratto e, se previsto, aggiungendo la riserva del 30%. La prora vera è la direzione della prua rispetto al Nord vero. Il punto nave è la posizione dell'unità determinata con carteggio o strumenti di bordo. La riserva del 30% è il margine di sicurezza da aggiungere al consumo teorico. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
     },
     {
       "id": 56,
@@ -784,7 +839,8 @@
         "numero_risposte": 1,
         "formato_riga": "singola_risposta"
       },
-      "risposta": "Carburante 18 ÷ 20 litri"
+      "risposta": "Carburante 18 ÷ 20 litri",
+      "spiegazione": "La risposta corretta è Carburante 18 ÷ 20 litri perché si calcola moltiplicando il consumo orario per la durata del tratto e, se previsto, aggiungendo la riserva del 30%. La prora vera è la direzione della prua rispetto al Nord vero. Il punto nave è la posizione dell'unità determinata con carteggio o strumenti di bordo. La riserva del 30% è il margine di sicurezza da aggiungere al consumo teorico. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
     },
     {
       "id": 57,
@@ -798,7 +854,8 @@
         "numero_risposte": 1,
         "formato_riga": "singola_risposta"
       },
-      "risposta": "Carburante 19,5 ÷ 21,5 litri"
+      "risposta": "Carburante 19,5 ÷ 21,5 litri",
+      "spiegazione": "La risposta corretta è Carburante 19,5 ÷ 21,5 litri perché si calcola moltiplicando il consumo orario per la durata del tratto e, se previsto, aggiungendo la riserva del 30%. La prora vera è la direzione della prua rispetto al Nord vero. Il punto nave è la posizione dell'unità determinata con carteggio o strumenti di bordo. La riserva del 30% è il margine di sicurezza da aggiungere al consumo teorico. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
     },
     {
       "id": 58,
@@ -812,7 +869,8 @@
         "numero_risposte": 1,
         "formato_riga": "singola_risposta"
       },
-      "risposta": "Carburante 54 ÷ 56 litri"
+      "risposta": "Carburante 54 ÷ 56 litri",
+      "spiegazione": "La risposta corretta è Carburante 54 ÷ 56 litri perché si calcola moltiplicando il consumo orario per la durata del tratto e, se previsto, aggiungendo la riserva del 30%. Il punto nave è la posizione dell'unità determinata con carteggio o strumenti di bordo. La riserva del 30% è il margine di sicurezza da aggiungere al consumo teorico. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
     },
     {
       "id": 59,
@@ -826,7 +884,8 @@
         "numero_risposte": 1,
         "formato_riga": "singola_risposta"
       },
-      "risposta": "Carburante 48 ÷ 50 litri"
+      "risposta": "Carburante 48 ÷ 50 litri",
+      "spiegazione": "La risposta corretta è Carburante 48 ÷ 50 litri perché si calcola moltiplicando il consumo orario per la durata del tratto e, se previsto, aggiungendo la riserva del 30%. Il rilevamento vero è misurato rispetto al Nord geografico. Il consumo orario indica i litri consumati in un'ora di moto. La riserva del 30% è il margine di sicurezza da aggiungere al consumo teorico. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
     },
     {
       "id": 60,
@@ -840,7 +899,8 @@
         "numero_risposte": 1,
         "formato_riga": "singola_risposta"
       },
-      "risposta": "Lat. 42°31’,4 N ÷ 42°32’,0 N Long.\n010°03’,8 E ÷ 010°04’,4 E"
+      "risposta": "Lat. 42°31’,4 N ÷ 42°32’,0 N Long.\n010°03’,8 E ÷ 010°04’,4 E",
+      "spiegazione": "La risposta corretta è Lat. 42°31’,4 N ÷ 42°32’,0 N Long. 010°03’,8 E ÷ 010°04’,4 E perché si ottiene dall intersezione dei rilevamenti o dal punto stimato sulla carta. Il rilevamento bussola è misurato rispetto al Nord bussola. La prora bussola è la direzione della prua rispetto al Nord bussola. Il punto nave è la posizione dell'unità determinata con carteggio o strumenti di bordo. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
     },
     {
       "id": 61,
@@ -854,7 +914,8 @@
         "numero_risposte": 1,
         "formato_riga": "singola_risposta"
       },
-      "risposta": "Pb = 176° ÷ 182°"
+      "risposta": "Pb = 176° ÷ 182°",
+      "spiegazione": "La risposta corretta è Pb = 176° ÷ 182° perché è coerente con i dati di partenza e con le formule di carteggio previste dal quesito. La prora bussola è la direzione della prua rispetto al Nord bussola. Al traverso significa a 90° rispetto alla prua, sul lato dell'unità. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
     },
     {
       "id": 62,
@@ -868,7 +929,8 @@
         "numero_risposte": 1,
         "formato_riga": "singola_risposta"
       },
-      "risposta": "Pb = 133° ÷ 139°"
+      "risposta": "Pb = 133° ÷ 139°",
+      "spiegazione": "La risposta corretta è Pb = 133° ÷ 139° perché è coerente con i dati di partenza e con le formule di carteggio previste dal quesito. La prora bussola è la direzione della prua rispetto al Nord bussola. Al traverso significa a 90° rispetto alla prua, sul lato dell'unità. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
     },
     {
       "id": 63,
@@ -882,7 +944,8 @@
         "numero_risposte": 1,
         "formato_riga": "singola_risposta"
       },
-      "risposta": "Lat. 42°35’,1 N ÷ 42°35’,7 N Long.\n010°08’,4 E ÷ 010°09’,0 E"
+      "risposta": "Lat. 42°35’,1 N ÷ 42°35’,7 N Long.\n010°08’,4 E ÷ 010°09’,0 E",
+      "spiegazione": "La risposta corretta è Lat. 42°35’,1 N ÷ 42°35’,7 N Long. 010°08’,4 E ÷ 010°09’,0 E perché si ottiene dall intersezione dei rilevamenti o dal punto stimato sulla carta. Il rilevamento polare è l'angolo misurato rispetto alla prua dell'unità. Il rilevamento vero è misurato rispetto al Nord geografico. Il punto nave è la posizione dell'unità determinata con carteggio o strumenti di bordo. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
     },
     {
       "id": 64,
@@ -896,7 +959,8 @@
         "numero_risposte": 1,
         "formato_riga": "singola_risposta"
       },
-      "risposta": "Lat. 42°31,7’ N÷ 42°32’,3 N Long.\n010°07’,9 E ÷ 010°08',5 E"
+      "risposta": "Lat. 42°31,7’ N÷ 42°32’,3 N Long.\n010°07’,9 E ÷ 010°08',5 E",
+      "spiegazione": "La risposta corretta è Lat. 42°31,7’ N÷ 42°32’,3 N Long. 010°07’,9 E ÷ 010°08',5 E perché si ottiene dall intersezione dei rilevamenti o dal punto stimato sulla carta. Il rilevamento vero è misurato rispetto al Nord geografico. Il punto nave è la posizione dell'unità determinata con carteggio o strumenti di bordo. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
     },
     {
       "id": 65,
@@ -910,7 +974,8 @@
         "numero_risposte": 1,
         "formato_riga": "singola_risposta"
       },
-      "risposta": "Lat. 42° 33’,0 N÷ 42°33',6 N Long. 010°\n07’,3 E ÷ 010°07’,9 E"
+      "risposta": "Lat. 42° 33’,0 N÷ 42°33',6 N Long. 010°\n07’,3 E ÷ 010°07’,9 E",
+      "spiegazione": "La risposta corretta è Lat. 42° 33’,0 N÷ 42°33',6 N Long. 010° 07’,3 E ÷ 010°07’,9 E perché si ottiene dall intersezione dei rilevamenti o dal punto stimato sulla carta. Il rilevamento polare è l'angolo misurato rispetto alla prua dell'unità. La prora bussola è la direzione della prua rispetto al Nord bussola. Il punto nave è la posizione dell'unità determinata con carteggio o strumenti di bordo. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
     },
     {
       "id": 66,
@@ -924,7 +989,8 @@
         "numero_risposte": 1,
         "formato_riga": "singola_risposta"
       },
-      "risposta": "Lat. 42°34',4 N ÷ 42°35’,0 N Long. 010°\n09',4 E ÷ 010°10’,0 E"
+      "risposta": "Lat. 42°34',4 N ÷ 42°35’,0 N Long. 010°\n09',4 E ÷ 010°10’,0 E",
+      "spiegazione": "La risposta corretta è Lat. 42°34',4 N ÷ 42°35’,0 N Long. 010° 09',4 E ÷ 010°10’,0 E perché si ottiene dall intersezione dei rilevamenti o dal punto stimato sulla carta. Il rilevamento bussola è misurato rispetto al Nord bussola. La prora bussola è la direzione della prua rispetto al Nord bussola. Il punto nave è la posizione dell'unità determinata con carteggio o strumenti di bordo. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
     },
     {
       "id": 67,
@@ -938,7 +1004,8 @@
         "numero_risposte": 1,
         "formato_riga": "singola_risposta"
       },
-      "risposta": "Lat. 42°23’,6 N ÷ 42°24’,0N Long.\n010°17’,8 E ÷ 010°18’,2 E"
+      "risposta": "Lat. 42°23’,6 N ÷ 42°24’,0N Long.\n010°17’,8 E ÷ 010°18’,2 E",
+      "spiegazione": "La risposta corretta è Lat. 42°23’,6 N ÷ 42°24’,0N Long. 010°17’,8 E ÷ 010°18’,2 E perché si ottiene dall intersezione dei rilevamenti o dal punto stimato sulla carta. Il rilevamento polare è l'angolo misurato rispetto alla prua dell'unità. Lo scarroccio è la deviazione laterale causata dal vento rispetto alla rotta impostata. Il punto nave è la posizione dell'unità determinata con carteggio o strumenti di bordo. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
     },
     {
       "id": 68,
@@ -952,7 +1019,8 @@
         "numero_risposte": 1,
         "formato_riga": "singola_risposta"
       },
-      "risposta": "Lat. 42° 31’,9 N ÷ 42°32’,3 N Long. 010°\n06’,7 E ÷ 010°07’,1 E"
+      "risposta": "Lat. 42° 31’,9 N ÷ 42°32’,3 N Long. 010°\n06’,7 E ÷ 010°07’,1 E",
+      "spiegazione": "La risposta corretta è Lat. 42° 31’,9 N ÷ 42°32’,3 N Long. 010° 06’,7 E ÷ 010°07’,1 E perché si ottiene dall intersezione dei rilevamenti o dal punto stimato sulla carta. Il rilevamento polare è l'angolo misurato rispetto alla prua dell'unità. Lo scarroccio è la deviazione laterale causata dal vento rispetto alla rotta impostata. Il punto nave è la posizione dell'unità determinata con carteggio o strumenti di bordo. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
     },
     {
       "id": 69,
@@ -966,7 +1034,8 @@
         "numero_risposte": 1,
         "formato_riga": "singola_risposta"
       },
-      "risposta": "Lat. 42°35’,5 N ÷ 42°35’,9N\nLong.010°09’,0 E ÷ 010°09’,4 E"
+      "risposta": "Lat. 42°35’,5 N ÷ 42°35’,9N\nLong.010°09’,0 E ÷ 010°09’,4 E",
+      "spiegazione": "La risposta corretta è Lat. 42°35’,5 N ÷ 42°35’,9N Long.010°09’,0 E ÷ 010°09’,4 E perché si ottiene dall intersezione dei rilevamenti o dal punto stimato sulla carta. Il rilevamento polare è l'angolo misurato rispetto alla prua dell'unità. Il rilevamento vero è misurato rispetto al Nord geografico. Lo scarroccio è la deviazione laterale causata dal vento rispetto alla rotta impostata. Il punto nave è la posizione dell'unità determinata con carteggio o strumenti di bordo. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
     },
     {
       "id": 70,
@@ -980,7 +1049,8 @@
         "numero_risposte": 1,
         "formato_riga": "singola_risposta"
       },
-      "risposta": "Lat. 42° 33’,7 N ÷ 42°34’,1N Long. 010°\n00’,0 E ÷ 010°00’,4 E"
+      "risposta": "Lat. 42° 33’,7 N ÷ 42°34’,1N Long. 010°\n00’,0 E ÷ 010°00’,4 E",
+      "spiegazione": "La risposta corretta è Lat. 42° 33’,7 N ÷ 42°34’,1N Long. 010° 00’,0 E ÷ 010°00’,4 E perché si ottiene dall intersezione dei rilevamenti o dal punto stimato sulla carta. Lo scarroccio è la deviazione laterale causata dal vento rispetto alla rotta impostata. Al traverso significa a 90° rispetto alla prua, sul lato dell'unità. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
     },
     {
       "id": 71,
@@ -994,7 +1064,8 @@
         "numero_risposte": 1,
         "formato_riga": "singola_risposta"
       },
-      "risposta": "Ora del rilevamento: 09h13m ÷ 09h19m"
+      "risposta": "Ora del rilevamento: 09h13m ÷ 09h19m",
+      "spiegazione": "La risposta corretta è Ora del rilevamento: 09h13m ÷ 09h19m perché è coerente con i dati di partenza e con le formule di carteggio previste dal quesito. Lo scarroccio è la deviazione laterale causata dal vento rispetto alla rotta impostata. Al traverso significa a 90° rispetto alla prua, sul lato dell'unità. Il punto nave è la posizione dell'unità determinata con carteggio o strumenti di bordo. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
     },
     {
       "id": 72,
@@ -1008,7 +1079,8 @@
         "numero_risposte": 1,
         "formato_riga": "singola_risposta"
       },
-      "risposta": "Pv = 277° ÷ 303°"
+      "risposta": "Pv = 277° ÷ 303°",
+      "spiegazione": "La risposta corretta è Pv = 277° ÷ 303° perché si ottiene correggendo la rotta vera per lo scarroccio e, quando presente, per l effetto della corrente. Il rilevamento vero è misurato rispetto al Nord geografico. La prora vera è la direzione della prua rispetto al Nord vero. La corrente è lo spostamento della massa d'acqua che modifica il moto reale dell'unità. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
     },
     {
       "id": 73,
@@ -1022,7 +1094,8 @@
         "numero_risposte": 1,
         "formato_riga": "singola_risposta"
       },
-      "risposta": "ora di arrivo 11h06m ÷ 11h12m"
+      "risposta": "ora di arrivo 11h06m ÷ 11h12m",
+      "spiegazione": "La risposta corretta è ora di arrivo 11h06m ÷ 11h12m perché si ricava dividendo la distanza per la velocità effettiva e sommando poi il tempo di navigazione all orario di partenza. Il rilevamento vero è misurato rispetto al Nord geografico. La corrente è lo spostamento della massa d'acqua che modifica il moto reale dell'unità. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
     },
     {
       "id": 74,
@@ -1036,7 +1109,8 @@
         "numero_risposte": 1,
         "formato_riga": "singola_risposta"
       },
-      "risposta": "Vc = 0,7 kn ÷ 1,3 kn"
+      "risposta": "Vc = 0,7 kn ÷ 1,3 kn",
+      "spiegazione": "La risposta corretta è Vc = 0,7 kn ÷ 1,3 kn perché è coerente con i dati di partenza e con le formule di carteggio previste dal quesito. La prora vera è la direzione della prua rispetto al Nord vero. La corrente è lo spostamento della massa d'acqua che modifica il moto reale dell'unità. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
     },
     {
       "id": 75,
@@ -1050,7 +1124,8 @@
         "numero_risposte": 1,
         "formato_riga": "singola_risposta"
       },
-      "risposta": "Rv = 055° ÷ 061°"
+      "risposta": "Rv = 055° ÷ 061°",
+      "spiegazione": "La risposta corretta è Rv = 055° ÷ 061° perché è coerente con i dati di partenza e con le formule di carteggio previste dal quesito. Il rilevamento vero è misurato rispetto al Nord geografico. Il rilevamento bussola è misurato rispetto al Nord bussola. La prora bussola è la direzione della prua rispetto al Nord bussola. La batimetrica è la linea di uguale profondità usata come riferimento in carta. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
     },
     {
       "id": 76,
@@ -1064,7 +1139,8 @@
         "numero_risposte": 1,
         "formato_riga": "singola_risposta"
       },
-      "risposta": "Dc = 124° ÷ 130°"
+      "risposta": "Dc = 124° ÷ 130°",
+      "spiegazione": "La risposta corretta è Dc = 124° ÷ 130° perché si ricava confrontando il punto stimato con quello osservato per dedurre direzione e intensità della corrente. Il rilevamento vero è misurato rispetto al Nord geografico. La prora vera è la direzione della prua rispetto al Nord vero. La corrente è lo spostamento della massa d'acqua che modifica il moto reale dell'unità. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
     },
     {
       "id": 77,
@@ -1078,7 +1154,8 @@
         "numero_risposte": 1,
         "formato_riga": "singola_risposta"
       },
-      "risposta": "ora di arrivo 14h44m ÷ 14h50m"
+      "risposta": "ora di arrivo 14h44m ÷ 14h50m",
+      "spiegazione": "La risposta corretta è ora di arrivo 14h44m ÷ 14h50m perché si ricava dividendo la distanza per la velocità effettiva e sommando poi il tempo di navigazione all orario di partenza. La corrente è lo spostamento della massa d'acqua che modifica il moto reale dell'unità. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
     },
     {
       "id": 78,
@@ -1092,7 +1169,8 @@
         "numero_risposte": 1,
         "formato_riga": "singola_risposta"
       },
-      "risposta": "ora di arrivo 13h20m ÷ 13h26m"
+      "risposta": "ora di arrivo 13h20m ÷ 13h26m",
+      "spiegazione": "La risposta corretta è ora di arrivo 13h20m ÷ 13h26m perché si ricava dividendo la distanza per la velocità effettiva e sommando poi il tempo di navigazione all orario di partenza. Il rilevamento vero è misurato rispetto al Nord geografico. La corrente è lo spostamento della massa d'acqua che modifica il moto reale dell'unità. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
     },
     {
       "id": 79,
@@ -1106,7 +1184,8 @@
         "numero_risposte": 1,
         "formato_riga": "singola_risposta"
       },
-      "risposta": "Rv = 089° ÷ 095°"
+      "risposta": "Rv = 089° ÷ 095°",
+      "spiegazione": "La risposta corretta è Rv = 089° ÷ 095° perché è coerente con i dati di partenza e con le formule di carteggio previste dal quesito. Il rilevamento vero è misurato rispetto al Nord geografico. La prora vera è la direzione della prua rispetto al Nord vero. La corrente è lo spostamento della massa d'acqua che modifica il moto reale dell'unità. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
     },
     {
       "id": 80,
@@ -1120,7 +1199,8 @@
         "numero_risposte": 1,
         "formato_riga": "singola_risposta"
       },
-      "risposta": "Vp = 3,9 ÷ 4,5 kn"
+      "risposta": "Vp = 3,9 ÷ 4,5 kn",
+      "spiegazione": "La risposta corretta è Vp = 3,9 ÷ 4,5 kn perché si ricava dalla distanza da coprire e dal tempo disponibile, correggendo eventualmente per la corrente presente in zona. La corrente è lo spostamento della massa d'acqua che modifica il moto reale dell'unità. Il punto nave è la posizione dell'unità determinata con carteggio o strumenti di bordo. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
     },
     {
       "id": 81,
@@ -1134,7 +1214,8 @@
         "numero_risposte": 1,
         "formato_riga": "singola_risposta"
       },
-      "risposta": "Vc = 1,3 ÷ 1,9 kn"
+      "risposta": "Vc = 1,3 ÷ 1,9 kn",
+      "spiegazione": "La risposta corretta è Vc = 1,3 ÷ 1,9 kn perché è coerente con i dati di partenza e con le formule di carteggio previste dal quesito. Il rilevamento polare è l'angolo misurato rispetto alla prua dell'unità. Il rilevamento vero è misurato rispetto al Nord geografico. La prora vera è la direzione della prua rispetto al Nord vero. La corrente è lo spostamento della massa d'acqua che modifica il moto reale dell'unità. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
     },
     {
       "id": 82,
@@ -1148,7 +1229,8 @@
         "numero_risposte": 1,
         "formato_riga": "singola_risposta"
       },
-      "risposta": "Pv = 310° ÷ 316°"
+      "risposta": "Pv = 310° ÷ 316°",
+      "spiegazione": "La risposta corretta è Pv = 310° ÷ 316° perché si ottiene correggendo la rotta vera per lo scarroccio e, quando presente, per l effetto della corrente. La prora vera è la direzione della prua rispetto al Nord vero. La corrente è lo spostamento della massa d'acqua che modifica il moto reale dell'unità. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
     },
     {
       "id": 83,
@@ -1162,7 +1244,8 @@
         "numero_risposte": 1,
         "formato_riga": "singola_risposta"
       },
-      "risposta": "Pv = 136° ÷ 142°"
+      "risposta": "Pv = 136° ÷ 142°",
+      "spiegazione": "La risposta corretta è Pv = 136° ÷ 142° perché si ottiene correggendo la rotta vera per lo scarroccio e, quando presente, per l effetto della corrente. La prora vera è la direzione della prua rispetto al Nord vero. La corrente è lo spostamento della massa d'acqua che modifica il moto reale dell'unità. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
     },
     {
       "id": 84,
@@ -1176,7 +1259,8 @@
         "numero_risposte": 1,
         "formato_riga": "singola_risposta"
       },
-      "risposta": "Pv = 287° ÷ 292°"
+      "risposta": "Pv = 287° ÷ 292°",
+      "spiegazione": "La risposta corretta è Pv = 287° ÷ 292° perché si ottiene correggendo la rotta vera per lo scarroccio e, quando presente, per l effetto della corrente. Il rilevamento vero è misurato rispetto al Nord geografico. La prora vera è la direzione della prua rispetto al Nord vero. La corrente è lo spostamento della massa d'acqua che modifica il moto reale dell'unità. Il punto nave è la posizione dell'unità determinata con carteggio o strumenti di bordo. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
     },
     {
       "id": 85,
@@ -1190,7 +1274,8 @@
         "numero_risposte": 1,
         "formato_riga": "singola_risposta"
       },
-      "risposta": "Pv = 127° ÷ 133°"
+      "risposta": "Pv = 127° ÷ 133°",
+      "spiegazione": "La risposta corretta è Pv = 127° ÷ 133° perché si ottiene correggendo la rotta vera per lo scarroccio e, quando presente, per l effetto della corrente. Il rilevamento vero è misurato rispetto al Nord geografico. La prora vera è la direzione della prua rispetto al Nord vero. La corrente è lo spostamento della massa d'acqua che modifica il moto reale dell'unità. Il fanale è un segnalamento luminoso costiero. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
     },
     {
       "id": 86,
@@ -1204,7 +1289,8 @@
         "numero_risposte": 1,
         "formato_riga": "singola_risposta"
       },
-      "risposta": "Dc = 046°÷ 052°"
+      "risposta": "Dc = 046°÷ 052°",
+      "spiegazione": "La risposta corretta è Dc = 046°÷ 052° perché si ricava confrontando il punto stimato con quello osservato per dedurre direzione e intensità della corrente. Il rilevamento vero è misurato rispetto al Nord geografico. La prora vera è la direzione della prua rispetto al Nord vero. La corrente è lo spostamento della massa d'acqua che modifica il moto reale dell'unità. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
     },
     {
       "id": 87,
@@ -1218,7 +1304,8 @@
         "numero_risposte": 1,
         "formato_riga": "singola_risposta"
       },
-      "risposta": "Vc = 2,2 ÷ 2,8 kn"
+      "risposta": "Vc = 2,2 ÷ 2,8 kn",
+      "spiegazione": "La risposta corretta è Vc = 2,2 ÷ 2,8 kn perché è coerente con i dati di partenza e con le formule di carteggio previste dal quesito. La prora vera è la direzione della prua rispetto al Nord vero. La corrente è lo spostamento della massa d'acqua che modifica il moto reale dell'unità. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
     },
     {
       "id": 88,
@@ -1232,7 +1319,8 @@
         "numero_risposte": 1,
         "formato_riga": "singola_risposta"
       },
-      "risposta": "ora di arrivo 19h 47m ÷ 19h 53m"
+      "risposta": "ora di arrivo 19h 47m ÷ 19h 53m",
+      "spiegazione": "La risposta corretta è ora di arrivo 19h 47m ÷ 19h 53m perché si ricava dividendo la distanza per la velocità effettiva e sommando poi il tempo di navigazione all orario di partenza. Il rilevamento vero è misurato rispetto al Nord geografico. La prora vera è la direzione della prua rispetto al Nord vero. La corrente è lo spostamento della massa d'acqua che modifica il moto reale dell'unità. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
     },
     {
       "id": 89,
@@ -1246,7 +1334,8 @@
         "numero_risposte": 1,
         "formato_riga": "singola_risposta"
       },
-      "risposta": "Ve = 6 ÷ 6,6 kn"
+      "risposta": "Ve = 6 ÷ 6,6 kn",
+      "spiegazione": "La risposta corretta è Ve = 6 ÷ 6,6 kn perché si ottiene combinando la velocità propulsiva con il contributo della corrente. Il rilevamento vero è misurato rispetto al Nord geografico. La prora vera è la direzione della prua rispetto al Nord vero. La corrente è lo spostamento della massa d'acqua che modifica il moto reale dell'unità. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
     },
     {
       "id": 90,
@@ -1260,7 +1349,8 @@
         "numero_risposte": 1,
         "formato_riga": "singola_risposta"
       },
-      "risposta": "Carburante 19,5 ÷ 21,5 litri"
+      "risposta": "Carburante 19,5 ÷ 21,5 litri",
+      "spiegazione": "La risposta corretta è Carburante 19,5 ÷ 21,5 litri perché si calcola moltiplicando il consumo orario per la durata del tratto e, se previsto, aggiungendo la riserva del 30%. Il rilevamento vero è misurato rispetto al Nord geografico. Al traverso significa a 90° rispetto alla prua, sul lato dell'unità. Il punto nave è la posizione dell'unità determinata con carteggio o strumenti di bordo. Il consumo orario indica i litri consumati in un'ora di moto. La riserva del 30% è il margine di sicurezza da aggiungere al consumo teorico. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
     },
     {
       "id": 91,
@@ -1274,7 +1364,8 @@
         "numero_risposte": 1,
         "formato_riga": "singola_risposta"
       },
-      "risposta": "Carburante 21,5 ÷ 23,5 litri"
+      "risposta": "Carburante 21,5 ÷ 23,5 litri",
+      "spiegazione": "La risposta corretta è Carburante 21,5 ÷ 23,5 litri perché si calcola moltiplicando il consumo orario per la durata del tratto e, se previsto, aggiungendo la riserva del 30%. Il rilevamento polare è l'angolo misurato rispetto alla prua dell'unità. Al traverso significa a 90° rispetto alla prua, sul lato dell'unità. Il fanale è un segnalamento luminoso costiero. La riserva del 30% è il margine di sicurezza da aggiungere al consumo teorico. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
     },
     {
       "id": 92,
@@ -1288,7 +1379,8 @@
         "numero_risposte": 1,
         "formato_riga": "singola_risposta"
       },
-      "risposta": "Carburante 49 ÷ 51 litri"
+      "risposta": "Carburante 49 ÷ 51 litri",
+      "spiegazione": "La risposta corretta è Carburante 49 ÷ 51 litri perché si calcola moltiplicando il consumo orario per la durata del tratto e, se previsto, aggiungendo la riserva del 30%. Il punto nave è la posizione dell'unità determinata con carteggio o strumenti di bordo. Il consumo orario indica i litri consumati in un'ora di moto. La riserva del 30% è il margine di sicurezza da aggiungere al consumo teorico. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
     },
     {
       "id": 93,
@@ -1302,7 +1394,8 @@
         "numero_risposte": 1,
         "formato_riga": "singola_risposta"
       },
-      "risposta": "Carburante 56 ÷ 58 litri"
+      "risposta": "Carburante 56 ÷ 58 litri",
+      "spiegazione": "La risposta corretta è Carburante 56 ÷ 58 litri perché si calcola moltiplicando il consumo orario per la durata del tratto e, se previsto, aggiungendo la riserva del 30%. Il rilevamento polare è l'angolo misurato rispetto alla prua dell'unità. La prora vera è la direzione della prua rispetto al Nord vero. Il punto nave è la posizione dell'unità determinata con carteggio o strumenti di bordo. La riserva del 30% è il margine di sicurezza da aggiungere al consumo teorico. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
     },
     {
       "id": 94,
@@ -1316,7 +1409,8 @@
         "numero_risposte": 1,
         "formato_riga": "singola_risposta"
       },
-      "risposta": "Carburante 52,5 ÷ 54,5 litri"
+      "risposta": "Carburante 52,5 ÷ 54,5 litri",
+      "spiegazione": "La risposta corretta è Carburante 52,5 ÷ 54,5 litri perché si calcola moltiplicando il consumo orario per la durata del tratto e, se previsto, aggiungendo la riserva del 30%. La prora bussola è la direzione della prua rispetto al Nord bussola. Il punto nave è la posizione dell'unità determinata con carteggio o strumenti di bordo. Il consumo orario indica i litri consumati in un'ora di moto. La riserva del 30% è il margine di sicurezza da aggiungere al consumo teorico. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
     },
     {
       "id": 95,
@@ -1330,7 +1424,8 @@
         "numero_risposte": 1,
         "formato_riga": "singola_risposta"
       },
-      "risposta": "Carburante 70,5 ÷ 72,5 litri"
+      "risposta": "Carburante 70,5 ÷ 72,5 litri",
+      "spiegazione": "La risposta corretta è Carburante 70,5 ÷ 72,5 litri perché si calcola moltiplicando il consumo orario per la durata del tratto e, se previsto, aggiungendo la riserva del 30%. La prora bussola è la direzione della prua rispetto al Nord bussola. Il punto nave è la posizione dell'unità determinata con carteggio o strumenti di bordo. La riserva del 30% è il margine di sicurezza da aggiungere al consumo teorico. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
     },
     {
       "id": 96,
@@ -1344,7 +1439,8 @@
         "numero_risposte": 1,
         "formato_riga": "singola_risposta"
       },
-      "risposta": "Lat. 42°28’,4 N ÷ 42°29’,0 N Long.\n011°03’,4 E ÷ 011°04’,0 E"
+      "risposta": "Lat. 42°28’,4 N ÷ 42°29’,0 N Long.\n011°03’,4 E ÷ 011°04’,0 E",
+      "spiegazione": "La risposta corretta è Lat. 42°28’,4 N ÷ 42°29’,0 N Long. 011°03’,4 E ÷ 011°04’,0 E perché si ottiene dall intersezione dei rilevamenti o dal punto stimato sulla carta. Il punto nave è la posizione dell'unità determinata con carteggio o strumenti di bordo. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
     },
     {
       "id": 97,
@@ -1358,7 +1454,8 @@
         "numero_risposte": 1,
         "formato_riga": "singola_risposta"
       },
-      "risposta": "Lat. 42°35’,7 N ÷ 42°36’,3 N Long.\n010°56’,8 E ÷ 010°57’,4 E"
+      "risposta": "Lat. 42°35’,7 N ÷ 42°36’,3 N Long.\n010°56’,8 E ÷ 010°57’,4 E",
+      "spiegazione": "La risposta corretta è Lat. 42°35’,7 N ÷ 42°36’,3 N Long. 010°56’,8 E ÷ 010°57’,4 E perché si ottiene dall intersezione dei rilevamenti o dal punto stimato sulla carta. Il rilevamento bussola è misurato rispetto al Nord bussola. La prora vera è la direzione della prua rispetto al Nord vero. Il punto nave è la posizione dell'unità determinata con carteggio o strumenti di bordo. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
     },
     {
       "id": 98,
@@ -1372,7 +1469,8 @@
         "numero_risposte": 1,
         "formato_riga": "singola_risposta"
       },
-      "risposta": "Lat. 42° 24',3 N ÷ 42°24’,9N Long.\n011°00’,7 E ÷ 011°01’,3E"
+      "risposta": "Lat. 42° 24',3 N ÷ 42°24’,9N Long.\n011°00’,7 E ÷ 011°01’,3E",
+      "spiegazione": "La risposta corretta è Lat. 42° 24',3 N ÷ 42°24’,9N Long. 011°00’,7 E ÷ 011°01’,3E perché si ottiene dall intersezione dei rilevamenti o dal punto stimato sulla carta. Il rilevamento bussola è misurato rispetto al Nord bussola. La prora bussola è la direzione della prua rispetto al Nord bussola. Il punto nave è la posizione dell'unità determinata con carteggio o strumenti di bordo. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
     },
     {
       "id": 99,
@@ -1386,7 +1484,8 @@
         "numero_risposte": 1,
         "formato_riga": "singola_risposta"
       },
-      "risposta": "Lat. 42°26’,1 N ÷ 42°26’,7 N Long.\n010°54’,2 E ÷ 010°54’,8 E"
+      "risposta": "Lat. 42°26’,1 N ÷ 42°26’,7 N Long.\n010°54’,2 E ÷ 010°54’,8 E",
+      "spiegazione": "La risposta corretta è Lat. 42°26’,1 N ÷ 42°26’,7 N Long. 010°54’,2 E ÷ 010°54’,8 E perché si ottiene dall intersezione dei rilevamenti o dal punto stimato sulla carta. Il rilevamento vero è misurato rispetto al Nord geografico. Il punto nave è la posizione dell'unità determinata con carteggio o strumenti di bordo. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
     },
     {
       "id": 100,
@@ -1400,7 +1499,8 @@
         "numero_risposte": 1,
         "formato_riga": "singola_risposta"
       },
-      "risposta": "Lat.42° 32’,9 N ÷ 42°33’,5 N Long.\n010°48’,5 E ÷ 010°49’,1 E"
+      "risposta": "Lat.42° 32’,9 N ÷ 42°33’,5 N Long.\n010°48’,5 E ÷ 010°49’,1 E",
+      "spiegazione": "La risposta corretta è Lat.42° 32’,9 N ÷ 42°33’,5 N Long. 010°48’,5 E ÷ 010°49’,1 E perché si ottiene dall intersezione dei rilevamenti o dal punto stimato sulla carta. Il rilevamento bussola è misurato rispetto al Nord bussola. La prora bussola è la direzione della prua rispetto al Nord bussola. Il punto nave è la posizione dell'unità determinata con carteggio o strumenti di bordo. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
     },
     {
       "id": 101,
@@ -1414,7 +1514,8 @@
         "numero_risposte": 1,
         "formato_riga": "singola_risposta"
       },
-      "risposta": "Lat. 42° 33’,5 N ÷ 42°34’,1 N - Long. 010°\n59’,4 E ÷ 011° 00’ E"
+      "risposta": "Lat. 42° 33’,5 N ÷ 42°34’,1 N - Long. 010°\n59’,4 E ÷ 011° 00’ E",
+      "spiegazione": "La risposta corretta è Lat. 42° 33’,5 N ÷ 42°34’,1 N - Long. 010° 59’,4 E ÷ 011° 00’ E perché si ottiene dall intersezione dei rilevamenti o dal punto stimato sulla carta. Il rilevamento vero è misurato rispetto al Nord geografico. L'intercettazione si ricava dall'incontro tra le due rotte o tra la rotta dell'unità soccorritrice e quella dell'unità in difficoltà. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
     },
     {
       "id": 102,
@@ -1428,7 +1529,8 @@
         "numero_risposte": 1,
         "formato_riga": "singola_risposta"
       },
-      "risposta": "Lat. 42° 28’,8 N÷42° 29’,4 N - Long. 011°\n04’,9 E ÷ 011°05’,5 E"
+      "risposta": "Lat. 42° 28’,8 N÷42° 29’,4 N - Long. 011°\n04’,9 E ÷ 011°05’,5 E",
+      "spiegazione": "La risposta corretta è Lat. 42° 28’,8 N÷42° 29’,4 N - Long. 011° 04’,9 E ÷ 011°05’,5 E perché si ottiene dall intersezione dei rilevamenti o dal punto stimato sulla carta. L'intercettazione si ricava dall'incontro tra le due rotte o tra la rotta dell'unità soccorritrice e quella dell'unità in difficoltà. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
     },
     {
       "id": 103,
@@ -1442,7 +1544,8 @@
         "numero_risposte": 1,
         "formato_riga": "singola_risposta"
       },
-      "risposta": "Lat. 42° 35’,0 N ÷ 42° 35’,6 N - Long. 010°\n56’,4 E ÷ 010° 57’,0 E"
+      "risposta": "Lat. 42° 35’,0 N ÷ 42° 35’,6 N - Long. 010°\n56’,4 E ÷ 010° 57’,0 E",
+      "spiegazione": "La risposta corretta è Lat. 42° 35’,0 N ÷ 42° 35’,6 N - Long. 010° 56’,4 E ÷ 010° 57’,0 E perché si ottiene dall intersezione dei rilevamenti o dal punto stimato sulla carta. Il rilevamento vero è misurato rispetto al Nord geografico. L'intercettazione si ricava dall'incontro tra le due rotte o tra la rotta dell'unità soccorritrice e quella dell'unità in difficoltà. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
     },
     {
       "id": 104,
@@ -1456,7 +1559,8 @@
         "numero_risposte": 1,
         "formato_riga": "singola_risposta"
       },
-      "risposta": "Lat. 42°24’,1 N ÷ 42°24’,7 N Long.\n010°54’,5 E ÷ 010°55’,1 E"
+      "risposta": "Lat. 42°24’,1 N ÷ 42°24’,7 N Long.\n010°54’,5 E ÷ 010°55’,1 E",
+      "spiegazione": "La risposta corretta è Lat. 42°24’,1 N ÷ 42°24’,7 N Long. 010°54’,5 E ÷ 010°55’,1 E perché si ottiene dall intersezione dei rilevamenti o dal punto stimato sulla carta. Il rilevamento polare è l'angolo misurato rispetto alla prua dell'unità. Lo scarroccio è la deviazione laterale causata dal vento rispetto alla rotta impostata. Il punto nave è la posizione dell'unità determinata con carteggio o strumenti di bordo. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
     },
     {
       "id": 105,
@@ -1470,7 +1574,8 @@
         "numero_risposte": 1,
         "formato_riga": "singola_risposta"
       },
-      "risposta": "Lat. 42°33’,0 N ÷ 42°33’,6 N Long.\n010°54’,7 E ÷ 010°55’,3 E"
+      "risposta": "Lat. 42°33’,0 N ÷ 42°33’,6 N Long.\n010°54’,7 E ÷ 010°55’,3 E",
+      "spiegazione": "La risposta corretta è Lat. 42°33’,0 N ÷ 42°33’,6 N Long. 010°54’,7 E ÷ 010°55’,3 E perché si ottiene dall intersezione dei rilevamenti o dal punto stimato sulla carta. Lo scarroccio è la deviazione laterale causata dal vento rispetto alla rotta impostata. Al traverso significa a 90° rispetto alla prua, sul lato dell'unità. Il punto nave è la posizione dell'unità determinata con carteggio o strumenti di bordo. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
     },
     {
       "id": 106,
@@ -1484,7 +1589,8 @@
         "numero_risposte": 1,
         "formato_riga": "singola_risposta"
       },
-      "risposta": "Vp = 6,5 ÷7,5 kn"
+      "risposta": "Vp = 6,5 ÷7,5 kn",
+      "spiegazione": "La risposta corretta è Vp = 6,5 ÷7,5 kn perché si ricava dalla distanza da coprire e dal tempo disponibile, correggendo eventualmente per la corrente presente in zona. Lo scarroccio è la deviazione laterale causata dal vento rispetto alla rotta impostata. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
     },
     {
       "id": 107,
@@ -1498,7 +1604,8 @@
         "numero_risposte": 1,
         "formato_riga": "singola_risposta"
       },
-      "risposta": "Lat. 42° 26',9 N ÷ 42°27’,5 N Long. 010°\n59',9 E ÷ 011°00’,5 E"
+      "risposta": "Lat. 42° 26',9 N ÷ 42°27’,5 N Long. 010°\n59',9 E ÷ 011°00’,5 E",
+      "spiegazione": "La risposta corretta è Lat. 42° 26',9 N ÷ 42°27’,5 N Long. 010° 59',9 E ÷ 011°00’,5 E perché si ottiene dall intersezione dei rilevamenti o dal punto stimato sulla carta. Il rilevamento polare è l'angolo misurato rispetto alla prua dell'unità. Lo scarroccio è la deviazione laterale causata dal vento rispetto alla rotta impostata. Il punto nave è la posizione dell'unità determinata con carteggio o strumenti di bordo. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
     },
     {
       "id": 108,
@@ -1512,7 +1619,8 @@
         "numero_risposte": 1,
         "formato_riga": "singola_risposta"
       },
-      "risposta": "Lat. 42° 32',3 N ÷ 42°32’,9 N Long. 011°\n07',8 E ÷ 011°08’,4 E"
+      "risposta": "Lat. 42° 32',3 N ÷ 42°32’,9 N Long. 011°\n07',8 E ÷ 011°08’,4 E",
+      "spiegazione": "La risposta corretta è Lat. 42° 32',3 N ÷ 42°32’,9 N Long. 011° 07',8 E ÷ 011°08’,4 E perché si ottiene dall intersezione dei rilevamenti o dal punto stimato sulla carta. Il rilevamento vero è misurato rispetto al Nord geografico. Lo scarroccio è la deviazione laterale causata dal vento rispetto alla rotta impostata. Al traverso significa a 90° rispetto alla prua, sul lato dell'unità. Il punto nave è la posizione dell'unità determinata con carteggio o strumenti di bordo. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
     }
   ]
 }
