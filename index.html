@@ -1,0 +1,157 @@
+<!doctype html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Patente Nautica Trainer</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;700;800&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="src/styles.css" />
+</head>
+<body>
+  <div class="bg-shape bg-shape-a" aria-hidden="true"></div>
+  <div class="bg-shape bg-shape-b" aria-hidden="true"></div>
+
+  <main class="app-shell">
+    <header class="app-header panel-lite">
+      <div>
+        <p class="app-kicker">Nautica Quiz</p>
+        <h1>Allenamento patente nautica</h1>
+      </div>
+      <div class="header-actions">
+        <button id="open-ranking-btn" class="header-btn" type="button">Classifica errori</button>
+        <button id="reset-memory-btn" class="header-btn danger" type="button">Reset memoria</button>
+        <button id="theme-toggle" class="header-btn" type="button" aria-pressed="false">
+          <span class="theme-dot" aria-hidden="true"></span>
+          <span id="theme-label">Tema scuro</span>
+        </button>
+      </div>
+    </header>
+
+    <section id="setup-view" class="view">
+      <section class="panel setup-panel">
+        <div class="setup-head">
+          <h2>Modalità</h2>
+          <p id="mode-description" class="muted"></p>
+        </div>
+
+        <section class="mode-group" aria-labelledby="primary-title">
+          <h3 id="primary-title">1) Tipo principale</h3>
+          <div id="primary-list" class="mode-list"></div>
+        </section>
+
+        <section id="exam-config" class="custom-config" aria-labelledby="exam-title">
+          <h3 id="exam-title">2) Esame o integrazione</h3>
+          <div id="exam-mode-list" class="mode-list"></div>
+        </section>
+
+        <section id="custom-config" class="custom-config hidden" aria-labelledby="custom-title">
+          <h3 id="custom-title">2) Configurazione</h3>
+          <p id="custom-help" class="muted"></p>
+          <div id="dataset-chips" class="dataset-chips"></div>
+        </section>
+
+        <div class="setup-actions">
+          <button id="start-btn" class="btn btn-primary" type="button">Avvia</button>
+          <button id="reset-btn" class="btn btn-secondary" type="button">Reset selezione</button>
+        </div>
+
+        <p id="load-notice" class="notice" role="status"></p>
+      </section>
+    </section>
+
+    <section id="quiz-view" class="view hidden">
+      <section class="panel quiz-panel" aria-live="polite">
+        <div class="quiz-topbar">
+          <button id="back-to-setup-btn" class="btn btn-secondary" type="button">Selezione</button>
+          <p id="active-mode" class="active-mode"></p>
+          <span id="progress-pill" class="pill">0 / 0</span>
+        </div>
+
+        <div id="section-status" class="section-status hidden"></div>
+        <div id="exam-result" class="exam-result hidden"></div>
+
+        <div class="stats-grid">
+          <div class="stat-card">
+            <span class="stat-label">Corrette</span>
+            <strong id="correct">0</strong>
+          </div>
+          <div class="stat-card">
+            <span class="stat-label">Errori</span>
+            <strong id="wrong">0</strong>
+          </div>
+          <div class="stat-card">
+            <span class="stat-label">Risposte date</span>
+            <strong id="answered">0</strong>
+          </div>
+        </div>
+
+        <article class="question-card">
+          <p id="question-source" class="question-source"></p>
+
+          <div class="question-scroll">
+            <h3 id="question-text">Domanda</h3>
+
+            <figure id="question-image-wrap" class="question-image-wrap hidden">
+              <img id="question-image" alt="Immagine della domanda" loading="lazy" />
+            </figure>
+
+            <div id="answers" class="answers"></div>
+
+            <div id="open-actions" class="open-actions hidden">
+              <button id="show-solution-btn" class="btn btn-secondary" type="button">Mostra soluzione</button>
+            </div>
+
+            <div id="solution" class="solution hidden"></div>
+          </div>
+        </article>
+
+        <div class="helpbar" id="helpbar">
+          <span><kbd>1..9</kbd> risposta</span>
+          <span><kbd>Enter</kbd>/<kbd>→</kbd> invia-avanti</span>
+          <span><kbd>←</kbd> indietro</span>
+          <span><kbd>S</kbd> mostra soluzione</span>
+          <span>aperta: <kbd>1</kbd> giusta, <kbd>2</kbd> sbagliata</span>
+        </div>
+
+        <div class="quiz-nav">
+          <button id="prev-btn" class="btn btn-secondary" type="button">Indietro</button>
+          <button id="next-btn" class="btn btn-primary" type="button">Invia / Avanti</button>
+          <button id="submit-exam-btn" class="btn btn-accent hidden" type="button">Concludi esame</button>
+        </div>
+      </section>
+    </section>
+  </main>
+
+  <div id="ranking-modal" class="ranking-modal hidden" role="dialog" aria-modal="true" aria-labelledby="ranking-title">
+    <section class="ranking-panel">
+      <div class="ranking-head">
+        <h2 id="ranking-title">Classifica domande più sbagliate</h2>
+        <button id="close-ranking-btn" class="btn btn-secondary" type="button">Chiudi</button>
+      </div>
+      <p id="ranking-summary" class="muted"></p>
+      <div id="ranking-list" class="ranking-list"></div>
+    </section>
+  </div>
+
+  <button id="open-support-btn" class="support-fab" type="button" aria-label="Apri supporto e feedback">☕</button>
+
+  <div id="support-modal" class="ranking-modal hidden" role="dialog" aria-modal="true" aria-labelledby="support-title">
+    <section class="ranking-panel support-panel">
+      <div class="ranking-head">
+        <h2 id="support-title">Supporto e feedback</h2>
+        <button id="close-support-btn" class="btn btn-secondary" type="button">Chiudi</button>
+      </div>
+      <p class="muted">Se l'app ti è utile, puoi supportare il progetto o lasciare un feedback.</p>
+      <div class="support-links">
+        <a href="https://www.buymeacoffee.com/moorada" target="_blank" rel="noopener noreferrer" class="support-link-btn">☕ Buy Me a Coffee</a>
+        <a href="https://github.com/moorada/patentenautica/issues/new" target="_blank" rel="noopener noreferrer" class="support-link-btn">📝 Lasciami un feedback</a>
+        <a href="https://github.com/moorada/patentenautica/stargazers" target="_blank" rel="noopener noreferrer" class="support-link-btn">⭐ Metti una stella su GitHub</a>
+      </div>
+    </section>
+  </div>
+
+  <script type="module" src="src/app.js"></script>
+</body>
+</html>

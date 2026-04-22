@@ -1,0 +1,4266 @@
+[
+  {
+    "id": 1,
+    "immagine": [],
+    "domanda": "Lo scafo di un'unità navale a vela è la parte immersa della deriva.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": false
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": true
+    },
+    "meta": {
+      "table_index": 0,
+      "row_index": 0
+    }
+  },
+  {
+    "id": 2,
+    "immagine": [],
+    "domanda": "Lo scafo di un'unità a vela è la struttura galleggiante e portante della stessa.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 0,
+      "row_index": 1
+    }
+  },
+  {
+    "id": 3,
+    "immagine": [],
+    "domanda": "La presenza del bulbo zavorrato in un'unità navale a vela ha la funzione di fornire alla stessa una maggiore stabilità per contrastare le azioni esterne (vento).",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 0,
+      "row_index": 2
+    }
+  },
+  {
+    "id": 4,
+    "immagine": [],
+    "domanda": "La presenza del bulbo zavorrato in un'unità navale a vela ha la funzione di offrire alla stessa una maggior penetrazione alla prua, tale da farle raggiungere velocità più elevate.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": false
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": true
+    },
+    "meta": {
+      "table_index": 0,
+      "row_index": 3
+    }
+  },
+  {
+    "id": 5,
+    "immagine": [],
+    "domanda": "La vela si orienta in relazione al flusso del vento.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 0,
+      "row_index": 4
+    }
+  },
+  {
+    "id": 6,
+    "immagine": [],
+    "domanda": "Per andatura si intende la direzione verso cui la stessa procede rispetto alla direzione di provenienza del vento.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 0,
+      "row_index": 5
+    }
+  },
+  {
+    "id": 7,
+    "immagine": [],
+    "domanda": "Per andatura si intende la velocità riaggiunta dall'unità navale a vela rispetto alla direzione di provenienza del vento",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": false
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": true
+    },
+    "meta": {
+      "table_index": 0,
+      "row_index": 6
+    }
+  },
+  {
+    "id": 8,
+    "immagine": [],
+    "domanda": "Quando l'unità a vela si muove a favore di vento, il vento apparente equivale alla differenza tra il vento reale e quello di velocità dell'unità navale stessa.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 0,
+      "row_index": 7
+    }
+  },
+  {
+    "id": 9,
+    "immagine": [],
+    "domanda": "Quando l'unità a vela si muove a favore di vento, il vento apparente, corrisponde alla somma tra il vento reale e quello di velocità dell'unità navale",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": false
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": true
+    },
+    "meta": {
+      "table_index": 0,
+      "row_index": 8
+    }
+  },
+  {
+    "id": 10,
+    "immagine": [],
+    "domanda": "Quando l'unità a vela si muove controvento, il vento apparente corrisponde alla somma tra il vento reale e quello di velocità dell'unità navale.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 1,
+      "row_index": 0
+    }
+  },
+  {
+    "id": 11,
+    "immagine": [],
+    "domanda": "Quando l'unità a vela si muove controvento, il vento apparente è pari al vento di velocità dell'unità navale stessa.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": false
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": true
+    },
+    "meta": {
+      "table_index": 1,
+      "row_index": 1
+    }
+  },
+  {
+    "id": 12,
+    "immagine": [],
+    "domanda": "Durante la navigazione di una unità a vela, il vento apparente è sempre orientato più a proravia rispetto al vento reale.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 1,
+      "row_index": 2
+    }
+  },
+  {
+    "id": 13,
+    "immagine": [],
+    "domanda": "Durante la navigazione di una unità a vela, il vento apparente, è sempre orientato ortogonalmente rispetto al vento reale.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": false
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": true
+    },
+    "meta": {
+      "table_index": 1,
+      "row_index": 3
+    }
+  },
+  {
+    "id": 14,
+    "immagine": [],
+    "domanda": "Durante la navigazione a vela, il vento apparente ha un'intensità tanto maggiore quanto più l'unità navale procede verso la direzione da cui proviene il vento.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 1,
+      "row_index": 4
+    }
+  },
+  {
+    "id": 15,
+    "immagine": [],
+    "domanda": "Durante la navigazione di una navale a vela, il vento apparente ha un'intensità tanto maggiore quanto più l'unità navale si discosta dalla direzione da cui proviene il vento.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": false
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": true
+    },
+    "meta": {
+      "table_index": 1,
+      "row_index": 5
+    }
+  },
+  {
+    "id": 16,
+    "immagine": [],
+    "domanda": "Per andatura di \"bolina\" si intende quando una unità a vela procede con una direzione di rotta che forma un angolo di circa 135° rispetto alla direzione del vento reale.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": false
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": true
+    },
+    "meta": {
+      "table_index": 1,
+      "row_index": 6
+    }
+  },
+  {
+    "id": 17,
+    "immagine": [],
+    "domanda": "Per andatura al \"traverso\" si intende quando una unità a vela procede con una direzione di rotta che forma un angolo di 45° rispetto alla direzione del vento reale.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": false
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": true
+    },
+    "meta": {
+      "table_index": 1,
+      "row_index": 7
+    }
+  },
+  {
+    "id": 18,
+    "immagine": [],
+    "domanda": "Per andatura di lasco si intende quando una unità a vela procede con una direzione di rotta che forma un angolo di circa 45° rispetto alla direzione del vento reale.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": false
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": true
+    },
+    "meta": {
+      "table_index": 1,
+      "row_index": 8
+    }
+  },
+  {
+    "id": 19,
+    "immagine": [],
+    "domanda": "Per andatura di poppa si intende quando una unità a vela procede con una direzione di rotta che forma un angolo di 90° rispetto alla direzione del vento reale.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": false
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": true
+    },
+    "meta": {
+      "table_index": 1,
+      "row_index": 9
+    }
+  },
+  {
+    "id": 20,
+    "immagine": [],
+    "domanda": "Procedendo di bolina, la velocita avvertita dell'unità a vela sembra elevata perché l'intensità del vento percepita risulta superiore rispetto a quella reale.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 1,
+      "row_index": 10
+    }
+  },
+  {
+    "id": 21,
+    "immagine": [],
+    "domanda": "Procedendo di bolina, la velocita avvertita dell'unità a vela sembra elevata perché l'intensità del vento percepita risulta inferiore rispetto a quella reale.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": false
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": true
+    },
+    "meta": {
+      "table_index": 2,
+      "row_index": 0
+    }
+  },
+  {
+    "id": 22,
+    "immagine": [],
+    "domanda": "Procedendo di poppa, la velocita avvertita dell'unità a vela sembra minore perché l'intensità del vento percepita risulta inferiore rispetto a quella reale.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 2,
+      "row_index": 1
+    }
+  },
+  {
+    "id": 23,
+    "immagine": [],
+    "domanda": "Procedendo di poppa, la velocita avvertita dell'unità navale a vela sembra minore perché l'intensità del vento percepita risulta superiore rispetto a quella reale.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": false
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": true
+    },
+    "meta": {
+      "table_index": 2,
+      "row_index": 2
+    }
+  },
+  {
+    "id": 24,
+    "immagine": [],
+    "domanda": "Per \"settore di bordeggio\", o \"angolo morto\", si intende quel settore controvento entro il quale una unità a vela non può indirizzare la sua prua per mancanza di portanza delle vele.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 2,
+      "row_index": 3
+    }
+  },
+  {
+    "id": 25,
+    "immagine": [],
+    "domanda": "Per \"settore di bordeggio\", o \"angolo morto\", si intende quel settore entro il quale una unità a vela può navigare al fine di aumentare la velocità per raggiungere una determinata destinazione.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": false
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": true
+    },
+    "meta": {
+      "table_index": 2,
+      "row_index": 4
+    }
+  },
+  {
+    "id": 26,
+    "immagine": [],
+    "domanda": "Un temporaneo aumento dell'intensità del vento reale (raffica) comporta una favorevole variazione della direzione del vento apparente per assumere un migliore angolo di bolina.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 2,
+      "row_index": 5
+    }
+  },
+  {
+    "id": 27,
+    "immagine": [],
+    "domanda": "Una temporanea attenuazione dell'intensità del vento reale comporta una favorevole variazione della direzione del vento apparente per assumere un migliore angolo di bolina.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": false
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": true
+    },
+    "meta": {
+      "table_index": 2,
+      "row_index": 6
+    }
+  },
+  {
+    "id": 28,
+    "immagine": [],
+    "domanda": "L'angolo di incidenza risulta essere l'angolo formato tra la direzione del vento apparente e quella verso cui è orientata la vela.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 2,
+      "row_index": 7
+    }
+  },
+  {
+    "id": 29,
+    "immagine": [],
+    "domanda": "Il centro velico risulta essere il punto di applicazione della forza del vento apparente sulle vele e sull'opera morta.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": false
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": true
+    },
+    "meta": {
+      "table_index": 2,
+      "row_index": 8
+    }
+  },
+  {
+    "id": 30,
+    "immagine": [],
+    "domanda": "Il centro di deriva risulta essere il centro geometrico della superficie di deriva posto sotto la chiglia dell'unità a vela.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": false
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": true
+    },
+    "meta": {
+      "table_index": 2,
+      "row_index": 9
+    }
+  },
+  {
+    "id": 31,
+    "immagine": [],
+    "domanda": "Il centro velico e il centro di deriva si influenzano tra loro generando effetti che sono individuabili e prevedibili per ogni unità a vela.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 2,
+      "row_index": 10
+    }
+  },
+  {
+    "id": 32,
+    "immagine": [],
+    "domanda": "In condizioni di timone al centro, quando il centro velico è allineato con il centro di deriva, l'unità a vela si definisce \"neutra\" (né poggiera né orziera).",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 3,
+      "row_index": 0
+    }
+  },
+  {
+    "id": 33,
+    "immagine": [],
+    "domanda": "In condizioni di timone al centro, quando il centro velico è allineato con il centro di deriva, l'unità a vela si avvicina alla direzione del vento (orziera).",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": false
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": true
+    },
+    "meta": {
+      "table_index": 3,
+      "row_index": 1
+    }
+  },
+  {
+    "id": 34,
+    "immagine": [],
+    "domanda": "La posizione del centro velico nelle unità a vela dipende dalla superficie e dalla forma delle vele, dalla reciproca influenza tra le vele bordate e dalla messa a punto dell'attrezzatura.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 3,
+      "row_index": 2
+    }
+  },
+  {
+    "id": 35,
+    "immagine": [],
+    "domanda": "Per \"planata\" si intende lo stato in cui viene a trovarsi l'unità a vela navigando in condizioni di equilibrio dinamico sulla cresta dell'onda generato dal suo medesimo avanzamento.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 3,
+      "row_index": 3
+    }
+  },
+  {
+    "id": 36,
+    "immagine": [],
+    "domanda": "La \"messa a segno\" delle vele è generata dal vento apparente durante la navigazione.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 3,
+      "row_index": 4
+    }
+  },
+  {
+    "id": 37,
+    "immagine": [],
+    "domanda": "La pressione esercitata dal vento sulle vele dipende dall'angolo di incidenza.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 3,
+      "row_index": 5
+    }
+  },
+  {
+    "id": 38,
+    "immagine": [],
+    "domanda": "La pressione esercitata dal vento sulle vele dipende esclusivamente dal valore della prora assunta dall'unità.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": false
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": true
+    },
+    "meta": {
+      "table_index": 3,
+      "row_index": 6
+    }
+  },
+  {
+    "id": 39,
+    "immagine": [],
+    "domanda": "La forza di scarroccio risulta perpendicolare all'asse longitudinale dell'unità a vela.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 3,
+      "row_index": 7
+    }
+  },
+  {
+    "id": 40,
+    "immagine": [],
+    "domanda": "La forza di propulsione risulta perpendicolare all'asse longitudinale dell'unità a vela.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": false
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": true
+    },
+    "meta": {
+      "table_index": 3,
+      "row_index": 8
+    }
+  },
+  {
+    "id": 41,
+    "immagine": [],
+    "domanda": "l'albero di un'unità a vela inclinato verso poppa rende la stessa tendenzialmente orziera.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 3,
+      "row_index": 9
+    }
+  },
+  {
+    "id": 42,
+    "immagine": [],
+    "domanda": "L'albero di un'unità a vela inclinato verso prua rende la stessa tendenzialmente poggiera.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 3,
+      "row_index": 10
+    }
+  },
+  {
+    "id": 43,
+    "immagine": [],
+    "domanda": "La funzione delle stecche poste sulla randa è quella di conservare inalterata la forma della vela in qualsiasi condizione meteomarina.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 4,
+      "row_index": 0
+    }
+  },
+  {
+    "id": 44,
+    "immagine": [],
+    "domanda": "La funzione delle stecche poste sulla randa è quella di garantire l'ottimale indicazione della direzione del vento sulla vela?",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": false
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": true
+    },
+    "meta": {
+      "table_index": 4,
+      "row_index": 1
+    }
+  },
+  {
+    "id": 45,
+    "immagine": [],
+    "domanda": "Con riguardo alla teoria della vela, il multiscafo ha una maggiore stabilità.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 4,
+      "row_index": 2
+    }
+  },
+  {
+    "id": 46,
+    "immagine": [],
+    "domanda": "Il bulbo zavorrato di un'unità a vela fornisce maggiore stabilità per contrastare l'azione esterna del vento.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 4,
+      "row_index": 3
+    }
+  },
+  {
+    "id": 47,
+    "immagine": [],
+    "domanda": "La stabilità di un'imbarcazione a vela è assicurata dal bulbo zavorrato.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 4,
+      "row_index": 4
+    }
+  },
+  {
+    "id": 48,
+    "immagine": [],
+    "domanda": "La vela tende, per sua natura, ad assumere una posizione neutra di 45° rispetto al flusso del vento e a ricevere una spinta in tale direzione.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": false
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": true
+    },
+    "meta": {
+      "table_index": 4,
+      "row_index": 5
+    }
+  },
+  {
+    "id": 49,
+    "immagine": [],
+    "domanda": "Per andatura si intende la direzione verso cui procede un'unità a vela rispetto alla direzione di provenienza del vento.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 4,
+      "row_index": 6
+    }
+  },
+  {
+    "id": 50,
+    "immagine": [],
+    "domanda": "Si chiama \"bolina\" l'andatura in cui l'unità a vela procede con una direzione di rotta che forma un angolo di circa 45° rispetto alla direzione del vento reale.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 4,
+      "row_index": 7
+    }
+  },
+  {
+    "id": 51,
+    "immagine": [],
+    "domanda": "Si chiama \"lasco\" l'andatura in cui l'unità a vela procede con una direzione di rotta che forma un angolo di circa 135° rispetto alla direzione del vento reale.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 4,
+      "row_index": 8
+    }
+  },
+  {
+    "id": 52,
+    "immagine": [],
+    "domanda": "Si chiama \"traverso\" l'andatura in cui l'unità a vela procede con una direzione di rotta che forma un angolo di 90° rispetto alla direzione del vento reale.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 4,
+      "row_index": 9
+    }
+  },
+  {
+    "id": 53,
+    "immagine": [],
+    "domanda": "Si chiama \"lasco\" l'andatura in cui l'unità a vela procede con una direzione di rotta che forma un angolo di circa 90° rispetto alla direzione del vento reale.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": false
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": true
+    },
+    "meta": {
+      "table_index": 4,
+      "row_index": 10
+    }
+  },
+  {
+    "id": 54,
+    "immagine": [],
+    "domanda": "Si chiama \"poppa\" o \"fil di ruota\" l'andatura in cui l'unità a vela procede con una direzione di rotta che forma un angolo di 180° rispetto alla direzione del vento reale.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 5,
+      "row_index": 0
+    }
+  },
+  {
+    "id": 55,
+    "immagine": [],
+    "domanda": "Procedendo di bolina, a bordo il vento percepito risulta d'intensità superiore a quella reale.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 5,
+      "row_index": 1
+    }
+  },
+  {
+    "id": 56,
+    "immagine": [],
+    "domanda": "Procedendo di poppa la velocita avvertita dell'unità a vela sembra elevata perché l'intensità del vento percepita risulta superiore rispetto a quella reale.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": false
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": true
+    },
+    "meta": {
+      "table_index": 5,
+      "row_index": 2
+    }
+  },
+  {
+    "id": 57,
+    "immagine": [],
+    "domanda": "Il settore di bordeggio è la zona dello scafo di un'unità navale a vela che concorre a fornire la spinta velica e quindi ad incrementare la velocità della stessa in funzione della direzione del vento.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": false
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": true
+    },
+    "meta": {
+      "table_index": 5,
+      "row_index": 3
+    }
+  },
+  {
+    "id": 58,
+    "immagine": [],
+    "domanda": "Si intende per lato sottovento, la superficie sopravvento della vela che è sottoposta a una depressione.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": false
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": true
+    },
+    "meta": {
+      "table_index": 5,
+      "row_index": 4
+    }
+  },
+  {
+    "id": 59,
+    "immagine": [],
+    "domanda": "Il centro velico è il punto di applicazione della risultante delle forze dovute all'azione del vento sulle vele.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 5,
+      "row_index": 5
+    }
+  },
+  {
+    "id": 60,
+    "immagine": [],
+    "domanda": "E' il centro velico il punto di applicazione delle forza idrodinamica sullo scafo dovuta allo scarroccio.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": false
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": true
+    },
+    "meta": {
+      "table_index": 5,
+      "row_index": 6
+    }
+  },
+  {
+    "id": 61,
+    "immagine": [],
+    "domanda": "Il centro di deriva è il centro dello scafo a vela di piccole dimensioni.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": false
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": true
+    },
+    "meta": {
+      "table_index": 5,
+      "row_index": 7
+    }
+  },
+  {
+    "id": 62,
+    "immagine": [],
+    "domanda": "Il centro di deriva è il punto di applicazione della resistenza laterale che si oppone alle forze idrodinamiche esercitate sull'opera viva.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 5,
+      "row_index": 8
+    }
+  },
+  {
+    "id": 63,
+    "immagine": [],
+    "domanda": "Il centro velico e il centro di deriva servono per determinare il punto nave a vela.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": false
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": true
+    },
+    "meta": {
+      "table_index": 5,
+      "row_index": 9
+    }
+  },
+  {
+    "id": 64,
+    "immagine": [],
+    "domanda": "In condizioni di timone neutro (al centro), quando il centro velico è collocato a proravia del centro di deriva, l'unità navale a vela si allontanata dalla direzione del vento (è poggiera).",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 5,
+      "row_index": 10
+    }
+  },
+  {
+    "id": 65,
+    "immagine": [],
+    "domanda": "In condizioni di timone neutro (al centro), quando il centro velico è allineato con il centro di deriva, l'unità navale a vela si definisce equilibrata (né poggiera né orziera).",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 6,
+      "row_index": 0
+    }
+  },
+  {
+    "id": 66,
+    "immagine": [],
+    "domanda": "La posizione del centro velico per le unità navali a vela dipende dalla forma della vela, dalla reciproca influenza tra le vele bordate e dalla messa a punto dell'attrezzatura.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 6,
+      "row_index": 1
+    }
+  },
+  {
+    "id": 67,
+    "immagine": [],
+    "domanda": "La posizione del centro di deriva delle unità a vela dipende dalla forma delle vele.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": false
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": true
+    },
+    "meta": {
+      "table_index": 6,
+      "row_index": 2
+    }
+  },
+  {
+    "id": 68,
+    "immagine": [],
+    "domanda": "Si intende per sopravento, il lato dell'unità ubicato al di sotto del punto di applicazione del vento apparente.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": false
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": true
+    },
+    "meta": {
+      "table_index": 6,
+      "row_index": 3
+    }
+  },
+  {
+    "id": 69,
+    "immagine": [],
+    "domanda": "Si intende per sottovento, il lato dell'unità opposto rispetto a quello su cui batte il vento.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 6,
+      "row_index": 4
+    }
+  },
+  {
+    "id": 70,
+    "immagine": [],
+    "domanda": "La dizione di \"mure a dritta/mure a sinistra\" indica la parte prodiera dello scafo sulla quale si infrangono le onde.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": false
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": true
+    },
+    "meta": {
+      "table_index": 6,
+      "row_index": 5
+    }
+  },
+  {
+    "id": 71,
+    "immagine": [],
+    "domanda": "Per grasso della vela si intende la parte della vela più prossima alla tensione della drizza.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": false
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": true
+    },
+    "meta": {
+      "table_index": 6,
+      "row_index": 6
+    }
+  },
+  {
+    "id": 72,
+    "immagine": [],
+    "domanda": "Il piano velico è l'organizzazione delle vele di un'imbarcazione come da progetto ed è essenzialmente caratterizzato dal numero di alberi e dal tipo di vele a disposizione.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 6,
+      "row_index": 7
+    }
+  },
+  {
+    "id": 73,
+    "immagine": [],
+    "domanda": "Per portanza si intende il peso complessivo di tutte le attrezzature veliche imbarcate su un'unità a vela.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": false
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": true
+    },
+    "meta": {
+      "table_index": 6,
+      "row_index": 8
+    }
+  },
+  {
+    "id": 74,
+    "immagine": [],
+    "domanda": "Lo svergolamento della vela dipende dalla velocità del vento reale che aumenta in funzione dell'altezza da cui spira rispetto alla superficie del mare.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 6,
+      "row_index": 9
+    }
+  },
+  {
+    "id": 75,
+    "immagine": [],
+    "domanda": "Per \"straorza\" si intende l'improvviso cambio di prua verso la direzione di provenienza del vento, causato da una raffica o da un'onda particolarmente intensa.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 6,
+      "row_index": 10
+    }
+  },
+  {
+    "id": 76,
+    "immagine": [],
+    "domanda": "Per \"strapoggia\" si intende l'improvviso allontanarsi della prua dalla direzione del vento tale anche da causare una strambata.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 7,
+      "row_index": 0
+    }
+  },
+  {
+    "id": 77,
+    "immagine": [],
+    "domanda": "Per \"raffica\" si intende una particolare tipologia di venti, di rilevante intensità, che spirano prevalentemente da levante o da ponente.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": false
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": true
+    },
+    "meta": {
+      "table_index": 7,
+      "row_index": 1
+    }
+  },
+  {
+    "id": 78,
+    "immagine": [],
+    "domanda": "Per \"scarroccio\" si intende la traslazione laterale dell'unità a vela per effetto del vento esercitato sullo scafo durante la navigazione.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 7,
+      "row_index": 2
+    }
+  },
+  {
+    "id": 79,
+    "immagine": [],
+    "domanda": "Un'unità a vela scuffia quando si ribalta, immergendo l'albero anche fino a 180° rispetto alla posizione iniziale.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 7,
+      "row_index": 3
+    }
+  },
+  {
+    "id": 80,
+    "immagine": [],
+    "domanda": "Si intende per \"smagrire\" la vela il variare della superficie portante della stessa riducendone la sua concavità.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 7,
+      "row_index": 4
+    }
+  },
+  {
+    "id": 81,
+    "immagine": [],
+    "domanda": "Si dice \"stringere il vento\" il condurre l'unità a vela lascando quanto più possibile le vele, allontanando la prua dalla direzione dalla quale proviene il vento.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": false
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": true
+    },
+    "meta": {
+      "table_index": 7,
+      "row_index": 5
+    }
+  },
+  {
+    "id": 82,
+    "immagine": [],
+    "domanda": "Si dice \"poggiare\" il condurre l'unità a vela lascando quanto più possibile le vele, allontanando la prua dalla direzione dalla quale proviene il vento.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 7,
+      "row_index": 6
+    }
+  },
+  {
+    "id": 83,
+    "immagine": [],
+    "domanda": "La forza di propulsione risulta parallela all'asse longitudinale dell'unità navale a vela.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 7,
+      "row_index": 7
+    }
+  },
+  {
+    "id": 84,
+    "immagine": [],
+    "domanda": "La forza di scarroccio e la forza di propulsione danno origine alla forza risultante generata dal vento sulla superificie velica.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 7,
+      "row_index": 8
+    }
+  },
+  {
+    "id": 85,
+    "immagine": [],
+    "domanda": "Si intende per \"corda\" della vela la linea idealmente tracciata per unire le due estremità del profilo della vela.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 7,
+      "row_index": 9
+    }
+  },
+  {
+    "id": 86,
+    "immagine": [],
+    "domanda": "La concavità della vela assolve alla funzione di diminuire la resistenza all'avanzamento dell'unità.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": false
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": true
+    },
+    "meta": {
+      "table_index": 7,
+      "row_index": 10
+    }
+  },
+  {
+    "id": 87,
+    "immagine": [],
+    "domanda": "Lo spostamento del peso dell'equipaggio a bordo durante la navigazione a vela può servire a contrastare l'azione sbandante generata dallo scarroccio e dalla forza propulsiva.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": false
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": true
+    },
+    "meta": {
+      "table_index": 8,
+      "row_index": 0
+    }
+  },
+  {
+    "id": 88,
+    "immagine": [],
+    "domanda": "Per contrastare la tendenza poggera dell'unità a vela è utile spostare i pesi verso prua.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 8,
+      "row_index": 1
+    }
+  },
+  {
+    "id": 89,
+    "immagine": [],
+    "domanda": "Per contrastare la tendenza orziera dell'unità a vela è utile spostare i pesi verso l'albero.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": false
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": true
+    },
+    "meta": {
+      "table_index": 8,
+      "row_index": 2
+    }
+  },
+  {
+    "id": 90,
+    "immagine": [],
+    "domanda": "E' meglio evitare un'impostazione troppo poggera di un'unità perché tale impostazione limita notevolmente l'azione del timone.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": false
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": true
+    },
+    "meta": {
+      "table_index": 8,
+      "row_index": 3
+    }
+  },
+  {
+    "id": 91,
+    "immagine": [],
+    "domanda": "Un'unità in navigazione a vela con andatura di bolina, se eccessivamente sbandata sottovento, subisce un aumento della velocità e una miglior performance delle vele bordate.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": false
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": true
+    },
+    "meta": {
+      "table_index": 8,
+      "row_index": 4
+    }
+  },
+  {
+    "id": 92,
+    "immagine": [],
+    "domanda": "E' meglio preferire un'impostazione orziera di un'unità a vela perché tale impostazione favorisce le prestazioni.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 8,
+      "row_index": 5
+    }
+  },
+  {
+    "id": 93,
+    "immagine": [],
+    "domanda": "L'inclinazione verso la prua dell'albero di un'unità a vela rende la stessa tendenzialmente poggera.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 8,
+      "row_index": 6
+    }
+  },
+  {
+    "id": 94,
+    "immagine": [],
+    "domanda": "L'inclinazione verso la poppa dell'albero di un'unità a vela rende la stessa tendenzialmente poggera.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": false
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": true
+    },
+    "meta": {
+      "table_index": 8,
+      "row_index": 7
+    }
+  },
+  {
+    "id": 95,
+    "immagine": [],
+    "domanda": "Lascare la drizza e la base della randa aumenta la concavità della vela (grasso) e le fa assumere una configurazione adatta all'andatura in fil di ruota.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 8,
+      "row_index": 8
+    }
+  },
+  {
+    "id": 96,
+    "immagine": [],
+    "domanda": "L'angolo di incidenza è quello formato tra la direzione del vento apparente e quella verso cui è orientata la vela, in pratica l'angolo con cui il profilo fende l'aria.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 8,
+      "row_index": 9
+    }
+  },
+  {
+    "id": 97,
+    "immagine": [],
+    "domanda": "La spinta della randa è principalmente orziera, quella del genoa o del fiocco tendenzialmente poggiera.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 8,
+      "row_index": 10
+    }
+  },
+  {
+    "id": 98,
+    "immagine": [],
+    "domanda": "Al crescere del vento si cazzano cunningham (o la drizza randa), il tesabase, la drizza genova.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 9,
+      "row_index": 0
+    }
+  },
+  {
+    "id": 99,
+    "immagine": [],
+    "domanda": "Al crescere del vento è utile spostare verso prua il carrello del genoa.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": false
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": true
+    },
+    "meta": {
+      "table_index": 9,
+      "row_index": 1
+    }
+  },
+  {
+    "id": 100,
+    "immagine": [],
+    "domanda": "Negli armamenti frazionati, le sartie volanti servono a sostenere l'albero, controbilanciando lo sforzo trasmesso dalle vele allo strallo.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 9,
+      "row_index": 2
+    }
+  },
+  {
+    "id": 101,
+    "immagine": [],
+    "domanda": "Negli armamenti frazionati con crocette acquartierate verso poppa e paterazzo, le sartie volanti possono dare supporto all'albero ma non sono strutturali.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 9,
+      "row_index": 3
+    }
+  },
+  {
+    "id": 102,
+    "immagine": [],
+    "domanda": "Si intende per unità attrezzata con armo frazionato quella in cui lo strallo non è \"incappellato\" in testa d'albero.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 9,
+      "row_index": 4
+    }
+  },
+  {
+    "id": 103,
+    "immagine": [],
+    "domanda": "Si intende per unità attrezzata con armo frazionato quella il cui scafo è suddiviso in almeno tre compartimenti.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": false
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": true
+    },
+    "meta": {
+      "table_index": 9,
+      "row_index": 5
+    }
+  },
+  {
+    "id": 104,
+    "immagine": [],
+    "domanda": "Le crocette garantiscono un'adeguato punto di forza e ritenuta delle scotte sul piano di coperta.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": false
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": true
+    },
+    "meta": {
+      "table_index": 9,
+      "row_index": 6
+    }
+  },
+  {
+    "id": 105,
+    "immagine": [],
+    "domanda": "Le crocette servono a tensionare le sartie che sorreggono l'albero lateralmente.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 9,
+      "row_index": 7
+    }
+  },
+  {
+    "id": 106,
+    "immagine": [],
+    "domanda": "La regolazione delle sartie si attua attraverso l'utilizzo del carrello della scotta.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": false
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": true
+    },
+    "meta": {
+      "table_index": 9,
+      "row_index": 8
+    }
+  },
+  {
+    "id": 107,
+    "immagine": [],
+    "domanda": "L'avvolgifiocco è una particolare galloccia dove viene avvolta la scotta sottovento del fiocco.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": false
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": true
+    },
+    "meta": {
+      "table_index": 9,
+      "row_index": 9
+    }
+  },
+  {
+    "id": 108,
+    "immagine": [],
+    "domanda": "La balumina è il lato più corto della randa, che si introduce all'interno della canaletta del boma.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": false
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": true
+    },
+    "meta": {
+      "table_index": 9,
+      "row_index": 10
+    }
+  },
+  {
+    "id": 109,
+    "immagine": [],
+    "domanda": "La ralinga della randa è il cavo cucito nel lato di inferitura per essere introdotto all'interno della canaletta dell'albero.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 10,
+      "row_index": 0
+    }
+  },
+  {
+    "id": 110,
+    "immagine": [],
+    "domanda": "Per \"base\" della randa si intende il lato libero della vela dove sono ricavate le tasche per poter introdurre le stecche.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": false
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": true
+    },
+    "meta": {
+      "table_index": 10,
+      "row_index": 1
+    }
+  },
+  {
+    "id": 111,
+    "immagine": [],
+    "domanda": "Per \"angolo di scotta\" della randa si intende quello compreso tra la base e la balumina, dove è agganciato il tesabase.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 10,
+      "row_index": 2
+    }
+  },
+  {
+    "id": 112,
+    "immagine": [],
+    "domanda": "Per \"angolo di penna\" della randa si intende l'angolo compreso tra la base e la ralinga ove è agganciata la trozza del boma.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": false
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": true
+    },
+    "meta": {
+      "table_index": 10,
+      "row_index": 3
+    }
+  },
+  {
+    "id": 113,
+    "immagine": [],
+    "domanda": "Per \"angolo di mura\" della randa si intende l'angolo compreso tra la balumina e la ralinga, posto all'estremità superiore della vela, ove è agganciata la drizza.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": false
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": true
+    },
+    "meta": {
+      "table_index": 10,
+      "row_index": 4
+    }
+  },
+  {
+    "id": 114,
+    "immagine": [],
+    "domanda": "Il fiocco consente all'unità a vela di navigare esclusivamente con angoli compresi tra i 40° e i 70° rispetto alla direzione da cui spira il vento.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": false
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": true
+    },
+    "meta": {
+      "table_index": 10,
+      "row_index": 5
+    }
+  },
+  {
+    "id": 115,
+    "immagine": [],
+    "domanda": "La randa rappresenta la vela principale di un'unità a vela, ubicata a poppavia dell'albero, e di forma triangolare.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 10,
+      "row_index": 6
+    }
+  },
+  {
+    "id": 116,
+    "immagine": [],
+    "domanda": "Il genoa o genova rappresenta una particolare tipologia di vela prodiera avente una superficie ridotta utilizzata in caso di condizioni meteo marine avverse.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": false
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": true
+    },
+    "meta": {
+      "table_index": 10,
+      "row_index": 7
+    }
+  },
+  {
+    "id": 117,
+    "immagine": [],
+    "domanda": "Il genoa o genova è la vela prodiera avente una superficie che non si sovrappone a quella della randa.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": false
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": true
+    },
+    "meta": {
+      "table_index": 10,
+      "row_index": 8
+    }
+  },
+  {
+    "id": 118,
+    "immagine": [],
+    "domanda": "Il genoa (o genova) oltrepassa l'albero verso poppa fino a una lunghezza generalmente pari al 50% della distanza fra l'albero e il punto di mura .",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 10,
+      "row_index": 9
+    }
+  },
+  {
+    "id": 119,
+    "immagine": [],
+    "domanda": "Il fiocco è la vela prodiera avente una superficie che non si sovrappone a quella della randa.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 10,
+      "row_index": 10
+    }
+  },
+  {
+    "id": 120,
+    "immagine": [],
+    "domanda": "Lo spinnaker rappresenta la vela principale, utilizzata in particolar modo nelle andature di bolina al fine di dare maggiore potenza e superficie velica.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": false
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": true
+    },
+    "meta": {
+      "table_index": 11,
+      "row_index": 0
+    }
+  },
+  {
+    "id": 121,
+    "immagine": [],
+    "domanda": "Il gennaker è una vela asimmetrica adatta alle andature comprese tra il traverso e il lasco (60°- 120° dal vento).",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 11,
+      "row_index": 1
+    }
+  },
+  {
+    "id": 122,
+    "immagine": [],
+    "domanda": "Il code 0 è una vela asimmetrica adatta alle andature con poco vento comprese tra la bolina larga e il traverso.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 11,
+      "row_index": 2
+    }
+  },
+  {
+    "id": 123,
+    "immagine": [],
+    "domanda": "Il code 0 è una vela inferita.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": false
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": true
+    },
+    "meta": {
+      "table_index": 11,
+      "row_index": 3
+    }
+  },
+  {
+    "id": 124,
+    "immagine": [],
+    "domanda": "Lo sloop è l'armo caratterizzato dalla presenza di un solo albero e la possibilità di issare una sola vela di prua alla volta.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 11,
+      "row_index": 4
+    }
+  },
+  {
+    "id": 125,
+    "immagine": [],
+    "domanda": "Il cutter è l'armo caratterizzato dalla presenza di un solo albero, armato con due fiocchi contemporaneamente.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 11,
+      "row_index": 5
+    }
+  },
+  {
+    "id": 126,
+    "immagine": [],
+    "domanda": "Il ketch è quell'armo caratterizzato dalla presenza dell'albero di mezzana a proravia dell'asse del timone.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 11,
+      "row_index": 6
+    }
+  },
+  {
+    "id": 127,
+    "immagine": [],
+    "domanda": "Tra le manovre fisse vi sono drizze e scotte.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": false
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": true
+    },
+    "meta": {
+      "table_index": 11,
+      "row_index": 7
+    }
+  },
+  {
+    "id": 128,
+    "immagine": [],
+    "domanda": "Tra le manovre correnti vi sono stralli e sartie.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": false
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": true
+    },
+    "meta": {
+      "table_index": 11,
+      "row_index": 8
+    }
+  },
+  {
+    "id": 129,
+    "immagine": [],
+    "domanda": "Il paranco di scotta assolve la funzione di demoltiplicare lo sforzo.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 11,
+      "row_index": 9
+    }
+  },
+  {
+    "id": 130,
+    "immagine": [
+      {
+        "rid": "rId5",
+        "path": "immagini_vela/rId5.jpeg",
+        "original_part": "word/media/image1.jpeg",
+        "content_type": "image/jpeg"
+      }
+    ],
+    "domanda": "Quello rappresentato in figura è un paranco con un rapporto 6:1",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": false
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": true
+    },
+    "meta": {
+      "table_index": 12,
+      "row_index": 0
+    }
+  },
+  {
+    "id": 131,
+    "immagine": [
+      {
+        "rid": "rId6",
+        "path": "immagini_vela/rId6.jpeg",
+        "original_part": "word/media/image2.jpeg",
+        "content_type": "image/jpeg"
+      }
+    ],
+    "domanda": "Quello rappresentato in figura è un paranco doppio con il rapporto più favorevole, il cosiddetto \"fino\" di 8:1.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 12,
+      "row_index": 1
+    }
+  },
+  {
+    "id": 132,
+    "immagine": [],
+    "domanda": "Il cunningham assolve la funzione di porre in tensione la parte prodiera bassa della randa, mediante un paranco verticale.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 12,
+      "row_index": 2
+    }
+  },
+  {
+    "id": 133,
+    "immagine": [],
+    "domanda": "Il tangone è il pennone sul quale è fissata la base della randa.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": false
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": true
+    },
+    "meta": {
+      "table_index": 12,
+      "row_index": 3
+    }
+  },
+  {
+    "id": 134,
+    "immagine": [],
+    "domanda": "Il winch è un particolare meccanismo costituito da due bozzelli utilizzato per moltiplicare lo sforzo di trazione esercitato sulle cime.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": false
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": true
+    },
+    "meta": {
+      "table_index": 12,
+      "row_index": 4
+    }
+  },
+  {
+    "id": 135,
+    "immagine": [],
+    "domanda": "Le scotte devono essere avvolte intorno al tamburo del winch sempre in senso orario, ponendo particolare attenzione per evitare la sovrapposizione dei \"colli\".",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 12,
+      "row_index": 5
+    }
+  },
+  {
+    "id": 136,
+    "immagine": [],
+    "domanda": "La ferramenta di bordo è costituita dall'insieme di elementi come strozzascotte, winch, arridatori e galloccie.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 12,
+      "row_index": 6
+    }
+  },
+  {
+    "id": 137,
+    "immagine": [],
+    "domanda": "Il polipropilene è utilizzato solo per sagole galleggianti utilizzate per il salvataggio.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 12,
+      "row_index": 7
+    }
+  },
+  {
+    "id": 138,
+    "immagine": [],
+    "domanda": "I grilli assumono la funzione di ridurre o sforzo di trazione sui cavi.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": false
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": true
+    },
+    "meta": {
+      "table_index": 13,
+      "row_index": 0
+    }
+  },
+  {
+    "id": 139,
+    "immagine": [],
+    "domanda": "Il carrello di randa (o trasto) è il congegno sul quale vengono date volta e bloccate le scotte della randa.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": false
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": true
+    },
+    "meta": {
+      "table_index": 13,
+      "row_index": 1
+    }
+  },
+  {
+    "id": 140,
+    "immagine": [],
+    "domanda": "La galloccia è il dispositivo con cui si fissano le draglie.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": false
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": true
+    },
+    "meta": {
+      "table_index": 13,
+      "row_index": 2
+    }
+  },
+  {
+    "id": 141,
+    "immagine": [],
+    "domanda": "La landa è il cavallotto o la piastra collocata in coperta utilizzata per fissare le sartie e gli stralli.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 13,
+      "row_index": 3
+    }
+  },
+  {
+    "id": 142,
+    "immagine": [],
+    "domanda": "Il golfare è il carrello del boma dove si innesta la randa.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": false
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": true
+    },
+    "meta": {
+      "table_index": 13,
+      "row_index": 4
+    }
+  },
+  {
+    "id": 143,
+    "immagine": [],
+    "domanda": "La varea del tangone è l'anello di attacco del mantiglio.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": false
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": true
+    },
+    "meta": {
+      "table_index": 13,
+      "row_index": 5
+    }
+  },
+  {
+    "id": 144,
+    "immagine": [],
+    "domanda": "La trozza è lo snodo che unisce il boma all'albero.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 13,
+      "row_index": 6
+    }
+  },
+  {
+    "id": 145,
+    "immagine": [],
+    "domanda": "La resistenza alla trazione rappresenta una qualità importante nelle fibre del tessuto di una vela, determinandone la stabilità trasversale.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 13,
+      "row_index": 7
+    }
+  },
+  {
+    "id": 146,
+    "immagine": [],
+    "domanda": "Il dacron non è un materiale correntemente diffuso per la realizzazione di vele da crociera.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": false
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": true
+    },
+    "meta": {
+      "table_index": 13,
+      "row_index": 8
+    }
+  },
+  {
+    "id": 147,
+    "immagine": [],
+    "domanda": "L'esposizione molto prolungata delle vele ai raggi solari ne determina il decadimento delle sue caratteristiche meccaniche di resistenza.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 13,
+      "row_index": 9
+    }
+  },
+  {
+    "id": 148,
+    "immagine": [],
+    "domanda": "Il set di vele standard di un catamarano è formato da randa, fiocco e gennaker.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 13,
+      "row_index": 10
+    }
+  },
+  {
+    "id": 149,
+    "immagine": [],
+    "domanda": "Il set di vele base di uno scafo armato a sloop è formato da randa e genoa (o genova).",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 14,
+      "row_index": 0
+    }
+  },
+  {
+    "id": 150,
+    "immagine": [],
+    "domanda": "I garrocci sono gli specifici moschettoni che consentono di fissare il lato prodiero del genoa e del fiocco allo strallo di prua.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 14,
+      "row_index": 1
+    }
+  },
+  {
+    "id": 151,
+    "immagine": [],
+    "domanda": "La funzione del paterazzo è di regolare il vang.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": false
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": true
+    },
+    "meta": {
+      "table_index": 14,
+      "row_index": 2
+    }
+  },
+  {
+    "id": 152,
+    "immagine": [],
+    "domanda": "Cazzando il paterazzo si determina un rilevante smagrimento della parte centrale della randa.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 14,
+      "row_index": 3
+    }
+  },
+  {
+    "id": 153,
+    "immagine": [],
+    "domanda": "La gassa d'amante è un nodo che tende a sciogliersi facilmente.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": false
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": true
+    },
+    "meta": {
+      "table_index": 14,
+      "row_index": 4
+    }
+  },
+  {
+    "id": 154,
+    "immagine": [],
+    "domanda": "La gassa d'amante si usa per accorciare una cima.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": false
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": true
+    },
+    "meta": {
+      "table_index": 14,
+      "row_index": 5
+    }
+  },
+  {
+    "id": 155,
+    "immagine": [],
+    "domanda": "E' opportuno utilizzare il nodo piano per unire due cavi aventi diverso diametro.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": false
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": true
+    },
+    "meta": {
+      "table_index": 14,
+      "row_index": 6
+    }
+  },
+  {
+    "id": 156,
+    "immagine": [],
+    "domanda": "La funzione di un nodo savoia è impedire che l'estremità di un cavo si sfili da un passacavo.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 14,
+      "row_index": 7
+    }
+  },
+  {
+    "id": 157,
+    "immagine": [],
+    "domanda": "Il nodo parlato è utile per fissare i parabordi alle draglie.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 14,
+      "row_index": 8
+    }
+  },
+  {
+    "id": 158,
+    "immagine": [],
+    "domanda": "Il nodo margherita si usa per accorciare una cima.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 14,
+      "row_index": 9
+    }
+  },
+  {
+    "id": 159,
+    "immagine": [],
+    "domanda": "Per lazy jack si intende una particolare drizza utilizzata per issare le vele in condizioni di emergenza.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": false
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": true
+    },
+    "meta": {
+      "table_index": 14,
+      "row_index": 10
+    }
+  },
+  {
+    "id": 160,
+    "immagine": [],
+    "domanda": "Per lazy jack si intende il sistema di sagole che aiuta a raccogliere la randa in fase di ammainata.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 15,
+      "row_index": 0
+    }
+  },
+  {
+    "id": 161,
+    "immagine": [],
+    "domanda": "Il feeder è il dispositivo utilizzato al fine di facilitare l'introduzione dell'inferitura del fiocco o del genoa all'interno della canaletta dello strallo cavo.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 15,
+      "row_index": 1
+    }
+  },
+  {
+    "id": 162,
+    "immagine": [],
+    "domanda": "Il tesabase è il dispositivo finalizzato a mantenere tesata la base del fiocco.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": false
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": true
+    },
+    "meta": {
+      "table_index": 15,
+      "row_index": 2
+    }
+  },
+  {
+    "id": 163,
+    "immagine": [],
+    "domanda": "Le manovre necessarie all'uso dello spinnaker sono scotta, spring, vang, borosa e meolo del tangone.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": false
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": true
+    },
+    "meta": {
+      "table_index": 15,
+      "row_index": 3
+    }
+  },
+  {
+    "id": 164,
+    "immagine": [],
+    "domanda": "Per braccio si intende il cavo utilizzato per manovrare e, quindi, regolare la mura dello spinnaker.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 15,
+      "row_index": 4
+    }
+  },
+  {
+    "id": 165,
+    "immagine": [],
+    "domanda": "Il matafione è un fiocco di rispetto utilizzato in condizioni meteo marine avverse.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": false
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": true
+    },
+    "meta": {
+      "table_index": 15,
+      "row_index": 5
+    }
+  },
+  {
+    "id": 166,
+    "immagine": [],
+    "domanda": "Per impiombatura si intende l'intreccio dei trefoli delle estremità di cavi tessili o in acciaio, al fine di unirli tra di loro o per realizzare un anello fisso a cui agganciare le ferramenta o le manovre.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 15,
+      "row_index": 6
+    }
+  },
+  {
+    "id": 167,
+    "immagine": [],
+    "domanda": "Per borosa si intende la parte terminale superiore dello strallo cavo che lo collega all'albero.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": false
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": true
+    },
+    "meta": {
+      "table_index": 15,
+      "row_index": 7
+    }
+  },
+  {
+    "id": 168,
+    "immagine": [],
+    "domanda": "Le sartie, sono i cavi generalmente in acciaio (ma anche in fibre tessili particolarmente tenaci), che sostengono l'albero.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 15,
+      "row_index": 8
+    }
+  },
+  {
+    "id": 169,
+    "immagine": [],
+    "domanda": "Il tornichetto è un congegno utilizzato per unire due cime di diverso materiale.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": false
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": true
+    },
+    "meta": {
+      "table_index": 15,
+      "row_index": 9
+    }
+  },
+  {
+    "id": 170,
+    "immagine": [],
+    "domanda": "Il vang è un sistema di ritenuta del boma di tipo regolabile che assolve a due funzioni principali: regola la flessione longitudinale dell'albero e influenza la superficie portante della vela.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 15,
+      "row_index": 10
+    }
+  },
+  {
+    "id": 171,
+    "immagine": [],
+    "domanda": "All'interno dell'albero si possono far passare le manovre fisse come sartie e stralli.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": false
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": true
+    },
+    "meta": {
+      "table_index": 16,
+      "row_index": 0
+    }
+  },
+  {
+    "id": 172,
+    "immagine": [],
+    "domanda": "L'avvolgiranda è un'attrezzatura che permette di riporre la randa in un gavone una volta terminata la navigazione.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": false
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": true
+    },
+    "meta": {
+      "table_index": 16,
+      "row_index": 1
+    }
+  },
+  {
+    "id": 173,
+    "immagine": [],
+    "domanda": "La regolazione dell'albero viene effettuata con l'unità all'ormeggio agendo su ogni singola manovra corrente in stretta aderenza a quanto indicato dal costruttore.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": false
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": true
+    },
+    "meta": {
+      "table_index": 16,
+      "row_index": 2
+    }
+  },
+  {
+    "id": 174,
+    "immagine": [],
+    "domanda": "Le manovre correnti sono quelle che servono a manovrare le vele, come le scotte, drizze, wang, tesa base ecc.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 16,
+      "row_index": 3
+    }
+  },
+  {
+    "id": 175,
+    "immagine": [],
+    "domanda": "Un winch self-tailing è un verricello elettronico comandato dalla timoneria per il quale non è necessario l'uso della maniglia.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": false
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": true
+    },
+    "meta": {
+      "table_index": 16,
+      "row_index": 4
+    }
+  },
+  {
+    "id": 176,
+    "immagine": [],
+    "domanda": "Stralli e sartie sono manovre fisse.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 16,
+      "row_index": 5
+    }
+  },
+  {
+    "id": 177,
+    "immagine": [],
+    "domanda": "Girando la maniglia in senso orario il winch sostiene una migliore trazione e potenza.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 16,
+      "row_index": 6
+    }
+  },
+  {
+    "id": 178,
+    "immagine": [],
+    "domanda": "Il motivo per cui il grillo della penna di randa è del tipo con perno di blocco è per consentire di sganciare la vela evitando che lo stesso cada in mare.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 16,
+      "row_index": 7
+    }
+  },
+  {
+    "id": 179,
+    "immagine": [],
+    "domanda": "La calza è una sorta di tubo di tela con il quale si raccoglie lo spinnaker o il gennaker prima di ammainarlo.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 16,
+      "row_index": 8
+    }
+  },
+  {
+    "id": 180,
+    "immagine": [],
+    "domanda": "Con il fiocco autovirante è necessario cazzare la scotta in virata.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": false
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": true
+    },
+    "meta": {
+      "table_index": 16,
+      "row_index": 9
+    }
+  },
+  {
+    "id": 181,
+    "immagine": [],
+    "domanda": "Con il fiocco autovirante la scotta è generalmente rinviata a una puleggia sull'albero.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 16,
+      "row_index": 10
+    }
+  },
+  {
+    "id": 182,
+    "immagine": [],
+    "domanda": "Con il genoa avvolgibile ridotto oltre il 30% della superficie si ha una sensibile riduzione di efficienza del profilo.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 17,
+      "row_index": 0
+    }
+  },
+  {
+    "id": 183,
+    "immagine": [],
+    "domanda": "L'avvolgifiocco e il moderno sistema che consente di ridurre la vela di prua senza ammainarla.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 17,
+      "row_index": 1
+    }
+  },
+  {
+    "id": 184,
+    "immagine": [],
+    "domanda": "Lo stopper è la manovra con cui si fissa il boma in posizione di riposo.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": false
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": true
+    },
+    "meta": {
+      "table_index": 17,
+      "row_index": 2
+    }
+  },
+  {
+    "id": 185,
+    "immagine": [],
+    "domanda": "Lo stopper è il sistema di bloccaggio che consente di strozzare una drizza.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 17,
+      "row_index": 3
+    }
+  },
+  {
+    "id": 186,
+    "immagine": [],
+    "domanda": "Per \"sventare\" si intende la manovra tesa a condurre l'unità navale con la prua al vento o a mollare le scotte, in modo che le vele non siano portanti",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 17,
+      "row_index": 4
+    }
+  },
+  {
+    "id": 187,
+    "immagine": [],
+    "domanda": "Per \"sventare\" si intende la manovra tesa a condurre l'unità navale con la poppa al vento.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": false
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": true
+    },
+    "meta": {
+      "table_index": 17,
+      "row_index": 5
+    }
+  },
+  {
+    "id": 188,
+    "immagine": [],
+    "domanda": "Per poggiare è necessario porre la barra del timone sopravento ossia dalla parte opposta rispetto alla randa.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 17,
+      "row_index": 6
+    }
+  },
+  {
+    "id": 189,
+    "immagine": [],
+    "domanda": "Per poggiare è necessario porre la barra del timone sottovento ossia dallo stesso lato della randa.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": false
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": true
+    },
+    "meta": {
+      "table_index": 17,
+      "row_index": 7
+    }
+  },
+  {
+    "id": 190,
+    "immagine": [],
+    "domanda": "Quando due unità navali a vela navigano di bolina con rotte convergenti, quella con le mure a sinistra poggierà per lasciare la rotta libera a quella con le mure a dritta, passandole di poppa.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 17,
+      "row_index": 8
+    }
+  },
+  {
+    "id": 191,
+    "immagine": [],
+    "domanda": "Quando due unità navali a vela navigano di bolina con rotte convergenti, quella più lenta lascierà la rotta libera a quella più veloce, passandole di poppa.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": false
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": true
+    },
+    "meta": {
+      "table_index": 17,
+      "row_index": 9
+    }
+  },
+  {
+    "id": 192,
+    "immagine": [],
+    "domanda": "Quando due unità navali a vela navigano di bolina entrambe con le stesse mure, quella sopravento orzerà per lasciare la rotta libera a quella sottovento.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 17,
+      "row_index": 10
+    }
+  },
+  {
+    "id": 193,
+    "immagine": [],
+    "domanda": "Dopo aver tesato la drizza della randa, la base della stessa può essere cazzata, poco o molto, a seconda che si vogliano assumere rispettivamente andature larghe o di bolina.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 18,
+      "row_index": 0
+    }
+  },
+  {
+    "id": 194,
+    "immagine": [],
+    "domanda": "L'abbattuta è la manovra mediante la quale l'unità a vela cambia mure attraversando con la poppa la direzione da cui proviene il vento.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 18,
+      "row_index": 1
+    }
+  },
+  {
+    "id": 195,
+    "immagine": [],
+    "domanda": "La virata è la manovra per evitare un ostacolo.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": false
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": true
+    },
+    "meta": {
+      "table_index": 18,
+      "row_index": 2
+    }
+  },
+  {
+    "id": 196,
+    "immagine": [],
+    "domanda": "La virata è la manovra usata per raggiungere una meta navigando con il vento in fil di ruota.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": false
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": true
+    },
+    "meta": {
+      "table_index": 18,
+      "row_index": 3
+    }
+  },
+  {
+    "id": 197,
+    "immagine": [],
+    "domanda": "L'abbattuta si esegue quando la barca è alla massima velocità e naviga con andatura al traverso o di bolina.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": false
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": true
+    },
+    "meta": {
+      "table_index": 18,
+      "row_index": 4
+    }
+  },
+  {
+    "id": 198,
+    "immagine": [],
+    "domanda": "Per armare la randa: si collega la borosa all'angolo di mura, si tesa la base e si chiude lo stopper della scotta.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": false
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": true
+    },
+    "meta": {
+      "table_index": 18,
+      "row_index": 5
+    }
+  },
+  {
+    "id": 199,
+    "immagine": [],
+    "domanda": "Il punto di mura è posizionato sulla varea del boma.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": false
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": true
+    },
+    "meta": {
+      "table_index": 18,
+      "row_index": 6
+    }
+  },
+  {
+    "id": 200,
+    "immagine": [],
+    "domanda": "Si arma la randa cazzando il meolo, inserendo la tavoletta all'interno dell'apposita tasca posta sulla parte più alta dell'albero.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": false
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": true
+    },
+    "meta": {
+      "table_index": 18,
+      "row_index": 7
+    }
+  },
+  {
+    "id": 201,
+    "immagine": [],
+    "domanda": "Dopo aver lascato la drizza della randa, la base della stessa può essere lascata, poco o molto, a seconda che si vogliano assumere andature in bolina o bolina larga.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": false
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": true
+    },
+    "meta": {
+      "table_index": 18,
+      "row_index": 8
+    }
+  },
+  {
+    "id": 202,
+    "immagine": [],
+    "domanda": "Genoa (o genova) e fiocco si armano allo stesso modo perché hanno, in generale, lo stesso punto di mura nonché risultano inferiti al medesimo strallo.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 18,
+      "row_index": 9
+    }
+  },
+  {
+    "id": 203,
+    "immagine": [],
+    "domanda": "La prima operazione necessaria per issare il fiocco o il genoa (o genova) munito di garocci è fissare l'occhiello di bugna nell'apposito attacco ubicato alla base dello strallo.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": false
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": true
+    },
+    "meta": {
+      "table_index": 18,
+      "row_index": 10
+    }
+  },
+  {
+    "id": 204,
+    "immagine": [],
+    "domanda": "I garrocci di cui è munito il fiocco vanno incocciati allo strallo partendo dal punto di penna e proseguendo verso il punto di scotta.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": false
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": true
+    },
+    "meta": {
+      "table_index": 19,
+      "row_index": 0
+    }
+  },
+  {
+    "id": 205,
+    "immagine": [],
+    "domanda": "Il dispositivo solitamente utilizzato per agganciare la drizza alla penna è un moschettone impiombato alla sommità della drizza stessa.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 19,
+      "row_index": 1
+    }
+  },
+  {
+    "id": 206,
+    "immagine": [],
+    "domanda": "Il nodo utilizzato solitamente per fissare le due scotte alla bugna del fiocco, una per lato, è il parlato doppio.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": false
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": true
+    },
+    "meta": {
+      "table_index": 19,
+      "row_index": 2
+    }
+  },
+  {
+    "id": 207,
+    "immagine": [],
+    "domanda": "La barca viene condotta con la prua al vento al fine di consentire che il fiocco non si gonfi mentre viene issato.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 19,
+      "row_index": 3
+    }
+  },
+  {
+    "id": 208,
+    "immagine": [],
+    "domanda": "Lo strallo cavo offre il vantaggio di abbassare il centro velico del fiocco.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": false
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": true
+    },
+    "meta": {
+      "table_index": 19,
+      "row_index": 4
+    }
+  },
+  {
+    "id": 209,
+    "immagine": [],
+    "domanda": "La doppia canaletta di uno strallo cavo serve per facilitare la sostituzione di una vela di prua.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 19,
+      "row_index": 5
+    }
+  },
+  {
+    "id": 210,
+    "immagine": [],
+    "domanda": "Issare la tormentina è la manovra che può essere adottata al fine di ridurre la velocità risalendo il vento",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": false
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": true
+    },
+    "meta": {
+      "table_index": 19,
+      "row_index": 6
+    }
+  },
+  {
+    "id": 211,
+    "immagine": [],
+    "domanda": "La manovra che può essere adottata al fine di ridurre la velocità nelle andature portanti è far fileggiare la randa.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": false
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": true
+    },
+    "meta": {
+      "table_index": 19,
+      "row_index": 7
+    }
+  },
+  {
+    "id": 212,
+    "immagine": [],
+    "domanda": "La manovra denominata \"mettersi in panna\" serve per aumentare la velocità.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": false
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": true
+    },
+    "meta": {
+      "table_index": 19,
+      "row_index": 8
+    }
+  },
+  {
+    "id": 213,
+    "immagine": [],
+    "domanda": "La manovra denominata \"mettersi in panna\" consiste nel porre a collo la vela di prua lasciando la randa bordata per la bolina larga nonché ponendo il timone all'orza.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 19,
+      "row_index": 9
+    }
+  },
+  {
+    "id": 214,
+    "immagine": [],
+    "domanda": "La manovra denominata \"mettersi alla cappa\" consiste in una particolare tecnica che consente di navigare a velocità ridotta utilizzando l'ancora galleggiante.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": false
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": true
+    },
+    "meta": {
+      "table_index": 19,
+      "row_index": 10
+    }
+  },
+  {
+    "id": 215,
+    "immagine": [],
+    "domanda": "Per \"mano o presa di terzaroli\" si intende la manovra per abbassare il tangone e smagrire lo spinnaker, passando dall'andatura in fil di ruota al traverso.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": false
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": true
+    },
+    "meta": {
+      "table_index": 20,
+      "row_index": 0
+    }
+  },
+  {
+    "id": 216,
+    "immagine": [],
+    "domanda": "La \"presa di terzaroli\" consiste nell'ammainare completamente la randa ed issare al suo posto la randa di rispetto denominata matafione.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": false
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": true
+    },
+    "meta": {
+      "table_index": 20,
+      "row_index": 1
+    }
+  },
+  {
+    "id": 217,
+    "immagine": [],
+    "domanda": "Per \"mettere a segno\" le vele si intende l'avvolgerle correttamente dopo l'utilizzo in navigazione per il loro successivo pronto impiego.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": false
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": true
+    },
+    "meta": {
+      "table_index": 20,
+      "row_index": 2
+    }
+  },
+  {
+    "id": 218,
+    "immagine": [],
+    "domanda": "Il vantaggio della planata è l'aumento del dislocamento dell'unità.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": false
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": true
+    },
+    "meta": {
+      "table_index": 20,
+      "row_index": 3
+    }
+  },
+  {
+    "id": 219,
+    "immagine": [],
+    "domanda": "Quando la barca si dispone con la prua al vento le vele smagriscono disponendosi trasversalmente all'asse longitudinale dell'unità e orientandosi nella direzione di provenienza del vento apparente.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": false
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": true
+    },
+    "meta": {
+      "table_index": 20,
+      "row_index": 4
+    }
+  },
+  {
+    "id": 220,
+    "immagine": [],
+    "domanda": "La manovra denominata \"strallare\" consiste nel ruotare il tangone verso la parte prodiera dell'unità navale conducendone l'estremità libera in prossimità dello strallo.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 20,
+      "row_index": 5
+    }
+  },
+  {
+    "id": 221,
+    "immagine": [],
+    "domanda": "La manovra denominata \"quadrare\" consiste nel ruotare il tangone verso la parte prodiera dell'unità navale conducendone l'estremità libera in prossimità dello strallo.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": false
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": true
+    },
+    "meta": {
+      "table_index": 20,
+      "row_index": 6
+    }
+  },
+  {
+    "id": 222,
+    "immagine": [],
+    "domanda": "Per poggiare si intende variare la prua dell'unità, allontanando la prua della stessa rispetto alla direzione di provenienza del vento.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 20,
+      "row_index": 7
+    }
+  },
+  {
+    "id": 223,
+    "immagine": [],
+    "domanda": "Per orzare si intende variare la rotta dell'unità navale assumendo un nuovo valore di rotta opposto a quello della direzione di provenienza del vento.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": false
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": true
+    },
+    "meta": {
+      "table_index": 20,
+      "row_index": 8
+    }
+  },
+  {
+    "id": 224,
+    "immagine": [],
+    "domanda": "Per sventare si intende la manovra tesa a condurre l'unità navale con la poppa al vento.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": false
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": true
+    },
+    "meta": {
+      "table_index": 20,
+      "row_index": 9
+    }
+  },
+  {
+    "id": 225,
+    "immagine": [],
+    "domanda": "La virata e l'abbattuta sono le manovre fondamentali per cambiare mure.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 20,
+      "row_index": 10
+    }
+  },
+  {
+    "id": 226,
+    "immagine": [],
+    "domanda": "La virata è la manovra mediante la quale l'unità a vela si appresta ad ammainare lo spinnaker.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": false
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": true
+    },
+    "meta": {
+      "table_index": 21,
+      "row_index": 0
+    }
+  },
+  {
+    "id": 227,
+    "immagine": [],
+    "domanda": "Per poggiare è necessario porre la barra al centro",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 21,
+      "row_index": 1
+    }
+  },
+  {
+    "id": 228,
+    "immagine": [],
+    "domanda": "Quando due unità a vela navigano di bolina con rotte convergenti, quella più lenta lascerà la rotta libera a quella più veloce, passandole di poppa.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": false
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": true
+    },
+    "meta": {
+      "table_index": 21,
+      "row_index": 2
+    }
+  },
+  {
+    "id": 229,
+    "immagine": [],
+    "domanda": "Se due unità a vela navigano entrambe con stesse mura, ha la precedenza quella che si trova sottovento.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 21,
+      "row_index": 3
+    }
+  },
+  {
+    "id": 230,
+    "immagine": [],
+    "domanda": "Se due unità a vela navigano di bolina con rotte convergenti, quella con mure a sinistra ha la precedenza.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": false
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": true
+    },
+    "meta": {
+      "table_index": 21,
+      "row_index": 4
+    }
+  },
+  {
+    "id": 231,
+    "immagine": [],
+    "domanda": "Se due unità navigano a vela con mure diverse (una a sinistra e l'altra a dritta), ha la precedenza chi prende il vento a sinistra.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": false
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": true
+    },
+    "meta": {
+      "table_index": 21,
+      "row_index": 5
+    }
+  },
+  {
+    "id": 232,
+    "immagine": [],
+    "domanda": "Se due unità navigano a vela con mure diverse (una a sinistra e l'altra a dritta), ha la precedenza chi prende il vento a dritta.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 21,
+      "row_index": 6
+    }
+  },
+  {
+    "id": 233,
+    "immagine": [],
+    "domanda": "Se due unità navigano a vela su rotte opposte, quella che ha il vento sulla sinistra deve lasciare libera la rotta all'altra.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 21,
+      "row_index": 7
+    }
+  },
+  {
+    "id": 234,
+    "immagine": [],
+    "domanda": "Se un'unità con il vento sulla sinistra vede un'altra unità a vela sopravento e non può stabilire con sicurezza se questa abbia il vento sulla sinistra o sulla dritta, deve manovrare in modo da lasciare libera la rotta .",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 21,
+      "row_index": 8
+    }
+  },
+  {
+    "id": 235,
+    "immagine": [],
+    "domanda": "Navigando di bolina stretta, si può ridurre temporaneamente la velocità stingendo il vento oltre l'angolo di bordeggio.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 21,
+      "row_index": 9
+    }
+  },
+  {
+    "id": 236,
+    "immagine": [],
+    "domanda": "Poggiando da bolina stretta a bolina larga la barca accelera.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 21,
+      "row_index": 10
+    }
+  },
+  {
+    "id": 237,
+    "immagine": [],
+    "domanda": "Per ridurre lo sbandamento, si smagriscono le vele, cazzando il cunnincham e il tesabase della randa, la drizza del genoa e si arretra il punto di scotta del genoa (o genova).",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 22,
+      "row_index": 0
+    }
+  },
+  {
+    "id": 238,
+    "immagine": [],
+    "domanda": "Per aumentare la potenza con vento debole si smagriscono le vele, cazzando il cunnincham e il tesabase della randa, la drizza del genoa e si arretra il punto di scotta del genoa (o genova).",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": false
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": true
+    },
+    "meta": {
+      "table_index": 22,
+      "row_index": 1
+    }
+  },
+  {
+    "id": 239,
+    "immagine": [],
+    "domanda": "La \"messa a segno\" delle vele si ottiene quando le vele sono completamente poste a riva.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": false
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": true
+    },
+    "meta": {
+      "table_index": 22,
+      "row_index": 2
+    }
+  },
+  {
+    "id": 240,
+    "immagine": [],
+    "domanda": "Per ridurre lo sbandamento sotto raffica si muove il carrello (trasto) della randa sottovento o, in assenza del carrello, si lasca la scotta.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 22,
+      "row_index": 3
+    }
+  },
+  {
+    "id": 241,
+    "immagine": [],
+    "domanda": "Per assecondare una rapida poggiata per evitare un ostacolo devo lascare solo il fiocco.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": false
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": true
+    },
+    "meta": {
+      "table_index": 22,
+      "row_index": 4
+    }
+  },
+  {
+    "id": 242,
+    "immagine": [],
+    "domanda": "La ritenuta del boma è quella manovra che opportuno utilizzare per evitare la strambata nelle andature di granlasco e giardinetto.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 22,
+      "row_index": 5
+    }
+  },
+  {
+    "id": 243,
+    "immagine": [],
+    "domanda": "Tendenzialmente, in caso di aumento del vento, si riduce per primo il genoa (o genova) e poi a seguire la randa.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 22,
+      "row_index": 6
+    }
+  },
+  {
+    "id": 244,
+    "immagine": [],
+    "domanda": "Quando si comincia a pensare se sia il caso di ridurre la vela a causa dell'eccessivo sbandamento è probabilmente il momento di farlo.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 22,
+      "row_index": 7
+    }
+  },
+  {
+    "id": 245,
+    "immagine": [],
+    "domanda": "E' certamente opportuno ridurre la vela se la barca ha stabilmente la falchetta in acqua.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 22,
+      "row_index": 8
+    }
+  },
+  {
+    "id": 246,
+    "immagine": [],
+    "domanda": "La strambata è il rischio più grande che si corre navigando al gran lasco o in poppa (giardinetto).",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 22,
+      "row_index": 9
+    }
+  },
+  {
+    "id": 247,
+    "immagine": [],
+    "domanda": "Strambata e abbattuta sono la stessa cosa.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": false
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": true
+    },
+    "meta": {
+      "table_index": 22,
+      "row_index": 10
+    }
+  },
+  {
+    "id": 248,
+    "immagine": [],
+    "domanda": "La strambata è l'abbattuta involontaria e incontrollata.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 23,
+      "row_index": 0
+    }
+  },
+  {
+    "id": 249,
+    "immagine": [],
+    "domanda": "Salvo le ordinanze locali, di norma è possibile entrare in un porto navigando a vela.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": false
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": true
+    },
+    "meta": {
+      "table_index": 23,
+      "row_index": 1
+    }
+  },
+  {
+    "id": 250,
+    "immagine": [],
+    "domanda": "Lascare la randa agevola la poggiata.",
+    "risposta1": {
+      "testo": "VERO",
+      "corretta": true
+    },
+    "risposta2": {
+      "testo": "FALSO",
+      "corretta": false
+    },
+    "meta": {
+      "table_index": 23,
+      "row_index": 2
+    }
+  }
+]
