@@ -174,6 +174,7 @@ const refs = {
   progressPill: document.getElementById("progress-pill"),
   sectionStatus: document.getElementById("section-status"),
   examResult: document.getElementById("exam-result"),
+  statsGrid: document.querySelector(".stats-grid"),
   correct: document.getElementById("correct"),
   wrong: document.getElementById("wrong"),
   answered: document.getElementById("answered"),
@@ -185,6 +186,9 @@ const refs = {
   questionImageWrap: document.getElementById("question-image-wrap"),
   questionImage: document.getElementById("question-image"),
   answers: document.getElementById("answers"),
+  responseFlip: document.getElementById("response-flip"),
+  responseFront: document.getElementById("response-front"),
+  responseBack: document.getElementById("response-back"),
   questionExplanation: document.getElementById("question-explanation"),
   openActions: document.getElementById("open-actions"),
   showSolutionBtn: document.getElementById("show-solution-btn"),
@@ -954,6 +958,10 @@ function renderQuiz() {
   refs.correct.textContent = String(metrics.correct);
   refs.wrong.textContent = String(metrics.wrong);
   refs.answered.textContent = `${metrics.answered} / ${metrics.total}`;
+  refs.statsGrid.classList.toggle(
+    "hidden",
+    mode.type === "exam" && !state.examFinalized,
+  );
 
   renderSectionStatus(metrics);
   renderExamResult(metrics);
@@ -981,7 +989,6 @@ function renderQuiz() {
   }
 
   refs.answers.innerHTML = "";
-  refs.questionExplanation.classList.add("hidden");
   refs.questionExplanation.textContent = "";
   refs.openActions.classList.add("hidden");
   refs.solution.classList.add("hidden");
@@ -1009,11 +1016,16 @@ function renderExplanation(question, qState) {
 
   refs.toggleExplanationBtn.classList.remove("hidden");
   refs.toggleExplanationBtn.setAttribute("aria-expanded", String(qState.explanationShown));
+  refs.toggleExplanationBtn.setAttribute("aria-label", qState.explanationShown ? "Nascondi spiegazione" : "Mostra spiegazione");
   refs.toggleExplanationBtn.title = qState.explanationShown ? "Nascondi spiegazione" : "Mostra spiegazione";
 
   refs.questionExplanation.textContent = text;
   refs.questionExplanation.classList.toggle("placeholder", !hasExplanation);
-  refs.questionExplanation.classList.toggle("hidden", !qState.explanationShown);
+  refs.responseFlip.classList.toggle("flipped", qState.explanationShown);
+  refs.responseFront.setAttribute("aria-hidden", String(qState.explanationShown));
+  refs.responseBack.setAttribute("aria-hidden", String(!qState.explanationShown));
+  refs.responseFront.toggleAttribute("inert", qState.explanationShown);
+  refs.responseBack.toggleAttribute("inert", !qState.explanationShown);
 }
 
 function toggleExplanation() {
@@ -1039,8 +1051,11 @@ function updateScrollHint() {
 
 function renderSectionStatus(metrics) {
   const mode = state.session?.mode;
+  const isFinalExam = Boolean(mode && mode.type === "exam" && state.examFinalized);
 
-  if (!mode || mode.type !== "exam") {
+  refs.sectionStatus.classList.toggle("finalized", isFinalExam);
+
+  if (!isFinalExam) {
     refs.sectionStatus.classList.add("hidden");
     refs.sectionStatus.innerHTML = "";
     return;

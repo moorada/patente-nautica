@@ -102,9 +102,9 @@
           <div id="question-scroll" class="question-scroll">
             <div class="question-head">
               <h3 id="question-text">Domanda</h3>
-              <button id="toggle-explanation-btn" class="explanation-toggle hidden" type="button" aria-expanded="false" aria-controls="question-explanation" title="Mostra spiegazione">
+              <button id="toggle-explanation-btn" class="explanation-toggle hidden" type="button" aria-expanded="false" aria-controls="question-explanation" aria-label="Mostra spiegazione" title="Mostra spiegazione">
                 <span class="explanation-icon" aria-hidden="true">i</span>
-                <span>Spiegazione</span>
+                <span class="sr-only">Spiegazione</span>
               </button>
             </div>
 
@@ -112,15 +112,23 @@
               <img id="question-image" alt="Immagine della domanda" loading="lazy" />
             </figure>
 
-            <div id="answers" class="answers"></div>
+            <div id="response-flip" class="response-flip">
+              <div class="response-flip-inner">
+                <div id="response-front" class="response-face response-front">
+                  <div id="answers" class="answers"></div>
 
-            <div id="open-actions" class="open-actions hidden">
-              <button id="show-solution-btn" class="btn btn-secondary" type="button">Mostra soluzione</button>
+                  <div id="open-actions" class="open-actions hidden">
+                    <button id="show-solution-btn" class="btn btn-secondary" type="button">Mostra soluzione</button>
+                  </div>
+
+                  <div id="solution" class="solution hidden"></div>
+                </div>
+
+                <div id="response-back" class="response-face response-back" aria-hidden="true" inert>
+                  <div id="question-explanation" class="question-explanation"></div>
+                </div>
+              </div>
             </div>
-
-            <div id="question-explanation" class="question-explanation hidden"></div>
-
-            <div id="solution" class="solution hidden"></div>
           </div>
         </article>
 
