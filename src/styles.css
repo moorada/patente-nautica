@@ -789,20 +789,65 @@ body {
     grid-template-columns: 1fr;
   }
 
+  .app-header {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr);
+    grid-template-areas:
+      "brand"
+      "actions";
+    align-items: start;
+  }
+
+  .app-brand {
+    grid-area: brand;
+    gap: 8px;
+  }
+
   .header-actions {
-    flex-direction: column;
-    align-items: flex-end;
+    grid-area: actions;
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 8px;
+    width: 100%;
+    align-items: stretch;
+    justify-content: stretch;
   }
 
   .app-logo {
-    width: 42px;
-    height: 42px;
-    border-radius: 10px;
+    width: 32px;
+    height: 32px;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(8, 66, 91, 0.16);
+  }
+
+  .app-kicker {
+    font-size: 0.64rem;
+  }
+
+  .app-header h1 {
+    font-size: clamp(0.95rem, 4.2vw, 1.2rem);
   }
 
   .header-btn {
+    width: 100%;
+    justify-content: center;
     font-size: 0.75rem;
-    padding: 6px 9px;
+    padding: 8px 6px;
+    white-space: nowrap;
+  }
+
+  .quiz-active .app-brand-text {
+    display: none;
+  }
+
+  .quiz-active .app-header {
+    grid-template-columns: auto minmax(0, 1fr);
+    grid-template-areas: "brand actions";
+    align-items: center;
+  }
+
+  .quiz-active .app-brand {
+    gap: 6px;
   }
 
   .quiz-topbar {

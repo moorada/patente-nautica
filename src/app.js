@@ -578,11 +578,13 @@ function syncSetupPanels() {
 }
 
 function showSetupView() {
+  document.body.classList.remove("quiz-active");
   refs.setupView.classList.remove("hidden");
   refs.quizView.classList.add("hidden");
 }
 
 function showQuizView() {
+  document.body.classList.add("quiz-active");
   refs.setupView.classList.add("hidden");
   refs.quizView.classList.remove("hidden");
 }
