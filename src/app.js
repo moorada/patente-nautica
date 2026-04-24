@@ -598,9 +598,7 @@ async function submitErrorReport() {
       throw new Error(errorText || "Invio non riuscito");
     }
 
-    setReportStatus("Segnalazione inviata. Grazie!", "ok");
-    refs.reportComment.value = "";
-    refs.reportType.value = "spiegazione";
+    closeReportPanel({ resetFields: true, clearStatus: true });
   } catch (error) {
     const message = error instanceof Error ? error.message : "Errore durante l'invio";
     setReportStatus(`Invio fallito: ${message}`, "error");
