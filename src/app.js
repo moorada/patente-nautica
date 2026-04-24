@@ -177,7 +177,6 @@ const refs = {
   setupStepMode: document.getElementById("setup-step-mode"),
   setupStepConfig: document.getElementById("setup-step-config"),
   selectedPrimaryPill: document.getElementById("selected-primary-pill"),
-  modeDescription: document.getElementById("mode-description"),
   primaryGroup: document.getElementById("primary-group"),
   primaryList: document.getElementById("primary-list"),
   examConfig: document.getElementById("exam-config"),
@@ -698,10 +697,12 @@ function renderPrimaryModes() {
 
     const title = document.createElement("strong");
     title.textContent = mode.label;
-    const desc = document.createElement("span");
-    desc.textContent = mode.description;
-
-    button.append(title, desc);
+    button.append(title);
+    if (mode.description) {
+      const desc = document.createElement("span");
+      desc.textContent = mode.description;
+      button.append(desc);
+    }
     button.addEventListener("click", () => {
       state.selectedPrimaryId = mode.id;
       renderPrimaryModes();
@@ -773,11 +774,7 @@ function renderDatasetChips() {
 }
 
 function syncSetupPanels() {
-  const primary = getPrimaryModeById(state.selectedPrimaryId);
-
   if (state.selectedPrimaryId === "exam") {
-    const examMode = getExamModeById(state.selectedExamModeId);
-    refs.modeDescription.textContent = `${primary.description} Modalità attiva: ${examMode.label}. Riferimento: DM 323/2021, art. 6 (risposta omessa = errata).`;
     refs.examConfig.classList.remove("hidden");
     refs.customConfig.classList.add("hidden");
     refs.startBtn.textContent = "Avvia simulazione esame";
@@ -788,21 +785,18 @@ function syncSetupPanels() {
   refs.customConfig.classList.remove("hidden");
 
   if (state.selectedPrimaryId === "infinite") {
-    refs.modeDescription.textContent = primary.description;
     refs.customHelp.textContent = "Seleziona da quali elenchi prendere le domande. Potrai continuare all'infinito.";
     refs.startBtn.textContent = "Avvia quiz infinito";
     return;
   }
 
   if (state.selectedPrimaryId === "study") {
-    refs.modeDescription.textContent = primary.description;
     refs.customHelp.textContent = "Sfoglia tutte le domande delle liste selezionate con le soluzioni già visibili.";
     refs.startBtn.textContent = "Avvia studio completo";
     return;
   }
 
   const wrongStats = getWrongStatsSummary();
-  refs.modeDescription.textContent = primary.description;
   refs.customHelp.textContent = `Domande con errori registrati: ${wrongStats.questionsWithErrors}. Risposte salvate: ${wrongStats.totalResponses}.`;
   refs.startBtn.textContent = "Avvia domande più sbagliate";
 }
@@ -828,7 +822,6 @@ function renderSetupStage() {
   if (!isConfigStage) {
     refs.selectedPrimaryPill.classList.add("hidden");
     refs.selectedPrimaryPill.textContent = "";
-    refs.modeDescription.textContent = "Tocca una modalità per passare alla configurazione.";
     refs.examConfig.classList.add("hidden");
     refs.customConfig.classList.add("hidden");
     return;

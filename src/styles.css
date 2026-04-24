@@ -273,11 +273,14 @@ body {
 }
 
 .setup-step {
+  appearance: none;
+  -webkit-appearance: none;
   border: 1px solid var(--line);
   border-radius: 999px;
   padding: 3px 9px;
   font-size: 0.72rem;
   font-weight: 700;
+  line-height: 1.15;
   text-align: center;
   color: var(--muted);
   background: rgba(96, 157, 181, 0.08);
@@ -289,6 +292,9 @@ body {
   font-size: inherit;
   font-weight: inherit;
   line-height: inherit;
+  border: inherit;
+  color: inherit;
+  background: inherit;
 }
 
 .setup-step-link:hover {
@@ -549,8 +555,8 @@ body {
   min-height: 0;
   overflow: hidden;
   padding: 9px;
-  display: flex;
-  flex-direction: column;
+  display: grid;
+  grid-template-rows: auto auto minmax(0, 1fr);
   gap: 7px;
 }
 
@@ -650,10 +656,13 @@ body {
 }
 
 .question-scroll {
-  flex: 1 1 auto;
+  height: 100%;
   min-height: 0;
-  overflow: auto;
-  display: grid;
+  overflow-y: auto;
+  overflow-x: hidden;
+  -webkit-overflow-scrolling: touch;
+  display: flex;
+  flex-direction: column;
   gap: 8px;
 }
 
@@ -718,11 +727,13 @@ body {
 .response-flip {
   perspective: 1200px;
   isolation: isolate;
-  overflow: hidden;
+  overflow: visible;
+  min-height: 0;
 }
 
 .response-flip-inner {
   display: grid;
+  min-height: 0;
   transform-style: preserve-3d;
   will-change: transform;
   transition: transform 0.55s cubic-bezier(0.2, 0.7, 0.2, 1);
