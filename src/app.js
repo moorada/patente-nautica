@@ -33,9 +33,9 @@ const examModes = [
     id: "exam_entro12_motore",
     type: "exam",
     label: "Esame entro 12M • Motore",
-    description: "Quiz elementi di carteggio: 5 quesiti (min 4/5, 20 min) + Quiz base: 20 quesiti (min 16/20, 30 min).",
+    description: "Elementi di carteggio: 1 prova da 5 quesiti (min 4/5, 20 min) + Quiz base: 20 quesiti (min 16/20, 30 min).",
     sections: [
-      { id: "elementi", label: "Quiz elementi di carteggio", datasetId: "elementi", pickQuestions: 1, minCorrect: 4 },
+      { id: "elementi", label: "Elementi di carteggio (1 prova = 5 quesiti)", datasetId: "elementi", pickQuestions: 1, minCorrect: 4 },
       { id: "base", label: "Quiz base", datasetId: "base", pickQuestions: 20, minCorrect: 16 },
     ],
   },
@@ -43,9 +43,9 @@ const examModes = [
     id: "exam_entro12_vela",
     type: "exam",
     label: "Esame entro 12M • Motore + Vela",
-    description: "Quiz elementi di carteggio 5 quesiti (min 4/5, 20 min) + Quiz base 20 (min 16/20, 30 min) + Quiz vela 5 (min 4/5, 15 min).",
+    description: "Elementi di carteggio: 1 prova da 5 quesiti (min 4/5, 20 min) + Quiz base 20 (min 16/20, 30 min) + Quiz vela 5 (min 4/5, 15 min).",
     sections: [
-      { id: "elementi", label: "Quiz elementi di carteggio", datasetId: "elementi", pickQuestions: 1, minCorrect: 4 },
+      { id: "elementi", label: "Elementi di carteggio (1 prova = 5 quesiti)", datasetId: "elementi", pickQuestions: 1, minCorrect: 4 },
       { id: "base", label: "Quiz base", datasetId: "base", pickQuestions: 20, minCorrect: 16 },
       { id: "vela", label: "Quiz vela", datasetId: "vela", pickQuestions: 5, minCorrect: 4 },
     ],
@@ -125,6 +125,11 @@ const primaryModes = [
     label: "Domande più sbagliate",
     description: "Allenamento focalizzato sulle domande con più errori storici registrati.",
   },
+  {
+    id: "study",
+    label: "Studio completo con soluzioni",
+    description: "Scegli le liste e scorri tutte le domande vedendo subito le soluzioni.",
+  },
 ];
 
 const THEME_KEY = "nautica-theme";
@@ -138,6 +143,7 @@ const SUPABASE_URL = resolveSupabaseUrl();
 const state = {
   loaded: false,
   selectedPrimaryId: "exam",
+  setupStage: "mode",
   selectedExamModeId: examModes[0].id,
   selectedDatasetIds: new Set(["base", "vela"]),
   session: null,
@@ -160,17 +166,26 @@ const refs = {
   openSupportBtn: document.getElementById("open-support-btn"),
   supportModal: document.getElementById("support-modal"),
   closeSupportBtn: document.getElementById("close-support-btn"),
+  resetConfirmModal: document.getElementById("reset-confirm-modal"),
+  closeResetConfirmBtn: document.getElementById("close-reset-confirm-btn"),
+  cancelResetConfirmBtn: document.getElementById("cancel-reset-confirm-btn"),
+  confirmResetMemoryBtn: document.getElementById("confirm-reset-memory-btn"),
   resetMemoryBtn: document.getElementById("reset-memory-btn"),
   setupView: document.getElementById("setup-view"),
   quizView: document.getElementById("quiz-view"),
+  setupTitle: document.getElementById("setup-title"),
+  setupStepMode: document.getElementById("setup-step-mode"),
+  setupStepConfig: document.getElementById("setup-step-config"),
+  selectedPrimaryPill: document.getElementById("selected-primary-pill"),
   modeDescription: document.getElementById("mode-description"),
+  primaryGroup: document.getElementById("primary-group"),
   primaryList: document.getElementById("primary-list"),
   examConfig: document.getElementById("exam-config"),
   examModeList: document.getElementById("exam-mode-list"),
   customConfig: document.getElementById("custom-config"),
-  customTitle: document.getElementById("custom-title"),
   customHelp: document.getElementById("custom-help"),
   datasetChips: document.getElementById("dataset-chips"),
+  setupActions: document.getElementById("setup-actions"),
   startBtn: document.getElementById("start-btn"),
   resetBtn: document.getElementById("reset-btn"),
   loadNotice: document.getElementById("load-notice"),
@@ -209,6 +224,7 @@ const refs = {
   prevBtn: document.getElementById("prev-btn"),
   nextBtn: document.getElementById("next-btn"),
   submitExamBtn: document.getElementById("submit-exam-btn"),
+  restartSessionBtn: document.getElementById("restart-session-btn"),
 };
 
 init();
@@ -220,6 +236,7 @@ function init() {
   renderExamModes();
   renderDatasetChips();
   syncSetupPanels();
+  renderSetupStage();
   renderRankingBoard();
   showSetupView();
   void loadAllDatasets();
@@ -241,9 +258,21 @@ function bindEvents() {
       closeSupportModal();
     }
   });
-  refs.resetMemoryBtn.addEventListener("click", resetStoredProgress);
+  refs.resetConfirmModal.addEventListener("click", (event) => {
+    if (event.target === refs.resetConfirmModal) {
+      closeResetConfirmModal();
+    }
+  });
+  refs.resetMemoryBtn.addEventListener("click", openResetConfirmModal);
+  refs.closeResetConfirmBtn.addEventListener("click", closeResetConfirmModal);
+  refs.cancelResetConfirmBtn.addEventListener("click", closeResetConfirmModal);
+  refs.confirmResetMemoryBtn.addEventListener("click", () => {
+    resetStoredProgress();
+    closeResetConfirmModal();
+  });
   refs.startBtn.addEventListener("click", startSession);
   refs.resetBtn.addEventListener("click", resetSelections);
+  refs.setupStepMode.addEventListener("click", () => goToSetupStage("mode"));
   refs.backToSetupBtn.addEventListener("click", showSetupView);
   refs.prevBtn.addEventListener("click", goPrev);
   refs.nextBtn.addEventListener("click", goNext);
@@ -252,6 +281,7 @@ function bindEvents() {
   window.addEventListener("resize", updateScrollHint);
   refs.showSolutionBtn.addEventListener("click", revealSolution);
   refs.submitExamBtn.addEventListener("click", finalizeExam);
+  refs.restartSessionBtn.addEventListener("click", restartCurrentSession);
   refs.reportErrorBtn.addEventListener("click", toggleReportPanel);
   refs.reportSendBtn.addEventListener("click", submitErrorReport);
   refs.reportCancelBtn.addEventListener("click", closeReportPanel);
@@ -259,6 +289,14 @@ function bindEvents() {
 }
 
 function handleKeyboardShortcuts(event) {
+  if (!refs.resetConfirmModal.classList.contains("hidden")) {
+    if (event.key === "Escape") {
+      event.preventDefault();
+      closeResetConfirmModal();
+    }
+    return;
+  }
+
   if (!refs.supportModal.classList.contains("hidden")) {
     if (event.key === "Escape") {
       event.preventDefault();
@@ -343,6 +381,10 @@ function handleNumericShortcut(numberKey) {
     return;
   }
 
+  if (state.session.mode.type === "study") {
+    return;
+  }
+
   const question = state.session.questions[state.cursor];
   const qState = state.session.questionStates[state.cursor];
   if (!question || !qState) {
@@ -395,6 +437,7 @@ function applyTheme(theme) {
 }
 
 function openRankingModal() {
+  closeResetConfirmModal();
   closeSupportModal();
   renderRankingBoard();
   refs.rankingModal.classList.remove("hidden");
@@ -405,12 +448,26 @@ function closeRankingModal() {
 }
 
 function openSupportModal() {
+  closeResetConfirmModal();
   closeRankingModal();
   refs.supportModal.classList.remove("hidden");
 }
 
 function closeSupportModal() {
   refs.supportModal.classList.add("hidden");
+}
+
+function openResetConfirmModal() {
+  closeRankingModal();
+  closeSupportModal();
+  refs.resetConfirmModal.classList.remove("hidden");
+  requestAnimationFrame(() => {
+    refs.confirmResetMemoryBtn.focus();
+  });
+}
+
+function closeResetConfirmModal() {
+  refs.resetConfirmModal.classList.add("hidden");
 }
 
 function resolveSupabaseUrl() {
@@ -623,6 +680,10 @@ function getExamModeById(id) {
   return examModes.find((mode) => mode.id === id) || examModes[0];
 }
 
+function getPrimaryModeById(id) {
+  return primaryModes.find((mode) => mode.id === id) || primaryModes[0];
+}
+
 function getDatasetById(id) {
   return datasetDefinitions.find((dataset) => dataset.id === id);
 }
@@ -634,9 +695,6 @@ function renderPrimaryModes() {
     const button = document.createElement("button");
     button.type = "button";
     button.className = "mode-card";
-    if (mode.id === state.selectedPrimaryId) {
-      button.classList.add("active");
-    }
 
     const title = document.createElement("strong");
     title.textContent = mode.label;
@@ -647,7 +705,7 @@ function renderPrimaryModes() {
     button.addEventListener("click", () => {
       state.selectedPrimaryId = mode.id;
       renderPrimaryModes();
-      syncSetupPanels();
+      goToSetupStage("config");
     });
 
     refs.primaryList.append(button);
@@ -675,7 +733,7 @@ function renderExamModes() {
     button.addEventListener("click", () => {
       state.selectedExamModeId = mode.id;
       renderExamModes();
-      syncSetupPanels();
+      renderSetupStage();
     });
 
     refs.examModeList.append(button);
@@ -715,7 +773,7 @@ function renderDatasetChips() {
 }
 
 function syncSetupPanels() {
-  const primary = primaryModes.find((mode) => mode.id === state.selectedPrimaryId) || primaryModes[0];
+  const primary = getPrimaryModeById(state.selectedPrimaryId);
 
   if (state.selectedPrimaryId === "exam") {
     const examMode = getExamModeById(state.selectedExamModeId);
@@ -731,23 +789,61 @@ function syncSetupPanels() {
 
   if (state.selectedPrimaryId === "infinite") {
     refs.modeDescription.textContent = primary.description;
-    refs.customTitle.textContent = "2) Liste del quiz infinito";
     refs.customHelp.textContent = "Seleziona da quali elenchi prendere le domande. Potrai continuare all'infinito.";
     refs.startBtn.textContent = "Avvia quiz infinito";
     return;
   }
 
+  if (state.selectedPrimaryId === "study") {
+    refs.modeDescription.textContent = primary.description;
+    refs.customHelp.textContent = "Sfoglia tutte le domande delle liste selezionate con le soluzioni già visibili.";
+    refs.startBtn.textContent = "Avvia studio completo";
+    return;
+  }
+
   const wrongStats = getWrongStatsSummary();
   refs.modeDescription.textContent = primary.description;
-  refs.customTitle.textContent = "2) Liste per domande più sbagliate";
   refs.customHelp.textContent = `Domande con errori registrati: ${wrongStats.questionsWithErrors}. Risposte salvate: ${wrongStats.totalResponses}.`;
   refs.startBtn.textContent = "Avvia domande più sbagliate";
+}
+
+function goToSetupStage(stage) {
+  state.setupStage = stage === "config" ? "config" : "mode";
+  renderSetupStage();
+}
+
+function renderSetupStage() {
+  const primary = getPrimaryModeById(state.selectedPrimaryId);
+  const isConfigStage = state.setupStage === "config";
+  const title = isConfigStage
+    ? (primary.id === "exam" ? "Scegli esame o integrazione" : "Scegli le liste")
+    : "Scegli la modalità";
+
+  refs.setupTitle.textContent = title;
+  refs.setupStepMode.classList.toggle("active", !isConfigStage);
+  refs.setupStepConfig.classList.toggle("active", isConfigStage);
+  refs.primaryGroup.classList.toggle("hidden", isConfigStage);
+  refs.setupActions.classList.toggle("hidden", !isConfigStage);
+
+  if (!isConfigStage) {
+    refs.selectedPrimaryPill.classList.add("hidden");
+    refs.selectedPrimaryPill.textContent = "";
+    refs.modeDescription.textContent = "Tocca una modalità per passare alla configurazione.";
+    refs.examConfig.classList.add("hidden");
+    refs.customConfig.classList.add("hidden");
+    return;
+  }
+
+  refs.selectedPrimaryPill.textContent = `Modalità selezionata: ${primary.label}`;
+  refs.selectedPrimaryPill.classList.remove("hidden");
+  syncSetupPanels();
 }
 
 function showSetupView() {
   document.body.classList.remove("quiz-active");
   refs.setupView.classList.remove("hidden");
   refs.quizView.classList.add("hidden");
+  goToSetupStage("mode");
   closeReportPanel();
 }
 
@@ -778,8 +874,8 @@ async function loadAllDatasets() {
 
     state.loaded = true;
     renderDatasetChips();
-    syncSetupPanels();
-    refs.loadNotice.textContent = "Dataset pronti.";
+    renderSetupStage();
+    refs.loadNotice.textContent = "";
   } catch (error) {
     console.error(error);
     refs.loadNotice.textContent = "Errore nel caricamento. Avvia da server locale: python3 -m http.server";
@@ -927,6 +1023,8 @@ function startSession() {
     if (state.selectedPrimaryId === "exam") {
       const mode = getExamModeById(state.selectedExamModeId);
       state.session = buildExamSession(mode);
+    } else if (state.selectedPrimaryId === "study") {
+      state.session = buildStudySession();
     } else if (state.selectedPrimaryId === "infinite") {
       state.session = buildInfiniteSession();
     } else {
@@ -944,10 +1042,23 @@ function startSession() {
   renderQuiz();
 }
 
+function shouldPlaceExamSectionAtEnd(section) {
+  return section?.datasetId === "elementi" || section?.datasetId === "carteggio";
+}
+
+function orderExamSections(sections) {
+  return [...sections].sort((a, b) => {
+    const aTail = shouldPlaceExamSectionAtEnd(a) ? 1 : 0;
+    const bTail = shouldPlaceExamSectionAtEnd(b) ? 1 : 0;
+    return aTail - bTail;
+  });
+}
+
 function buildExamSession(mode) {
+  const orderedSections = orderExamSections(mode.sections || []);
   const questions = [];
 
-  for (const section of mode.sections) {
+  for (const section of orderedSections) {
     const dataset = getDatasetById(section.datasetId);
     if (!dataset || !Array.isArray(dataset.questions) || dataset.questions.length === 0) {
       throw new Error(`Dataset non disponibile: ${section.label}`);
@@ -960,9 +1071,41 @@ function buildExamSession(mode) {
   }
 
   return {
-    mode,
+    mode: {
+      ...mode,
+      sections: orderedSections,
+    },
     questions,
     questionStates: questions.map((question) => createQuestionState(question)),
+    infinitePool: null,
+    continuousRemainingPool: null,
+  };
+}
+
+function buildStudySession() {
+  const pool = buildPoolFromSelectedDatasets();
+  if (pool.length === 0) {
+    throw new Error("Seleziona almeno una lista con domande disponibili.");
+  }
+
+  const questions = pool.map((question) => cloneForStudy(question, "study", "Studio"));
+  const questionStates = questions.map((question) => {
+    const qState = createQuestionState(question);
+    if (question.kind === "open") {
+      qState.solutionShown = true;
+    }
+    return qState;
+  });
+
+  return {
+    mode: {
+      id: "study_custom",
+      type: "study",
+      label: "Studio completo con soluzioni",
+      sections: [],
+    },
+    questions,
+    questionStates,
     infinitePool: null,
     continuousRemainingPool: null,
   };
@@ -1082,6 +1225,43 @@ function cloneForSession(question, sectionId, sectionLabel) {
   };
 }
 
+function cloneForStudy(question, sectionId, sectionLabel) {
+  if (question.kind === "choice") {
+    return {
+      uid: `${question.originKey}-${cryptoRandomId()}`,
+      originKey: question.originKey,
+      kind: "choice",
+      sectionId,
+      sectionLabel,
+      sourceLabel: question.sourceLabel,
+      datasetId: question.datasetId,
+      text: question.text,
+      spiegazione: question.spiegazione || "",
+      image: question.image,
+      answers: [...question.answers],
+      correctAnswerId: question.correctAnswerId,
+    };
+  }
+
+  const parts = Array.isArray(question.solutionParts) && question.solutionParts.length > 0
+    ? [...question.solutionParts]
+    : ["Soluzione non disponibile"];
+
+  return {
+    uid: `${question.originKey}-${cryptoRandomId()}`,
+    originKey: question.originKey,
+    kind: "open",
+    sectionId,
+    sectionLabel,
+    sourceLabel: question.sourceLabel,
+    datasetId: question.datasetId,
+    text: question.text,
+    spiegazione: question.spiegazione || "",
+    image: question.image,
+    solutionParts: parts,
+  };
+}
+
 function createQuestionState(question) {
   if (question.kind === "choice") {
     return {
@@ -1101,6 +1281,7 @@ function createQuestionState(question) {
 
 function resetSelections() {
   state.selectedPrimaryId = "exam";
+  state.setupStage = "mode";
   state.selectedExamModeId = examModes[0].id;
   state.selectedDatasetIds = new Set(["base", "vela"]);
   state.session = null;
@@ -1111,7 +1292,7 @@ function resetSelections() {
   renderPrimaryModes();
   renderExamModes();
   renderDatasetChips();
-  syncSetupPanels();
+  renderSetupStage();
 
   refs.loadNotice.textContent = "Selezione ripristinata.";
 }
@@ -1142,15 +1323,15 @@ function renderQuiz() {
   refs.answered.textContent = `${metrics.answered} / ${metrics.total}`;
   refs.statsGrid.classList.toggle(
     "hidden",
-    mode.type === "exam" && !state.examFinalized,
+    (mode.type === "exam" && !state.examFinalized) || mode.type === "study",
   );
 
   renderSectionStatus(metrics);
   renderExamResult(metrics);
 
   refs.prevBtn.disabled = state.cursor === 0;
-  refs.nextBtn.textContent = "Invia / Avanti";
-  refs.nextBtn.disabled = mode.type === "exam" && state.cursor >= questions.length - 1;
+  refs.nextBtn.textContent = mode.type === "study" ? "Avanti" : "Invia / Avanti";
+  refs.nextBtn.disabled = (mode.type === "exam" || mode.type === "study") && state.cursor >= questions.length - 1;
 
   if (mode.type === "exam" && !state.examFinalized) {
     refs.submitExamBtn.classList.remove("hidden");
@@ -1158,6 +1339,10 @@ function renderQuiz() {
   } else {
     refs.submitExamBtn.classList.add("hidden");
   }
+
+  const showRestart = mode.type === "exam" && state.examFinalized;
+  refs.restartSessionBtn.classList.toggle("hidden", !showRestart);
+  refs.restartSessionBtn.disabled = false;
 
   const missingImageHint = !question.image && questionMentionsFigure(question.text)
     ? " · immagine non disponibile nel dataset"
@@ -1184,7 +1369,7 @@ function renderQuiz() {
   if (question.kind === "choice") {
     renderChoiceQuestion(question, qState, mode.type);
   } else {
-    renderOpenQuestion(question, qState);
+    renderOpenQuestion(question, qState, mode.type);
   }
 
   if (isNewQuestion) {
@@ -1192,6 +1377,14 @@ function renderQuiz() {
     state.lastRenderedQuestionUid = question.uid;
   }
   requestAnimationFrame(updateScrollHint);
+}
+
+function restartCurrentSession() {
+  if (!state.session || state.session.mode.type !== "exam") {
+    return;
+  }
+
+  startSession();
 }
 
 function renderExplanation(question, qState) {
@@ -1297,6 +1490,7 @@ function renderExamResult(metrics) {
 }
 
 function renderChoiceQuestion(question, qState, modeType) {
+  const studyMode = modeType === "study";
   const frozen = state.examFinalized || qState.selectedAnswerId !== null;
 
   for (let index = 0; index < question.answers.length; index += 1) {
@@ -1311,7 +1505,12 @@ function renderChoiceQuestion(question, qState, modeType) {
       button.classList.add("selected");
     }
 
-    if (frozen) {
+    if (studyMode) {
+      button.disabled = true;
+      if (answer.id === question.correctAnswerId) {
+        button.classList.add("correct");
+      }
+    } else if (frozen) {
       button.disabled = true;
 
       if (answer.id === question.correctAnswerId) {
@@ -1323,24 +1522,31 @@ function renderChoiceQuestion(question, qState, modeType) {
       }
     }
 
-    button.addEventListener("click", () => {
-      selectChoiceAnswer(question, qState, answer, modeType);
-    });
+    if (!studyMode) {
+      button.addEventListener("click", () => {
+        selectChoiceAnswer(question, qState, answer, modeType);
+      });
+    }
 
     refs.answers.append(button);
   }
 }
 
-function renderOpenQuestion(question, qState) {
+function renderOpenQuestion(question, qState, modeType) {
+  const studyMode = modeType === "study";
   const intro = document.createElement("p");
   intro.className = "notice";
-  intro.textContent = "Confronta la soluzione e marca i quesiti. Tastiera: S (o 1) mostra soluzione, poi 1=giusta e 2=sbagliata sul prossimo quesito non marcato.";
+  intro.textContent = studyMode
+    ? "Modalità studio: soluzione mostrata direttamente."
+    : "Confronta la soluzione e marca i quesiti. Tastiera: S (o 1) mostra soluzione, poi 1=giusta e 2=sbagliata sul prossimo quesito non marcato.";
   refs.answers.append(intro);
 
-  refs.openActions.classList.remove("hidden");
-  refs.showSolutionBtn.disabled = qState.solutionShown;
+  if (!studyMode) {
+    refs.openActions.classList.remove("hidden");
+    refs.showSolutionBtn.disabled = qState.solutionShown;
+  }
 
-  if (!qState.solutionShown) {
+  if (!qState.solutionShown && !studyMode) {
     return;
   }
 
@@ -1348,8 +1554,6 @@ function renderOpenQuestion(question, qState) {
 
   for (let i = 0; i < question.solutionParts.length; i += 1) {
     const part = question.solutionParts[i];
-    const mark = qState.partMarks[i];
-
     const partWrap = document.createElement("div");
     partWrap.className = "solution-part";
 
@@ -1357,6 +1561,13 @@ function renderOpenQuestion(question, qState) {
     const prefix = question.solutionParts.length > 1 ? `Quesito ${i + 1}: ` : "Risposta: ";
     text.textContent = `${prefix}${part}`;
 
+    if (studyMode) {
+      partWrap.append(text);
+      refs.solution.append(partWrap);
+      continue;
+    }
+
+    const mark = qState.partMarks[i];
     const actions = document.createElement("div");
     actions.className = "part-actions";
 
@@ -1407,7 +1618,7 @@ function revealSolution() {
 }
 
 function selectChoiceAnswer(question, qState, answer, modeType) {
-  if (state.examFinalized || qState.selectedAnswerId !== null) {
+  if (modeType === "study" || state.examFinalized || qState.selectedAnswerId !== null) {
     return;
   }
 
@@ -1465,7 +1676,7 @@ function goNext() {
 
   const mode = state.session.mode;
 
-  if (mode.type === "exam") {
+  if (mode.type === "exam" || mode.type === "study") {
     if (state.cursor < state.session.questions.length - 1) {
       state.cursor += 1;
       renderQuiz();
@@ -1711,7 +1922,7 @@ function recordResponse({ question, isCorrect, responseKind, responseValue, part
   saveProgress();
   renderRankingBoard();
   if (state.selectedPrimaryId === "wrongest") {
-    syncSetupPanels();
+    renderSetupStage();
   }
 }
 
@@ -1760,8 +1971,7 @@ function resetStoredProgress() {
 
   saveProgress();
   renderRankingBoard();
-  syncSetupPanels();
-  refs.loadNotice.textContent = "Memoria risposte azzerata.";
+  renderSetupStage();
 }
 
 function getWrongStatsSummary() {

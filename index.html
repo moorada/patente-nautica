@@ -41,27 +41,31 @@
     <section id="setup-view" class="view">
       <section class="panel setup-panel">
         <div class="setup-head">
-          <h2>Modalità</h2>
+          <div class="setup-head-top">
+            <h2 id="setup-title">Scegli la modalità</h2>
+          </div>
+          <div class="setup-stepper" aria-label="Progressione configurazione">
+            <button id="setup-step-mode" class="setup-step setup-step-link active" type="button">1. Modalità</button>
+            <span id="setup-step-config" class="setup-step">2. Configurazione</span>
+          </div>
+          <p id="selected-primary-pill" class="selected-primary-pill hidden"></p>
           <p id="mode-description" class="muted"></p>
         </div>
 
-        <section class="mode-group" aria-labelledby="primary-title">
-          <h3 id="primary-title">1) Tipo principale</h3>
+        <section id="primary-group" class="mode-group" aria-label="Tipo principale">
           <div id="primary-list" class="mode-list"></div>
         </section>
 
-        <section id="exam-config" class="custom-config" aria-labelledby="exam-title">
-          <h3 id="exam-title">2) Esame o integrazione</h3>
+        <section id="exam-config" class="custom-config" aria-label="Esame o integrazione">
           <div id="exam-mode-list" class="mode-list"></div>
         </section>
 
-        <section id="custom-config" class="custom-config hidden" aria-labelledby="custom-title">
-          <h3 id="custom-title">2) Configurazione</h3>
+        <section id="custom-config" class="custom-config hidden" aria-label="Configurazione liste">
           <p id="custom-help" class="muted"></p>
           <div id="dataset-chips" class="dataset-chips"></div>
         </section>
 
-        <div class="setup-actions">
+        <div id="setup-actions" class="setup-actions hidden">
           <button id="start-btn" class="btn btn-primary" type="button">Avvia</button>
           <button id="reset-btn" class="btn btn-secondary" type="button">Reset selezione</button>
         </div>
@@ -170,6 +174,7 @@
           <button id="prev-btn" class="btn btn-secondary" type="button">Indietro</button>
           <button id="next-btn" class="btn btn-primary" type="button">Invia / Avanti</button>
           <button id="submit-exam-btn" class="btn btn-accent hidden" type="button">Concludi esame</button>
+          <button id="restart-session-btn" class="btn btn-secondary hidden" type="button">Ricomincia simulazione</button>
         </div>
       </section>
     </section>
@@ -192,12 +197,26 @@
         <h2 id="support-title">Supporto e feedback</h2>
         <button id="close-support-btn" class="btn btn-secondary" type="button">Chiudi</button>
       </div>
-      <p class="muted">Questo progetto lo porto avanti in pubblico, sempre gratis e senza pubblicità. L'ho fatto e lo mantengo gratis: se ti aiuta e vuoi ripagare la fatica, aiutami con una donazione.</p>
+      <p class="muted">Questo progetto è gratuito e senza pubblicità. Se ti è utile e vuoi aiutarmi a ripagare il tempo e la fatica, puoi fare una donazione.</p>
       <div class="support-links">
         <a href="https://www.buymeacoffee.com/moorada" target="_blank" rel="noopener noreferrer" class="support-link-btn">☕ Buy Me a Coffee</a>
         <a href="https://www.paypal.com/donate/?hosted_button_id=8KWRVYPQ5Q49J" target="_blank" rel="noopener noreferrer" class="support-link-btn">💙 Dona con PayPal</a>
         <a href="https://github.com/moorada/patente-nautica/issues/new" target="_blank" rel="noopener noreferrer" class="support-link-btn">📝 Lasciami un feedback</a>
         <a href="https://github.com/moorada/patente-nautica/stargazers" target="_blank" rel="noopener noreferrer" class="support-link-btn">⭐ Metti una stella su GitHub</a>
+      </div>
+    </section>
+  </div>
+
+  <div id="reset-confirm-modal" class="ranking-modal hidden" role="dialog" aria-modal="true" aria-labelledby="reset-confirm-title">
+    <section class="ranking-panel confirm-panel">
+      <div class="ranking-head">
+        <h2 id="reset-confirm-title">Conferma reset memoria</h2>
+        <button id="close-reset-confirm-btn" class="btn btn-secondary" type="button">Chiudi</button>
+      </div>
+      <p class="muted">Stai per cancellare tutta la cronologia risposte e la classifica errori. Questa azione non si pu&ograve; annullare.</p>
+      <div class="confirm-actions">
+        <button id="cancel-reset-confirm-btn" class="btn btn-secondary" type="button">Annulla</button>
+        <button id="confirm-reset-memory-btn" class="btn btn-accent" type="button">Conferma reset</button>
       </div>
     </section>
   </div>
