@@ -1,0 +1,1009 @@
+Domanda: Lo scafo di un'unità navale a vela è la parte immersa della deriva.
+Risposta esatta: FALSO
+Spiegazione: Falso. Lo scafo è la struttura principale, galleggiante e portante dell’unità. La deriva, invece, è una parte immersa che serve a contrastare lo scarroccio, cioè lo spostamento laterale causato dal vento.
+
+Domanda: Lo scafo di un'unità a vela è la struttura galleggiante e portante della stessa.
+Risposta esatta: VERO
+Spiegazione: Vero. Lo scafo è il corpo principale dell’imbarcazione: sostiene l’unità, la fa galleggiare e contiene persone, attrezzature ed eventuali impianti.
+
+Domanda: La presenza del bulbo zavorrato in un'unità navale a vela ha la funzione di fornire alla stessa una maggiore stabilità per contrastare le azioni esterne (vento).
+Risposta esatta: VERO
+Spiegazione: Vero. Il bulbo zavorrato è una massa posta in basso, solitamente alla base della chiglia, che abbassa il baricentro dell’imbarcazione. Questo aumenta la stabilità e aiuta a contrastare lo sbandamento prodotto dal vento sulle vele.
+
+Domanda: La presenza del bulbo zavorrato in un'unità navale a vela ha la funzione di offrire alla stessa una maggior penetrazione alla prua, tale da farle raggiungere velocità più elevate.
+Risposta esatta: FALSO
+Spiegazione: Falso. Il bulbo zavorrato non serve a rendere più penetrante la prua né ad aumentare direttamente la velocità. La sua funzione principale è dare stabilità, abbassando il baricentro e opponendosi allo sbandamento.
+
+Domanda: La vela si orienta in relazione al flusso del vento.
+Risposta esatta: VERO
+Spiegazione: Vero. La vela deve essere regolata in base alla direzione del vento, soprattutto del vento apparente, per lavorare correttamente e generare spinta. Orientare male la vela significa perdere efficienza o farla fileggiare.
+
+Domanda: Per andatura si intende la direzione verso cui la stessa procede rispetto alla direzione di provenienza del vento.
+Risposta esatta: VERO
+Spiegazione: Vero. L’andatura indica il modo in cui la barca procede rispetto al vento reale. Per esempio, bolina, traverso, lasco e poppa sono andature diverse perché cambia l’angolo tra la rotta della barca e la direzione da cui arriva il vento.
+
+Domanda: Per andatura si intende la velocità riaggiunta dall'unità navale a vela rispetto alla direzione di provenienza del vento
+Risposta esatta: FALSO
+Spiegazione: Falso. L’andatura non indica la velocità, ma l’angolo con cui l’unità naviga rispetto al vento. La velocità può cambiare in base all’andatura, ma non è il significato del termine.
+
+Domanda: Quando l'unità a vela si muove a favore di vento, il vento apparente equivale alla differenza tra il vento reale e quello di velocità dell'unità navale stessa.
+Risposta esatta: VERO
+Spiegazione: Vero. Quando si naviga con il vento da poppa, la barca si muove nella stessa direzione del vento reale. Per questo il vento percepito a bordo, cioè il vento apparente, risulta ridotto: è dato dalla differenza tra vento reale e velocità della barca.
+
+Domanda: Quando l'unità a vela si muove a favore di vento, il vento apparente, corrisponde alla somma tra il vento reale e quello di velocità dell'unità navale
+Risposta esatta: FALSO
+Spiegazione: Falso. Con vento a favore, la velocità della barca sottrae intensità al vento percepito. Per questo in poppa il vento apparente è minore del vento reale, non maggiore.
+
+Domanda: Quando l'unità a vela si muove controvento, il vento apparente corrisponde alla somma tra il vento reale e quello di velocità dell'unità navale.
+Risposta esatta: VERO
+Spiegazione: Vero. Quando la barca procede verso la direzione da cui arriva il vento, il vento reale e il vento generato dall’avanzamento dell’unità si sommano. Per questo in bolina il vento apparente è più intenso del vento reale.
+
+Domanda: Quando l'unità a vela si muove controvento, il vento apparente è pari al vento di velocità dell'unità navale stessa.
+Risposta esatta: FALSO
+Spiegazione: Falso. Il vento apparente non dipende solo dalla velocità della barca, ma dalla combinazione tra vento reale e vento generato dal movimento dell’unità. In controvento questi due contributi si sommano.
+
+Domanda: Durante la navigazione di una unità a vela, il vento apparente è sempre orientato più a proravia rispetto al vento reale.
+Risposta esatta: VERO
+Spiegazione: Vero. Il movimento della barca genera un vento di velocità contrario alla direzione di avanzamento. Questo fa sì che il vento apparente risulti spostato più verso prua rispetto al vento reale. “A proravia” significa verso la prua.
+
+Domanda: Durante la navigazione di una unità a vela, il vento apparente, è sempre orientato ortogonalmente rispetto al vento reale.
+Risposta esatta: FALSO
+Spiegazione: Falso. Il vento apparente non è per forza perpendicolare al vento reale. La sua direzione dipende dalla combinazione tra vento reale e velocità della barca.
+
+Domanda: Durante la navigazione a vela, il vento apparente ha un'intensità tanto maggiore quanto più l'unità navale procede verso la direzione da cui proviene il vento.
+Risposta esatta: VERO
+Spiegazione: Vero. Più la barca procede verso il vento, più il vento generato dal suo movimento si somma al vento reale. Per questo in bolina il vento apparente è più forte.
+
+Domanda: Durante la navigazione di una navale a vela, il vento apparente ha un'intensità tanto maggiore quanto più l'unità navale si discosta dalla direzione da cui proviene il vento.
+Risposta esatta: FALSO
+Spiegazione: Falso. Allontanandosi dalla direzione di provenienza del vento, soprattutto verso le andature portanti come lasco e poppa, il vento apparente tende a diminuire. In poppa, infatti, la barca “scappa” dal vento e lo percepisce meno intenso.
+
+Domanda: Per andatura di "bolina" si intende quando una unità a vela procede con una direzione di rotta che forma un angolo di circa 135° rispetto alla direzione del vento reale.
+Risposta esatta: FALSO
+Spiegazione: Falso. La bolina è l’andatura più vicina al vento e si tiene indicativamente intorno ai 45° rispetto alla direzione di provenienza del vento reale. Un angolo di circa 135° corrisponde invece al lasco.
+
+Domanda: Per andatura al "traverso" si intende quando una unità a vela procede con una direzione di rotta che forma un angolo di 45° rispetto alla direzione del vento reale.
+Risposta esatta: FALSO
+Spiegazione: Falso. Il traverso è l’andatura in cui il vento arriva lateralmente, cioè circa a 90° rispetto alla prua della barca. A circa 45° si parla invece di bolina.
+
+Domanda: Per andatura di lasco si intende quando una unità a vela procede con una direzione di rotta che forma un angolo di circa 45° rispetto alla direzione del vento reale.
+Risposta esatta: FALSO
+Spiegazione: Falso. Il lasco è un’andatura portante, con il vento che arriva da dietro-lato, indicativamente intorno ai 135°. A circa 45° si parla di bolina.
+
+Domanda: Per andatura di poppa si intende quando una unità a vela procede con una direzione di rotta che forma un angolo di 90° rispetto alla direzione del vento reale.
+Risposta esatta: FALSO
+Spiegazione: Falso. In poppa, detta anche fil di ruota, la barca procede nella stessa direzione verso cui soffia il vento, con un angolo di circa 180° rispetto alla provenienza del vento. A 90° si parla di traverso.
+
+Domanda: Procedendo di bolina, la velocita avvertita dell'unità a vela sembra elevata perché l'intensità del vento percepita risulta superiore rispetto a quella reale.
+Risposta esatta: VERO
+Spiegazione: Vero. In bolina la barca procede verso il vento, quindi il vento apparente aumenta. A bordo si percepisce più pressione sulle vele e sul corpo, perciò la velocità sembra maggiore.
+
+Domanda: Procedendo di bolina, la velocita avvertita dell'unità a vela sembra elevata perché l'intensità del vento percepita risulta inferiore rispetto a quella reale.
+Risposta esatta: FALSO
+Spiegazione: Falso. In bolina il vento apparente è normalmente superiore al vento reale, non inferiore. Questo accade perché la velocità della barca si combina con il vento reale aumentando il vento percepito.
+
+Domanda: Procedendo di poppa, la velocita avvertita dell'unità a vela sembra minore perché l'intensità del vento percepita risulta inferiore rispetto a quella reale.
+Risposta esatta: VERO
+Spiegazione: Vero. In poppa la barca si muove nella stessa direzione del vento, quindi il vento apparente diminuisce. Per questo a bordo si percepisce meno vento e la velocità può sembrare inferiore.
+
+Domanda: Procedendo di poppa, la velocita avvertita dell'unità navale a vela sembra minore perché l'intensità del vento percepita risulta superiore rispetto a quella reale.
+Risposta esatta: FALSO
+Spiegazione: Falso. In poppa il vento apparente non è superiore al vento reale: di solito è inferiore, perché la barca procede nella stessa direzione del vento e ne riduce l’intensità percepita.
+
+Domanda: Per "settore di bordeggio", o "angolo morto", si intende quel settore controvento entro il quale una unità a vela non può indirizzare la sua prua per mancanza di portanza delle vele.
+Risposta esatta: VERO
+Spiegazione: Vero. L’angolo morto è il settore direttamente controvento nel quale una barca a vela non può procedere, perché le vele non riescono a generare portanza sufficiente. Per risalire il vento bisogna bordeggiare, cioè avanzare con una serie di bordi alternati.
+
+Domanda: Per "settore di bordeggio", o "angolo morto", si intende quel settore entro il quale una unità a vela può navigare al fine di aumentare la velocità per raggiungere una determinata destinazione.
+Risposta esatta: FALSO
+Spiegazione: Falso. L’angolo morto non è una zona utile per aumentare la velocità: è il settore controvento in cui la barca non può navigare efficacemente perché le vele non portano.
+
+Domanda: Un temporaneo aumento dell'intensità del vento reale (raffica) comporta una favorevole variazione della direzione del vento apparente per assumere un migliore angolo di bolina.
+Risposta esatta: VERO
+Spiegazione: Vero. Una raffica aumenta l’intensità del vento reale e modifica anche il vento apparente. In certe condizioni questo consente di stringere meglio il vento, cioè procedere con un angolo più favorevole in bolina.
+
+Domanda: Una temporanea attenuazione dell'intensità del vento reale comporta una favorevole variazione della direzione del vento apparente per assumere un migliore angolo di bolina.
+Risposta esatta: FALSO
+Spiegazione: Falso. Un calo del vento reale riduce la pressione sulle vele e peggiora la capacità di stringere il vento. Non produce normalmente un miglioramento dell’angolo di bolina.
+
+Domanda: L'angolo di incidenza risulta essere l'angolo formato tra la direzione del vento apparente e quella verso cui è orientata la vela.
+Risposta esatta: VERO
+Spiegazione: Vero. L’angolo di incidenza è l’angolo tra il vento apparente e il profilo della vela. È importante perché determina se la vela lavora bene, genera portanza oppure fileggia o stalla.
+
+Domanda: Il centro velico risulta essere il punto di applicazione della forza del vento apparente sulle vele e sull'opera morta.
+Risposta esatta: FALSO
+Spiegazione: Falso. Il centro velico è il punto di applicazione della risultante delle forze del vento sulle vele. L’opera morta, cioè la parte dello scafo sopra la linea di galleggiamento, può essere colpita dal vento, ma non rientra nella definizione di centro velico.
+
+Domanda: Il centro di deriva risulta essere il centro geometrico della superficie di deriva posto sotto la chiglia dell'unità a vela.
+Risposta esatta: FALSO
+Spiegazione: Falso. Il centro di deriva non è semplicemente un centro geometrico. È il punto teorico in cui si considera applicata la resistenza laterale dell’opera viva, cioè della parte immersa dello scafo, della chiglia e della deriva.
+
+Domanda: Il centro velico e il centro di deriva si influenzano tra loro generando effetti che sono individuabili e prevedibili per ogni unità a vela.
+Risposta esatta: VERO
+Spiegazione: Vero. Il rapporto tra centro velico e centro di deriva influenza l’equilibrio della barca. Se il centro velico è troppo avanti o troppo indietro rispetto al centro di deriva, l’unità può diventare poggiera o orziera.
+
+Domanda: In condizioni di timone al centro, quando il centro velico è allineato con il centro di deriva, l'unità a vela si definisce "neutra" (né poggiera né orziera).
+Risposta esatta: VERO
+Spiegazione: Vero. Se centro velico e centro di deriva sono allineati, la barca non tende né ad avvicinare la prua al vento né ad allontanarla. Si dice quindi neutra o equilibrata. “Orziera” significa che tende verso il vento; “poggiera” significa che tende ad allontanarsi dal vento.
+
+Domanda: In condizioni di timone al centro, quando il centro velico è allineato con il centro di deriva, l'unità a vela si avvicina alla direzione del vento (orziera).
+Risposta esatta: FALSO
+Spiegazione: Falso. Se centro velico e centro di deriva sono allineati, la barca è neutra. Diventa orziera quando tende spontaneamente ad avvicinare la prua alla direzione del vento.
+
+Domanda: La posizione del centro velico nelle unità a vela dipende dalla superficie e dalla forma delle vele, dalla reciproca influenza tra le vele bordate e dalla messa a punto dell'attrezzatura.
+Risposta esatta: VERO
+Spiegazione: Vero. Il centro velico cambia in base alla forma, alla superficie e alla regolazione delle vele. Anche l’interazione tra randa e vele di prua può spostare la risultante delle forze aerodinamiche.
+
+Domanda: Per "planata" si intende lo stato in cui viene a trovarsi l'unità a vela navigando in condizioni di equilibrio dinamico sulla cresta dell'onda generato dal suo medesimo avanzamento.
+Risposta esatta: VERO
+Spiegazione: Vero. La planata è una condizione in cui lo scafo, grazie alla velocità, tende a sollevarsi parzialmente dall’acqua e a scivolare sulla superficie, riducendo la resistenza rispetto alla normale navigazione dislocante.
+
+Domanda: La "messa a segno" delle vele è generata dal vento apparente durante la navigazione.
+Risposta esatta: VERO
+Spiegazione: Vero. La messa a segno è la regolazione corretta delle vele rispetto al vento apparente. In navigazione conta soprattutto il vento apparente, cioè il vento effettivamente percepito dalla vela per effetto del vento reale e del movimento della barca.
+
+Domanda: La pressione esercitata dal vento sulle vele dipende dall'angolo di incidenza.
+Risposta esatta: VERO
+Spiegazione: Vero. La pressione sulle vele cambia in base all’angolo con cui il vento apparente incontra la vela. Se l’angolo è corretto, la vela genera portanza; se è errato, può perdere efficienza, fileggiare o stallare.
+
+Domanda: La pressione esercitata dal vento sulle vele dipende esclusivamente dal valore della prora assunta dall'unità.
+Risposta esatta: FALSO
+Spiegazione: Falso. La pressione sulle vele non dipende solo dalla prora, cioè dalla direzione verso cui punta la barca. Dipende anche da vento apparente, angolo di incidenza, forma della vela, regolazioni e intensità del vento.
+
+Domanda: La forza di scarroccio risulta perpendicolare all'asse longitudinale dell'unità a vela.
+Risposta esatta: VERO
+Spiegazione: Vero. La forza di scarroccio è la componente laterale della forza del vento sulle vele. È quindi perpendicolare o quasi all’asse longitudinale della barca, cioè all’asse prua-poppa.
+
+Domanda: La forza di propulsione risulta perpendicolare all'asse longitudinale dell'unità a vela.
+Risposta esatta: FALSO
+Spiegazione: Falso. La forza di propulsione è la componente utile all’avanzamento e agisce lungo l’asse longitudinale dell’unità, cioè nella direzione prua-poppa. La componente laterale è invece la forza di scarroccio.
+
+Domanda: l'albero di un'unità a vela inclinato verso poppa rende la stessa tendenzialmente orziera.
+Risposta esatta: VERO
+Spiegazione: Vero. Inclinare l’albero verso poppa sposta il centro velico verso poppa. Questo tende a far ruotare la prua verso il vento, rendendo la barca più orziera.
+
+Domanda: L'albero di un'unità a vela inclinato verso prua rende la stessa tendenzialmente poggiera.
+Risposta esatta: VERO
+Spiegazione: Vero. Inclinare l’albero verso prua sposta il centro velico in avanti. Questo può rendere la barca più poggiera, cioè con tendenza ad allontanare la prua dal vento.
+
+Domanda: La funzione delle stecche poste sulla randa è quella di conservare inalterata la forma della vela in qualsiasi condizione meteomarina.
+Risposta esatta: VERO
+Spiegazione: Vero. Le stecche aiutano la randa a mantenere il proprio profilo, soprattutto nella zona della balumina. Non rendono la vela perfetta in ogni condizione, ma servono a sostenerne e stabilizzarne la forma.
+
+Domanda: La funzione delle stecche poste sulla randa è quella di garantire l'ottimale indicazione della direzione del vento sulla vela?
+Risposta esatta: FALSO
+Spiegazione: Falso. Le stecche non servono a indicare la direzione del vento. Per osservare il flusso del vento sulla vela si usano eventualmente i filetti segnavento, mentre le stecche servono a sostenere la forma della randa.
+
+Domanda: Con riguardo alla teoria della vela, il multiscafo ha una maggiore stabilità.
+Risposta esatta: VERO
+Spiegazione: Vero. Un multiscafo, come un catamarano o un trimarano, ha maggiore stabilità iniziale grazie alla larghezza complessiva e alla distanza tra gli scafi. Questa configurazione contrasta meglio lo sbandamento rispetto a molti monoscafi.
+
+Domanda: Il bulbo zavorrato di un'unità a vela fornisce maggiore stabilità per contrastare l'azione esterna del vento.
+Risposta esatta: VERO
+Spiegazione: Vero. Il bulbo zavorrato abbassa il baricentro e genera un momento raddrizzante, cioè una forza che aiuta la barca a tornare dritta quando il vento la fa sbandare.
+
+Domanda: La stabilità di un'imbarcazione a vela è assicurata dal bulbo zavorrato.
+Risposta esatta: VERO
+Spiegazione: Vero. Nelle barche a vela dotate di bulbo, questo contribuisce in modo importante alla stabilità perché concentra peso in basso. La stabilità dipende anche da forma dello scafo, larghezza, carico e assetto, ma il bulbo ha una funzione fondamentale.
+
+Domanda: La vela tende, per sua natura, ad assumere una posizione neutra di 45° rispetto al flusso del vento e a ricevere una spinta in tale direzione.
+Risposta esatta: FALSO
+Spiegazione: Falso. La vela non assume automaticamente una posizione neutra di 45°. Deve essere regolata con scotte e altre manovre in base all’andatura e al vento apparente, così da lavorare con il corretto angolo di incidenza.
+
+Domanda: Per andatura si intende la direzione verso cui procede un'unità a vela rispetto alla direzione di provenienza del vento.
+Risposta esatta: VERO
+Spiegazione: Vero. L’andatura descrive il rapporto tra la rotta della barca e la direzione da cui proviene il vento. Non indica la velocità, ma il “modo” in cui la barca naviga rispetto al vento.
+
+Domanda: Si chiama "bolina" l'andatura in cui l'unità a vela procede con una direzione di rotta che forma un angolo di circa 45° rispetto alla direzione del vento reale.
+Risposta esatta: VERO
+Spiegazione: Vero. La bolina è l’andatura con cui una barca risale il vento il più possibile, mantenendo un angolo indicativo di circa 45° rispetto alla direzione di provenienza del vento reale.
+
+Domanda: Si chiama "lasco" l'andatura in cui l'unità a vela procede con una direzione di rotta che forma un angolo di circa 135° rispetto alla direzione del vento reale.
+Risposta esatta: VERO
+Spiegazione: Vero. Il lasco è un’andatura portante in cui il vento arriva da dietro-lato. Indicativamente si colloca intorno ai 135° rispetto alla direzione di provenienza del vento.
+
+Domanda: Si chiama "traverso" l'andatura in cui l'unità a vela procede con una direzione di rotta che forma un angolo di 90° rispetto alla direzione del vento reale.
+Risposta esatta: VERO
+Spiegazione: Vero. Al traverso il vento arriva lateralmente alla barca, formando circa 90° rispetto alla sua rotta. È una delle andature più semplici da riconoscere perché il vento colpisce il fianco dell’unità.
+
+Domanda: Si chiama "lasco" l'andatura in cui l'unità a vela procede con una direzione di rotta che forma un angolo di circa 90° rispetto alla direzione del vento reale.
+Risposta esatta: FALSO
+Spiegazione: Falso. A circa 90° rispetto al vento reale si parla di traverso. Il lasco è più aperto, con il vento che arriva da dietro-lato, indicativamente intorno ai 135°.
+
+Domanda: Si chiama "poppa" o "fil di ruota" l'andatura in cui l'unità a vela procede con una direzione di rotta che forma un angolo di 180° rispetto alla direzione del vento reale.
+Risposta esatta: VERO
+Spiegazione: Vero. In poppa, o fil di ruota, la barca procede nella stessa direzione verso cui soffia il vento. L’angolo rispetto alla provenienza del vento reale è quindi circa 180°.
+
+Domanda: Procedendo di bolina, a bordo il vento percepito risulta d'intensità superiore a quella reale.
+Risposta esatta: VERO
+Spiegazione: Vero. In bolina la velocità della barca si combina con il vento reale, aumentando il vento apparente percepito a bordo. Per questo in bolina sembra spesso che ci sia più vento di quello reale.
+
+Domanda: Procedendo di poppa la velocita avvertita dell'unità a vela sembra elevata perché l'intensità del vento percepita risulta superiore rispetto a quella reale.
+Risposta esatta: FALSO
+Spiegazione: Falso. In poppa il vento apparente è solitamente inferiore al vento reale, perché la barca si muove nella stessa direzione del vento. Per questo la velocità percepita può sembrare minore, non maggiore.
+
+Domanda: Il settore di bordeggio è la zona dello scafo di un'unità navale a vela che concorre a fornire la spinta velica e quindi ad incrementare la velocità della stessa in funzione della direzione del vento.
+Risposta esatta: FALSO
+Spiegazione: Falso. Il settore di bordeggio non è una parte dello scafo. È il settore controvento, detto anche angolo morto, in cui la barca non può procedere direttamente perché le vele non generano portanza sufficiente.
+
+Domanda: Si intende per lato sottovento, la superficie sopravvento della vela che è sottoposta a una depressione.
+Risposta esatta: FALSO
+Spiegazione: Falso. Sottovento è il lato opposto a quello da cui arriva il vento. Sopravvento, invece, è il lato esposto direttamente al vento. Nelle vele, il lato sottovento è spesso quello dove si crea depressione e contribuisce alla portanza.
+
+Domanda: Il centro velico è il punto di applicazione della risultante delle forze dovute all'azione del vento sulle vele.
+Risposta esatta: VERO
+Spiegazione: Vero. Il centro velico è il punto teorico in cui si considera applicata la risultante delle forze generate dal vento sulle vele. Serve a capire l’equilibrio della barca e la sua tendenza a orzare o poggiare.
+
+Domanda: E' il centro velico il punto di applicazione delle forza idrodinamica sullo scafo dovuta allo scarroccio.
+Risposta esatta: FALSO
+Spiegazione: Falso. Il centro velico riguarda le forze aerodinamiche sulle vele. Le forze idrodinamiche dovute allo scarroccio, cioè allo spostamento laterale nell’acqua, sono invece riferite al centro di deriva e all’opera viva.
+
+Domanda: Il centro di deriva è il centro dello scafo a vela di piccole dimensioni.
+Risposta esatta: FALSO
+Spiegazione: Falso. Il centro di deriva non indica il centro di uno scafo piccolo. È il punto teorico in cui si considera applicata la resistenza laterale delle parti immerse, come chiglia, deriva e opera viva.
+
+Domanda: Il centro di deriva è il punto di applicazione della resistenza laterale che si oppone alle forze idrodinamiche esercitate sull'opera viva.
+Risposta esatta: VERO
+Spiegazione: Vero. Il centro di deriva è il punto in cui si considera concentrata la resistenza laterale dell’opera viva. L’opera viva è la parte immersa dello scafo, che contrasta lo scarroccio prodotto dal vento sulle vele.
+
+Domanda: Il centro velico e il centro di deriva servono per determinare il punto nave a vela.
+Risposta esatta: FALSO
+Spiegazione: Falso. Centro velico e centro di deriva servono a studiare l’equilibrio e il comportamento della barca a vela, non a determinare il punto nave. Il punto nave è la posizione dell’unità sulla carta nautica.
+
+Domanda: In condizioni di timone neutro (al centro), quando il centro velico è collocato a proravia del centro di deriva, l'unità navale a vela si allontanata dalla direzione del vento (è poggiera).
+Risposta esatta: VERO
+Spiegazione: Vero. Se il centro velico è più avanti rispetto al centro di deriva, la barca tende ad allontanare la prua dal vento. Questa tendenza si chiama poggiera. “A proravia” significa verso prua.
+
+Domanda: In condizioni di timone neutro (al centro), quando il centro velico è allineato con il centro di deriva, l'unità navale a vela si definisce equilibrata (né poggiera né orziera).
+Risposta esatta: VERO
+Spiegazione: Vero. Quando centro velico e centro di deriva sono allineati, la barca non ha una tendenza marcata né a orzare né a poggiare. Si definisce quindi equilibrata o neutra.
+
+Domanda: La posizione del centro velico per le unità navali a vela dipende dalla forma della vela, dalla reciproca influenza tra le vele bordate e dalla messa a punto dell'attrezzatura.
+Risposta esatta: VERO
+Spiegazione: Vero. Il centro velico dipende dalla forma e dalla regolazione delle vele. Anche il modo in cui randa e vela di prua lavorano insieme può spostare la risultante delle forze aerodinamiche.
+
+Domanda: La posizione del centro di deriva delle unità a vela dipende dalla forma delle vele.
+Risposta esatta: FALSO
+Spiegazione: Falso. Il centro di deriva dipende dalle parti immerse dell’unità, come scafo, chiglia, deriva e timone. La forma delle vele influenza il centro velico, non il centro di deriva.
+
+Domanda: Si intende per sopravento, il lato dell'unità ubicato al di sotto del punto di applicazione del vento apparente.
+Risposta esatta: FALSO
+Spiegazione: Falso. Sopravento è il lato da cui proviene il vento. Non ha a che fare con una posizione “al di sotto” del punto di applicazione del vento apparente.
+
+Domanda: Si intende per sottovento, il lato dell'unità opposto rispetto a quello su cui batte il vento.
+Risposta esatta: VERO
+Spiegazione: Vero. Sottovento è il lato riparato, opposto a quello da cui arriva il vento. Sopravento è invece il lato esposto direttamente al vento.
+
+Domanda: La dizione di "mure a dritta/mure a sinistra" indica la parte prodiera dello scafo sulla quale si infrangono le onde.
+Risposta esatta: FALSO
+Spiegazione: Falso. “Mure a dritta” e “mure a sinistra” indicano il lato da cui arriva il vento rispetto alla barca. Non indicano la zona di prua su cui battono le onde.
+
+Domanda: Per grasso della vela si intende la parte della vela più prossima alla tensione della drizza.
+Risposta esatta: FALSO
+Spiegazione: Falso. Il grasso della vela è la sua concavità, cioè quanto il profilo è “pieno”. La drizza è invece la cima usata per issare o tendere una vela.
+
+Domanda: Il piano velico è l'organizzazione delle vele di un'imbarcazione come da progetto ed è essenzialmente caratterizzato dal numero di alberi e dal tipo di vele a disposizione.
+Risposta esatta: VERO
+Spiegazione: Vero. Il piano velico è l’insieme delle vele e degli alberi previsti per un’imbarcazione. Descrive quindi come è organizzata l’attrezzatura velica dell’unità.
+
+Domanda: Per portanza si intende il peso complessivo di tutte le attrezzature veliche imbarcate su un'unità a vela.
+Risposta esatta: FALSO
+Spiegazione: Falso. La portanza non è un peso. È una forza aerodinamica generata dal flusso del vento sulla vela e contribuisce all’avanzamento della barca.
+
+Domanda: Lo svergolamento della vela dipende dalla velocità del vento reale che aumenta in funzione dell'altezza da cui spira rispetto alla superficie del mare.
+Risposta esatta: VERO
+Spiegazione: Vero. Il vento tende spesso ad aumentare con la quota rispetto alla superficie del mare. Per questo la parte alta della vela lavora con vento diverso rispetto alla parte bassa, creando svergolamento, cioè torsione del profilo lungo l’altezza della vela.
+
+Domanda: Per "straorza" si intende l'improvviso cambio di prua verso la direzione di provenienza del vento, causato da una raffica o da un'onda particolarmente intensa.
+Risposta esatta: VERO
+Spiegazione: Vero. La straorza è un’improvvisa e involontaria tendenza della barca a orzare, cioè a portare la prua verso il vento. Può essere causata da una raffica, da un’onda o da un eccessivo sbandamento.
+
+Domanda: Per "strapoggia" si intende l'improvviso allontanarsi della prua dalla direzione del vento tale anche da causare una strambata.
+Risposta esatta: VERO
+Spiegazione: Vero. La strapoggia è un improvviso allontanamento della prua dal vento. Se avviene con vento da poppa o al lasco, può portare a una strambata involontaria, cioè al passaggio brusco della vela da un lato all’altro.
+
+Domanda: Per "raffica" si intende una particolare tipologia di venti, di rilevante intensità, che spirano prevalentemente da levante o da ponente.
+Risposta esatta: FALSO
+Spiegazione: Falso. La raffica non è un vento legato a una direzione specifica come levante o ponente. È un aumento improvviso e temporaneo dell’intensità del vento.
+
+Domanda: Per "scarroccio" si intende la traslazione laterale dell'unità a vela per effetto del vento esercitato sullo scafo durante la navigazione.
+Risposta esatta: VERO
+Spiegazione: Vero. Lo scarroccio è lo spostamento laterale della barca causato dall’azione del vento. È contrastato dalle parti immerse, come chiglia, deriva e timone.
+
+Domanda: Un'unità a vela scuffia quando si ribalta, immergendo l'albero anche fino a 180° rispetto alla posizione iniziale.
+Risposta esatta: VERO
+Spiegazione: Vero. Scuffiare significa ribaltarsi lateralmente, fino a portare l’albero in acqua o addirittura capovolgere l’unità. È un evento tipico soprattutto di derive e piccole barche a vela.
+
+Domanda: Si intende per "smagrire" la vela il variare della superficie portante della stessa riducendone la sua concavità.
+Risposta esatta: VERO
+Spiegazione: Vero. Smagrire una vela significa ridurne il grasso, cioè appiattirla diminuendone la concavità. Si fa spesso con vento forte per ridurre potenza e sbandamento.
+
+Domanda: Si dice "stringere il vento" il condurre l'unità a vela lascando quanto più possibile le vele, allontanando la prua dalla direzione dalla quale proviene il vento.
+Risposta esatta: FALSO
+Spiegazione: Falso. Stringere il vento significa avvicinare la prua alla direzione da cui proviene il vento, navigando il più possibile di bolina. Lascare le vele e allontanare la prua dal vento significa invece poggiare.
+
+Domanda: Si dice "poggiare" il condurre l'unità a vela lascando quanto più possibile le vele, allontanando la prua dalla direzione dalla quale proviene il vento.
+Risposta esatta: VERO
+Spiegazione: Vero. Poggiare significa allontanare la prua dalla direzione del vento. Quando si poggia, normalmente si lascano progressivamente le vele perché il vento arriva sempre più da poppa.
+
+Domanda: La forza di propulsione risulta parallela all'asse longitudinale dell'unità navale a vela.
+Risposta esatta: VERO
+Spiegazione: Vero. La forza di propulsione è la componente della forza del vento che contribuisce all’avanzamento della barca. Per questo è considerata parallela all’asse longitudinale, cioè all’asse prua-poppa.
+
+Domanda: La forza di scarroccio e la forza di propulsione danno origine alla forza risultante generata dal vento sulla superificie velica.
+Risposta esatta: VERO
+Spiegazione: Vero. La forza generata dal vento sulle vele può essere scomposta in due componenti: una utile all’avanzamento, detta forza di propulsione, e una laterale, detta forza di scarroccio.
+
+Domanda: Si intende per "corda" della vela la linea idealmente tracciata per unire le due estremità del profilo della vela.
+Risposta esatta: VERO
+Spiegazione: Vero. La corda della vela è la linea ideale che unisce il bordo d’ingresso e il bordo d’uscita di una sezione del profilo della vela. Serve per descrivere forma e angolo della vela rispetto al vento.
+
+Domanda: La concavità della vela assolve alla funzione di diminuire la resistenza all'avanzamento dell'unità.
+Risposta esatta: FALSO
+Spiegazione: Falso. La concavità della vela serve soprattutto a generare portanza e potenza. Non ha come funzione principale quella di diminuire la resistenza all’avanzamento; anzi, una vela troppo grassa può aumentare sbandamento e resistenza.
+
+Domanda: Lo spostamento del peso dell'equipaggio a bordo durante la navigazione a vela può servire a contrastare l'azione sbandante generata dallo scarroccio e dalla forza propulsiva.
+Risposta esatta: FALSO
+Spiegazione: Falso. Lo spostamento del peso dell’equipaggio può aiutare a contrastare lo sbandamento, ma l’azione sbandante non è generata dallo scarroccio e dalla forza propulsiva insieme. Lo sbandamento deriva principalmente dalla componente laterale della forza del vento sulle vele.
+
+Domanda: Per contrastare la tendenza poggera dell'unità a vela è utile spostare i pesi verso prua.
+Risposta esatta: VERO
+Spiegazione: Vero. Una barca poggiera tende ad allontanare la prua dal vento. Spostare pesi verso prua può aiutare a modificare l’assetto e ridurre questa tendenza, anche se la regolazione delle vele e dell’albero resta fondamentale.
+
+Domanda: Per contrastare la tendenza orziera dell'unità a vela è utile spostare i pesi verso l'albero.
+Risposta esatta: FALSO
+Spiegazione: Falso. Una barca orziera tende a portare la prua verso il vento. Spostare genericamente i pesi verso l’albero non è la correzione tipica indicata: per ridurre l’orziera si interviene soprattutto su assetto, regolazione delle vele e distribuzione dei pesi in modo più mirato.
+
+Domanda: E' meglio evitare un'impostazione troppo poggera di un'unità perché tale impostazione limita notevolmente l'azione del timone.
+Risposta esatta: FALSO
+Spiegazione: Falso. Una barca troppo poggiera non è desiderabile perché tende ad allontanarsi dal vento e può diventare meno sicura e meno controllabile. Tuttavia la formulazione è errata: il problema classico da evitare, per sicurezza e controllo, è soprattutto un assetto eccessivamente squilibrato, non perché “limiti notevolmente l’azione del timone” in questi termini.
+
+Domanda: Un'unità in navigazione a vela con andatura di bolina, se eccessivamente sbandata sottovento, subisce un aumento della velocità e una miglior performance delle vele bordate.
+Risposta esatta: FALSO
+Spiegazione: Falso. Uno sbandamento eccessivo peggiora la performance: aumenta la resistenza, riduce l’efficienza delle vele e rende più difficile governare. In bolina è preferibile tenere la barca il più possibile equilibrata.
+
+Domanda: E' meglio preferire un'impostazione orziera di un'unità a vela perché tale impostazione favorisce le prestazioni.
+Risposta esatta: VERO
+Spiegazione: Vero. Una leggera tendenza orziera è generalmente preferibile perché rende la barca più sicura e controllabile: se si lascia il timone, tende ad avvicinarsi al vento e a ridurre potenza. Deve però essere una tendenza moderata, non eccessiva.
+
+Domanda: L'inclinazione verso la prua dell'albero di un'unità a vela rende la stessa tendenzialmente poggera.
+Risposta esatta: VERO
+Spiegazione: Vero. Inclinare l’albero verso prua sposta il centro velico in avanti. Questo può far tendere la barca a poggiare, cioè ad allontanare la prua dal vento.
+
+Domanda: L'inclinazione verso la poppa dell'albero di un'unità a vela rende la stessa tendenzialmente poggera.
+Risposta esatta: FALSO
+Spiegazione: Falso. Inclinare l’albero verso poppa sposta il centro velico indietro. Questo tende normalmente a rendere la barca più orziera, cioè più propensa ad avvicinare la prua al vento.
+
+Domanda: Lascare la drizza e la base della randa aumenta la concavità della vela (grasso) e le fa assumere una configurazione adatta all'andatura in fil di ruota.
+Risposta esatta: VERO
+Spiegazione: Vero. Lascare drizza e base della randa riduce la tensione e aumenta il grasso, cioè la concavità della vela. Una vela più grassa può essere utile nelle andature portanti, come la poppa o fil di ruota, dove il vento arriva da dietro.
+
+Domanda: L'angolo di incidenza è quello formato tra la direzione del vento apparente e quella verso cui è orientata la vela, in pratica l'angolo con cui il profilo fende l'aria.
+Risposta esatta: VERO
+Spiegazione: Vero. L’angolo di incidenza è l’angolo tra il vento apparente e il profilo della vela. È fondamentale perché determina se la vela lavora in modo efficiente, generando portanza, oppure se è regolata male.
+
+Domanda: La spinta della randa è principalmente orziera, quella del genoa o del fiocco tendenzialmente poggiera.
+Risposta esatta: VERO
+Spiegazione: Vero. La randa, trovandosi a poppavia dell’albero, tende spesso a far orzare la barca. Le vele di prua, come fiocco e genoa, possono invece generare una tendenza poggiera perché la loro spinta è più avanzata.
+
+Domanda: Al crescere del vento si cazzano cunningham (o la drizza randa), il tesabase, la drizza genova.
+Risposta esatta: VERO
+Spiegazione: Vero. Con vento crescente si tende ad appiattire le vele per ridurre potenza e sbandamento. Cazzare cunningham, drizza randa, tesabase e drizza genoa aumenta la tensione e riduce il grasso della vela. “Cazzare” significa tirare una cima.
+
+Domanda: Al crescere del vento è utile spostare verso prua il carrello del genoa.
+Risposta esatta: FALSO
+Spiegazione: Falso. Con vento forte si tende normalmente a scaricare e controllare meglio la vela di prua, spesso spostando il punto di scotta in modo da aprire la balumina e ridurre potenza. Portare il carrello troppo a prua tende invece a chiudere la balumina e ad aumentare la potenza, cosa non desiderabile con vento crescente.
+
+Domanda: Negli armamenti frazionati, le sartie volanti servono a sostenere l'albero, controbilanciando lo sforzo trasmesso dalle vele allo strallo.
+Risposta esatta: VERO
+Spiegazione: Vero. Negli armi frazionati lo strallo non arriva in testa d’albero, quindi alcune sollecitazioni possono richiedere sostegno aggiuntivo. Le sartie volanti aiutano a sostenere l’albero e a contrastare gli sforzi trasmessi dallo strallo e dalle vele.
+
+Domanda: Negli armamenti frazionati con crocette acquartierate verso poppa e paterazzo, le sartie volanti possono dare supporto all'albero ma non sono strutturali.
+Risposta esatta: VERO
+Spiegazione: Vero. In un armo frazionato con crocette acquartierate verso poppa e paterazzo, l’albero è già sostenuto da elementi strutturali fissi. Le sartie volanti possono aiutare a controllare forma e sollecitazioni dell’albero, ma non sono necessariamente elementi strutturali indispensabili in quella configurazione.
+
+Domanda: Si intende per unità attrezzata con armo frazionato quella in cui lo strallo non è "incappellato" in testa d'albero.
+Risposta esatta: VERO
+Spiegazione: Vero. Nell’armo frazionato lo strallo di prua non arriva fino alla testa dell’albero, ma si attacca più in basso. “Incappellato in testa d’albero” significa fissato alla sommità dell’albero.
+
+Domanda: Si intende per unità attrezzata con armo frazionato quella il cui scafo è suddiviso in almeno tre compartimenti.
+Risposta esatta: FALSO
+Spiegazione: Falso. L’armo frazionato riguarda la configurazione dell’albero e dello strallo, non la suddivisione interna dello scafo. I compartimenti dello scafo non c’entrano con il piano velico.
+
+Domanda: Le crocette garantiscono un'adeguato punto di forza e ritenuta delle scotte sul piano di coperta.
+Risposta esatta: FALSO
+Spiegazione: Falso. Le crocette sono elementi laterali fissati all’albero che servono a dare angolo e sostegno alle sartie. Le scotte, invece, sono cime usate per regolare le vele e lavorano su bozzelli, winch, strozzatori o carrelli in coperta.
+
+Domanda: Le crocette servono a tensionare le sartie che sorreggono l'albero lateralmente.
+Risposta esatta: VERO
+Spiegazione: Vero. Le crocette aumentano l’angolo di lavoro delle sartie e aiutano a sostenere lateralmente l’albero. Le sartie sono cavi fissi che mantengono l’albero in posizione.
+
+Domanda: La regolazione delle sartie si attua attraverso l'utilizzo del carrello della scotta.
+Risposta esatta: FALSO
+Spiegazione: Falso. Le sartie si regolano tramite arridatoi o sistemi di tensionamento dedicati. Il carrello della scotta serve invece a modificare il punto di tiro della scotta e quindi la regolazione della vela.
+
+Domanda: L'avvolgifiocco è una particolare galloccia dove viene avvolta la scotta sottovento del fiocco.
+Risposta esatta: FALSO
+Spiegazione: Falso. L’avvolgifiocco è il sistema che permette di arrotolare il fiocco intorno allo strallo di prua. La galloccia è invece un accessorio su cui si dà volta a una cima per fissarla.
+
+Domanda: La balumina è il lato più corto della randa, che si introduce all'interno della canaletta del boma.
+Risposta esatta: FALSO
+Spiegazione: Falso. La balumina è il bordo di uscita della vela, cioè il lato posteriore. Nella canaletta del boma si inserisce eventualmente la base della randa, non la balumina.
+
+Domanda: La ralinga della randa è il cavo cucito nel lato di inferitura per essere introdotto all'interno della canaletta dell'albero.
+Risposta esatta: VERO
+Spiegazione: Vero. La ralinga è un cavo o rinforzo cucito lungo l’inferitura della randa. L’inferitura è il lato anteriore della vela, che scorre nella canaletta dell’albero.
+
+Domanda: Per "base" della randa si intende il lato libero della vela dove sono ricavate le tasche per poter introdurre le stecche.
+Risposta esatta: FALSO
+Spiegazione: Falso. La base della randa è il bordo inferiore della vela, quello vicino al boma. Le tasche delle stecche sono invece apposite sedi cucite nella vela per inserire le stecche e sostenerne il profilo.
+
+Domanda: Per "angolo di scotta" della randa si intende quello compreso tra la base e la balumina, dove è agganciato il tesabase.
+Risposta esatta: VERO
+Spiegazione: Vero. L’angolo di scotta della randa è l’angolo inferiore poppiero, dove si incontrano base e balumina. In quel punto agiscono scotta e tesabase, che regolano rispettivamente apertura e tensione della base.
+
+Domanda: Per "angolo di penna" della randa si intende l'angolo compreso tra la base e la ralinga ove è agganciata la trozza del boma.
+Risposta esatta: FALSO
+Spiegazione: Falso. L’angolo di penna è l’angolo superiore della vela, dove si aggancia la drizza. L’angolo tra base e ralinga è invece l’angolo di mura, vicino alla trozza del boma.
+
+Domanda: Per "angolo di mura" della randa si intende l'angolo compreso tra la balumina e la ralinga, posto all'estremità superiore della vela, ove è agganciata la drizza.
+Risposta esatta: FALSO
+Spiegazione: Falso. L’angolo di mura è l’angolo inferiore anteriore della randa, vicino all’attacco tra albero e boma. L’angolo superiore dove si aggancia la drizza è l’angolo di penna.
+
+Domanda: Il fiocco consente all'unità a vela di navigare esclusivamente con angoli compresi tra i 40° e i 70° rispetto alla direzione da cui spira il vento.
+Risposta esatta: FALSO
+Spiegazione: Falso. Il fiocco non consente di navigare esclusivamente tra 40° e 70°. È una vela di prua utilizzabile in varie andature, anche se rende particolarmente bene nelle andature strette e intermedie, in base alla sua forma e regolazione.
+
+Domanda: La randa rappresenta la vela principale di un'unità a vela, ubicata a poppavia dell'albero, e di forma triangolare.
+Risposta esatta: VERO
+Spiegazione: Vero. La randa è la vela principale posta dietro l’albero, cioè a poppavia. Nelle barche moderne è normalmente di forma triangolare o quasi triangolare.
+
+Domanda: Il genoa o genova rappresenta una particolare tipologia di vela prodiera avente una superficie ridotta utilizzata in caso di condizioni meteo marine avverse.
+Risposta esatta: FALSO
+Spiegazione: Falso. Il genoa è una vela prodiera ampia, spesso più grande del fiocco e sovrapposta alla randa. Con condizioni meteo avverse si usano vele più piccole e robuste, come il fiocco ridotto o la tormentina.
+
+Domanda: Il genoa o genova è la vela prodiera avente una superficie che non si sovrappone a quella della randa.
+Risposta esatta: FALSO
+Spiegazione: Falso. Il genoa è proprio una vela di prua che normalmente si sovrappone alla randa, estendendosi verso poppa oltre l’albero. Una vela di prua non sovrapposta è più propriamente un fiocco.
+
+Domanda: Il genoa (o genova) oltrepassa l'albero verso poppa fino a una lunghezza generalmente pari al 50% della distanza fra l'albero e il punto di mura .
+Risposta esatta: VERO
+Spiegazione: Vero. Il genoa è una vela di prua sovrapposta: la sua balumina passa dietro l’albero verso poppa. La percentuale indicata descrive una sovrapposizione tipica rispetto alla distanza tra albero e punto di mura.
+
+Domanda: Il fiocco è la vela prodiera avente una superficie che non si sovrappone a quella della randa.
+Risposta esatta: VERO
+Spiegazione: Vero. Il fiocco è una vela di prua più contenuta del genoa e normalmente non oltrepassa l’albero verso poppa. Per questo non si sovrappone alla randa.
+
+Domanda: Lo spinnaker rappresenta la vela principale, utilizzata in particolar modo nelle andature di bolina al fine di dare maggiore potenza e superficie velica.
+Risposta esatta: FALSO
+Spiegazione: Falso. Lo spinnaker non è la vela principale e non si usa in bolina. È una vela grande e leggera usata nelle andature portanti, soprattutto lasco e poppa, per aumentare la superficie velica con vento da dietro.
+
+Domanda: Il gennaker è una vela asimmetrica adatta alle andature comprese tra il traverso e il lasco (60°- 120° dal vento).
+Risposta esatta: VERO
+Spiegazione: Vero. Il gennaker è una vela asimmetrica, intermedia tra genoa e spinnaker. Si usa soprattutto con vento largo, tra traverso e lasco, quando serve potenza ma non si è in bolina stretta.
+
+Domanda: Il code 0 è una vela asimmetrica adatta alle andature con poco vento comprese tra la bolina larga e il traverso.
+Risposta esatta: VERO
+Spiegazione: Vero. Il Code 0 è una vela leggera e relativamente piatta, pensata per poco vento e per angoli più stretti rispetto a gennaker e spinnaker. È utile tra bolina larga e traverso.
+
+Domanda: Il code 0 è una vela inferita.
+Risposta esatta: FALSO
+Spiegazione: Falso. Il Code 0 non è normalmente inferito nello strallo come un fiocco tradizionale. Di solito è una vela avvolgibile su cavo anti-torsione o sistema dedicato. “Inferita” significa inserita e guidata lungo uno strallo o una canaletta.
+
+Domanda: Lo sloop è l'armo caratterizzato dalla presenza di un solo albero e la possibilità di issare una sola vela di prua alla volta.
+Risposta esatta: VERO
+Spiegazione: Vero. Lo sloop è un armo molto diffuso con un solo albero e una vela di prua alla volta, come fiocco o genoa, oltre alla randa.
+
+Domanda: Il cutter è l'armo caratterizzato dalla presenza di un solo albero, armato con due fiocchi contemporaneamente.
+Risposta esatta: VERO
+Spiegazione: Vero. Il cutter ha un solo albero ma può portare due vele di prua contemporaneamente, di solito fiocco e trinchetta, su due stralli distinti.
+
+Domanda: Il ketch è quell'armo caratterizzato dalla presenza dell'albero di mezzana a proravia dell'asse del timone.
+Risposta esatta: VERO
+Spiegazione: Vero. Il ketch è un armo a due alberi in cui l’albero di mezzana si trova a poppa dell’albero maestro ma a proravia dell’asse del timone. Questo lo distingue dallo yawl, dove la mezzana è più arretrata.
+
+Domanda: Tra le manovre fisse vi sono drizze e scotte.
+Risposta esatta: FALSO
+Spiegazione: Falso. Drizze e scotte sono manovre correnti, perché si usano per issare, ammainare e regolare le vele. Le manovre fisse sono invece elementi come sartie e stralli, che sostengono l’albero.
+
+Domanda: Tra le manovre correnti vi sono stralli e sartie.
+Risposta esatta: FALSO
+Spiegazione: Falso. Stralli e sartie sono manovre fisse: servono a sostenere l’albero e non vengono normalmente manovrati durante la navigazione. Le manovre correnti sono invece cime come drizze e scotte, usate per gestire le vele.
+
+Domanda: Il paranco di scotta assolve la funzione di demoltiplicare lo sforzo.
+Risposta esatta: VERO
+Spiegazione: Vero. Il paranco è un sistema composto da bozzelli (pulegge) e cima che permette di ridurre lo sforzo necessario per cazzare una scotta. La demoltiplicazione significa che a fronte di uno spostamento maggiore della cima si ottiene una forza più elevata sulla vela.
+
+Domanda: Quello rappresentato in figura è un paranco con un rapporto 6:1
+Risposta esatta: FALSO
+Spiegazione: Falso. Il rapporto di demoltiplicazione di un paranco dipende dal numero reale di rinvii della cima tra i bozzelli. Senza analizzare correttamente lo schema non si può assumere che sia 6:1; spesso si tende a sovrastimare il rapporto.
+
+Domanda: Quello rappresentato in figura è un paranco doppio con il rapporto più favorevole, il cosiddetto "fino" di 8:1.
+Risposta esatta: VERO
+Spiegazione: Vero. Un paranco doppio utilizza più bozzelli su entrambe le estremità, aumentando il numero di rinvii e quindi il vantaggio meccanico. Un rapporto 8:1 significa che la forza applicata viene moltiplicata per otto.
+
+Domanda: Il cunningham assolve la funzione di porre in tensione la parte prodiera bassa della randa, mediante un paranco verticale.
+Risposta esatta: VERO
+Spiegazione: Vero. Il cunningham è una regolazione che agisce sulla parte bassa dell’inferitura (lato anteriore) della randa. Serve a spostare il grasso della vela (la massima concavità) verso prua e a smagrire la vela con vento forte.
+
+Domanda: Il tangone è il pennone sul quale è fissata la base della randa.
+Risposta esatta: FALSO
+Spiegazione: Falso. La base della randa è fissata al boma. Il tangone è invece un’asta utilizzata per tenere aperto lo spinnaker o il fiocco nelle andature portanti (vento da dietro).
+
+Domanda: Il winch è un particolare meccanismo costituito da due bozzelli utilizzato per moltiplicare lo sforzo di trazione esercitato sulle cime.
+Risposta esatta: FALSO
+Spiegazione: Falso. Il winch è un verricello a tamburo, non un sistema a bozzelli. La forza viene aumentata grazie all’avvolgimento della cima e all’uso della maniglia, sfruttando il principio della leva.
+
+Domanda: Le scotte devono essere avvolte intorno al tamburo del winch sempre in senso orario, ponendo particolare attenzione per evitare la sovrapposizione dei "colli".
+Risposta esatta: VERO
+Spiegazione: Vero. I giri (colli) devono essere ordinati e nello stesso verso per garantire attrito e controllo. I “colli” sono le spire della cima sul tamburo: se si sovrappongono, la cima può bloccarsi o slittare.
+
+Domanda: La ferramenta di bordo è costituita dall'insieme di elementi come strozzascotte, winch, arridatori e galloccie.
+Risposta esatta: VERO
+Spiegazione: Vero. La ferramenta comprende tutti i componenti meccanici utilizzati per manovrare, fissare e regolare le cime e le strutture (es. arridatoi per tensionare sartie, gallocce per fissare cime).
+
+Domanda: Il polipropilene è utilizzato solo per sagole galleggianti utilizzate per il salvataggio.
+Risposta esatta: VERO
+Spiegazione: Vero. Il polipropilene è un materiale leggero che galleggia, ma ha bassa resistenza e degrada con il sole. Per questo viene usato soprattutto per sagole di sicurezza, non per manovre strutturali.
+
+Domanda: I grilli assumono la funzione di ridurre o sforzo di trazione sui cavi.
+Risposta esatta: FALSO
+Spiegazione: Falso. I grilli sono elementi di collegamento (tipo moschettoni metallici) usati per unire parti dell’attrezzatura. Non riducono lo sforzo: servono solo come punto di connessione.
+
+Domanda: Il carrello di randa (o trasto) è il congegno sul quale vengono date volta e bloccate le scotte della randa.
+Risposta esatta: FALSO
+Spiegazione: Falso. Il trasto non serve a bloccare la scotta, ma a spostarne il punto di applicazione lateralmente. In questo modo si regola l’angolo della randa rispetto al vento.
+
+Domanda: La galloccia è il dispositivo con cui si fissano le draglie.
+Risposta esatta: FALSO
+Spiegazione: Falso. La galloccia serve per legare e fissare le cime. Le draglie sono i cavi di sicurezza lungo il bordo della barca e sono fissate a candelieri e strutture dedicate.
+
+Domanda: La landa è il cavallotto o la piastra collocata in coperta utilizzata per fissare le sartie e gli stralli.
+Risposta esatta: VERO
+Spiegazione: Vero. Le lande sono elementi strutturali molto robusti che collegano sartie e stralli allo scafo, trasferendo i carichi dell’albero.
+
+Domanda: Il golfare è il carrello del boma dove si innesta la randa.
+Risposta esatta: FALSO
+Spiegazione: Falso. Il golfare è un punto di attacco fisso (un anello metallico). Non è un carrello né ha funzione di scorrimento.
+
+Domanda: La varea del tangone è l'anello di attacco del mantiglio.
+Risposta esatta: FALSO
+Spiegazione: Falso. La varea è l’estremità del tangone, mentre il mantiglio è la cima che lo sostiene verso l’alto. L’attacco non coincide con la definizione data.
+
+Domanda: La trozza è lo snodo che unisce il boma all'albero.
+Risposta esatta: VERO
+Spiegazione: Vero. La trozza è il giunto che permette al boma di ruotare sull’albero, consentendo alla randa di aprirsi e chiudersi rispetto al vento.
+
+Domanda: La resistenza alla trazione rappresenta una qualità importante nelle fibre del tessuto di una vela, determinandone la stabilità trasversale.
+Risposta esatta: VERO
+Spiegazione: Vero. La resistenza alla trazione indica quanto il tessuto resiste allo stiramento. È fondamentale per mantenere la forma aerodinamica della vela sotto carico.
+
+Domanda: Il dacron non è un materiale correntemente diffuso per la realizzazione di vele da crociera.
+Risposta esatta: FALSO
+Spiegazione: Falso. Il Dacron è il materiale più diffuso per vele da crociera perché è resistente, economico e stabile nel tempo.
+
+Domanda: L'esposizione molto prolungata delle vele ai raggi solari ne determina il decadimento delle sue caratteristiche meccaniche di resistenza.
+Risposta esatta: VERO
+Spiegazione: Vero. I raggi UV degradano le fibre del tessuto, riducendo la resistenza e la durata della vela.
+
+Domanda: Il set di vele standard di un catamarano è formato da randa, fiocco e gennaker.
+Risposta esatta: VERO
+Spiegazione: Vero. Nei catamarani moderni è comune avere randa + vela di prua (fiocco) + vela asimmetrica (gennaker) per le andature portanti.
+
+Domanda: Il set di vele base di uno scafo armato a sloop è formato da randa e genoa (o genova).
+Risposta esatta: VERO
+Spiegazione: Vero. Lo sloop è l’armo più comune: una randa e una vela di prua (genoa o fiocco).
+
+Domanda: I garrocci sono gli specifici moschettoni che consentono di fissare il lato prodiero del genoa e del fiocco allo strallo di prua.
+Risposta esatta: VERO
+Spiegazione: Vero. I garrocci sono clip o ganci che fissano l’inferitura (lato anteriore della vela) allo strallo.
+
+Domanda: La funzione del paterazzo è di regolare il vang.
+Risposta esatta: FALSO
+Spiegazione: Falso. Il paterazzo è il cavo che va dalla testa d’albero a poppa e serve a regolare la tensione dello strallo e la forma delle vele, non il vang.
+
+Domanda: Cazzando il paterazzo si determina un rilevante smagrimento della parte centrale della randa.
+Risposta esatta: VERO
+Spiegazione: Vero. Tendendo il paterazzo si incurva l’albero e si appiattisce la randa (smagrimento), utile con vento forte.
+
+Domanda: La gassa d'amante è un nodo che tende a sciogliersi facilmente.
+Risposta esatta: FALSO
+Spiegazione: Falso. È un nodo molto sicuro che non si stringe sotto carico ed è comunque facile da sciogliere dopo.
+
+Domanda: La gassa d'amante si usa per accorciare una cima.
+Risposta esatta: FALSO
+Spiegazione: Falso. Serve per creare un occhiello fisso (asola), non per accorciare.
+
+Domanda: E' opportuno utilizzare il nodo piano per unire due cavi aventi diverso diametro.
+Risposta esatta: FALSO
+Spiegazione: Falso. Il nodo piano è affidabile solo con cime dello stesso diametro; con diametri diversi può slittare.
+
+Domanda: La funzione di un nodo savoia è impedire che l'estremità di un cavo si sfili da un passacavo.
+Risposta esatta: VERO
+Spiegazione: Vero. Il nodo savoia è un nodo di arresto: crea un ingrossamento che impedisce alla cima di uscire.
+
+Domanda: Il nodo parlato è utile per fissare i parabordi alle draglie.
+Risposta esatta: VERO
+Spiegazione: Vero. È rapido da fare e regolare, ideale per fissaggi temporanei come i parabordi.
+
+Domanda: Il nodo margherita si usa per accorciare una cima.
+Risposta esatta: VERO
+Spiegazione: Vero. Serve per accorciare temporaneamente una cima senza tagliarla.
+
+Domanda: Per lazy jack si intende una particolare drizza utilizzata per issare le vele in condizioni di emergenza.
+Risposta esatta: FALSO
+Spiegazione: Falso. Il lazy jack è un sistema di sagole che guida la randa durante l’ammainata, evitando che cada in coperta.
+
+Domanda: Per lazy jack si intende il sistema di sagole che aiuta a raccogliere la randa in fase di ammainata.
+Risposta esatta: VERO
+Spiegazione: Vero. Serve proprio a contenere e guidare la randa mentre scende.
+
+Domanda: Il feeder è il dispositivo utilizzato al fine di facilitare l'introduzione dell'inferitura del fiocco o del genoa all'interno della canaletta dello strallo cavo.
+Risposta esatta: VERO
+Spiegazione: Vero. È una guida che facilita l’inserimento della vela nella canaletta.
+
+Domanda: Il tesabase è il dispositivo finalizzato a mantenere tesata la base del fiocco.
+Risposta esatta: FALSO
+Spiegazione: Falso. Il tesabase regola la base della randa (bordo inferiore), non del fiocco.
+
+Domanda: Le manovre necessarie all'uso dello spinnaker sono scotta, spring, vang, borosa e meolo del tangone.
+Risposta esatta: FALSO
+Spiegazione: Falso. Le manovre dello spinnaker includono scotta, braccio, drizza, tangone, ma non quelle indicate in modo corretto nella frase.
+
+Domanda: Per braccio si intende il cavo utilizzato per manovrare e, quindi, regolare la mura dello spinnaker.
+Risposta esatta: VERO
+Spiegazione: Vero. Il braccio controlla il lato sopravento dello spinnaker, cioè la posizione della mura (angolo anteriore della vela).
+
+Domanda: Il matafione è un fiocco di rispetto utilizzato in condizioni meteo marine avverse.
+Risposta esatta: FALSO
+Spiegazione: Falso. Il matafione è una legatura usata per fissare vele o oggetti, non una vela.
+
+Domanda: Per impiombatura si intende l'intreccio dei trefoli delle estremità di cavi tessili o in acciaio, al fine di unirli tra di loro o per realizzare un anello fisso a cui agganciare le ferramenta o le manovre.
+Risposta esatta: VERO
+Spiegazione: Vero. L’impiombatura crea un collegamento molto resistente mantenendo la continuità delle fibre.
+
+Domanda: Per borosa si intende la parte terminale superiore dello strallo cavo che lo collega all'albero.
+Risposta esatta: FALSO
+Spiegazione: Falso. La borosa è una cima usata per ridurre la randa (terzaroli), non parte dello strallo.
+
+Domanda: Le sartie, sono i cavi generalmente in acciaio (ma anche in fibre tessili particolarmente tenaci), che sostengono l'albero.
+Risposta esatta: VERO
+Spiegazione: Vero. Le sartie sostengono lateralmente l’albero e ne impediscono la caduta.
+
+Domanda: Il tornichetto è un congegno utilizzato per unire due cime di diverso materiale.
+Risposta esatta: FALSO
+Spiegazione: Falso. È un tenditore che serve a regolare la tensione di sartie e stralli.
+
+Domanda: Il vang è un sistema di ritenuta del boma di tipo regolabile che assolve a due funzioni principali: regola la flessione longitudinale dell'albero e influenza la superficie portante della vela.
+Risposta esatta: VERO
+Spiegazione: Vero. Il vang tira il boma verso il basso, controllando il “twist” della randa (torsione della vela) e influenzando la sua efficienza.
+
+Domanda: All'interno dell'albero si possono far passare le manovre fisse come sartie e stralli.
+Risposta esatta: FALSO
+Spiegazione: Falso. Sartie e stralli sono esterni e strutturali; dentro l’albero passano eventualmente drizze (manovre correnti).
+
+Domanda: L'avvolgiranda è un'attrezzatura che permette di riporre la randa in un gavone una volta terminata la navigazione.
+Risposta esatta: FALSO
+Spiegazione: Falso. Serve ad avvolgere la randa su albero o boma, non a stivarla in un gavone.
+
+Domanda: La regolazione dell'albero viene effettuata con l'unità all'ormeggio agendo su ogni singola manovra corrente in stretta aderenza a quanto indicato dal costruttore.
+Risposta esatta: FALSO
+Spiegazione: Falso. La regolazione dell’albero avviene principalmente sulle manovre fisse (sartie, stralli), spesso con prove anche in navigazione.
+
+Domanda: Le manovre correnti sono quelle che servono a manovrare le vele, come le scotte, drizze, wang, tesa base ecc.
+Risposta esatta: VERO
+Spiegazione: Vero. Le manovre correnti sono tutte quelle regolabili durante la navigazione.
+
+Domanda: Un winch self-tailing è un verricello elettronico comandato dalla timoneria per il quale non è necessario l'uso della maniglia.
+Risposta esatta: FALSO
+Spiegazione: Falso. Self-tailing significa che blocca automaticamente la cima, non che sia elettrico.
+
+Domanda: Stralli e sartie sono manovre fisse.
+Risposta esatta: VERO
+Spiegazione: Vero. Sono elementi strutturali che sostengono l’albero e non vengono manovrati durante la navigazione.
+
+Domanda: Girando la maniglia in senso orario il winch sostiene una migliore trazione e potenza.
+Risposta esatta: VERO
+Spiegazione: Vero. Il verso corretto permette al winch di lavorare con il sistema di ingranaggi, aumentando la forza applicata.
+
+Domanda: Il motivo per cui il grillo della penna di randa è del tipo con perno di blocco è per consentire di sganciare la vela evitando che lo stesso cada in mare.
+Risposta esatta: VERO
+Spiegazione: Vero. Il perno di sicurezza evita aperture accidentali e perdita del componente.
+
+Domanda: La calza è una sorta di tubo di tela con il quale si raccoglie lo spinnaker o il gennaker prima di ammainarlo.
+Risposta esatta: VERO
+Spiegazione: Vero. Serve a contenere la vela per facilitarne l’ammainata in sicurezza.
+
+Domanda: L'abbattuta è la manovra mediante la quale l'unità a vela cambia mure attraversando con la poppa la direzione da cui proviene il vento.
+Risposta esatta: VERO
+Spiegazione: L’abbattuta (detta anche strambata se avviene in modo più deciso o non controllato) è il cambio di mure passando con la poppa al vento. A differenza della virata, in cui si passa con la prua al vento, qui è la poppa che attraversa la direzione del vento.
+
+Domanda: La virata è la manovra per evitare un ostacolo.
+Risposta esatta: FALSO
+Spiegazione: La virata è una manovra specifica di cambio mure passando con la prua al vento. Non è una manovra generica per evitare ostacoli, anche se può essere utilizzata in quel contesto.
+
+Domanda: La virata è la manovra usata per raggiungere una meta navigando con il vento in fil di ruota.
+Risposta esatta: FALSO
+Spiegazione: Con vento in fil di ruota (vento esattamente da poppa) si naviga in andatura portante. In questo caso il cambio mure avviene con l’abbattuta, non con la virata che è tipica delle andature di bolina.
+
+Domanda: L'abbattuta si esegue quando la barca è alla massima velocità e naviga con andatura al traverso o di bolina.
+Risposta esatta: FALSO
+Spiegazione: L’abbattuta si esegue principalmente nelle andature portanti (lasco, gran lasco, poppa), non in bolina o traverso. In queste ultime si utilizza la virata.
+
+Domanda: Per armare la randa: si collega la borosa all'angolo di mura, si tesa la base e si chiude lo stopper della scotta.
+Risposta esatta: FALSO
+Spiegazione: La borosa è una cima utilizzata per i terzaroli (riduzione della vela), non per armare la randa. L’angolo di mura è il punto anteriore inferiore della vela. L’armo corretto della randa coinvolge drizza, inferitura, punto di mura e scotta, non la borosa.
+
+Domanda: Il punto di mura è posizionato sulla varea del boma.
+Risposta esatta: FALSO
+Spiegazione: Il punto di mura è l’angolo inferiore anteriore della vela e si trova vicino all’attacco del boma all’albero. La varea del boma è invece l’estremità posteriore del boma.
+
+Domanda: Si arma la randa cazzando il meolo, inserendo la tavoletta all'interno dell'apposita tasca posta sulla parte più alta dell'albero.
+Risposta esatta: FALSO
+Spiegazione: Il meolo è una piccola cima usata per fissaggi o legature, non per armare la randa. La randa si arma inserendo l’inferitura nella canaletta dell’albero e issandola con la drizza. La “tavoletta” è la penna della vela, non va inserita in tasche sull’albero.
+
+Domanda: Dopo aver lascato la drizza della randa, la base della stessa può essere lascata, poco o molto, a seconda che si vogliano assumere andature in bolina o bolina larga.
+Risposta esatta: FALSO
+Spiegazione: La drizza regola la tensione verticale della vela, mentre la base (tesabase) regola la forma (più o meno “grassa”). L’andatura non si sceglie lascando la base, ma agendo su rotta e regolazione delle scotte.
+
+Domanda: Genoa (o genova) e fiocco si armano allo stesso modo perché hanno, in generale, lo stesso punto di mura nonché risultano inferiti al medesimo strallo.
+Risposta esatta: VERO
+Spiegazione: Genoa e fiocco sono entrambe vele di prua inferite allo strallo (cavo che sostiene l’albero verso prua). Il principio di armamento è lo stesso; cambia principalmente la dimensione (il genoa è più grande e sovrapposto alla randa).
+
+Domanda: La prima operazione necessaria per issare il fiocco o il genoa (o genova) munito di garocci è fissare l'occhiello di bugna nell'apposito attacco ubicato alla base dello strallo.
+Risposta esatta: FALSO
+Spiegazione: I garrocci sono ganci che collegano la vela allo strallo. La prima operazione è fissare la mura (angolo inferiore anteriore) e iniziare a inserire i garrocci. La bugna è l’angolo inferiore posteriore (dove arrivano le scotte), non il primo punto da fissare.
+
+Domanda: I garrocci di cui è munito il fiocco vanno incocciati allo strallo partendo dal punto di penna e proseguendo verso il punto di scotta.
+Risposta esatta: FALSO
+Spiegazione: I garrocci si inseriscono partendo dal basso (mura) verso l’alto (penna). Questo permette di mantenere la vela controllata durante l’armo.
+
+Domanda: Il dispositivo solitamente utilizzato per agganciare la drizza alla penna è un moschettone impiombato alla sommità della drizza stessa.
+Risposta esatta: VERO
+Spiegazione: La drizza è la cima utilizzata per issare la vela. Alla sua estremità è spesso presente un moschettone o grillo per collegarsi rapidamente alla penna (angolo superiore della vela).
+
+Domanda: Il nodo utilizzato solitamente per fissare le due scotte alla bugna del fiocco, una per lato, è il parlato doppio.
+Risposta esatta: FALSO
+Spiegazione: Il parlato doppio è un nodo di fissaggio su oggetti (es. bitte), non adatto alla bugna. Le scotte si fissano con nodi più adatti al carico e alla sicurezza, come il nodo a bocca di lupo o gassa.
+
+Domanda: La barca viene condotta con la prua al vento al fine di consentire che il fiocco non si gonfi mentre viene issato.
+Risposta esatta: VERO
+Spiegazione: Con la prua al vento le vele sventano (non prendono vento), quindi il fiocco resta scarico e può essere issato senza difficoltà.
+
+Domanda: Lo strallo cavo offre il vantaggio di abbassare il centro velico del fiocco.
+Risposta esatta: FALSO
+Spiegazione: Lo strallo cavo serve per inferire la vela (inserirla in una canaletta) e facilitare issata e cambio vela. Non modifica il centro velico (punto medio di applicazione della forza del vento).
+
+Domanda: La doppia canaletta di uno strallo cavo serve per facilitare la sostituzione di una vela di prua.
+Risposta esatta: VERO
+Spiegazione: La doppia canaletta consente di inserire una seconda vela mentre la prima è ancora issata, facilitando il cambio rapido.
+
+Domanda: Issare la tormentina è la manovra che può essere adottata al fine di ridurre la velocità risalendo il vento
+Risposta esatta: FALSO
+Spiegazione: La tormentina è una vela di prua piccola e robusta usata con vento forte per mantenere controllo e sicurezza, non semplicemente per ridurre la velocità.
+
+Domanda: La manovra che può essere adottata al fine di ridurre la velocità nelle andature portanti è far fileggiare la randa.
+Risposta esatta: FALSO
+Spiegazione: Far fileggiare significa lasciare la vela sbattere senza portanza, ma non è una tecnica corretta per ridurre la velocità. Si usano invece riduzione vela o regolazioni controllate.
+
+Domanda: La manovra denominata "mettersi in panna" serve per aumentare la velocità.
+Risposta esatta: FALSO
+Spiegazione: Mettersi in panna serve a rallentare o fermare la barca mantenendola stabile rispetto al vento e al mare.
+
+Domanda: La manovra denominata "mettersi in panna" consiste nel porre a collo la vela di prua lasciando la randa bordata per la bolina larga nonché ponendo il timone all'orza.
+Risposta esatta: VERO
+Spiegazione: “A collo” significa che la vela di prua è spinta dal lato opposto rispetto alla randa. Il timone all’orza (verso il vento) stabilizza la barca, che resta quasi ferma.
+
+Domanda: La manovra denominata "mettersi alla cappa" consiste in una particolare tecnica che consente di navigare a velocità ridotta utilizzando l'ancora galleggiante.
+Risposta esatta: FALSO
+Spiegazione: Mettersi alla cappa è una configurazione di vele e timone per mantenere la barca stabile con mare formato. L’ancora galleggiante è un’altra tecnica diversa.
+
+Domanda: Per "mano o presa di terzaroli" si intende la manovra per abbassare il tangone e smagrire lo spinnaker, passando dall'andatura in fil di ruota al traverso.
+Risposta esatta: FALSO
+Spiegazione: La presa di terzaroli serve a ridurre la superficie della randa in caso di vento forte. Non riguarda lo spinnaker né il tangone.
+
+Domanda: La "presa di terzaroli" consiste nell'ammainare completamente la randa ed issare al suo posto la randa di rispetto denominata matafione.
+Risposta esatta: FALSO
+Spiegazione: Terzarolare significa ridurre la randa legandone una parte al boma, non sostituirla. I matafioni sono le legature usate per fissare la vela ridotta.
+
+Domanda: Per "mettere a segno" le vele si intende l'avvolgerle correttamente dopo l'utilizzo in navigazione per il loro successivo pronto impiego.
+Risposta esatta: FALSO
+Spiegazione: Mettere a segno significa regolare correttamente le vele in navigazione per ottenere la miglior efficienza aerodinamica.
+
+Domanda: Il vantaggio della planata è l'aumento del dislocamento dell'unità.
+Risposta esatta: FALSO
+Spiegazione: La planata riduce la resistenza dello scafo sull’acqua facendo aumentare la velocità. Il dislocamento (peso dell’acqua spostata) non aumenta.
+
+Domanda: Quando la barca si dispone con la prua al vento le vele smagriscono disponendosi trasversalmente all'asse longitudinale dell'unità e orientandosi nella direzione di provenienza del vento apparente.
+Risposta esatta: FALSO
+Spiegazione: Con la prua al vento le vele sventano (perdono completamente portanza) e non lavorano più aerodinamicamente.
+
+Domanda: La manovra denominata "strallare" consiste nel ruotare il tangone verso la parte prodiera dell'unità navale conducendone l'estremità libera in prossimità dello strallo.
+Risposta esatta: VERO
+Spiegazione: Strallare il tangone significa portarlo in avanti verso lo strallo per adattarlo all’andatura.
+
+Domanda: La manovra denominata "quadrare" consiste nel ruotare il tangone verso la parte prodiera dell'unità navale conducendone l'estremità libera in prossimità dello strallo.
+Risposta esatta: FALSO
+Spiegazione: Quadrare significa portare il tangone perpendicolare alla direzione del vento (tipicamente in poppa), non verso lo strallo.
+
+Domanda: Per poggiare si intende variare la prua dell'unità, allontanando la prua della stessa rispetto alla direzione di provenienza del vento.
+Risposta esatta: VERO
+Spiegazione: Poggiare significa allontanarsi dal vento (andare verso andature più portanti). È l’opposto di orzare.
+
+Domanda: Per orzare si intende variare la rotta dell'unità navale assumendo un nuovo valore di rotta opposto a quello della direzione di provenienza del vento.
+Risposta esatta: FALSO
+Spiegazione: Orzare significa avvicinare la prua al vento, non andare nella direzione opposta al vento.
+
+Domanda: Per sventare si intende la manovra tesa a condurre l'unità navale con la poppa al vento.
+Risposta esatta: FALSO
+Spiegazione: Sventare significa togliere vento alle vele (farle perdere portanza), ad esempio mettendosi prua al vento o lascando le scotte.
+
+Domanda: La virata e l'abbattuta sono le manovre fondamentali per cambiare mure.
+Risposta esatta: VERO
+Spiegazione: Sono le due manovre base: virata (prua al vento) e abbattuta (poppa al vento).
+
+Domanda: La virata è la manovra mediante la quale l'unità a vela si appresta ad ammainare lo spinnaker.
+Risposta esatta: FALSO
+Spiegazione: La virata serve a cambiare mure, non è legata all’ammainata dello spinnaker.
+
+Domanda: Per poggiare è necessario porre la barra al centro
+Risposta esatta: VERO
+Spiegazione: In condizioni normali si parte dalla barra al centro e si agisce progressivamente per poggiare. Non è una posizione fissa estrema ma una condizione di equilibrio iniziale.
+
+Domanda: Quando due unità a vela navigano di bolina con rotte convergenti, quella più lenta lascerà la rotta libera a quella più veloce, passandole di poppa.
+Risposta esatta: FALSO
+Spiegazione: La precedenza non dipende dalla velocità ma dalle mure (vento a destra o sinistra).
+
+Domanda: Se due unità a vela navigano entrambe con stesse mura, ha la precedenza quella che si trova sottovento.
+Risposta esatta: VERO
+Spiegazione: Sottovento = lato opposto a quello da cui arriva il vento. La barca sottovento ha precedenza.
+
+Domanda: Se due unità a vela navigano di bolina con rotte convergenti, quella con mure a sinistra ha la precedenza.
+Risposta esatta: FALSO
+Spiegazione: Ha precedenza chi ha mure a dritta (vento da destra).
+
+Domanda: Se due unità navigano a vela con mure diverse (una a sinistra e l'altra a dritta), ha la precedenza chi prende il vento a sinistra.
+Risposta esatta: FALSO
+Spiegazione: Ha precedenza chi prende il vento a dritta.
+
+Domanda: Se due unità navigano a vela con mure diverse (una a sinistra e l'altra a dritta), ha la precedenza chi prende il vento a dritta.
+Risposta esatta: VERO
+Spiegazione: Regola base di precedenza tra unità a vela.
+
+Domanda: Se due unità navigano a vela su rotte opposte, quella che ha il vento sulla sinistra deve lasciare libera la rotta all'altra.
+Risposta esatta: VERO
+Spiegazione: Chi ha mure a sinistra deve dare precedenza.
+
+Domanda: Se un'unità con il vento sulla sinistra vede un'altra unità a vela sopravento e non può stabilire con sicurezza se questa abbia il vento sulla sinistra o sulla dritta, deve manovrare in modo da lasciare libera la rotta .
+Risposta esatta: VERO
+Spiegazione: Regola prudenziale: in caso di dubbio si deve dare precedenza.
+
+Domanda: Navigando di bolina stretta, si può ridurre temporaneamente la velocità stingendo il vento oltre l'angolo di bordeggio.
+Risposta esatta: VERO
+Spiegazione: Stringere troppo il vento fa perdere portanza alle vele e quindi velocità.
+
+Domanda: Poggiando da bolina stretta a bolina larga la barca accelera.
+Risposta esatta: VERO
+Spiegazione: Aumenta l’angolo al vento e le vele lavorano meglio → più velocità.
+
+Domanda: Per ridurre lo sbandamento, si smagriscono le vele, cazzando il cunnincham e il tesabase della randa, la drizza del genoa e si arretra il punto di scotta del genoa (o genova).
+Risposta esatta: VERO
+Spiegazione: Smagrire la vela = renderla più piatta per ridurre la potenza e quindi lo sbandamento.
+
+Domanda: Per aumentare la potenza con vento debole si smagriscono le vele, cazzando il cunnincham e il tesabase della randa, la drizza del genoa e si arretra il punto di scotta del genoa (o genova).
+Risposta esatta: FALSO
+Spiegazione: Con vento debole si cercano vele più “grasse” (più pancia) per aumentare la spinta, non più piatte.
+
+Domanda: La "messa a segno" delle vele si ottiene quando le vele sono completamente poste a riva.
+Risposta esatta: FALSO
+Spiegazione: Mettere a segno significa regolare le vele, non semplicemente issarle.
+
+Domanda: Per ridurre lo sbandamento sotto raffica si muove il carrello (trasto) della randa sottovento o, in assenza del carrello, si lasca la scotta.
+Risposta esatta: VERO
+Spiegazione: Spostando il trasto o lascando la scotta si riduce la potenza della randa e quindi lo sbandamento.
+
+Domanda: Per assecondare una rapida poggiata per evitare un ostacolo devo lascare solo il fiocco.
+Risposta esatta: FALSO
+Spiegazione: La manovra richiede coordinazione tra timone e entrambe le vele, non solo il fiocco.
+
+Domanda: La ritenuta del boma è quella manovra che opportuno utilizzare per evitare la strambata nelle andature di granlasco e giardinetto.
+Risposta esatta: VERO
+Spiegazione: La ritenuta è una cima che impedisce al boma di passare violentemente da un lato all’altro (strambata).
+
+Domanda: Tendenzialmente, in caso di aumento del vento, si riduce per primo il genoa (o genova) e poi a seguire la randa.
+Risposta esatta: VERO
+Spiegazione: Ridurre prima il genoa aiuta a mantenere equilibrio e controllo.
+
+Domanda: Quando si comincia a pensare se sia il caso di ridurre la vela a causa dell'eccessivo sbandamento è probabilmente il momento di farlo.
+Risposta esatta: VERO
+Spiegazione: È una regola pratica: se ci pensi, sei già in ritardo.
+
+Domanda: E' certamente opportuno ridurre la vela se la barca ha stabilmente la falchetta in acqua.
+Risposta esatta: VERO
+Spiegazione: La falchetta è il bordo superiore della barca: se tocca l’acqua lo sbandamento è eccessivo.
+
+Domanda: La strambata è il rischio più grande che si corre navigando al gran lasco o in poppa (giardinetto).
+Risposta esatta: VERO
+Spiegazione: Il boma può passare violentemente da un lato all’altro → manovra pericolosa.
+
+Domanda: Strambata e abbattuta sono la stessa cosa.
+Risposta esatta: FALSO
+Spiegazione: Abbattuta è la manovra volontaria di cambio mure con poppa al vento; strambata indica spesso il passaggio brusco e potenzialmente pericoloso del boma.
+
+Domanda: La strambata è l'abbattuta involontaria e incontrollata.
+Risposta esatta: VERO
+Spiegazione: Quando avviene senza controllo diventa pericolosa → strambata.
+
+Domanda: Salvo le ordinanze locali, di norma è possibile entrare in un porto navigando a vela.
+Risposta esatta: FALSO
+Spiegazione: In porto si entra normalmente a motore per maggiore controllo e sicurezza.
+
+Domanda: Lascare la randa agevola la poggiata.
+Risposta esatta: VERO
+Spiegazione: Lascando la randa si riduce la sua spinta verso il vento e la barca tende a poggiare (allontanarsi dal vento).
+
+
+Domanda: Con il fiocco autovirante è necessario cazzare la scotta in virata.
+Risposta esatta: FALSO
+Spiegazione: Con il fiocco autovirante non è necessario cazzare la scotta a ogni virata: il sistema è progettato per far passare automaticamente la vela da un lato all’altro tramite una rotaia o un carrello dedicato. “Cazzare” significa tirare una cima per aumentare la tensione.
+
+Domanda: Con il fiocco autovirante la scotta è generalmente rinviata a una puleggia sull'albero.
+Risposta esatta: VERO
+Spiegazione: Nel fiocco autovirante la scotta viene spesso rinviata tramite una puleggia o un sistema di rinvii verso l’albero/coperta, così da permettere alla vela di cambiare lato automaticamente durante la virata. La puleggia serve a cambiare direzione alla cima e ridurre l’attrito.
+
+Domanda: Con il genoa avvolgibile ridotto oltre il 30% della superficie si ha una sensibile riduzione di efficienza del profilo.
+Risposta esatta: VERO
+Spiegazione: Riducendo molto un genoa avvolgibile, il profilo della vela peggiora: la vela diventa meno efficiente, più deformata e meno adatta a lavorare bene con il vento. Per riduzioni importanti è preferibile usare una vela più piccola o più adatta.
+
+Domanda: L'avvolgifiocco e il moderno sistema che consente di ridurre la vela di prua senza ammainarla.
+Risposta esatta: VERO
+Spiegazione: L’avvolgifiocco permette di avvolgere parzialmente o totalmente la vela di prua intorno allo strallo, senza doverla ammainare. È utile per ridurre rapidamente la superficie velica quando aumenta il vento.
+
+Domanda: Lo stopper è la manovra con cui si fissa il boma in posizione di riposo.
+Risposta esatta: FALSO
+Spiegazione: Lo stopper non è una manovra per fissare il boma. È un dispositivo di bloccaggio montato in coperta che serve a fermare una cima, come una drizza o una scotta, impedendole di scorrere.
+
+Domanda: Lo stopper è il sistema di bloccaggio che consente di strozzare una drizza.
+Risposta esatta: VERO
+Spiegazione: Lo stopper è un sistema che blocca una cima sotto carico. Può essere usato, ad esempio, per fermare una drizza dopo aver issato una vela. “Strozzare” significa bloccare la cima per impedirle di scorrere.
+
+Domanda: Per "sventare" si intende la manovra tesa a condurre l'unità navale con la prua al vento o a mollare le scotte, in modo che le vele non siano portanti
+Risposta esatta: VERO
+Spiegazione: Sventare significa togliere portanza alle vele. Si può fare mettendo la prua al vento oppure mollando le scotte, così le vele non lavorano più correttamente e smettono di spingere.
+
+Domanda: Per "sventare" si intende la manovra tesa a condurre l'unità navale con la poppa al vento.
+Risposta esatta: FALSO
+Spiegazione: Sventare non significa navigare con la poppa al vento. Significa invece far perdere portanza alle vele, ad esempio portando la prua al vento o mollando le scotte.
+
+Domanda: Per poggiare è necessario porre la barra del timone sopravento ossia dalla parte opposta rispetto alla randa.
+Risposta esatta: VERO
+Spiegazione: Per poggiare, cioè allontanare la prua dalla direzione del vento, la barra del timone viene portata sopravento, quindi dalla parte opposta rispetto alla randa. “Sopravento” indica il lato da cui arriva il vento.
+
+Domanda: Per poggiare è necessario porre la barra del timone sottovento ossia dallo stesso lato della randa.
+Risposta esatta: FALSO
+Spiegazione: Per poggiare non si porta la barra sottovento, cioè dallo stesso lato della randa. La barra va portata sopravento, così la prua si allontana dal vento.
+
+Domanda: Quando due unità navali a vela navigano di bolina con rotte convergenti, quella con le mure a sinistra poggierà per lasciare la rotta libera a quella con le mure a dritta, passandole di poppa.
+Risposta esatta: VERO
+Spiegazione: Con mure diverse ha precedenza l’unità con mure a dritta, cioè con il vento che arriva da destra. L’unità con mure a sinistra deve manovrare, spesso poggiando e passando di poppa, per lasciare libera la rotta.
+
+Domanda: Quando due unità navali a vela navigano di bolina con rotte convergenti, quella più lenta lascierà la rotta libera a quella più veloce, passandole di poppa.
+Risposta esatta: FALSO
+Spiegazione: La precedenza tra due barche a vela non dipende da quale sia più lenta o più veloce. Dipende dalle mure e dalla posizione reciproca: con mure diverse prevale chi ha mure a dritta; con stesse mure prevale chi è sottovento.
+
+Domanda: Quando due unità navali a vela navigano di bolina entrambe con le stesse mure, quella sopravento orzerà per lasciare la rotta libera a quella sottovento.
+Risposta esatta: VERO
+Spiegazione: Quando due barche a vela hanno le stesse mure, ha precedenza quella sottovento. Quella sopravento deve quindi manovrare per lasciare libera la rotta, ad esempio orzando. “Orzare” significa avvicinare la prua al vento.
+
+Domanda: Dopo aver tesato la drizza della randa, la base della stessa può essere cazzata, poco o molto, a seconda che si vogliano assumere rispettivamente andature larghe o di bolina.
+Risposta esatta: VERO
+Spiegazione: Dopo aver regolato la drizza della randa, si può regolare la base con il tesabase. Per andature larghe la base può essere meno cazzata, lasciando la vela più “grassa”; in bolina si tende invece a cazzarla di più per appiattire la vela e migliorare l’efficienza controvento.
+
+
+
+
+
+
+
+
+

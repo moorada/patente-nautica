@@ -26933,7 +26933,14 @@
   },
   {
     "id": 1050,
-    "immagine": [],
+    "immagine": [
+      {
+        "rid": "image-1050",
+        "path": "immagini_base/image-1050.png",
+        "original_part": "word/media/image-1050.png",
+        "content_type": "image/png"
+      }
+    ],
     "domanda": "La lettera “ f ” sulla carta nautica, nella zona rappresentante il mare, indica:",
     "risposte": [
       {
@@ -26958,7 +26965,14 @@
   },
   {
     "id": 1051,
-    "immagine": [],
+    "immagine": [
+      {
+        "rid": "image-1051",
+        "path": "immagini_base/image-1051.png",
+        "original_part": "word/media/image-1051.png",
+        "content_type": "image/png"
+      }
+    ],
     "domanda": "Il simbolo in figura a fianco, riportato sulla carta nautica, indica:",
     "risposte": [
       {
@@ -26983,7 +26997,14 @@
   },
   {
     "id": 1052,
-    "immagine": [],
+    "immagine": [
+      {
+        "rid": "image-1052",
+        "path": "immagini_base/image-1052.png",
+        "original_part": "word/media/image-1052.png",
+        "content_type": "image/png"
+      }
+    ],
     "domanda": "Il simbolo in figura, riportato sulla carta nautica, indica:",
     "risposte": [
       {
@@ -27008,7 +27029,14 @@
   },
   {
     "id": 1053,
-    "immagine": [],
+    "immagine": [
+      {
+        "rid": "image-1053",
+        "path": "immagini_base/image-1053.png",
+        "original_part": "word/media/image-1053.png",
+        "content_type": "image/png"
+      }
+    ],
     "domanda": "Il simbolo in figura, riportato sulla carta nautica, indica:",
     "risposte": [
       {
@@ -27058,7 +27086,14 @@
   },
   {
     "id": 1055,
-    "immagine": [],
+    "immagine": [
+      {
+        "rid": "image-1055",
+        "path": "immagini_base/image-1055.png",
+        "original_part": "word/media/image-1055.png",
+        "content_type": "image/png"
+      }
+    ],
     "domanda": "La scritta “ P.A. ”, posizionata vicino ad un simbolo sulla carta nautica, è utilizzata per indicare:",
     "risposte": [
       {

@@ -130,6 +130,10 @@ const primaryModes = [
 const THEME_KEY = "nautica-theme";
 const PROGRESS_KEY = "nautica-progress-v1";
 const MAX_STORED_RESPONSES = 8000;
+const REPORT_COMMENT_MIN_LENGTH = 5;
+const SUPABASE_PROJECT_ID = "xdkptbdhhcpfoslpjjpq";
+const SUPABASE_PUBLISHABLE_KEY = "sb_publishable_07BoN8Itxi_UTLSDu9YaRg_gl4kS-II";
+const SUPABASE_URL = resolveSupabaseUrl();
 
 const state = {
   loaded: false,
@@ -141,6 +145,7 @@ const state = {
   examFinalized: false,
   lastRenderedQuestionUid: null,
   progress: loadProgress(),
+  reportPanelOpen: false,
 };
 
 const refs = {
@@ -179,6 +184,13 @@ const refs = {
   wrong: document.getElementById("wrong"),
   answered: document.getElementById("answered"),
   questionSource: document.getElementById("question-source"),
+  reportErrorBtn: document.getElementById("report-error-btn"),
+  reportPanel: document.getElementById("report-panel"),
+  reportType: document.getElementById("report-type"),
+  reportComment: document.getElementById("report-comment"),
+  reportSendBtn: document.getElementById("report-send-btn"),
+  reportCancelBtn: document.getElementById("report-cancel-btn"),
+  reportStatus: document.getElementById("report-status"),
   questionScroll: document.getElementById("question-scroll"),
   scrollHint: document.getElementById("scroll-hint"),
   questionText: document.getElementById("question-text"),
@@ -239,6 +251,9 @@ function bindEvents() {
   window.addEventListener("resize", updateScrollHint);
   refs.showSolutionBtn.addEventListener("click", revealSolution);
   refs.submitExamBtn.addEventListener("click", finalizeExam);
+  refs.reportErrorBtn.addEventListener("click", toggleReportPanel);
+  refs.reportSendBtn.addEventListener("click", submitErrorReport);
+  refs.reportCancelBtn.addEventListener("click", closeReportPanel);
   document.addEventListener("keydown", handleKeyboardShortcuts);
 }
 
@@ -264,6 +279,12 @@ function handleKeyboardShortcuts(event) {
   }
 
   if (event.defaultPrevented || event.metaKey || event.ctrlKey || event.altKey) {
+    return;
+  }
+
+  if (state.reportPanelOpen && event.key === "Escape") {
+    event.preventDefault();
+    closeReportPanel();
     return;
   }
 
@@ -389,6 +410,137 @@ function openSupportModal() {
 
 function closeSupportModal() {
   refs.supportModal.classList.add("hidden");
+}
+
+function resolveSupabaseUrl() {
+  const fromWindow = typeof window !== "undefined" && typeof window.__SUPABASE_URL__ === "string"
+    ? window.__SUPABASE_URL__.trim()
+    : "";
+  if (fromWindow) {
+    return fromWindow.replace(/\/+$/, "");
+  }
+
+  if (SUPABASE_PROJECT_ID) {
+    return `https://${SUPABASE_PROJECT_ID}.supabase.co`;
+  }
+
+  const match = SUPABASE_PUBLISHABLE_KEY.match(/^sb_publishable_([A-Za-z0-9-]+)_/);
+  return match ? `https://${match[1].toLowerCase()}.supabase.co` : "";
+}
+
+function toggleReportPanel() {
+  if (!state.session) {
+    return;
+  }
+
+  if (state.reportPanelOpen) {
+    closeReportPanel({ resetFields: false, clearStatus: false });
+    return;
+  }
+
+  if (!SUPABASE_PUBLISHABLE_KEY || !SUPABASE_URL) {
+    setReportStatus("Config Supabase incompleta. Imposta window.__SUPABASE_URL__.", "error");
+    openReportPanel();
+    return;
+  }
+
+  setReportStatus("", "info", true);
+  openReportPanel();
+}
+
+function openReportPanel() {
+  state.reportPanelOpen = true;
+  refs.reportPanel.classList.remove("hidden");
+  refs.reportErrorBtn.setAttribute("aria-expanded", "true");
+  refs.reportComment.focus();
+}
+
+function closeReportPanel({ resetFields = false, clearStatus = false } = {}) {
+  state.reportPanelOpen = false;
+  refs.reportPanel.classList.add("hidden");
+  refs.reportErrorBtn.setAttribute("aria-expanded", "false");
+  if (resetFields) {
+    refs.reportType.value = "spiegazione";
+    refs.reportComment.value = "";
+  }
+  if (clearStatus) {
+    setReportStatus("", "info", true);
+  }
+}
+
+function setReportStatus(message, tone = "info", hide = false) {
+  if (hide || !message) {
+    refs.reportStatus.textContent = "";
+    refs.reportStatus.classList.add("hidden");
+    refs.reportStatus.style.color = "";
+    return;
+  }
+
+  refs.reportStatus.textContent = message;
+  refs.reportStatus.classList.remove("hidden");
+  refs.reportStatus.style.color = tone === "error" ? "var(--bad-ink)" : tone === "ok" ? "var(--good-ink)" : "";
+}
+
+async function submitErrorReport() {
+  if (!state.session) {
+    return;
+  }
+
+  const question = state.session.questions[state.cursor];
+  if (!question) {
+    return;
+  }
+
+  const comment = refs.reportComment.value.trim();
+  if (comment.length < REPORT_COMMENT_MIN_LENGTH) {
+    setReportStatus(`Scrivi almeno ${REPORT_COMMENT_MIN_LENGTH} caratteri nel commento.`, "error");
+    return;
+  }
+
+  if (!SUPABASE_PUBLISHABLE_KEY || !SUPABASE_URL) {
+    setReportStatus("Config Supabase incompleta. Imposta window.__SUPABASE_URL__.", "error");
+    return;
+  }
+
+  const payload = {
+    question_id: question.originKey,
+    dataset_id: question.datasetId || "unknown",
+    question_text: question.text || "",
+    error_type: refs.reportType.value,
+    user_comment: comment,
+  };
+
+  refs.reportSendBtn.disabled = true;
+  refs.reportCancelBtn.disabled = true;
+  setReportStatus("Invio segnalazione...", "info");
+
+  try {
+    const response = await fetch(`${SUPABASE_URL}/rest/v1/error_reports`, {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+        apikey: SUPABASE_PUBLISHABLE_KEY,
+        Authorization: `Bearer ${SUPABASE_PUBLISHABLE_KEY}`,
+        Prefer: "return=minimal",
+      },
+      body: JSON.stringify(payload),
+    });
+
+    if (!response.ok) {
+      const errorText = await response.text();
+      throw new Error(errorText || "Invio non riuscito");
+    }
+
+    setReportStatus("Segnalazione inviata. Grazie!", "ok");
+    refs.reportComment.value = "";
+    refs.reportType.value = "spiegazione";
+  } catch (error) {
+    const message = error instanceof Error ? error.message : "Errore durante l'invio";
+    setReportStatus(`Invio fallito: ${message}`, "error");
+  } finally {
+    refs.reportSendBtn.disabled = false;
+    refs.reportCancelBtn.disabled = false;
+  }
 }
 
 function renderRankingBoard() {
@@ -585,6 +737,7 @@ function showSetupView() {
   document.body.classList.remove("quiz-active");
   refs.setupView.classList.remove("hidden");
   refs.quizView.classList.add("hidden");
+  closeReportPanel();
 }
 
 function showQuizView() {
@@ -628,6 +781,8 @@ function normalizeDataset(dataset, chunks) {
   if (dataset.type === "base_like") {
     for (const item of chunks[0]) {
       const originKey = `${dataset.id}-${item.id}`;
+      const image = resolveImage(item.immagine);
+
       const answers = (item.risposte || []).map((answer, index) => ({
         id: `${originKey}-a${index}`,
         text: cleanText(answer.testo),
@@ -644,7 +799,7 @@ function normalizeDataset(dataset, chunks) {
         kind: "choice",
         text: cleanText(item.domanda),
         spiegazione: cleanText(item.spiegazione || ""),
-        image: resolveImage(item.immagine),
+        image,
         answers,
         correctAnswerId: correctAnswer ? correctAnswer.id : null,
       });
@@ -654,6 +809,8 @@ function normalizeDataset(dataset, chunks) {
   if (dataset.type === "vela") {
     for (const item of chunks[0]) {
       const originKey = `${dataset.id}-${item.id}`;
+      const image = resolveImage(item.immagine);
+
       const answerKeys = Object.keys(item).filter((key) => key.startsWith("risposta"));
       const answers = answerKeys.map((key, index) => ({
         id: `${originKey}-a${index}`,
@@ -671,7 +828,7 @@ function normalizeDataset(dataset, chunks) {
         kind: "choice",
         text: cleanText(item.domanda),
         spiegazione: cleanText(item.spiegazione || ""),
-        image: resolveImage(item.immagine),
+        image,
         answers,
         correctAnswerId: correctAnswer ? correctAnswer.id : null,
       });
@@ -730,6 +887,11 @@ function resolveImage(images) {
   }
 
   return first.path;
+}
+
+function questionMentionsFigure(questionText) {
+  const text = cleanText(questionText).toLowerCase();
+  return /(?:in figura|figura a fianco|rappresentat[oa] in figura|simbolo in figura)/.test(text);
 }
 
 function cleanText(value) {
@@ -791,6 +953,7 @@ function buildExamSession(mode) {
     questions,
     questionStates: questions.map((question) => createQuestionState(question)),
     infinitePool: null,
+    continuousRemainingPool: null,
   };
 }
 
@@ -800,7 +963,8 @@ function buildInfiniteSession() {
     throw new Error("Seleziona almeno una lista con domande disponibili.");
   }
 
-  const firstQuestion = cloneForSession(randomFrom(pool), "infinite", "Quiz infinito");
+  const { question: firstBaseQuestion, remainingPool } = pickNextContinuousBaseQuestion("infinite", pool, []);
+  const firstQuestion = cloneForSession(firstBaseQuestion, "infinite", "Quiz infinito");
 
   return {
     mode: {
@@ -812,6 +976,7 @@ function buildInfiniteSession() {
     questions: [firstQuestion],
     questionStates: [createQuestionState(firstQuestion)],
     infinitePool: pool,
+    continuousRemainingPool: remainingPool,
   };
 }
 
@@ -847,7 +1012,8 @@ function buildWrongestSession() {
   const wrongPool = onlyWrong.length > 0 ? onlyWrong : ranked;
   const focusPool = wrongPool.slice(0, Math.min(400, wrongPool.length));
 
-  const firstQuestion = cloneForSession(randomFrom(focusPool), "wrongest", "Domande più sbagliate");
+  const { question: firstBaseQuestion, remainingPool } = pickNextContinuousBaseQuestion("wrongest", focusPool, []);
+  const firstQuestion = cloneForSession(firstBaseQuestion, "wrongest", "Domande più sbagliate");
 
   return {
     mode: {
@@ -859,6 +1025,7 @@ function buildWrongestSession() {
     questions: [firstQuestion],
     questionStates: [createQuestionState(firstQuestion)],
     infinitePool: focusPool,
+    continuousRemainingPool: remainingPool,
   };
 }
 
@@ -948,6 +1115,10 @@ function renderQuiz() {
   const qState = questionStates[state.cursor];
   const isNewQuestion = state.lastRenderedQuestionUid !== question.uid;
 
+  if (isNewQuestion && state.reportPanelOpen) {
+    closeReportPanel({ resetFields: true, clearStatus: true });
+  }
+
   const metrics = computeMetrics(questions, questionStates);
 
   refs.activeMode.textContent = mode.label;
@@ -977,7 +1148,11 @@ function renderQuiz() {
     refs.submitExamBtn.classList.add("hidden");
   }
 
-  refs.questionSource.textContent = `${question.sectionLabel} · ${question.sourceLabel}`;
+  const missingImageHint = !question.image && questionMentionsFigure(question.text)
+    ? " · immagine non disponibile nel dataset"
+    : "";
+  refs.questionSource.textContent = `${question.sectionLabel} · ${question.sourceLabel}${missingImageHint}`;
+  refs.reportErrorBtn.disabled = !SUPABASE_PUBLISHABLE_KEY || !SUPABASE_URL;
   refs.questionText.textContent = question.text;
 
   if (question.image) {
@@ -1302,10 +1477,12 @@ function appendContinuousQuestion() {
 
   const modeType = state.session.mode.type;
   const sourcePool = state.session.infinitePool;
-
-  const baseQuestion = modeType === "wrongest"
-    ? pickWeightedWrongQuestion(sourcePool)
-    : randomFrom(sourcePool);
+  const { question: baseQuestion, remainingPool } = pickNextContinuousBaseQuestion(
+    modeType,
+    sourcePool,
+    state.session.continuousRemainingPool,
+  );
+  state.session.continuousRemainingPool = remainingPool;
 
   const sectionLabel = modeType === "wrongest" ? "Domande più sbagliate" : "Quiz infinito";
   const sectionId = modeType === "wrongest" ? "wrongest" : "infinite";
@@ -1313,6 +1490,27 @@ function appendContinuousQuestion() {
   const cloned = cloneForSession(baseQuestion, sectionId, sectionLabel);
   state.session.questions.push(cloned);
   state.session.questionStates.push(createQuestionState(cloned));
+}
+
+function pickNextContinuousBaseQuestion(modeType, sourcePool, remainingPool) {
+  if (!Array.isArray(sourcePool) || sourcePool.length === 0) {
+    return { question: null, remainingPool: [] };
+  }
+
+  const currentPool = Array.isArray(remainingPool) && remainingPool.length > 0
+    ? remainingPool
+    : [...sourcePool];
+
+  const question = modeType === "wrongest"
+    ? pickWeightedWrongQuestion(currentPool)
+    : randomFrom(currentPool);
+
+  const nextRemainingPool = currentPool.filter((item) => item.originKey !== question.originKey);
+
+  return {
+    question,
+    remainingPool: nextRemainingPool,
+  };
 }
 
 function pickWeightedWrongQuestion(pool) {

@@ -97,7 +97,30 @@
         </div>
 
         <article class="question-card">
-          <p id="question-source" class="question-source"></p>
+          <div class="question-meta">
+            <p id="question-source" class="question-source"></p>
+            <button id="report-error-btn" class="report-btn" type="button" aria-expanded="false" aria-controls="report-panel">Segnala errore</button>
+          </div>
+
+          <section id="report-panel" class="report-panel hidden" aria-label="Segnala un errore nella domanda">
+            <div class="report-fields">
+              <label class="report-label" for="report-type">Tipo</label>
+              <select id="report-type" class="report-select">
+                <option value="spiegazione">Spiegazione</option>
+                <option value="risposta">Risposta</option>
+                <option value="testo">Testo domanda</option>
+                <option value="immagine">Immagine</option>
+                <option value="altro">Altro</option>
+              </select>
+              <label class="report-label" for="report-comment">Correzione / commento</label>
+              <textarea id="report-comment" class="report-textarea" rows="3" maxlength="3000" placeholder="Scrivi cosa non va e la correzione proposta..."></textarea>
+            </div>
+            <div class="report-actions">
+              <button id="report-send-btn" class="btn btn-primary report-send-btn" type="button">Invia</button>
+              <button id="report-cancel-btn" class="btn btn-secondary report-cancel-btn" type="button">Chiudi</button>
+            </div>
+            <p id="report-status" class="report-status hidden" role="status"></p>
+          </section>
 
           <div id="question-scroll" class="question-scroll">
             <div class="question-head">
@@ -169,7 +192,7 @@
         <h2 id="support-title">Supporto e feedback</h2>
         <button id="close-support-btn" class="btn btn-secondary" type="button">Chiudi</button>
       </div>
-      <p class="muted">Se l'app ti è utile, puoi supportare il progetto o lasciare un feedback.</p>
+      <p class="muted">Questo progetto lo porto avanti in pubblico, sempre gratis e senza pubblicità. L'ho fatto e lo mantengo gratis: se ti aiuta e vuoi ripagare la fatica, aiutami con una donazione.</p>
       <div class="support-links">
         <a href="https://www.buymeacoffee.com/moorada" target="_blank" rel="noopener noreferrer" class="support-link-btn">☕ Buy Me a Coffee</a>
         <a href="https://github.com/moorada/patente-nautica/issues/new" target="_blank" rel="noopener noreferrer" class="support-link-btn">📝 Lasciami un feedback</a>
