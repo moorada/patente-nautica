@@ -54,21 +54,21 @@ const examModes = [
     id: "exam_senzalimiti_motore_prima",
     type: "exam",
     label: "Esame senza limiti • Motore (prima patente)",
-    description: "Prova di carteggio: 4 quesiti indipendenti (min 3/4, 60 min) + Quiz base 20 (min 16/20, 30 min).",
+    description: "Quiz base 20 (min 16/20, 30 min) + Prova di carteggio: 4 quesiti indipendenti (min 3/4, 60 min).",
     sections: [
-      { id: "carteggio", label: "Prova di carteggio", datasetId: "carteggio", pickQuestions: 4, minCorrect: 3 },
       { id: "base", label: "Quiz base", datasetId: "base", pickQuestions: 20, minCorrect: 16 },
+      { id: "carteggio", label: "Prova di carteggio", datasetId: "carteggio", pickQuestions: 4, minCorrect: 3 },
     ],
   },
   {
     id: "exam_senzalimiti_vela_prima",
     type: "exam",
     label: "Esame senza limiti • Motore + Vela (prima patente)",
-    description: "Prova di carteggio 4 quesiti (min 3/4, 60 min) + Quiz base 20 (min 16/20, 30 min) + Quiz vela 5 (min 4/5, 15 min).",
+    description: "Quiz base 20 (min 16/20, 30 min) + Quiz vela 5 (min 4/5, 15 min) + Prova di carteggio 4 quesiti (min 3/4, 60 min).",
     sections: [
-      { id: "carteggio", label: "Prova di carteggio", datasetId: "carteggio", pickQuestions: 4, minCorrect: 3 },
       { id: "base", label: "Quiz base", datasetId: "base", pickQuestions: 20, minCorrect: 16 },
       { id: "vela", label: "Quiz vela", datasetId: "vela", pickQuestions: 5, minCorrect: 4 },
+      { id: "carteggio", label: "Prova di carteggio", datasetId: "carteggio", pickQuestions: 4, minCorrect: 3 },
     ],
   },
   {
@@ -183,6 +183,7 @@ const refs = {
   correct: document.getElementById("correct"),
   wrong: document.getElementById("wrong"),
   answered: document.getElementById("answered"),
+  questionCard: document.querySelector(".question-card"),
   questionSource: document.getElementById("question-source"),
   reportErrorBtn: document.getElementById("report-error-btn"),
   reportPanel: document.getElementById("report-panel"),
@@ -450,13 +451,23 @@ function toggleReportPanel() {
 
 function openReportPanel() {
   state.reportPanelOpen = true;
+  document.body.classList.add("report-open");
+  refs.questionCard?.classList.add("report-open");
   refs.reportPanel.classList.remove("hidden");
   refs.reportErrorBtn.setAttribute("aria-expanded", "true");
-  refs.reportComment.focus();
+  requestAnimationFrame(() => {
+    try {
+      refs.reportComment.focus({ preventScroll: true });
+    } catch {
+      refs.reportComment.focus();
+    }
+  });
 }
 
 function closeReportPanel({ resetFields = false, clearStatus = false } = {}) {
   state.reportPanelOpen = false;
+  document.body.classList.remove("report-open");
+  refs.questionCard?.classList.remove("report-open");
   refs.reportPanel.classList.add("hidden");
   refs.reportErrorBtn.setAttribute("aria-expanded", "false");
   if (resetFields) {

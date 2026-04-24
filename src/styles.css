@@ -507,7 +507,10 @@ body {
   padding: 8px;
   display: grid;
   gap: 8px;
-  background: rgba(96, 157, 181, 0.08);
+  background: var(--panel);
+  box-shadow: 0 8px 18px rgba(8, 66, 91, 0.12);
+  position: relative;
+  z-index: 2;
 }
 
 .report-fields {
@@ -622,11 +625,14 @@ body {
 
 .response-flip {
   perspective: 1200px;
+  isolation: isolate;
+  overflow: hidden;
 }
 
 .response-flip-inner {
   display: grid;
   transform-style: preserve-3d;
+  will-change: transform;
   transition: transform 0.55s cubic-bezier(0.2, 0.7, 0.2, 1);
 }
 
@@ -639,17 +645,36 @@ body {
   min-width: 0;
   backface-visibility: hidden;
   -webkit-backface-visibility: hidden;
+  transform: translateZ(0);
   display: grid;
   gap: 8px;
   align-content: start;
+  transition: opacity 0.2s ease;
+}
+
+.response-front {
+  opacity: 1;
 }
 
 .response-back {
-  transform: rotateY(180deg);
+  transform: rotateY(180deg) translateZ(0);
+  opacity: 0;
+}
+
+.response-flip.flipped .response-front {
+  opacity: 0;
+}
+
+.response-flip.flipped .response-back {
+  opacity: 1;
 }
 
 @media (prefers-reduced-motion: reduce) {
   .response-flip-inner {
+    transition: none;
+  }
+
+  .response-face {
     transition: none;
   }
 }
@@ -991,6 +1016,22 @@ body {
   .report-btn {
     font-size: 0.66rem;
     padding: 4px 7px;
+  }
+
+  body.report-open .question-scroll {
+    opacity: 0.2;
+    pointer-events: none;
+  }
+
+  .report-panel {
+    position: fixed;
+    left: 10px;
+    right: 10px;
+    bottom: calc(env(safe-area-inset-bottom, 0px) + 10px);
+    z-index: 90;
+    max-height: min(62vh, 420px);
+    overflow: auto;
+    border-style: solid;
   }
 
   .quiz-panel {
