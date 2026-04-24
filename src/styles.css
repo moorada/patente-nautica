@@ -656,11 +656,14 @@ body {
 }
 
 .question-scroll {
-  height: 100%;
+  flex: 1 1 0%;
+  max-height: 100%;
   min-height: 0;
   overflow-y: auto;
   overflow-x: hidden;
   -webkit-overflow-scrolling: touch;
+  overscroll-behavior: contain;
+  touch-action: pan-y;
   display: flex;
   flex-direction: column;
   gap: 8px;
@@ -729,14 +732,15 @@ body {
   isolation: isolate;
   overflow: visible;
   min-height: 0;
+  touch-action: pan-y;
 }
 
 .response-flip-inner {
   display: grid;
   min-height: 0;
   transform-style: preserve-3d;
-  will-change: transform;
   transition: transform 0.55s cubic-bezier(0.2, 0.7, 0.2, 1);
+  touch-action: pan-y;
 }
 
 .response-flip.flipped .response-flip-inner {
@@ -746,6 +750,7 @@ body {
 .response-face {
   grid-area: 1 / 1;
   min-width: 0;
+  min-height: 0;
   backface-visibility: hidden;
   -webkit-backface-visibility: hidden;
   transform: translateZ(0);
@@ -753,6 +758,7 @@ body {
   gap: 8px;
   align-content: start;
   transition: opacity 0.2s ease;
+  touch-action: pan-y;
 }
 
 .response-front {
