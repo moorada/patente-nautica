@@ -155,7 +155,7 @@
     "domanda": "Cosa si intende per poppa di un'unità?",
     "risposte": [
       {
-        "testo": "lla parte più arrotondata dello scafo.",
+        "testo": "la parte più arrotondata dello scafo.",
         "corretta": false
       },
       {
@@ -188,7 +188,7 @@
         "corretta": false
       },
       {
-        "testo": "la superficie verticale interna del poz",
+        "testo": "la superficie verticale interna",
         "corretta": false
       }
     ],
@@ -1030,7 +1030,7 @@
         "corretta": false
       },
       {
-        "testo": "una sartia volante.",
+        "testo": "una cima di piccolo diametro",
         "corretta": true
       }
     ],
@@ -1397,7 +1397,7 @@
     "domanda": "Il timone è compensato quando:",
     "risposte": [
       {
-        "testo": "è dotato di sistema di comando idraulico.",
+        "testo": "è composto da un particolare tipo di legno.",
         "corretta": false
       },
       {
@@ -1405,7 +1405,7 @@
         "corretta": true
       },
       {
-        "testo": "è fissato allo specchio di poppa a mezzo di cerniere.",
+        "testo": "corregge eventuali errori del timoniere.",
         "corretta": false
       }
     ],
@@ -1451,7 +1451,7 @@
         "corretta": true
       },
       {
-        "testo": "una parte della pala è a poppavia dell'asse.",
+        "testo": "tutta la pala è a poppavia dell'asse.",
         "corretta": false
       },
       {
@@ -1822,7 +1822,7 @@
         "corretta": true
       },
       {
-        "testo": "plana e si alza sul filo dell’acqua.",
+        "testo": "plana e si alza sul filo dell’acqu",
         "corretta": false
       },
       {
@@ -1993,7 +1993,7 @@
     "domanda": "Unità da diporto a motore con a dritta elica destrorsa; si può ragionevolmente ritenere che quella di sinistra:",
     "risposte": [
       {
-        "testo": "non ha importanza, perché può essere indifferentemente sinistrorsa o destrorsa in quanto, in entrambi i casi, l'unità evoluisce sempre allo stesso moto ed alle",
+        "testo": "non ha importanza, perché può essere indifferentemente sinistrorsa o destrorsa in quanto, in entrambi i casi, l'unità evoluisce sempre allo stesso moto ed alle medesime condizioni.",
         "corretta": false
       },
       {
@@ -2690,7 +2690,7 @@
   {
     "id": 106,
     "immagine": [],
-    "domanda": "Sulla manovra e il funzionamento del timone a barra, senza considerare l’effetto dell’elica, abbiamo che:",
+    "domanda": "Sulla manovra e il funzionamento del timone a barra, senza considerare l’effetto dell’elica, in marcia avanti abbiamo che:",
     "risposte": [
       {
         "testo": "con barra a sinistra, la prua va a sinistra.",
@@ -3001,7 +3001,7 @@
         "corretta": false
       },
       {
-        "testo": "per eliminare l'effetto laterale delle pale.",
+        "testo": "Per compensare l'effetto laterale delle pale.",
         "corretta": true
       }
     ],
@@ -3318,11 +3318,11 @@
     "domanda": "Quali sono le fasi di un motore a combustione interna a quattro tempi?",
     "risposte": [
       {
-        "testo": "cablaggio, alesaggio, corsa, arresto.",
+        "testo": "depressione, alimentazione, iniezione, espansione.",
         "corretta": false
       },
       {
-        "testo": "accensione, lubrificazione, rotazione, riavviamento.",
+        "testo": "attiva e passiva.",
         "corretta": false
       },
       {
@@ -3865,7 +3865,7 @@
   {
     "id": 153,
     "immagine": [],
-    "domanda": "Quale può essere la causa più probabile in base alla quale un motoreVentrobordo emette fumo nero dallo scarico?",
+    "domanda": "Quale può essere la causa più probabile in base alla quale un motore entrobordo emette fumo nero dallo scarico?",
     "risposte": [
       {
         "testo": "i cilindri sono ovalizzati.",
@@ -4882,7 +4882,7 @@
         "corretta": false
       },
       {
-        "testo": "ostruzione del flusso dell'acqua di raffreddamento dovuto, ad esempio, alla possibile presenza di alghe o frammenti di materiale plastico in corrispondenza della presa di aspirazione del circuito",
+        "testo": "ostruzione del flusso dell'acqua di raffreddamento dovuto, ad esempio, alla possibile presenza di alghe o frammenti di materiale plastico in corrispondenza della presa di aspirazione del circuito dell'acqua.",
         "corretta": true
       }
     ],
@@ -5765,7 +5765,7 @@
       },
       {
         "testo": "il circuito di alimentazione degli iniettori.",
-        "corretta": false
+        "corretta": true
       }
     ],
     "meta": {
@@ -5956,7 +5956,7 @@
     "domanda": "Avuto riguardo alla prevenzione sugli incendi, quale tra queste affermazioni è corretta?",
     "risposte": [
       {
-        "testo": "determinate sostanze, quali stracci unti di olio abbandonati in coperta, possono raggiungere rapidamente la temperatura di infiammabilità",
+        "testo": "determinate sostanze, quali stracci unti di olio abbandonati in coperta, possono raggiungere rapidamente la temperatura di infiammabilità determinando una combustione spontanea financo l'esplosione.",
         "corretta": false
       },
       {
@@ -6006,7 +6006,7 @@
     "domanda": "Quale tra queste affermazioni è corretta?",
     "risposte": [
       {
-        "testo": "il getto degli estintori a schiuma deve essere diretto alla base delle fiamme e non deve essere impiegato per estinguere incendi di materiale elettrico sotto",
+        "testo": "il getto degli estintori a schiuma deve essere diretto alla base delle fiamme e non deve essere impiegato per estinguere incendi di materiale elettrico sotto tensione.",
         "corretta": true
       },
       {
@@ -6585,7 +6585,7 @@
         "corretta": false
       },
       {
-        "testo": "il numero e il posizionamento degli estintori è fissato dal Regolamento di attuazione al Codice della nautica secondo la potenza del motore e prevede un minimo di 1 estintore al posto di guida e 1 estintore in ciascuno",
+        "testo": "il numero e il posizionamento degli estintori è fissato dal Regolamento di attuazione al Codice della nautica secondo la potenza del motore e prevede un minimo di 1 estintore al posto di guida e 1 estintore in ciascuno degli altri locali.",
         "corretta": true
       },
       {
@@ -6656,7 +6656,7 @@
     "domanda": "Chiunque assume o ritiene il comando o la condotta ovvero la direzione nautica di un'unità da diporto in stato di ebbrezza è punito,",
     "risposte": [
       {
-        "testo": "con una sanzione amministrativa che varia da 1.000 euro a 5.000 euro in relazione al tasso alcolemico rilevato e la sanzione accessoria della revisione",
+        "testo": "con una sanzione amministrativa che varia da 1.000 euro a 5.000 euro in relazione al tasso alcolemico rilevato e la sanzione accessoria della revisione parziale della patente nautica prima della scadenza.",
         "corretta": false
       },
       {
@@ -6756,7 +6756,7 @@
     "domanda": "In caso di conduzione sotto l'influenza dell'alcool di unità da diporto adibita a noleggio:",
     "risposte": [
       {
-        "testo": "le sanzioni previste sono aumentate di un terzo, qualora sia stato accertato un valore corrispondente a un tasso alcolemico superiore a 0,5 e non superiore a 0,8",
+        "testo": "le sanzioni previste sono aumentate di un terzo, qualora sia stato accertato un valore corrispondente a un tasso alcolemico superiore a 0,5 e non superiore a 0,8 grammi per litro.",
         "corretta": true
       },
       {
@@ -6931,11 +6931,11 @@
     "domanda": "Per un'imbarcazione da diporto quando è obbligatorio l'uso dell'apparato VHF?",
     "risposte": [
       {
-        "testo": "quando naviga entro le 6 miglia nautiche dalla costa.",
+        "testo": "sempre.",
         "corretta": false
       },
       {
-        "testo": "quando è autorizzata alla navigazione occasionale.",
+        "testo": "solo quando si naviga fuori dalle acque territoriali.",
         "corretta": false
       },
       {
@@ -7681,7 +7681,7 @@
     "domanda": "Quali sono i range di dotazioni corrette per fanali e segnali luminosi?",
     "risposte": [
       {
-        "testo": "fino a 3 miglia, fino a 12 miglia, fino a 50 miglia, senza limiti dalla costa.",
+        "testo": "fino a 3 miglia, fino a 6 miglia, fino a 12 miglia, fino a 50 miglia, senza limiti dalla costa.",
         "corretta": true
       },
       {
@@ -8006,7 +8006,7 @@
     "domanda": "I conduttori di tavole a vela, acquascooter e unità similari:",
     "risposte": [
       {
-        "testo": "indossano permanentemente un mezzo di salvataggio individuale, comprese le persone trasportate, indipendentemente dalla distanza dalla costa in cui la",
+        "testo": "indossano permanentemente un mezzo di salvataggio individuale, comprese le persone trasportate, indipendentemente dalla distanza dalla costa in cui la navigazione si svolge.",
         "corretta": true
       },
       {
@@ -8664,7 +8664,7 @@
         "corretta": false
       },
       {
-        "testo": "quando si conduce volontariamente l'unità navale ad incagliarsi per scongiurare un potenziale naufragio derivante da una falla, un incendioo una collisione con un'altra unità.",
+        "testo": "quando si conduce volontariamente l'unità navale ad incagliarsi per scongiurare un potenziale naufragio derivante da una falla, un incendio o una collisione con un'altra unità.",
         "corretta": true
       }
     ],
@@ -8681,7 +8681,7 @@
     "domanda": "Quali fattori devono essere tenuti in debita considerazione per procedere alle operazioni di disincaglio?",
     "risposte": [
       {
-        "testo": "tipo e rilievo dei fondali, entità dell'avaria subita, manovrapiù idonea da porre in essere in relazione allecaratteristiche dell'unità e del luogo in cui si è verificato il",
+        "testo": "tipo e rilievo dei fondali, entità dell'avaria subita, manovra più idonea da porre in essere in relazione alle caratteristiche dell'unità e del luogo in cui si è verificato il sinistro.",
         "corretta": true
       },
       {
@@ -8731,7 +8731,7 @@
     "domanda": "Avuto riguardo alla falla, quale tra queste affermazioni è corretta?",
     "risposte": [
       {
-        "testo": "se si verifica una falla nella parte prodiera è opportuno arrestare il moto dell'unità navale per evitare che l'avanzamento della stessa possa incrementare l'afflusso",
+        "testo": "se si verifica una falla nella parte prodiera è opportuno arrestare il moto dell'unità navale per evitare che l'avanzamento della stessa possa incrementare l'afflusso d'acqua nel suo interno.",
         "corretta": true
       },
       {
@@ -9513,7 +9513,7 @@
     "domanda": "Nel caso in cui un membro dell'equipaggio cada in mare dal lato dritto dell'unità:",
     "risposte": [
       {
-        "testo": "occorre accostare immediatamente a sinistra mantenendo un adeguato servizio di vedetta sul medesimo lato al fine di prevenire eventuali collisioni",
+        "testo": "occorre accostare immediatamente a sinistra mantenendo un adeguato servizio di vedetta sul medesimo lato al fine di prevenire eventuali collisioni con altre unità navali o ostacoli posti nelle immediate vicinanze.",
         "corretta": false
       },
       {
@@ -9638,7 +9638,7 @@
     "domanda": "Il \"Grab Bag\" è:",
     "risposte": [
       {
-        "testo": "è quel sacco, previsto dalle norme di sicurezza, contenente le dotazioni normalmente custodite all'interno della zattera di salvataggio.",
+        "testo": "è quel sacco contenente le dotazioni normalmente custodite all'interno della zattera di salvataggio.",
         "corretta": true
       },
       {
@@ -9717,7 +9717,7 @@
         "corretta": true
       },
       {
-        "testo": "il Dipartimento della ProtezioneCivile.",
+        "testo": "il Dipartimento della Protezione Civile.",
         "corretta": false
       },
       {
@@ -9742,7 +9742,7 @@
         "corretta": false
       },
       {
-        "testo": "Centro Internazionale RadioMedico (CIRM).",
+        "testo": "Centro Internazionale Radio Medico (CIRM).",
         "corretta": true
       },
       {
@@ -9813,11 +9813,11 @@
     "domanda": "Ai sensi del Codice della Navigazione, quale tra queste affermazioni è la più corretta per quanto concerne \"l'abbandono nave\"?",
     "risposte": [
       {
-        "testo": "il comandante dell'unità ordina \"l'abbandono\" della stessa solo dopo aver accertato di persona che tutti i mezzi suggeriti dall'arte nautica non sono in grado di",
+        "testo": "il comandante dell'unità ordina \"l'abbandono\" della stessa solo dopo aver accertato di persona che tutti i mezzi suggeriti dall'arte nautica non sono in grado di salvarla.",
         "corretta": true
       },
       {
-        "testo": "il comandante dell'unità ordina \"l'abbandono\" della stessa solo dopo aver verificato di persona che oltre alla presenza di infiltrazioni nello scafo si sia verificata la contemporanea",
+        "testo": "il comandante dell'unità ordina \"l'abbandono\" della stessa solo dopo aver verificato di persona che oltre alla presenza di infiltrazioni nello scafo si sia verificata la contemporanea avaria degli organi propulsivi.",
         "corretta": false
       },
       {
@@ -9863,7 +9863,7 @@
     "domanda": "Quale accorgimento deve adottare il comandante dell'unità da diporto prima di ordinare l'abbandono della stessa?",
     "risposte": [
       {
-        "testo": "accertarsi che tutte le persone imbarcate indossino le cinture di salvataggio e che l'eventuale mezzo collettivo di salvataggio (zattera) sia equipaggiato con le previste",
+        "testo": "accertarsi che tutte le persone imbarcate indossino le cinture di salvataggio e che l'eventuale mezzo collettivo di salvataggio (zattera) sia equipaggiato con le previste dotazioni di sicurezza.",
         "corretta": true
       },
       {
@@ -10038,15 +10038,15 @@
     "domanda": "A quale funzione assolve il sistema DSC (Digital Selective Calling) installato su alcune tipologie di apparati radio?",
     "risposte": [
       {
-        "testo": "trasmettendo in frequenza MF, permette di inviare automaticamente un segnale di soccorso ad altre unità navali che si trovino entro un raggio non superiore alle 15",
+        "testo": "trasmettendo in frequenza MF, permette di inviare automaticamente un segnale di soccorso ad altre unità navali che si trovino entro un raggio non superiore alle 15 miglia nautiche.",
         "corretta": false
       },
       {
-        "testo": "trasmettendo in frequenza VHF e HF, permette di inviare automaticamente onde radio digitali, eliminando così le deviazioni che le stesse subiscono sottocosta per",
+        "testo": "trasmettendo in frequenza VHF e HF, permette di inviare automaticamente onde radio digitali, eliminando così le deviazioni che le stesse subiscono sottocosta per rifrazione elettromagnetica.",
         "corretta": false
       },
       {
-        "testo": "trasmettendo in frequenza VHF e HF, permette di inviare automaticamente un segnale di soccorso, di urgenza o di sicurezza ad altre navi nelle vicinanze, ai Centri di Coordinamento del",
+        "testo": "trasmettendo in frequenza VHF e HF, permette di inviare automaticamente un segnale di soccorso, di urgenza o di sicurezza ad altre navi nelle vicinanze, ai Centri di Coordinamento del Soccorso Marittimo e alle Stazioni Costiere.",
         "corretta": true
       }
     ],
@@ -10142,7 +10142,7 @@
         "corretta": true
       },
       {
-        "testo": "tenerli più o meno alzati, secondo la tipologia di scafo, per aiutaread alzare la prua e favorire il passaggio sull'onda.",
+        "testo": "tenerli più o meno alzati, secondo la tipologia di scafo, per aiutare ad alzare la prua e favorire il passaggio sull'onda.",
         "corretta": false
       },
       {
@@ -10188,7 +10188,7 @@
     "domanda": "Normalmente, quando l’indicatore del flap è sullo zero, ciò significa:",
     "risposte": [
       {
-        "testo": "che in quel momento il flap è”neutro”, ovvero orizzontale, quando invece vengono segnalati dei numeri negativi ciò significa che i flaps sono inclinati verso il basso.",
+        "testo": "che in quel momento il flap è ”neutro”, ovvero orizzontale, quando invece vengono segnalati dei numeri negativi ciò significa che i flaps sono inclinati verso il basso.",
         "corretta": true
       },
       {
@@ -10242,7 +10242,7 @@
         "corretta": true
       },
       {
-        "testo": "di inclinare lo scafo il lato sinistro.",
+        "testo": "di inclinare lo scafo verso il lato sinistro.",
         "corretta": false
       },
       {
@@ -10263,7 +10263,7 @@
     "domanda": "Lo \"stacco di sicurezza\" è:",
     "risposte": [
       {
-        "testo": "l'interruttore collegato tramite un cordino a spirale rosso (o con un dispositivo elettronico) a chi governa un fuoribordo, che spegne “automaticamente” il motore",
+        "testo": "l'interruttore collegato tramite un cordino a spirale rosso (o con un dispositivo elettronico) a chi governa un fuoribordo, che spegne “automaticamente” il motore in caso di caduta in acqua.",
         "corretta": true
       },
       {
@@ -10392,11 +10392,11 @@
         "corretta": true
       },
       {
-        "testo": "non serve utilizzarla in caso di cattivo tempo.",
+        "testo": "è una dotazione di sicurezza obbligatoria.",
         "corretta": false
       },
       {
-        "testo": "serve a recuperare a bordo l'ancora incattivita.",
+        "testo": "serve a individuare un basso fondale.",
         "corretta": false
       }
     ],
@@ -10942,7 +10942,7 @@
         "corretta": false
       },
       {
-        "testo": "solo in caso di comunicazioni rigu",
+        "testo": "solo in caso di comunicazioni riguardanti la sicurezza.",
         "corretta": false
       },
       {
@@ -11010,7 +11010,7 @@
   {
     "id": 436,
     "immagine": [],
-    "domanda": "Per le comunicazioni tra barca e barca si possono usare i canali.",
+    "domanda": "Per le comunicazioni tra barca e barca si possono usare i canali",
     "risposte": [
       {
         "testo": "i canali 16 e 68.",
@@ -11667,7 +11667,7 @@
   {
     "id": 462,
     "immagine": [],
-    "domanda": "Per il demanio marittimo non in regime di concessione destinato alla navigazione e al trasporto marittimo, la riserva per gli accosti alle unità da diporto in transito è disciplinata: con ordinanza del capo del circondario marittimo competente",
+    "domanda": "Per il demanio marittimo non in regime di concessione destinato alla navigazione e al trasporto marittimo, la riserva per gli accosti alle unità da diporto in transito è disciplinata:",
     "risposte": [
       {
         "testo": "con ordinanza del Capo del circondario marittimo competente.",
@@ -11745,7 +11745,7 @@
     "domanda": "Gli ormeggi riservati alle persone con disabilità:",
     "risposte": [
       {
-        "testo": "quando non impegnati a tale fine, possono essere occupati da altra unità, con l'obbligo di essere liberati in caso di richiesta di portatore di handicap comunicata al concessionario almeno 24",
+        "testo": "quando non impegnati a tale fine, possono essere occupati da altra unità, con l'obbligo di essere liberati in caso di richiesta di portatore di handicap comunicata al concessionario almeno 24 ore prima.",
         "corretta": true
       },
       {
@@ -11853,7 +11853,7 @@
         "corretta": false
       },
       {
-        "testo": "di massima 250 metri.",
+        "testo": "di massima 200 metri.",
         "corretta": true
       }
     ],
@@ -12981,11 +12981,11 @@
         "corretta": true
       },
       {
-        "testo": "si è staccata dalla catena.",
+        "testo": "si è incattivita.",
         "corretta": false
       },
       {
-        "testo": "non si riesce a salpare.",
+        "testo": "si presenta rovesciata sul fondale.",
         "corretta": false
       }
     ],
@@ -13002,11 +13002,11 @@
     "domanda": "Riguardo alla tenuta di un ancoraggio, si può dire che:",
     "risposte": [
       {
-        "testo": "il calumo è bene che sia lungo al massimo due-tre volte il fondale.",
+        "testo": "il calumo è bene che sia lungo sempre 10 metri.",
         "corretta": false
       },
       {
-        "testo": "se il fondo è in pendenza, l'ancora deve essere tirata verso il fondale più profondo.",
+        "testo": "è sempre meglio scegliere un fondale roccioso.",
         "corretta": false
       },
       {
@@ -13027,11 +13027,11 @@
     "domanda": "La parte inferiore, al centro delle marre, di un'ancora è denominata:",
     "risposte": [
       {
-        "testo": "patta.",
+        "testo": "unghia.",
         "corretta": false
       },
       {
-        "testo": "ceppo.",
+        "testo": "scalmo.",
         "corretta": false
       },
       {
@@ -13060,7 +13060,7 @@
         "corretta": false
       },
       {
-        "testo": "la profondità della zona ove si vuole dar fondo all’ancora.",
+        "testo": "la parte di catena che viene a trovarsi fuori bordo.",
         "corretta": true
       }
     ],
@@ -13502,7 +13502,7 @@
     "domanda": "Le cosiddette ancore appennellate si hanno quando:",
     "risposte": [
       {
-        "testo": "per una migliore tenuta in condizioni critiche, al diamante dell'ancora principale viene fissata una seconda ancora, detta \"pennello\", con una catena di",
+        "testo": "per una migliore tenuta in condizioni critiche, al diamante dell'ancora principale viene fissata una seconda ancora, detta \"pennello\", con una catena di 4-6 metri.",
         "corretta": true
       },
       {
@@ -13581,7 +13581,7 @@
         "corretta": true
       },
       {
-        "testo": "consigliato solo tra barche a vela.",
+        "testo": "consigliato con mare molto mosso.",
         "corretta": false
       },
       {
@@ -13606,7 +13606,7 @@
         "corretta": false
       },
       {
-        "testo": "dopo aver filato un'adeguata quantità di calumo, si inizia a indietreggiare leggermente, continuando a filare il cavo-cima, al fine di stendere il calumo opportuno e far fare testa",
+        "testo": "dopo aver filato un'adeguata quantità di calumo, si inizia a indietreggiare leggermente, continuando a filare il cavo- cima, al fine di stendere il calumo opportuno e far fare testa all'ancora.",
         "corretta": true
       },
       {
@@ -15054,7 +15054,7 @@
         "corretta": false
       },
       {
-        "testo": "non è adatta all'utilizzo in prossimità della costa sottovento.",
+        "testo": "è adatta all'utilizzo in prossimità della costa sottovento.",
         "corretta": true
       },
       {
@@ -15347,7 +15347,7 @@
   {
     "id": 605,
     "immagine": [],
-    "domanda": "Un'imbarcazione da diporto, in navigazione diurna entro 3 miglia dalla costa, cosa può utilizzare per segnalare la sua posizione in sostituzione dei fanali regolamentari?",
+    "domanda": "Un'imbarcazione da diporto, in navigazione notturna entro 3 miglia dalla costa, cosa può utilizzare per segnalare la sua posizione in sostituzione dei fanali regolamentari?",
     "risposte": [
       {
         "testo": "una torcia di sicurezza a luce bianca.",
@@ -15540,7 +15540,7 @@
         "corretta": false
       },
       {
-        "testo": "ad una nave con manovrabilità limitata.",
+        "testo": "a una nave che non governa.",
         "corretta": true
       }
     ],
@@ -15757,7 +15757,7 @@
     "domanda": "Il rilevamento non cambia e la distanza diminuisce; significa che:",
     "risposte": [
       {
-        "testo": "ci si sta allontanando dall'altra unità.",
+        "testo": "non sussiste alcun pericolo.",
         "corretta": false
       },
       {
@@ -15765,7 +15765,7 @@
         "corretta": true
       },
       {
-        "testo": "si naviga su rotte parallele rispetto all'altra unità.",
+        "testo": "siamo in rotta raggiungente.",
         "corretta": false
       }
     ],
@@ -15882,11 +15882,11 @@
     "domanda": "I fanali di navigazione sono prescritti per le unità da diporto?",
     "risposte": [
       {
-        "testo": "sì, per le unità da diporto in navigazione oltre 6 miglia dalla costa.",
+        "testo": "sì, per le unità da diporto in navigazione esclusivamente in caso di nebbia.",
         "corretta": false
       },
       {
-        "testo": "sì, per tutte le unità da diporto (natanti, imbarcazione e navi) indipendentemente dal tipo di navigazione effettuata.",
+        "testo": "sì, per tutte le unità da diporto in navigazione entro 300 metri dalla costa",
         "corretta": false
       },
       {
@@ -16118,11 +16118,11 @@
         "corretta": true
       },
       {
-        "testo": "in funzione del tipo di unità da diporto, rileviamo: verde a dritta o a sinistra e rosso a dritta o a sinistra.",
+        "testo": "due fanali di colore bianco.",
         "corretta": false
       },
       {
-        "testo": "verde a sinistra e rosso a dritta.",
+        "testo": "due fanali di colore rosso.",
         "corretta": false
       }
     ],
@@ -16143,7 +16143,7 @@
         "corretta": true
       },
       {
-        "testo": "accendere solo i fanali di via laterali ed il fanale di coronamento.",
+        "testo": "accendere solo una luce bianca visibile per tutto l'orizzonte.",
         "corretta": false
       },
       {
@@ -16164,11 +16164,11 @@
     "domanda": "Un’unità a motore di lunghezza uguale o superiore a 50 metri, cosa deve accendere in più rispetto ad una di lunghezza inferiore a 50 metri?",
     "risposte": [
       {
-        "testo": "una seconda serie di fanali laterali disposti più a proravia dei primi.",
+        "testo": "un fanale di coronamento giallo.",
         "corretta": false
       },
       {
-        "testo": "un fanale bianco più alto rispetto a quello di testa d’albero e a poppavia del primo, visibile per 360 gradi.",
+        "testo": "un fanale rosso più alto rispetto a quello di testa d’albero e a poppavia del primo, visibile per 360 gradi.",
         "corretta": false
       },
       {
@@ -16193,7 +16193,7 @@
         "corretta": true
       },
       {
-        "testo": "fanali di via laterali, 2 fanali ripetitori verde sopra e rosso sotto visibili per 360 gradi e fanale di coronamento.",
+        "testo": "fanali di via laterali, 2 fanali ripetitori verdi e fanale di coronamento.",
         "corretta": false
       },
       {
@@ -16676,7 +16676,14 @@
   },
   {
     "id": 654,
-    "immagine": [],
+    "immagine": [
+      {
+        "rid": "image654",
+        "path": "immagini_base/image654.png",
+        "original_part": "word/media/image654.png",
+        "content_type": "image/png"
+      }
+    ],
     "domanda": "Il segnale diurno rappresentato in figura a fianco indica:",
     "risposte": [
       {
@@ -16913,11 +16920,11 @@
       },
       {
         "testo": "da pesca, di lunghezza inferiore a 50 metri, che è intenta alla pesca non a strascico che dirige a dritta dell'osservatore.",
-        "corretta": true
+        "corretta": false
       },
       {
         "testo": "a motore, di lunghezza uguale o superiore a 50 metri, che sta dirigendo a sinistra dell'osservatore.",
-        "corretta": false
+        "corretta": true
       }
     ],
     "meta": {
@@ -17065,11 +17072,11 @@
     "domanda": "Per quanto concerne la navigazione delle unità navali all'interno di uno schema di separazione del traffico, come nello stretto di Messina, quale tra queste affermazioni è corretta?",
     "risposte": [
       {
-        "testo": "l'unità di lunghezza inferiore a 20 metri o l'unità a vela non deve intralciare il passaggio di una nave a propulsione meccanica che segue lo schema di separazione del",
+        "testo": "l'unità di lunghezza inferiore a 20 metri o l'unità a vela non deve intralciare il passaggio di una nave a propulsione meccanica che segue lo schema di separazione del traffico.",
         "corretta": true
       },
       {
-        "testo": "l'unità di lunghezza inferiore a 20 metri o l'unità a vela deve effettuare ogni cambiamento di rotta e/o di velocità con successive variazioni non superiori a 5° di rotta o di 1 nodo",
+        "testo": "l'unità di lunghezza inferiore a 20 metri o l'unità a vela deve effettuare ogni cambiamento di rotta e/o di velocità con successive variazioni non superiori a 5° di rotta o di 1 nodo di velocità.",
         "corretta": false
       },
       {
@@ -17244,7 +17251,7 @@
         "corretta": false
       },
       {
-        "testo": "in caso navigazione in prossimità di schemi di separazione del traffico, come nello Stretto di Messina, i fanali prescritti dal COLREG devono obbligatoriamente essere esposti",
+        "testo": "in caso navigazione in prossimità di schemi di separazione del traffico, come nello Stretto di Messina, i fanali prescritti dal COLREG devono obbligatoriamente essere esposti anche dal sorgere del sole al tramonto.",
         "corretta": false
       },
       {
@@ -17379,11 +17386,11 @@
     "domanda": "La \"nave raggiungente\" si riconosce di notte perchè:",
     "risposte": [
       {
-        "testo": "si trova nel raggio del fanale di via di quella che la precede.",
+        "testo": "mostra un fanale rosso visibile per tutto l'orizzonte.",
         "corretta": false
       },
       {
-        "testo": "raggiunge un'altra nave su una rotta di collisione.",
+        "testo": "mostra sempre un fanale giallo di coronamento.",
         "corretta": false
       },
       {
@@ -17875,16 +17882,16 @@
     "domanda": "La campana da nebbia è obbligatoria per le unità che siano di lunghezza uguale o superiore a:",
     "risposte": [
       {
-        "testo": "20 metri.",
+        "testo": "7 metri.",
         "corretta": false
       },
       {
         "testo": "12 metri.",
-        "corretta": false
+        "corretta": true
       },
       {
-        "testo": "14 metri.",
-        "corretta": true
+        "testo": "10 metri.",
+        "corretta": false
       }
     ],
     "meta": {
@@ -18561,11 +18568,11 @@
         "corretta": true
       },
       {
-        "testo": "l'unità B, che è sopravvento, deve lasciare libera la rotta all'unità A, che è sottovento.",
+        "testo": "l'unità B, che è sottovento.",
         "corretta": false
       },
       {
-        "testo": "entrambe mantengono la rotta inalterata.",
+        "testo": "nessuna delle due.",
         "corretta": false
       }
     ],
@@ -18586,11 +18593,11 @@
         "corretta": true
       },
       {
-        "testo": "la curvatura della terra, l'altezza della luce e l'elevazione dell'occhio dell'osservatore.",
+        "testo": "il colore della luce e l'altezza della costruzione.",
         "corretta": false
       },
       {
-        "testo": "l'assetto dell'unità, il riverbero del mare e lo stato nuvoloso.",
+        "testo": "l'altezza dell'unità da diporto.",
         "corretta": false
       }
     ],
@@ -18615,7 +18622,7 @@
         "corretta": false
       },
       {
-        "testo": "dipende dall'altezza dell'occhio dell'osservatore.",
+        "testo": "il colore della luce e l'altezza della costruzione.",
         "corretta": false
       }
     ],
@@ -18640,7 +18647,7 @@
         "corretta": true
       },
       {
-        "testo": "l'assetto dell'unità, il riverbero del mare e lo stato nuvoloso.",
+        "testo": "il colore della luce e la potenza della lampada.",
         "corretta": false
       }
     ],
@@ -18657,7 +18664,7 @@
     "domanda": "Da cosa è rappresentata la \"fase\" di un segnalamento marittimo?",
     "risposte": [
       {
-        "testo": "dall'intervallo di tempo che intercorre tra un ciclo di luce ritmica e uno a luce fissa.",
+        "testo": "dalla frequenza della corrente alternata di alimentazione.",
         "corretta": false
       },
       {
@@ -18665,7 +18672,7 @@
         "corretta": true
       },
       {
-        "testo": "dall'intervallo di tempo che intercorre tra due cilci successivi (lampo, eclisse).",
+        "testo": "dal cavo elettrico che porta la corrente nell'impianto.",
         "corretta": false
       }
     ],
@@ -18682,7 +18689,7 @@
     "domanda": "Cosa si intende per \"boa luminosa\"?",
     "risposte": [
       {
-        "testo": "un segnalamento luminoso galleggiante fluttuante sulla superficie del mare.",
+        "testo": "un segnalamento sottomarino.",
         "corretta": false
       },
       {
@@ -18690,7 +18697,7 @@
         "corretta": true
       },
       {
-        "testo": "un segnalamento luminoso galleggiante a rimorchio di un battello pneumatico.",
+        "testo": "un segnalamento luminoso alla deriva.",
         "corretta": false
       }
     ],
@@ -18707,7 +18714,7 @@
     "domanda": "Cosa segnalano, di massima, le boe luminose?",
     "risposte": [
       {
-        "testo": "i limiti delle acque territoriali.",
+        "testo": "i limiti delle acque balneabili.",
         "corretta": false
       },
       {
@@ -18715,7 +18722,7 @@
         "corretta": true
       },
       {
-        "testo": "i limiti delle rade, delle aree di ancoraggio e delle zone riservate alla pesca sportiva.",
+        "testo": "i corridoi di lancio delle moto d'acqua.",
         "corretta": false
       }
     ],
@@ -18732,11 +18739,11 @@
     "domanda": "La descrizione \"Sc.(3)\" identifica un segnalamento luminoso:",
     "risposte": [
       {
-        "testo": "a lampi, a gruppi di 3.",
+        "testo": "a luce alternata trifase.",
         "corretta": false
       },
       {
-        "testo": "intermittente, a gruppi di 3.",
+        "testo": "pericolo, 3 scogli affioranti.",
         "corretta": false
       },
       {
@@ -18757,11 +18764,11 @@
     "domanda": "La descrizione \"Alt. b.r.\" identifica un segnalamento luminoso:",
     "risposte": [
       {
-        "testo": "con luce che mostra contemporaneamente i colori bianco e rosso.",
+        "testo": "che indica di fermarsi immediatamente.",
         "corretta": false
       },
       {
-        "testo": "a luce alternata, che mostra i colori bianco e rosso in cui la durata della luce bianca è doppia rispetto a quella della luce rossa.",
+        "testo": "a lampi brevi di colore rosso.",
         "corretta": false
       },
       {
@@ -18786,11 +18793,11 @@
         "corretta": true
       },
       {
-        "testo": "scintillante rapida, a gruppi di 2.",
+        "testo": "in acque internazionali.",
         "corretta": false
       },
       {
-        "testo": "a luce alternata, a gruppi di 2.",
+        "testo": "a luce alternata di due colori diversi.",
         "corretta": false
       }
     ],
@@ -18807,11 +18814,11 @@
     "domanda": "Come si può definire un \"riflettore radar \"?",
     "risposte": [
       {
-        "testo": "un dispositivo radar attivo, sistemato sulla terra ferma, che fornisce esclusivamente il valore del rilevamento sotto l'azione degli impulsi radar ricevuti.",
+        "testo": "una luce bianca che identifica una stazione radar costiera.",
         "corretta": false
       },
       {
-        "testo": "un dispositivo radar attivo sistemato sulla terra ferma, che emette un apposito codice di identificazione.",
+        "testo": "un dispositivo radar situato esclusivamente in mare.",
         "corretta": false
       },
       {
@@ -18832,11 +18839,11 @@
     "domanda": "Cosa indica la seguente sigla alfanumerica posta in prossimità del faro di Capo Negro dell'Isola di Zannone Fl(3) 10s 37m 12M?",
     "risposte": [
       {
-        "testo": "che emette una luce lampeggiante a gruppi di 10 lampi ogni 3 secondi, la cui struttura ha un'altezza rispetto al livello medio del",
+        "testo": "che emette una luce flebile di intenistà 3, la cui struttura ha un'altezza rispetto al livello medio del mare di 10 metri, ed è visibile ad una portata nominale di 37,12 miglia nautiche.",
         "corretta": false
       },
       {
-        "testo": "che emette una luce lampeggiante a gruppi di 3 lampi ogni 10 secondi, la cui struttura ha un'altezza rispetto al livello medio del mare di 37 metri, ed è",
+        "testo": "che emette una luce lampeggiante a gruppi di 3 lampi in 10 secondi, la luce ha un'altezza rispetto al livello medio del mare di 37 metri, ed è visibile ad una portata nominale di 12 miglia nautiche.",
         "corretta": true
       },
       {
@@ -18928,11 +18935,11 @@
     "domanda": "Con riferimento alle caratteristiche dei segnalamenti marittimi riportate in una carta nautica, cosa indica la sigla alfanumerica posta lateralmente alla boa luminosa di fianco rappresentata?",
     "risposte": [
       {
-        "testo": "che la boa luminosa, facente parte dei segnali cardinali del sistema AISM-IALA, emette15 lampi ogni 9 secondi, ed è visibile a una portatanominale di 5 miglia nautiche.",
+        "testo": "che la boa luminosa, facente parte dei segnali cardinali del sistema AISM-IALA, emette 15 lampi ogni 9 secondi, ed è visibile a una portata nominale di 5 miglia nautiche.",
         "corretta": false
       },
       {
-        "testo": "che la boa luminosa, facente parte dei segnali cardinali del sistema AISM-IALA, emette luci scintillanti a gruppi di 9 ogni 15 secondi, ed è visibile a una portata nominale di 5 miglia",
+        "testo": "che la boa luminosa, facente parte dei segnali cardinali del sistema AISM-IALA, emette luci scintillanti a gruppi di 9 ogni 15 secondi, ed è visibile a una portata nominale di 5 miglia nautiche.",
         "corretta": true
       },
       {
@@ -18964,7 +18971,7 @@
         "corretta": false
       },
       {
-        "testo": "un segnale cardinale del sistema di segnalamento marittimo AISM- IALA.",
+        "testo": "un segnale cardinale del sistema di segnalamento marittimo AISM-IALA.",
         "corretta": false
       },
       {
@@ -18992,15 +18999,15 @@
     "domanda": "Di che colore è il corpo del segnale marittimo riportato sulla carta nautica e rappresentato in figura?",
     "risposte": [
       {
-        "testo": "colore bianco con banda(e)orizzontale rossa.",
+        "testo": "colore bianco con banda(e) orizzontale rossa.",
         "corretta": false
       },
       {
-        "testo": "colore nero con banda(e)orizzontale rossa.",
+        "testo": "colore nero con banda(e) orizzontale rossa.",
         "corretta": true
       },
       {
-        "testo": "colore rosso con banda(e)orizzontale nera.",
+        "testo": "colore rosso con banda(e) orizzontale nera.",
         "corretta": false
       }
     ],
@@ -21133,11 +21140,11 @@
         "corretta": false
       },
       {
-        "testo": "passare ad ovest della boa, essendo questa un segnale cardinale del sistema AISM-IALA.",
+        "testo": "passare ad ovest della boa, essendo questa un segnale cardinale del sistema AISM- IALA.",
         "corretta": true
       },
       {
-        "testo": "passare a est della boa, essendo questa un segnale cardinale del sistema AISM-IALA.",
+        "testo": "passare a est della boa, essendo questa un segnale cardinale del sistema AISM- IALA.",
         "corretta": false
       }
     ],
@@ -21197,7 +21204,7 @@
         "corretta": true
       },
       {
-        "testo": "un segnale cardinale del sistema di segnalamento marittimo AISM- IALA.",
+        "testo": "un segnale cardinale del sistema di segnalamento marittimo AISM-IALA.",
         "corretta": false
       },
       {
@@ -21233,7 +21240,7 @@
         "corretta": false
       },
       {
-        "testo": "boa luminosa ad asta indicante un segnale cardinale del sistema di segnalamento marittimo AISM- IALA.",
+        "testo": "boa luminosa ad asta indicante un segnale cardinale del sistema di segnalamento marittimo AISM-IALA.",
         "corretta": false
       }
     ],
@@ -21325,7 +21332,7 @@
         "corretta": false
       },
       {
-        "testo": "che la boa luminosa, facente parte dei segnali cardinali del sistema AISM-IALA, emette luci scintillanti a gruppi di 3 ogni 10 secondi, ed è visibile a una portata nominale di 5 miglia",
+        "testo": "che la boa luminosa, facente parte dei segnali cardinali del sistema AISM-IALA, emette luci scintillanti a gruppi di 3 ogni 10 secondi, ed è visibile a una portata nominale di 5 miglia nautiche.",
         "corretta": true
       },
       {
@@ -22248,7 +22255,7 @@
     "domanda": "Quando un fronte si definisce freddo?",
     "risposte": [
       {
-        "testo": "quando una massa d'aria fredda (quindi meno umida ma più densa) si avvicina e si incunea sotto a una massa relativamente più calda (più umida e più leggera), facendola salire e determinando un raffreddamento della regione",
+        "testo": "quando una massa d'aria fredda (quindi meno umida ma più densa) si avvicina e si incunea sotto a una massa relativamente più calda (più umida e più leggera), facendola salire e determinando un raffreddamento della regione in cui transita.",
         "corretta": true
       },
       {
@@ -22381,7 +22388,7 @@
         "corretta": false
       },
       {
-        "testo": "il valore dell'altezza dell'alta marea o della bassa marea rispetto allo zero idrografico (in inglese chart datum ).",
+        "testo": "il valore dell'altezza dell'alta marea o della bassa marea rispetto allo zero idrografico (in inglese chart datum).",
         "corretta": true
       }
     ],
@@ -22406,7 +22413,7 @@
         "corretta": false
       },
       {
-        "testo": "la Centrale Operativa della GuardiaCostiera.",
+        "testo": "la Centrale Operativa della Guardia Costiera.",
         "corretta": false
       }
     ],
@@ -22573,11 +22580,11 @@
     "domanda": "Nell'ambito delle previsioni locali, quali segni premonitori possono indicare la possibile formazione di nebbia?",
     "risposte": [
       {
-        "testo": "movimento di un flusso di aria fredda e secca da unaregione oceanica più calda ad una più fredda, presenza di acqua molto più calda rispetto all'aria sovrastante e",
+        "testo": "movimento di un flusso di aria fredda e secca da una regione oceanica più calda ad una più fredda, presenza di acqua molto più calda rispetto all'aria sovrastante e presenza di vento teso.",
         "corretta": false
       },
       {
-        "testo": "movimento di un flusso di aria calda e umida da una regione oceanica più calda a una più fredda, presenza di acqua molto più fredda rispetto all'aria sovrastante e presenza di vento",
+        "testo": "movimento di un flusso di aria calda e umida da una regione oceanica più calda a una più fredda, presenza di acqua molto più fredda rispetto all'aria sovrastante e presenza di vento debole.",
         "corretta": true
       },
       {
@@ -24137,7 +24144,7 @@
     "domanda": "Il \"fetch minimo\" è:",
     "risposte": [
       {
-        "testo": "il tratto di mare, privo di ostacoli, sul quale soffia un vento per un certo periodo, oltre il quale tratto di mare le onde raggiungeranno la massima altezza per quel",
+        "testo": "il tratto di mare, privo di ostacoli, sul quale soffia un vento per un certo periodo, oltre il quale tratto di mare le onde raggiungeranno la massima altezza per quel dato vento.",
         "corretta": true
       },
       {
@@ -25134,7 +25141,7 @@
   {
     "id": 978,
     "immagine": [],
-    "domanda": "L'arco di parallelo compreso tra il meridiano fondamentale ed il meridiano passante per il punto esprime:",
+    "domanda": "L'arco di equatore compreso tra il meridiano fondamentale ed il meridiano passante per il punto esprime:",
     "risposte": [
       {
         "testo": "l'arco di meridiano inferiore a 90 gradi compreso fra i due punti.",
@@ -25795,7 +25802,7 @@
         "corretta": false
       },
       {
-        "testo": "360, di cui 180 contati di grado in grado a partire dal meridiano di Greenwich verso Est ed altrettanti180 contati di grado in grado a partire dal meridiano di Greenwich verso Ovest, però possiamo",
+        "testo": "360, di cui 180 contati di grado in grado a partire dal meridiano di Greenwich verso Est ed altrettanti 180 contati di grado in grado a partire dal meridiano di Greenwich verso Ovest, però possiamo tracciarne infiniti.",
         "corretta": true
       }
     ],
@@ -25995,7 +26002,7 @@
         "corretta": false
       },
       {
-        "testo": "ai mari ed alle coste nazionali italiane nonché a quelle del Mar Mediterraneo, del Mar d'Azov e del Mar Nero.",
+        "testo": "ai mari ed alle coste nazionali italiane nonché a quelle del Mar Mediterraneo.",
         "corretta": true
       }
     ],
@@ -26141,7 +26148,7 @@
         "corretta": false
       },
       {
-        "testo": "carte utilizzate dal navigante principalmente durante la fase prossima all'atterraggio e che rappresentano in modo particolarmente dettagliato elementi afferenti le batimetriche",
+        "testo": "carte utilizzate dal navigante principalmente durante la fase prossima all'atterraggio e che rappresentano in modo particolarmente dettagliato elementi afferenti le batimetriche ed il segnalamento marittimo.",
         "corretta": true
       },
       {
@@ -26866,7 +26873,7 @@
         "corretta": false
       },
       {
-        "testo": "è l'edizione di una rappresentazione già esistente che contiene modifiche essenziali per la sicurezza della navigazione ovvero qualunque altra modifica non apportabile mediante aggiornamento tramite Avvisi ai",
+        "testo": "è l'edizione di una rappresentazione già esistente che contiene modifiche essenziali per la sicurezza della navigazione ovvero qualunque altra modifica non apportabile mediante aggiornamento tramite Avvisi ai Naviganti (AA.NN.).",
         "corretta": true
       },
       {
@@ -26887,7 +26894,7 @@
     "domanda": "Come si esegue sulla scala della carta nautica, la misura della distanza?",
     "risposte": [
       {
-        "testo": "si esegue con il compasso aperto pari alla distanza da misurare, ci si muove in orizzontale (lungo un parallelo preso a riferimento) soltanto verso la scala di destra delle",
+        "testo": "si esegue con il compasso aperto pari alla distanza da misurare, ci si muove in orizzontale (lungo un parallelo preso a riferimento) soltanto verso la scala di destra delle latitudini.",
         "corretta": false
       },
       {
@@ -27230,7 +27237,7 @@
         "corretta": false
       },
       {
-        "testo": "carte aventi una scala superiore rispetto a quella delle carte costiere, realizzate per rappresentare in modo più dettagliato particolari zone di interesse come l'accesso ai porti e zone relative a stretti e",
+        "testo": "carte aventi una scala superiore rispetto a quella delle carte costiere, realizzate per rappresentare in modo più dettagliato particolari zone di interesse come l'accesso ai porti e zone relative a stretti e passaggi.",
         "corretta": true
       }
     ],
@@ -27532,7 +27539,7 @@
     "domanda": "Quale tra queste affermazioni è corretta?",
     "risposte": [
       {
-        "testo": "le unità da diporto con lunghezza superiore a 15 metri devono essere dotate sia di apparati GPS fissi, alimentati dall'impianto elettrico di bordo, nonché di apparati GPS portatili, alimentati da batterie",
+        "testo": "le unità da diporto con lunghezza superiore a 15 metri devono essere dotate sia di apparati GPS fissi, alimentati dall'impianto elettrico di bordo, nonché di apparati GPS portatili, alimentati da batterie alcaline.",
         "corretta": false
       },
       {
@@ -27540,7 +27547,7 @@
         "corretta": true
       },
       {
-        "testo": "le unità da diporto in navigazione, effettuata ad una distanza dalla costa superiore a 12 miglia nautiche, devono essere dotate sia di apparati GPS fissi, alimentati dall'impianto elettrico di bordo, nonché di apparati GPS portatili, alimentati da batterie nichel-",
+        "testo": "le unità da diporto in navigazione, effettuata ad una distanza dalla costa superiore a 12 miglia nautiche, devono essere dotate sia di apparati GPS fissi, alimentati dall'impianto elettrico di bordo, nonché di apparati GPS portatili, alimentati da batterie nichel- cadmio.",
         "corretta": false
       }
     ],
@@ -27690,7 +27697,7 @@
         "corretta": false
       },
       {
-        "testo": "la funzione del GPS per allertare laCapitaneria di porto.",
+        "testo": "la funzione del GPS per allertare la Capitaneria di porto.",
         "corretta": false
       }
     ],
@@ -27715,7 +27722,7 @@
         "corretta": false
       },
       {
-        "testo": "se non di ultimissima generazione, non tiene conto di ostacoli, pericoli e morfologia della costa, è quindi necessario impostare delle rottespezzate; comunque, anche in caso di rotta automatica, l’esito va",
+        "testo": "se non di ultimissima generazione, non tiene conto di ostacoli, pericoli e morfologia della costa, è quindi necessario impostare delle rotte spezzate; comunque, anche in caso di rotta automatica, l’esito va comunque sempre verificato.",
         "corretta": true
       }
     ],
@@ -27740,7 +27747,7 @@
         "corretta": false
       },
       {
-        "testo": "navigazione per WAY-POINT.",
+        "testo": "navigazione per WAY- POINT.",
         "corretta": true
       }
     ],
@@ -27757,7 +27764,7 @@
     "domanda": "Il GPS cartografico indica:",
     "risposte": [
       {
-        "testo": "la propria rotta, il fuori rotta, il tempo stimato di arrivo, il tempo di percorrenza, la distanza, lo scarto in gradi rispetto al luogo impostato come arrivo, la data e l’ora, la velocità, ed infine la freccia che mostra in ogni momento la direzione che dovremmo seguire per arrivare a",
+        "testo": "la propria rotta, il fuori rotta, il tempo stimato di arrivo, il tempo di percorrenza, la distanza, lo scarto in gradi rispetto al luogo impostato come arrivo, la data e l’ora, la velocità, ed infine la freccia che mostra in ogni momento la direzione che dovremmo seguire per arrivare a destinazione.",
         "corretta": true
       },
       {
@@ -27779,7 +27786,7 @@
   {
     "id": 1081,
     "immagine": [],
-    "domanda": "I 360 gradi dell'orizzonte sono divisi in quattro quadranti: 1NE; 2 SE; 3 SW; 4 NW. La direzione (Rv o Rlv) 157° in quale quadrante si dirige?",
+    "domanda": "I 360 gradi dell'orizzonte sono divisi in quattro quadranti: 1 NE; 2 SE; 3 SW; 4 NW. La direzione (Rv o Rlv) 157° in quale quadrante si dirige?",
     "risposte": [
       {
         "testo": "quarto quadrante.",
@@ -27804,14 +27811,14 @@
   {
     "id": 1082,
     "immagine": [],
-    "domanda": "In una carta nautica dell'emisfero nord (boreale), com'è noto,la direzione del Nord è verso il bordo in alto della carta stessa. Partendo da un punto qualsiasi della carta, le direzioni 048 gradi e 167 gradi (siano esse rotte o rilevamenti) in quale senso dirigono rispettivamente?",
+    "domanda": "In una carta nautica dell'emisfero nord (boreale), com'è noto, la direzione del Nord è verso il bordo in alto della carta stessa. Partendo da un punto qualsiasi della carta, le direzioni 048 gradi e 167 gradi (siano esse rotte o rilevamenti) in quale senso dirigono rispettivamente?",
     "risposte": [
       {
-        "testo": "la direzione 048 gradi verso l'alto e a destra; la direzione167 gradi verso il basso e a destra.",
+        "testo": "la direzione 048 gradi verso l'alto e a destra; la direzione 167 gradi verso il basso e a destra.",
         "corretta": true
       },
       {
-        "testo": "la direzione 048 gradi verso l'altoe a sinistra; la direzione 167 gradi verso il basso e a destra.",
+        "testo": "la direzione 048 gradi verso l'alto e a sinistra; la direzione 167 gradi verso il basso e a destra.",
         "corretta": false
       },
       {
@@ -27829,14 +27836,14 @@
   {
     "id": 1083,
     "immagine": [],
-    "domanda": "In una carta nautica dell'emisfero nord (boreale), com'è noto,la direzione del Nord è verso il bordo in alto della carta stessa. Partendo da un punto qualsiasi della carta le direzioni 301 gradi e 249 gradi (siano esse rotte o rilevamenti) in quale senso dirigono rispettivamente?",
+    "domanda": "In una carta nautica dell'emisfero nord (boreale), com'è noto, la direzione del Nord è verso il bordo in alto della carta stessa. Partendo da un punto qualsiasi della carta le direzioni 301 gradi e 249 gradi (siano esse rotte o rilevamenti) in quale senso dirigono rispettivamente?",
     "risposte": [
       {
-        "testo": "la direzione 301 gradi verso l'alto e a destra; la direzione249 gradi verso il basso e a destra.",
+        "testo": "la direzione 301 gradi verso l'alto e a destra; la direzione 249 gradi verso il basso e a destra.",
         "corretta": false
       },
       {
-        "testo": "la direzione 301 gradi verso l'altoe a sinistra; la direzione 249 gradi verso il basso e a sinistra.",
+        "testo": "la direzione 301 gradi verso l'alto e a sinistra; la direzione 249 gradi verso il basso e a sinistra.",
         "corretta": true
       },
       {
@@ -27986,7 +27993,7 @@
         "corretta": true
       },
       {
-        "testo": "NE (Nord-Est), SE (Sud-Est), SW (Sud-Ovest) e NW (Nord-Ovest).",
+        "testo": "NE (Nord-Est), SE (Sud-Est), SW (Sud-Ovest) e NW (Nord- Ovest).",
         "corretta": false
       },
       {
@@ -28036,7 +28043,7 @@
         "corretta": false
       },
       {
-        "testo": "NE (Nord-Est), SE (Sud-Est), SW (Sud-Ovest) e NW (Nord-Ovest).",
+        "testo": "NE (Nord-Est), SE (Sud-Est), SW (Sud-Ovest) e NW (Nord- Ovest).",
         "corretta": true
       },
       {
@@ -28057,15 +28064,15 @@
     "domanda": "Verso quale direzione si orientano gli aghi di una bussola magnetica a bordo dell'unità?",
     "risposte": [
       {
-        "testo": "Nord bussola (meridiano bussola).",
+        "testo": "Nord bussola.",
         "corretta": true
       },
       {
-        "testo": "Nord vero (meridiano geografico).",
+        "testo": "Nord vero.",
         "corretta": false
       },
       {
-        "testo": "Nord magnetico (meridiano magnetico).",
+        "testo": "Nord magnetico.",
         "corretta": false
       }
     ],
@@ -28132,7 +28139,7 @@
     "domanda": "Cos'è una bussola magnetica di bordo?",
     "risposte": [
       {
-        "testo": "lo strumento di bordo utilizzato per la navigazione stimata, basato sulle proprietà del campo magnetico terrestre, in grado di orientarsi verso il Nord",
+        "testo": "lo strumento di bordo utilizzato per la navigazione stimata, basato sulle proprietà del campo magnetico terrestre, in grado di orientarsi verso il Nord bussola.",
         "corretta": true
       },
       {
@@ -29090,7 +29097,7 @@
         "corretta": true
       },
       {
-        "testo": "mantenere l'unità lontana da potenziali pericoli sia di natura radio- elettrica che di natura termo- dinamica.",
+        "testo": "mantenere l'unità lontana da potenziali pericoli sia di natura radio-elettrica che di natura termo-dinamica.",
         "corretta": false
       }
     ],
@@ -29157,15 +29164,15 @@
     "domanda": "Relativamente alla navigazione stimata, si può affermare che:",
     "risposte": [
       {
-        "testo": "la corretta conoscenza e valutazione della distribuzdei pesi a bordo consento al navigante di acquisire uvelocità superiore a quellaprevista dalla casa costruttrice.",
+        "testo": "la corretta conoscenza e valutazione della distribuzione dei pesi a bordo consentono al navigante di acquisire una velocità superiore a quella prevista dalla casa costruttrice.",
         "corretta": false
       },
       {
-        "testo": "la corretta conoscenza e valutazione della distribuzione dpesi a bordo consentono al navigante di acquisire una velocità inferiore a quella di crociera.",
+        "testo": "la corretta conoscenza e valutazione della distribuzione dei pesi a bordo consentono al navigante di acquisire una velocità inferiore a quella di crociera.",
         "corretta": false
       },
       {
-        "testo": "la corretta conoscenza e valutazione degli effetti causati dalvento e dalla corrente consentono, di contrastarne le conseguenze, modificando adeguatamente la direzione della prua e della velocità propulsiva della propria unità. la navigazione stimata consente a",
+        "testo": "la corretta conoscenza e valutazione degli effetti causati dal vento e dalla corrente consentono, di contrastarne le conseguenze, modificando adeguatamente la direzione della prua e della velocità propulsiva della propria unità.",
         "corretta": true
       }
     ],
@@ -29182,11 +29189,11 @@
     "domanda": "Avuto riguardo al concetto di navigazione stimata, quale tra queste affermazioni è corretta?",
     "risposte": [
       {
-        "testo": "la navigazione stimata consente al navigante esperto di effettuare decomunicazioni radio piùnitide.",
+        "testo": "la navigazione stimata consente al navigante esperto di effettuare delle comunicazioni radio più nitide.",
         "corretta": false
       },
       {
-        "testo": "l'esperienza marinaresca maturata nella condotta della navigazione contribuisce a far sì che il navigante possa conoscere, in ogni istante, la più probabile posizione raggiunta conla propria unità navale.",
+        "testo": "l'esperienza marinaresca maturata nella condotta della navigazione contribuisce a far sì che il navigante possa conoscere, in ogni istante, la più probabile posizione raggiunta con la propria unità navale.",
         "corretta": true
       },
       {
@@ -29236,7 +29243,7 @@
         "corretta": false
       },
       {
-        "testo": "graficamente mediante l'utilizzo della carta nautica del Mercatore la quale rettifica le lossodromie",
+        "testo": "graficamente mediante l'utilizzo della carta nautica del Mercatore la quale rettifica le lossodromie.",
         "corretta": true
       },
       {
@@ -29282,7 +29289,7 @@
     "domanda": "Dovendo effettuare un atterraggio, a conclusione di una navigazione stimata, è opportuno considerare che:",
     "risposte": [
       {
-        "testo": "la posizione stimata non può differire di oltre mezzo miglio nautico rispetto alla posizioneeffettiva.",
+        "testo": "la posizione stimata non può differire di oltre mezzo miglio nautico rispetto alla posizione effettiva.",
         "corretta": false
       },
       {
@@ -29290,7 +29297,7 @@
         "corretta": true
       },
       {
-        "testo": "la posizione stimata non può differire di oltre un quarto di miglnautico rispetto alla posizione effettiva.",
+        "testo": "la posizione stimata non può differire di oltre un quarto di miglio nautico rispetto alla posizione effettiva.",
         "corretta": false
       }
     ],
@@ -29336,7 +29343,7 @@
         "corretta": true
       },
       {
-        "testo": "a un chilometro percorun'ora.",
+        "testo": "a un chilometro percorso in un'ora.",
         "corretta": false
       },
       {
@@ -29390,7 +29397,7 @@
         "corretta": false
       },
       {
-        "testo": "S = V * T, dove V si esprime in nodi(miglia nautiche orarie) e T in ore e decimi di ora.",
+        "testo": "S = V * T, dove V si esprime in nodi (miglia nautiche orarie) e T in ore e decimi di ora.",
         "corretta": true
       }
     ],
@@ -30729,7 +30736,7 @@
   {
     "id": 1199,
     "immagine": [],
-    "domanda": "Una nave in navigazione a 7,5 nodi e mezzo effettivi, in 20 minuti percorrerà:",
+    "domanda": "Una nave in navigazione a 7,5 nodi effettivi, in 20 minuti percorrerà:",
     "risposte": [
       {
         "testo": "2,50 miglia.",
@@ -30754,7 +30761,7 @@
   {
     "id": 1200,
     "immagine": [],
-    "domanda": "Una nave in navigazione a 12,5 nodi e mezzo effettivi, in 30 minuti percorrerà:",
+    "domanda": "Una nave in navigazione a 12,5 nodi effettivi, in 30 minuti percorrerà:",
     "risposte": [
       {
         "testo": "6,50 miglia.",
@@ -30911,7 +30918,7 @@
         "corretta": false
       },
       {
-        "testo": "la navigazione costiera costituisce un tipo di navigazione molto impegnativa, in quanto effettuata in prossimità della costa, ove sono presenti molto spesso punti cospicui sconosciti,",
+        "testo": "la navigazione costiera costituisce un tipo di navigazione molto impegnativa, in quanto effettuata in prossimità della costa, ove sono presenti molto spesso punti cospicui sconosciti, che non risultano facilmente identificabili provenendo dal largo.",
         "corretta": true
       },
       {
@@ -30932,7 +30939,7 @@
     "domanda": "Avuto riguardo alla navigazione costiera, quale tra queste affermazioni è corretta?",
     "risposte": [
       {
-        "testo": "il punto nave costiero risulta tanto più preciso quanto più affidabili sono gli strumenti utilizzati per la sua determinazione, nonché il metodo impiegato e l'esperienza marinaresca del",
+        "testo": "il punto nave costiero risulta tanto più preciso quanto più affidabili sono gli strumenti utilizzati per la sua determinazione, nonché il metodo impiegato e l'esperienza marinaresca del navigante.",
         "corretta": true
       },
       {
@@ -31040,7 +31047,7 @@
         "corretta": false
       },
       {
-        "testo": "l'asse longitudinale dell'unità e la congiungente unità-oggetto osservato, contato da 000° a 180° verso dritta o sinistra dell'unità stessa.",
+        "testo": "l'asse longitudinale dell'unità e la congiungente unità- oggetto osservato, contato da 000° a 180° verso dritta o sinistra dell'unità stessa.",
         "corretta": true
       }
     ],
@@ -31132,7 +31139,7 @@
     "domanda": "Avuto riguardo ai luoghi di posizione, cosa si intende per \"cerchio capace\"?",
     "risposte": [
       {
-        "testo": "è il luogo di posizione rappresentato da una circonferenza lungo la quale tutti gli osservatori, ad intervalli temporali di 10 minuti l'uno dall'altro, misurano la stessa differenza di distanza di due distinti",
+        "testo": "è il luogo di posizione rappresentato da una circonferenza lungo la quale tutti gli osservatori, ad intervalli temporali di 10 minuti l'uno dall'altro, misurano la stessa differenza di distanza di due distinti punti cospicui sulla costa.",
         "corretta": false
       },
       {
@@ -32286,7 +32293,7 @@
         "corretta": false
       },
       {
-        "testo": "dalla sola azione dei propulsori- eliche.",
+        "testo": "dalla sola azione dei propulsori-eliche.",
         "corretta": true
       },
       {
@@ -32840,7 +32847,7 @@
         "corretta": false
       },
       {
-        "testo": "è una nuova tiratura dell'edizione in vigore di una carta sulla quale non è stata incorporata alcuna modifica importante fatta eccezione di quelle derivanti da eventuali Avvisi ai Naviganti (AA.NN.) emessi nel",
+        "testo": "è una nuova tiratura dell'edizione in vigore di una carta sulla quale non è stata incorporata alcuna modifica importante fatta eccezione di quelle derivanti da eventuali Avvisi ai Naviganti (AA.NN.) emessi nel tempo.",
         "corretta": true
       }
     ],
@@ -33057,11 +33064,11 @@
     "domanda": "Il comandante dell'unità navale che in caso di urto non dia nei limiti del possibile alle altre unità le notizie necessarie per l'identificazione della propria imbarcazione:",
     "risposte": [
       {
-        "testo": "è punito con la reclusione da uno a due mesi.",
+        "testo": "è punito con la revoca della patente nautica.",
         "corretta": false
       },
       {
-        "testo": "è punito con il pagamento di un'ammenda fino a 206,00 Euro.",
+        "testo": "è punito con la sanzione amministrativa del pagamento di 206,00 Euro.",
         "corretta": false
       },
       {
@@ -33082,7 +33089,7 @@
     "domanda": "Ai sensi del Codice della Navigazione, cosa si intende per denuncia di avvenimenti straordinari?",
     "risposte": [
       {
-        "testo": "la dichiarazione che il comandante dell'unità è tenuto a presentare al Comandante del porto o all'Autorità consolare del porto di scalo quando, durante il viaggio, si siano verificati eventi straordinari relativi all'unità. navale o alle",
+        "testo": "la dichiarazione che il comandante dell'unità è tenuto a presentare al Comandante del porto o all'Autorità consolare del porto di scalo quando, durante il viaggio, si siano verificati eventi straordinari relativi all'unità. navale o alle persone presenti a bordo.",
         "corretta": true
       },
       {
@@ -33111,7 +33118,7 @@
         "corretta": false
       },
       {
-        "testo": "l'assunzione del comando o della condotta ovvero la direzione nautica di un'unità da diporto senza la prescritta abilitazione, perché non conseguita o revocata o non convalidata per mancanza dei requisiti, ovvero",
+        "testo": "l'assunzione del comando o della condotta ovvero la direzione nautica di un'unità da diporto senza la prescritta abilitazione, perché non conseguita o revocata o non convalidata per mancanza dei requisiti, ovvero sospesa o ritirata.",
         "corretta": true
       },
       {
@@ -33232,7 +33239,7 @@
     "domanda": "Quale tra queste condotte costituisce un illecito amministrativo?",
     "risposte": [
       {
-        "testo": "non ottemperare agli ordini impartiti dalla competente Autorità marittima, ai sensi dell'art. 70 Codice della Navigazione, omettendo di cooperare con i mezzi di cui si dispone, al soccorso di",
+        "testo": "non ottemperare agli ordini impartiti dalla competente Autorità marittima, ai sensi dell'art. 70 Codice della Navigazione, omettendo di cooperare con i mezzi di cui si dispone, al soccorso di un'altra unità navale.",
         "corretta": false
       },
       {
@@ -33257,7 +33264,7 @@
     "domanda": "I limiti di navigazione delle unità munite di marcatura \"CE\" sono definiti:",
     "risposte": [
       {
-        "testo": "dall'omologazione dell'organo tecnico.",
+        "testo": "dal Registro Italiano Navale",
         "corretta": false
       },
       {
@@ -33265,7 +33272,7 @@
         "corretta": true
       },
       {
-        "testo": "dalla distanza dalla costa.",
+        "testo": "dalla vetustà dello scafo.",
         "corretta": false
       }
     ],
@@ -34207,7 +34214,7 @@
     "domanda": "L'atto di autorizzazione alla navigazione temporanea",
     "risposte": [
       {
-        "testo": "vale come documento di bordo e abilita alla navigazione nei limiti consentiti dalle caratteristiche di costruzione dell'unità da diporto, nonché alla navigazione in acque territoriali straniere per il periodo di tempo necessario alla partecipazione a fiere,",
+        "testo": "vale come documento di bordo e abilita alla navigazione nei limiti consentiti dalle caratteristiche di costruzione dell'unità da diporto, nonché alla navigazione in acque territoriali straniere per il periodo di tempo necessario alla partecipazione a fiere, saloni e altri eventi espositivi.",
         "corretta": true
       },
       {
@@ -36129,7 +36136,7 @@
   {
     "id": 1415,
     "immagine": [],
-    "domanda": "La pratica dello sci nautico quale dotazione prevede.",
+    "domanda": "La pratica dello sci nautico quale dotazione prevede ?",
     "risposte": [
       {
         "testo": "la boetta di segnalazione di colore arancione munita di sagola galleggiante di lunghezza non inferiore a 180 metri.",
@@ -36932,7 +36939,7 @@
     "domanda": "L'esercizio della pesca subacquea è:",
     "risposte": [
       {
-        "testo": "vietato a distanza inferiore a100 metri dalle navi ancorate fuori dai porti.",
+        "testo": "vietato a distanza inferiore a 100 metri dalle navi ancorate fuori dai porti.",
         "corretta": true
       },
       {
@@ -37015,7 +37022,7 @@
         "corretta": false
       },
       {
-        "testo": "scopo ricreativo o agonistico. Sono consentiti la vendita ed il commercio dei prodotti di tale tipo di pesca solo per quantitativi inferiori, per ciascuna specie, a 5Kg.",
+        "testo": "scopo ricreativo o agonistico. Sono consentiti la vendita ed il commercio dei prodotti di tale tipo di pesca solo per quantitativi inferiori, per ciascuna specie, a 5 Kg.",
         "corretta": false
       }
     ],
@@ -37082,7 +37089,7 @@
     "domanda": "Il pescatore sportivo giornalmente non può catturare:",
     "risposte": [
       {
-        "testo": "pesci, molluschi e crostacei in quantità superiore a 5 kg complessivi salvo il caso di pesce singolo di peso superiore e non può catturare giornalmente piu' di un",
+        "testo": "pesci, molluschi e crostacei in quantità superiore a 5 kg complessivi salvo il caso di pesce singolo di peso superiore e non può catturare giornalmente piu' di un esemplare di cernia.",
         "corretta": true
       },
       {
@@ -37257,7 +37264,7 @@
     "domanda": "Gli enti gestori delle Aree marine protette possono, nelle zone \"B\" (di riserva generale) o \"C\" (di riserva parziale) di una Area marina protetta, istituire:",
     "risposte": [
       {
-        "testo": "istituire, nelle zone \"B\" (di riserva generale) o \"C\" (di riserva parziale), campi boa e campi di ormeggio attrezzati, anche con l'impiego di tecnologie informatiche e",
+        "testo": "istituire, nelle zone \"B\" (di riserva generale) o \"C\" (di riserva parziale), campi boa e campi di ormeggio attrezzati, anche con l'impiego di tecnologie informatiche e telematiche.",
         "corretta": true
       },
       {
@@ -37365,7 +37372,7 @@
         "corretta": false
       },
       {
-        "testo": "è possibile solo in alto mare, oltre le12 miglia dalla costa, su autorizzazione dell'Autorità marittima.",
+        "testo": "è possibile solo in alto mare, oltre le 12 miglia dalla costa, su autorizzazione dell'Autorità marittima.",
         "corretta": false
       }
     ],

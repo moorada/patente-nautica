@@ -869,7 +869,7 @@
     "domanda": "Per andatura si intende la direzione verso cui procede un'unità a vela rispetto alla direzione di provenienza del vento.",
     "risposta1": {
       "testo": "VERO",
-      "corretta": true
+      "corretta": false
     },
     "risposta2": {
       "testo": "FALSO",
@@ -1280,7 +1280,7 @@
   {
     "id": 72,
     "immagine": [],
-    "domanda": "Il piano velico è l'organizzazione delle vele di un'imbarcazione come da progetto ed è essenzialmente caratterizzato dal numero di alberi e dal tipo di vele a disposizione.",
+    "domanda": "Il piano velico è l'organizzazione delle vele di un'unità come da progetto ed è essenzialmente caratterizzato dal numero di alberi e dal tipo di vele a disposizione.",
     "risposta1": {
       "testo": "VERO",
       "corretta": true
@@ -1496,7 +1496,7 @@
   {
     "id": 84,
     "immagine": [],
-    "domanda": "La forza di scarroccio e la forza di propulsione danno origine alla forza risultante generata dal vento sulla superificie velica.",
+    "domanda": "La forza di scarroccio e la forza di propulsione hanno origine dalla forza risultante generata dal vento sulla superificie velica.",
     "risposta1": {
       "testo": "VERO",
       "corretta": true
@@ -1550,14 +1550,14 @@
   {
     "id": 87,
     "immagine": [],
-    "domanda": "Lo spostamento del peso dell'equipaggio a bordo durante la navigazione a vela può servire a contrastare l'azione sbandante generata dallo scarroccio e dalla forza propulsiva.",
+    "domanda": "Lo spostamento del peso dell'equipaggio a bordo durante la navigazione a vela può servire a contrastare l'azione sbandante generata dal vento sulla superficie velica.",
     "risposta1": {
       "testo": "VERO",
-      "corretta": false
+      "corretta": true
     },
     "risposta2": {
       "testo": "FALSO",
-      "corretta": true
+      "corretta": false
     },
     "meta": {
       "table_index": 8,
@@ -1607,11 +1607,11 @@
     "domanda": "E' meglio evitare un'impostazione troppo poggera di un'unità perché tale impostazione limita notevolmente l'azione del timone.",
     "risposta1": {
       "testo": "VERO",
-      "corretta": false
+      "corretta": true
     },
     "risposta2": {
       "testo": "FALSO",
-      "corretta": true
+      "corretta": false
     },
     "meta": {
       "table_index": 8,
@@ -1640,7 +1640,7 @@
   {
     "id": 92,
     "immagine": [],
-    "domanda": "E' meglio preferire un'impostazione orziera di un'unità a vela perché tale impostazione favorisce le prestazioni.",
+    "domanda": "E' meglio preferire un'impostazione leggermente orziera di un'unità a vela perché tale impostazione favorisce le prestazioni e la sicurezza a bordo.",
     "risposta1": {
       "testo": "VERO",
       "corretta": true
@@ -3382,7 +3382,7 @@
   {
     "id": 188,
     "immagine": [],
-    "domanda": "Per poggiare è necessario porre la barra del timone sopravento ossia dalla parte opposta rispetto alla randa.",
+    "domanda": "Con timone a barra per poggiare è necessario porre la barra del timone sopravento ossia dalla parte opposta rispetto alla randa.",
     "risposta1": {
       "testo": "VERO",
       "corretta": true
@@ -3400,7 +3400,7 @@
   {
     "id": 189,
     "immagine": [],
-    "domanda": "Per poggiare è necessario porre la barra del timone sottovento ossia dallo stesso lato della randa.",
+    "domanda": "Con timone a barra per poggiare è necessario porre la barra del timone sottovento ossia dallo stesso lato della randa.",
     "risposta1": {
       "testo": "VERO",
       "corretta": false
@@ -3688,7 +3688,7 @@
   {
     "id": 205,
     "immagine": [],
-    "domanda": "Il dispositivo solitamente utilizzato per agganciare la drizza alla penna è un moschettone impiombato alla sommità della drizza stessa.",
+    "domanda": "Il dispositivo solitamente utilizzato per agganciare la drizza alla penna è un moschettone impiombato alla drizza stessa.",
     "risposta1": {
       "testo": "VERO",
       "corretta": true
@@ -3850,7 +3850,7 @@
   {
     "id": 214,
     "immagine": [],
-    "domanda": "La manovra denominata \"mettersi alla cappa\" consiste in una particolare tecnica che consente di navigare a velocità ridotta utilizzando l'ancora galleggiante.",
+    "domanda": "La manovra denominata \"mettersi alla cappa\" consiste in una particolare tecnica che consente di navigare a velocità ridotta utilizzando l'ancora galleggiante filata di poppa.",
     "risposta1": {
       "testo": "VERO",
       "corretta": false
@@ -4087,11 +4087,11 @@
     "domanda": "Per poggiare è necessario porre la barra al centro",
     "risposta1": {
       "testo": "VERO",
-      "corretta": true
+      "corretta": false
     },
     "risposta2": {
       "testo": "FALSO",
-      "corretta": false
+      "corretta": true
     },
     "meta": {
       "table_index": 21,
@@ -4354,7 +4354,7 @@
   {
     "id": 242,
     "immagine": [],
-    "domanda": "La ritenuta del boma è quella manovra che opportuno utilizzare per evitare la strambata nelle andature di granlasco e giardinetto.",
+    "domanda": "La ritenuta del boma è quella manovra che si può utilizzare per evitare la strambata nelle andature di granlasco e giardinetto.",
     "risposta1": {
       "testo": "VERO",
       "corretta": true
@@ -4372,7 +4372,7 @@
   {
     "id": 243,
     "immagine": [],
-    "domanda": "Tendenzialmente, in caso di aumento del vento, si riduce per primo il genoa (o genova) e poi a seguire la randa.",
+    "domanda": "In caso di aumento del vento, riducendo la randa si diminuisce la tendenza orziera dell'unità.",
     "risposta1": {
       "testo": "VERO",
       "corretta": true

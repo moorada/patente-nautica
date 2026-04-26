@@ -18,7 +18,6 @@ Web app responsive per allenarsi ai quiz della patente nautica con modalità esa
   - Domande più sbagliate
   - Studio completo con soluzioni
 - Simulazioni con soglie di superamento per sezione e riepilogo finale.
-- Elementi di carteggio e carteggio mostrati in coda nelle simulazioni previste.
 - Segnalazione errori direttamente dall'app con commento.
 - Classifica domande più sbagliate basata sullo storico locale.
 - Tema chiaro/scuro.
@@ -37,8 +36,3 @@ python3 -m http.server
 ```
 
 Poi apri `http://localhost:8000`.
-
-## Note
-
-- I dati progresso sono salvati nel browser (`localStorage`) con chiave `nautica-progress-v1`.
-- Il pulsante `Reset memoria` richiede conferma prima di cancellare lo storico.

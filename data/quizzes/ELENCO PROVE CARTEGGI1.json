@@ -4,408 +4,570 @@
   "items": [
     {
       "id": 1,
-      "domanda": "Alle ore 20h20m, l’imbarcazione “Alphard” determina la propria posizione attraverso l’osservazione simultanea dei rilevamenti veri del Faro Cap de Feno (Lam.(4)15s20m21M) per Rilv = 335° e del Faro Cap. Pertusato (Lam.(2)10s100m25M) per Rilv = 032° (punto A).\nL’unità naviga seguendo una rotta vera Rv = 290° e una velocità propulsiva Vp = 7 kn.\nTenuto conto che in zona vi è una corrente dalle seguenti caratteristiche Dc = 250° e Vc = 2,5 kn, determinare la prora vera Pv.",
+      "domanda": "TABELLA DI DEVIAZIONE Pm Deviazione Pb Pm Deviazione Pb 000° - 2° 002° 180° + 3° 177° 005° - 2° 007° 185° + 4° 181° 010° - 2° 012° 190° + 4° 186° 015° - 3° 018° 195° + 4° 191° 020° - 3° 023° 200° + 4° 196° 025° - 3° 028° 205° + 5° 200° 030° - 3° 033° 210° + 5° 205° 035° - 3° 038° 215° + 5° 210° 040° - 3° 043° 220° + 5° 215° 045° - 4° 049° 225° + 5° 220° 050° - 4° 054° 230° + 4° 226° 055° - 4° 059° 235° + 4° 231° 060° - 4° 064° 240° + 3° 237° 065° - 4° 069° 245° + 3° 242° 070° - 4° 074° 250° + 2° 248° 075° - 4° 079° 255° + 2° 253° 080° - 5° 085° 260° + 1° 259° 085° - 5° 090° 265° 0° 265° 090° - 5° 095° 270° - 1° 271° 095° - 4° 099° 275° - 1° 276° 100° - 3° 103° 280° - 1° 281° 105° - 2° 107° 285° - 2° 287° 110° - 2° 112° 290° - 2° 292° 115° - 1° 116° 295° - 2° 297° 120° - 1° 121° 300° - 3° 303° 125° 0° 125° 305° - 3° 308° 130° + 1° 129° 310° - 3° 313° 135° + 2° 133° 315° - 3° 318° 140° + 2° 138° 320° - 3° 323° 145° + 2° 143° 325° - 2° 327° 150° + 2° 148° 330° - 2° 332° 155° + 2° 153° 335° - 2° 337° 160° + 3° 157° 340° - 2° 342° 165° + 3° 162° 345° - 2° 347° 170° + 3° 167° 350° - 2° 352° 175° + 3° 172° 355° - 2° 357° 180° + 3° 177° 360° - 2° 002° RISPOSTA 2 RISPOSTA 3 RISPOSTA 4 RISPOSTA 5 RISPOSTA 6 PROGRESSIVO DOMANDA Alle ore 20h20m, l’imbarcazione “Alphard” determina la propria posizione attraverso l’osservazione simultanea dei rilevamenti veri del Faro Cap de Feno (Lam.(4)15s20m21M) per Rilv = 335° e del Faro Cap. Pertusato (Lam.(2)10s100m25M) per Rilv = 032° (punto A). L’unità naviga seguendo una rotta vera Rv = 290° e una velocità propulsiva Vp = 7 kn. Tenuto conto che in zona vi è una corrente dalle seguenti caratteristiche Dc = 250° e Vc = 2,5 kn, determinare la prora vera Pv.",
       "risposte": [
         "Pv = 300° ÷ 306°"
       ],
       "meta": {
         "table_index": 0,
-        "row_index": 1,
+        "row_index": 0,
         "numero_risposte": 1,
-        "formato_riga": "singola_risposta"
+        "formato_riga": "singola_risposta",
+        "progressivo": "5.5.1 - 1",
+        "tipologia": "C",
+        "settore": "A",
+        "argomento": "correnti",
+        "pagina_pdf": "329",
+        "html_id": 159
       },
-      "risposta": "Pv = 300° ÷ 306°",
-      "spiegazione": "La risposta corretta è Pv = 300° ÷ 306° perché si ottiene correggendo la rotta vera per lo scarroccio e, quando presente, per l effetto della corrente. La prora vera è la direzione della prua rispetto al Nord vero. La corrente è lo spostamento della massa d'acqua che modifica il moto reale dell'unità. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
+      "spiegazione": "",
+      "risposta": "Pv = 300° ÷ 306°"
     },
     {
       "id": 2,
-      "domanda": "Alle ore 06h45m l’imbarcazione “Sonia” si trova sul punto A individuato dall’intersezione del rilevamento vero Rilv = 067° del faro Ex sem. di Capo Testa e la batimetrica dei 50 metri.\nDal punto A, l’imbarcazione procede con prora vera Pv = 044° e con velocità propulsiva Vp = 7 kn.\nAlle ore 07h20m sul G.P.S. leggiamo le coordinate del punto nave B: Lat. 41°15’,7 N e Long. 009° 04’,7 E, imputiamo lo spostamento alla corrente.\nPoiché le condizioni meteo sono in peggioramento e non essendo mutati gli elementi perturbatori del moto, dal punto B si prosegue la navigazione dirigendo verso il porto turistico (simbolo) di Punta la Madonnetta, dove si vuole arrivare alle 08h20m.\nDeterminare la prora vera Pv.",
+      "domanda": "Alle ore 06h45m l’imbarcazione “Sonia” si trova sul punto A individuato dall’intersezione del rilevamento vero Rilv = 067° del faro Ex sem. di Capo Testa e la batimetrica dei 50 metri. Dal punto A, l’imbarcazione procede con prora vera Pv = 044° e con velocità propulsiva Vp = 7 kn. Alle ore 07h20m sul G.P.S. leggiamo le coordinate del punto nave B: Lat. 41°15’,7 N e Long. 009° 04’,7 E, imputiamo lo spostamento alla corrente. Poiché le condizioni meteo sono in peggioramento e non essendo mutati gli elementi perturbatori del moto, dal punto B si prosegue la navigazione dirigendo verso il porto turistico (simbolo) di Punta la Madonnetta, dove si vuole arrivare alle 08h20m. Determinare la prora vera Pv.",
       "risposte": [
         "Pv = 31°÷ 37°"
       ],
       "meta": {
         "table_index": 0,
-        "row_index": 2,
+        "row_index": 1,
         "numero_risposte": 1,
-        "formato_riga": "singola_risposta"
+        "formato_riga": "singola_risposta",
+        "progressivo": "5.5.1 - 2",
+        "tipologia": "C",
+        "settore": "A",
+        "argomento": "correnti",
+        "pagina_pdf": "329",
+        "html_id": 160
       },
-      "risposta": "Pv = 31°÷ 37°",
-      "spiegazione": "La risposta corretta è Pv = 31°÷ 37° perché si ottiene correggendo la rotta vera per lo scarroccio e, quando presente, per l effetto della corrente. Il rilevamento vero è misurato rispetto al Nord geografico. La prora vera è la direzione della prua rispetto al Nord vero. La corrente è lo spostamento della massa d'acqua che modifica il moto reale dell'unità. La batimetrica è la linea di uguale profondità usata come riferimento in carta. Il punto nave è la posizione dell'unità determinata con carteggio o strumenti di bordo. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
+      "spiegazione": "",
+      "risposta": "Pv = 31°÷ 37°"
     },
     {
       "id": 3,
-      "domanda": "Il M/Y “Formalhaut” è in navigazione a SW della Corsica e segue una prora vera Pv = 175° ad una velocità propulsiva Vp = 6,6 kn.\nAlle ore 08h20m, determina la propria posizione osservando il Faro di Cap de Feno (Lam.(4)15s20m21M) per rilevamento vero Rilv = 090° ad una distanza di 2 miglia nautiche dallo stesso (punto A).\nAlle ore 09h50m, al fine di verificare gli elementi perturbatori del moto presenti in zona, determina nuovamente la sua posizione attraverso l’osservazione simultanea dei seguenti rilevamenti veri (punto B): Rilv = 052° Faro di Cap Pertusato (Lam.(2)10s100m25M);\nRilv = 098° Faro di Capo Testa (Lam.(3)12s67m17M).\nPosto che sono, pertanto, variati gli elementi perturbatori del moto, determinare la direzione della corrente\nDc.",
+      "domanda": "Il M/Y “Formalhaut” è in navigazione a SW della Corsica e segue una prora vera Pv = 175° ad una velocità propulsiva Vp = 6,6 kn. Alle ore 08h20m, determina la propria posizione osservando il Faro di Cap de Feno (Lam.(4)15s20m21M) per rilevamento vero Rilv = 090° ad una distanza di 2 miglia nautiche dallo stesso (punto A). Alle ore 09h50m, al fine di verificare gli elementi perturbatori del moto presenti in zona, determina nuovamente la sua posizione attraverso l’osservazione simultanea dei seguenti rilevamenti veri (punto B): Rilv = 052° Faro di Cap Pertusato (Lam.(2)10s100m25M); Rilv = 098° Faro di Capo Testa (Lam.(3)12s67m17M). Posto che sono, pertanto, variati gli elementi perturbatori del moto, determinare la direzione della corrente Dc.",
       "risposte": [
         "Dc = 298° ÷ 304°"
       ],
       "meta": {
         "table_index": 0,
-        "row_index": 3,
+        "row_index": 2,
         "numero_risposte": 1,
-        "formato_riga": "singola_risposta"
+        "formato_riga": "singola_risposta",
+        "progressivo": "5.5.1 - 3",
+        "tipologia": "C",
+        "settore": "A",
+        "argomento": "correnti",
+        "pagina_pdf": "329",
+        "html_id": 161
       },
-      "risposta": "Dc = 298° ÷ 304°",
-      "spiegazione": "La risposta corretta è Dc = 298° ÷ 304° perché si ricava confrontando il punto stimato con quello osservato per dedurre direzione e intensità della corrente. Il rilevamento vero è misurato rispetto al Nord geografico. La prora vera è la direzione della prua rispetto al Nord vero. La corrente è lo spostamento della massa d'acqua che modifica il moto reale dell'unità. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
+      "spiegazione": "",
+      "risposta": "Dc = 298° ÷ 304°"
     },
     {
       "id": 4,
-      "domanda": "In navigazione ad ovest di Cap de Feno con Pb 286° e velocità propulsiva Vp = 6 kn (declinazione 3°E, deviazione 1°E), alle ore 02h30m rileviamo il fanale del segnale IALA cardinale sud per Rilb = 346°. Dopo 20 minuti lo rileviamo nuovamente per Rilb = 56°.\nDeterminare le coordinate geografiche del punto nave delle ore 02h50m.",
+      "domanda": "42D RISPOSTA 2 RISPOSTA 3 RISPOSTA 4 RISPOSTA 5 RISPOSTA 6 PROGRESSIVO DOMANDA In navigazione ad ovest di Cap de Feno con Pb 286° e velocità propulsiva Vp = 6 kn (declinazione 3°E, deviazione 1°E), alle ore 02h30m rileviamo il fanale del segnale IALA cardinale sud per Rilb = 346°. Dopo 20 minuti lo rileviamo nuovamente per Rilb = 56°. Determinare le coordinate geografiche del punto nave delle ore 02h50m. Lat. 41°25’,6 N ÷ 41°26’,2 N Long. 008°51’,3 E ÷ 008°51’,9",
       "risposte": [
-        "Lat. 41°25’,6 N ÷ 41°26’,2 N Long.\n008°51’,3 E ÷ 008°51’,9 E"
+        "E"
+      ],
+      "meta": {
+        "table_index": 0,
+        "row_index": 3,
+        "numero_risposte": 1,
+        "formato_riga": "singola_risposta",
+        "progressivo": "5.5.3 - 1",
+        "tipologia": "C",
+        "settore": "A",
+        "argomento": "navigazione costiera",
+        "pagina_pdf": "330",
+        "html_id": 162
+      },
+      "spiegazione": "",
+      "risposta": "E"
+    },
+    {
+      "id": 5,
+      "domanda": "L’imbarcazione “Mizar”, è in navigazione a W di Cap de Feno (SW della Corsica), seguendo una rotta vera Rv = 080° con una velocità propulsiva Vp = 6 kn e, alle ore 10h40m, determina la propria posizione individuata dalle seguenti coordinate geografiche GPS:Lat. 41° 22’,2 N - Long. 008° 57’,5 E (punto A). Sempre alla medesima ora 10h40m la stessa unità riceve una richiesta di assistenza dall’imbarcazione “Esperia” per avaria. Tale imbarcazione comunica la propria posizione individuata dalle seguenti coordinate geografiche GPS: Lat. 41° 17’,3 N - Long. 009° 06’,0 E (punto B). L’imbarcazione “Esperia” sta navigando seguendo una rotta vera Rv = 060° ad una velocità effettiva Ve = 3,3 kn. L’imbarcazione “Mizar” decide, quindi, di raggiungere l’unità in difficoltà per prestare assistenza aumentando la velocità a 8 kn. Determinare le coordinate geografiche del punto D di intercettazione. Lat. 41° 19’,1 N ÷ 41° 19’,7 N - Long. 009°",
+      "risposte": [
+        "10’,6 E ÷ 009° 11’,2 E"
       ],
       "meta": {
         "table_index": 0,
         "row_index": 4,
         "numero_risposte": 1,
-        "formato_riga": "singola_risposta"
+        "formato_riga": "singola_risposta",
+        "progressivo": "5.5.3 - 2",
+        "tipologia": "C",
+        "settore": "A",
+        "argomento": "navigazione costiera",
+        "pagina_pdf": "330",
+        "html_id": 163
       },
-      "risposta": "Lat. 41°25’,6 N ÷ 41°26’,2 N Long.\n008°51’,3 E ÷ 008°51’,9 E",
-      "spiegazione": "La risposta corretta è Lat. 41°25’,6 N ÷ 41°26’,2 N Long. 008°51’,3 E ÷ 008°51’,9 E perché si ottiene dall intersezione dei rilevamenti o dal punto stimato sulla carta. Il fanale è un segnalamento luminoso costiero. Il punto nave è la posizione dell'unità determinata con carteggio o strumenti di bordo. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
-    },
-    {
-      "id": 5,
-      "domanda": "L’imbarcazione “Mizar”, è in navigazione a W di Cap de Feno (SW della Corsica), seguendo una rotta vera Rv =\n080° con una velocità propulsiva Vp = 6 kn e, alle ore 10h40m, determina la propria posizione individuata dalle seguenti coordinate geografiche GPS:Lat. 41° 22’,2 N - Long. 008° 57’,5 E (punto A).\nSempre alla medesima ora 10h40m la stessa unità riceve una richiesta di assistenza dall’imbarcazione “Esperia” per avaria. Tale imbarcazione comunica la propria posizione individuata dalle seguenti coordinate geografiche GPS: Lat. 41° 17’,3 N - Long. 009° 06’,0 E (punto B).\nL’imbarcazione “Esperia” sta navigando seguendo una rotta vera Rv = 060° ad una velocità effettiva Ve = 3,3 kn.\nL’imbarcazione “Mizar” decide, quindi, di raggiungere l’unità in difficoltà per prestare assistenza aumentando la velocità a 8 kn.\nDeterminare le coordinate geografiche del punto D di intercettazione.",
-      "risposte": [
-        "Lat. 41° 19’,1 N ÷ 41° 19’,7 N - Long.\n009° 10’,6 E ÷ 009° 11’,2 E"
-      ],
-      "meta": {
-        "table_index": 0,
-        "row_index": 5,
-        "numero_risposte": 1,
-        "formato_riga": "singola_risposta"
-      },
-      "risposta": "Lat. 41° 19’,1 N ÷ 41° 19’,7 N - Long.\n009° 10’,6 E ÷ 009° 11’,2 E",
-      "spiegazione": "La risposta corretta è Lat. 41° 19’,1 N ÷ 41° 19’,7 N - Long. 009° 10’,6 E ÷ 009° 11’,2 E perché si ottiene dall intersezione dei rilevamenti o dal punto stimato sulla carta. L'intercettazione si ricava dall'incontro tra le due rotte o tra la rotta dell'unità soccorritrice e quella dell'unità in difficoltà. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
+      "spiegazione": "",
+      "risposta": "10’,6 E ÷ 009° 11’,2 E"
     },
     {
       "id": 6,
-      "domanda": "Dal punto nave A di coordinate geografiche GPS Lat. 41° 15’,3 N e Long. 009° 11’,5 E, si procede per raggiungere il porto di Bonifacio (Simbolo) navigando con velocità propulsiva Vp = 7 kn.\nSapendo che in zona insiste un vento di Ponente che provoca uno scarroccio di 10°, determinare la Prua vera per giungere a destinazione.",
+      "domanda": "Dal punto nave A di coordinate geografiche GPS Lat. 41° 15’,3 N e Long. 009° 11’,5 E, si procede per raggiungere il porto di Bonifacio (Simbolo) navigando con velocità propulsiva Vp = 7 kn. Sapendo che in zona insiste un vento di Ponente che provoca uno scarroccio di 10°, determinare la Prua vera per giungere a destinazione.",
       "risposte": [
         "Pv = 333° ÷ 337°"
       ],
       "meta": {
         "table_index": 0,
-        "row_index": 6,
+        "row_index": 5,
         "numero_risposte": 1,
-        "formato_riga": "singola_risposta"
+        "formato_riga": "singola_risposta",
+        "progressivo": "5.5.4 - 1",
+        "tipologia": "C",
+        "settore": "A",
+        "argomento": "scarroccio",
+        "pagina_pdf": "330",
+        "html_id": 164
       },
-      "risposta": "Pv = 333° ÷ 337°",
-      "spiegazione": "La risposta corretta è Pv = 333° ÷ 337° perché si ottiene correggendo la rotta vera per lo scarroccio e, quando presente, per l effetto della corrente. Lo scarroccio è la deviazione laterale causata dal vento rispetto alla rotta impostata. Il punto nave è la posizione dell'unità determinata con carteggio o strumenti di bordo. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
+      "spiegazione": "",
+      "risposta": "Pv = 333° ÷ 337°"
     },
     {
       "id": 7,
-      "domanda": "Il M/Y “Atria” è in navigazione a NE della Sardegna e, alle ore 15h00m, determina la propria posizione (punto\nA) attraverso l’osservazione simultanea dei seguenti rilevamenti veri: Rilv = 247° il Radiofaro Circolare di Capo Ferro (Lam.(3)15s52m24M); Rilv = 300° il Faro di Isole Monaci (Lam.5s26m10M).\nDa questo punto si procede con una velocità propulsiva Vp = 12 kn verso il punto B di coordinate geografiche\nGPS: Lat. 41° 21’,5 N - Long. 009° 26’,0 E.\nTenuto conto che in zona vi è una corrente dalle seguenti caratteristiche Dc = 045° e Vc = 2,5 kn, determinare la prora vera Pv.",
+      "domanda": "42D RISPOSTA 2 RISPOSTA 3 RISPOSTA 4 RISPOSTA 5 RISPOSTA 6 PROGRESSIVO DOMANDA Il M/Y “Atria” è in navigazione a NE della Sardegna e, alle ore 15h00m, determina la propria posizione (punto A) attraverso l’osservazione simultanea dei seguenti rilevamenti veri: Rilv = 247° il Radiofaro Circolare di Capo Ferro (Lam.(3)15s52m24M); Rilv = 300° il Faro di Isole Monaci (Lam.5s26m10M). Da questo punto si procede con una velocità propulsiva Vp = 12 kn verso il punto B di coordinate geografiche GPS: Lat. 41° 21’,5 N - Long. 009° 26’,0 E. Tenuto conto che in zona vi è una corrente dalle seguenti caratteristiche Dc = 045° e Vc = 2,5 kn, determinare la prora vera Pv.",
       "risposte": [
         "Pv = 310° ÷316°"
       ],
       "meta": {
         "table_index": 0,
-        "row_index": 7,
+        "row_index": 6,
         "numero_risposte": 1,
-        "formato_riga": "singola_risposta"
+        "formato_riga": "singola_risposta",
+        "progressivo": "5.6.1 - 1",
+        "tipologia": "C",
+        "settore": "B",
+        "argomento": "correnti",
+        "pagina_pdf": "331",
+        "html_id": 165
       },
-      "risposta": "Pv = 310° ÷316°",
-      "spiegazione": "La risposta corretta è Pv = 310° ÷316° perché si ottiene correggendo la rotta vera per lo scarroccio e, quando presente, per l effetto della corrente. La prora vera è la direzione della prua rispetto al Nord vero. La corrente è lo spostamento della massa d'acqua che modifica il moto reale dell'unità. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
+      "spiegazione": "",
+      "risposta": "Pv = 310° ÷316°"
     },
     {
       "id": 8,
-      "domanda": "Il M/Y “Savona” alle ore 21h00m si trova sul punto A di coordinate geografiche GPS: Lat. 41°20’,0 N – Long.009°30’,0 E e procede con prora vera Pv = 137° con velocità propulsiva Vp = 10 kn a Levante delle “Bocche di Bonifacio”.\nAlle ore 22h00m , al fine di verificare gli elementi perturbatori del moto presenti in zona, determina la\npropria posizione rilevando il faro “I Monaci” con rilevamento vero Rilv = 280° e distanza di 4 miglia nautiche. Posto che in zona esiste una corrente, determinare la direzione corrente Dc.",
+      "domanda": "Il M/Y “Savona” alle ore 21h00m si trova sul punto A di coordinate geografiche GPS: Lat. 41°20’,0 N – Long.009°30’,0 E e procede con prora vera Pv = 137° con velocità propulsiva Vp = 10 kn a Levante delle “Bocche di Bonifacio”. Alle ore 22h00m , al fine di verificare gli elementi perturbatori del moto presenti in zona, determina la propria posizione rilevando il faro “I Monaci” con rilevamento vero Rilv = 280° e distanza di 4 miglia nautiche. Posto che in zona esiste una corrente, determinare la direzione corrente Dc.",
       "risposte": [
         "Dc = 255° ÷261°"
       ],
       "meta": {
         "table_index": 0,
-        "row_index": 8,
+        "row_index": 7,
         "numero_risposte": 1,
-        "formato_riga": "singola_risposta"
+        "formato_riga": "singola_risposta",
+        "progressivo": "5.6.1 - 2",
+        "tipologia": "C",
+        "settore": "B",
+        "argomento": "correnti",
+        "pagina_pdf": "331",
+        "html_id": 166
       },
-      "risposta": "Dc = 255° ÷261°",
-      "spiegazione": "La risposta corretta è Dc = 255° ÷261° perché si ricava confrontando il punto stimato con quello osservato per dedurre direzione e intensità della corrente. Il rilevamento vero è misurato rispetto al Nord geografico. La prora vera è la direzione della prua rispetto al Nord vero. La corrente è lo spostamento della massa d'acqua che modifica il moto reale dell'unità. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
+      "spiegazione": "",
+      "risposta": "Dc = 255° ÷261°"
     },
     {
       "id": 9,
-      "domanda": "Nel 2009 l’imbarcazione “Peacock” naviga a SE della Corsica con prora vera Pv = 180° e velocità propulsiva Vp\n= 4 kn, in assenza di elementi perturbatori del moto.\nAlle ore 11h50m determina la propria posizione (punto A) attraverso l’osservazione simultanea dei seguenti rilevamenti bussola:\nRilb = 243° il segnale cardinale E dell’Ecueil de Perduto (sc(3)10s16m11M); Rilb = 195° il faro di Razzoli (Lam.5s77m13M);\nRilb = 286° la Torre di Santa Manza.\nIl valore di declinazione è: 0° 05’ E 1993 (7’ E)\nDeterminare l’ora in cui si rileva al traverso di dritta il Faro dell’Isola di Lavezzi (Int.(2)6s27m15M) punto B.\nPER LA RISOLUZIONE DEL QUESITO E' NECESSARIO UTILIZZARE LA TABELLA DELLE DEVIAZIONI ALLEGATA",
+      "domanda": "Nel 2009 l’imbarcazione “Peacock” naviga a SE della Corsica con prora vera Pv = 180° e velocità propulsiva Vp = 4 kn, in assenza di elementi perturbatori del moto. Alle ore 11h50m determina la propria posizione (punto A) attraverso l’osservazione simultanea dei seguenti rilevamenti bussola: Rilb = 243° il segnale cardinale E dell’Ecueil de Perduto (sc(3)10s16m11M); Rilb = 195° il faro di Razzoli (Lam.5s77m13M); Rilb = 286° la Torre di Santa Manza. Il valore di declinazione è: 0° 05’ E 1993 (7’ E) Determinare l’ora in cui si rileva al traverso di dritta il Faro dell’Isola di Lavezzi (Int.(2)6s27m15M) punto B. PER LA RISOLUZIONE DEL QUESITO E' NECESSARIO UTILIZZARE LA TABELLA DELLE DEVIAZIONI ALLEGATA Ora traverso: 12h31m",
       "risposte": [
-        "Ora traverso: 12h31m ÷ 12h37m"
+        "÷ 12h37m"
+      ],
+      "meta": {
+        "table_index": 0,
+        "row_index": 8,
+        "numero_risposte": 1,
+        "formato_riga": "singola_risposta",
+        "progressivo": "5.6.3 - 1",
+        "tipologia": "C",
+        "settore": "B",
+        "argomento": "navigazione costiera",
+        "pagina_pdf": "331",
+        "html_id": 167
+      },
+      "spiegazione": "",
+      "risposta": "÷ 12h37m"
+    },
+    {
+      "id": 10,
+      "domanda": "42D RISPOSTA 2 RISPOSTA 3 RISPOSTA 4 RISPOSTA 5 RISPOSTA 6 PROGRESSIVO DOMANDA Ci troviamo in navigazione ad est dell’Arcipelago della Maddalena con prora bussola Pb = 300° (declinazione 2°E, deviazione 2°W) e velocità propulsiva Vp =6 kn; rileviamo il Faro sulle Isolette Monaci per Rilb = 235°. Successivamente, dopo 15 minuti di navigazione, rileviamo nuovamente lo stesso per Rilb = 210°. Determinare il punto nave al momento dell’ultimo rilevamento. Lat. 41°15’,5 N ÷ 41°16’,1 N Long. 009°32’,8 E ÷ 009°33’,4",
+      "risposte": [
+        "E"
       ],
       "meta": {
         "table_index": 0,
         "row_index": 9,
         "numero_risposte": 1,
-        "formato_riga": "singola_risposta"
+        "formato_riga": "singola_risposta",
+        "progressivo": "5.6.3 - 2",
+        "tipologia": "C",
+        "settore": "B",
+        "argomento": "navigazione costiera",
+        "pagina_pdf": "332",
+        "html_id": 168
       },
-      "risposta": "Ora traverso: 12h31m ÷ 12h37m",
-      "spiegazione": "La risposta corretta è Ora traverso: 12h31m ÷ 12h37m perché è coerente con i dati di partenza e con le formule di carteggio previste dal quesito. La prora vera è la direzione della prua rispetto al Nord vero. Al traverso significa a 90° rispetto alla prua, sul lato dell'unità. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
+      "spiegazione": "",
+      "risposta": "E"
     },
     {
-      "id": 10,
-      "domanda": "Ci troviamo in navigazione ad est dell’Arcipelago della Maddalena con prora bussola Pb = 300° (declinazione\n2°E, deviazione 2°W) e velocità propulsiva Vp =6 kn; rileviamo il Faro sulle Isolette Monaci per Rilb = 235°. Successivamente, dopo 15 minuti di navigazione, rileviamo nuovamente lo stesso per Rilb = 210°. Determinare il punto nave al momento dell’ultimo rilevamento.",
+      "id": 11,
+      "domanda": "L’imbarcazione “Altair” è in navigazione a SE dell’Isola di Caprera, seguendo una rotta vera Rv = N con una velocità propulsiva Vp = 8 kn e alle ore 20h20m determina la propria posizione (punto A) attraverso l’osservazione simultanea dei seguenti rilevamenti veri: Rilv = 135° del Faro di Capo Ferro (Lam.(3)15s52m24M); Rilv = 246° della Meda galleggiante Secca di Tre Monti (Lam.(2)8s5M). Alle ore 21h05m, l’unità “Altair” riceve una richiesta di assistenza dall’imbarcazione “Deneb” che, a causa di un’avaria al propulsore, procede con rotta vera Rv = 225° e velocità effettiva Ve = 2 kn. L’unità “Deneb” comunica la propria posizione delle ore 21h05m individuata dalle seguenti coordinate geografiche GPS: Lat. 41° 22’,5 N - Long. 009° 23’,5 E (punto B). L’imbarcazione “Altair” decide, quindi, di raggiungere l’unità in difficoltà per prestare assistenza aumentando la velocità propulsiva a 9,9 kn. Considerando che in zona non sono presenti elementi perturbatori del moto, determinare le coordinate geografiche del punto D di intercettazione. Lat. 41° 21’,1 N ÷ 41° 21’,7 N - Long. 009°",
       "risposte": [
-        "Lat. 41°15’,5 N ÷ 41°16’,1 N Long.\n009°32’,8 E ÷ 009°33’,4 E"
+        "21’,7 E ÷ 009° 22’,3 E"
       ],
       "meta": {
         "table_index": 0,
         "row_index": 10,
         "numero_risposte": 1,
-        "formato_riga": "singola_risposta"
+        "formato_riga": "singola_risposta",
+        "progressivo": "5.6.3 - 3",
+        "tipologia": "C",
+        "settore": "B",
+        "argomento": "navigazione costiera",
+        "pagina_pdf": "332",
+        "html_id": 169
       },
-      "risposta": "Lat. 41°15’,5 N ÷ 41°16’,1 N Long.\n009°32’,8 E ÷ 009°33’,4 E",
-      "spiegazione": "La risposta corretta è Lat. 41°15’,5 N ÷ 41°16’,1 N Long. 009°32’,8 E ÷ 009°33’,4 E perché si ottiene dall intersezione dei rilevamenti o dal punto stimato sulla carta. La prora bussola è la direzione della prua rispetto al Nord bussola. Il punto nave è la posizione dell'unità determinata con carteggio o strumenti di bordo. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
+      "spiegazione": "",
+      "risposta": "21’,7 E ÷ 009° 22’,3 E"
     },
     {
-      "id": 11,
-      "domanda": "L’imbarcazione “Altair” è in navigazione a SE dell’Isola di Caprera, seguendo una rotta vera Rv = N con una velocità propulsiva Vp = 8 kn e alle ore 20h20m determina la propria posizione (punto A) attraverso l’osservazione simultanea dei seguenti rilevamenti veri:\nRilv = 135° del Faro di Capo Ferro (Lam.(3)15s52m24M);\nRilv = 246° della Meda galleggiante Secca di Tre Monti (Lam.(2)8s5M).\nAlle ore 21h05m, l’unità “Altair” riceve una richiesta di assistenza dall’imbarcazione “Deneb” che, a causa di un’avaria al propulsore, procede con rotta vera Rv = 225° e velocità effettiva Ve = 2 kn.\nL’unità “Deneb” comunica la propria posizione delle ore 21h05m individuata dalle seguenti coordinate geografiche GPS: Lat. 41° 22’,5 N - Long. 009° 23’,5 E (punto B).\nL’imbarcazione “Altair” decide, quindi, di raggiungere l’unità in difficoltà per prestare assistenza aumentando la velocità propulsiva a 9,9 kn.\nConsiderando che in zona non sono presenti elementi perturbatori del moto, determinare le coordinate geografiche del punto D di intercettazione.",
+      "id": 12,
+      "domanda": "Alle ore 10h 50m ci troviamo sul punto A che si trova sul rilevamento vero Rilv = 190° del Faro Isolette Monaci alla distanza di 1 miglio nautico. Stiamo navigando con prora vera Pv = 050° e velocità propulsiva Vp = 7 kn. In zona è presente un vento di Ostro che provoca uno scarroccio di 8° e una variazione di velocità di + 1 nodo. Determinare la posizione del punto nave B alle ore 12h30m tenendo conto dell’effetto del vento. Lat. 41° 23’,5 N ÷ 41°24’,1 N Long. 009°",
       "risposte": [
-        "Lat. 41° 21’,1 N ÷ 41° 21’,7 N - Long.\n009° 21’,7 E ÷ 009° 22’,3 E"
+        "42’,6 E ÷ 009°43’,2 E"
       ],
       "meta": {
         "table_index": 0,
         "row_index": 11,
         "numero_risposte": 1,
-        "formato_riga": "singola_risposta"
+        "formato_riga": "singola_risposta",
+        "progressivo": "5.6.4 - 1",
+        "tipologia": "C",
+        "settore": "B",
+        "argomento": "scarroccio",
+        "pagina_pdf": "332",
+        "html_id": 170
       },
-      "risposta": "Lat. 41° 21’,1 N ÷ 41° 21’,7 N - Long.\n009° 21’,7 E ÷ 009° 22’,3 E",
-      "spiegazione": "La risposta corretta è Lat. 41° 21’,1 N ÷ 41° 21’,7 N - Long. 009° 21’,7 E ÷ 009° 22’,3 E perché si ottiene dall intersezione dei rilevamenti o dal punto stimato sulla carta. L'intercettazione si ricava dall'incontro tra le due rotte o tra la rotta dell'unità soccorritrice e quella dell'unità in difficoltà. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
-    },
-    {
-      "id": 12,
-      "domanda": "Alle ore 10h 50m ci troviamo sul punto A che si trova sul rilevamento vero Rilv = 190° del Faro Isolette\nMonaci alla distanza di 1 miglio nautico. Stiamo navigando con prora vera Pv = 050° e velocità propulsiva Vp =\n7 kn.\nIn zona è presente un vento di Ostro che provoca uno scarroccio di 8° e una variazione di velocità di + 1 nodo. Determinare la posizione del punto nave B alle ore 12h30m tenendo conto dell’effetto del vento.",
-      "risposte": [
-        "Lat. 41° 23’,5 N ÷ 41°24’,1 N Long.\n009° 42’,6 E ÷ 009°43’,2 E"
-      ],
-      "meta": {
-        "table_index": 0,
-        "row_index": 12,
-        "numero_risposte": 1,
-        "formato_riga": "singola_risposta"
-      },
-      "risposta": "Lat. 41° 23’,5 N ÷ 41°24’,1 N Long.\n009° 42’,6 E ÷ 009°43’,2 E",
-      "spiegazione": "La risposta corretta è Lat. 41° 23’,5 N ÷ 41°24’,1 N Long. 009° 42’,6 E ÷ 009°43’,2 E perché si ottiene dall intersezione dei rilevamenti o dal punto stimato sulla carta. Il rilevamento vero è misurato rispetto al Nord geografico. La prora vera è la direzione della prua rispetto al Nord vero. Lo scarroccio è la deviazione laterale causata dal vento rispetto alla rotta impostata. Il punto nave è la posizione dell'unità determinata con carteggio o strumenti di bordo. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
+      "spiegazione": "",
+      "risposta": "42’,6 E ÷ 009°43’,2 E"
     },
     {
       "id": 13,
-      "domanda": "Nel 2008 l’imbarcazione “Khamsin” è in navigazione ad NW della Sardegna e alle ore 12h00m determina la propria posizione osservando la parte di costa più sporgente di P.ta Li Canneddi (Lat. 41° 01’,7 N - Long. 008°\n52’,8 E) per rilevamento vero Rilv = 115° ad una distanza di 1 miglio nautico (punto A).\nDal punto A, non essendo presenti in zona elementi perturbatori del moto, l’imbarcazione procede con prora vera Pv = 045° e con una velocità propulsiva Vp = 6,5 kn.\nAlle ore 13h00m, al fine di verificare gli elementi perturbatori del moto presenti in zona, l’unità determina la propria posizione individuata dalle seguenti coordinate geografiche GPS: Lat. 41° 07’,4 N - Long. 008° 55’,1 E (punto B).\nPosto che sono, pertanto, variati gli elementi perturbatori del moto, determinare la velocità della corrente\nVc.",
+      "domanda": "42D RISPOSTA 2 RISPOSTA 3 RISPOSTA 4 RISPOSTA 5 RISPOSTA 6 PROGRESSIVO DOMANDA Nel 2008 l’imbarcazione “Khamsin” è in navigazione ad NW della Sardegna e alle ore 12h00m determina la propria posizione osservando la parte di costa più sporgente di P.ta Li Canneddi (Lat. 41° 01’,7 N - Long. 008° 52’,8 E) per rilevamento vero Rilv = 115° ad una distanza di 1 miglio nautico (punto A). Dal punto A, non essendo presenti in zona elementi perturbatori del moto, l’imbarcazione procede con prora vera Pv = 045° e con una velocità propulsiva Vp = 6,5 kn. Alle ore 13h00m, al fine di verificare gli elementi perturbatori del moto presenti in zona, l’unità determina la propria posizione individuata dalle seguenti coordinate geografiche GPS: Lat. 41° 07’,4 N - Long. 008° 55’,1 E (punto B). Posto che sono, pertanto, variati gli elementi perturbatori del moto, determinare la velocità della corrente Vc.",
       "risposte": [
         "Vc = 1,7 ÷ 2,3 kn"
       ],
       "meta": {
         "table_index": 0,
-        "row_index": 13,
+        "row_index": 12,
         "numero_risposte": 1,
-        "formato_riga": "singola_risposta"
+        "formato_riga": "singola_risposta",
+        "progressivo": "5.7.1 - 1",
+        "tipologia": "C",
+        "settore": "C",
+        "argomento": "correnti",
+        "pagina_pdf": "333",
+        "html_id": 171
       },
-      "risposta": "Vc = 1,7 ÷ 2,3 kn",
-      "spiegazione": "La risposta corretta è Vc = 1,7 ÷ 2,3 kn perché è coerente con i dati di partenza e con le formule di carteggio previste dal quesito. Il rilevamento vero è misurato rispetto al Nord geografico. La prora vera è la direzione della prua rispetto al Nord vero. La corrente è lo spostamento della massa d'acqua che modifica il moto reale dell'unità. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
+      "spiegazione": "",
+      "risposta": "Vc = 1,7 ÷ 2,3 kn"
     },
     {
       "id": 14,
-      "domanda": "L’imbarcazione “Utopia” è in navigazione con prora vera Pv = 035° e velocità propulsiva Vp = 6 kn.\nAlle ore 20h00m determina la propria posizione individuata dalle seguenti coordinate geografiche GPS: Lat.\n40°54’,9 N e Long 008°42’,1 E.\nSappiamo che la zona di mare è interessata da una corrente di direzione corrente Dc = 059° e velocità corrente Vc = 2 kn.\nDeterminare la velocità effettiva Ve.",
+      "domanda": "L’imbarcazione “Utopia” è in navigazione con prora vera Pv = 035° e velocità propulsiva Vp = 6 kn. Alle ore 20h00m determina la propria posizione individuata dalle seguenti coordinate geografiche GPS: Lat. 40°54’,9 N e Long 008°42’,1 E. Sappiamo che la zona di mare è interessata da una corrente di direzione corrente Dc = 059° e velocità corrente Vc = 2 kn. Determinare la velocità effettiva Ve.",
       "risposte": [
         "Ve = 7,6÷ 8,2 kn"
       ],
       "meta": {
         "table_index": 0,
-        "row_index": 14,
+        "row_index": 13,
         "numero_risposte": 1,
-        "formato_riga": "singola_risposta"
+        "formato_riga": "singola_risposta",
+        "progressivo": "5.7.1 - 2",
+        "tipologia": "C",
+        "settore": "C",
+        "argomento": "correnti",
+        "pagina_pdf": "333",
+        "html_id": 172
       },
-      "risposta": "Ve = 7,6÷ 8,2 kn",
-      "spiegazione": "La risposta corretta è Ve = 7,6÷ 8,2 kn perché si ottiene combinando la velocità propulsiva con il contributo della corrente. La prora vera è la direzione della prua rispetto al Nord vero. La corrente è lo spostamento della massa d'acqua che modifica il moto reale dell'unità. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
+      "spiegazione": "",
+      "risposta": "Ve = 7,6÷ 8,2 kn"
     },
     {
       "id": 15,
-      "domanda": "Alle ore 12h00m salpiamo dalla rada a nord di C.po di M. Russo e assumiamo prora bussola Pb = 281° e velocità propulsiva Vp = 18 kn (declinazione 3°W, deviazione 2°E), rilevando il P.to Trigonometrico su M. Russo per Rilb = 241°.\nAlle ore 12h10m rileviamo il Camp.le su P.ta di li Francesi per Rilb = 211°. Determinare il punto nave delle ore 12h10m.",
+      "domanda": "Alle ore 12h00m salpiamo dalla rada a nord di C.po di M. Russo e assumiamo prora bussola Pb = 281° e velocità propulsiva Vp = 18 kn (declinazione 3°W, deviazione 2°E), rilevando il P.to Trigonometrico su M. Russo per Rilb = 241°. Alle ore 12h10m rileviamo il Camp.le su P.ta di li Francesi per Rilb = 211°. Determinare il punto nave delle ore 12h10m. Lat. 41°09’,8 N ÷ 41°10’,4 N Long. 009°04’,3 E ÷ 009°04’,9",
       "risposte": [
-        "Lat. 41°09’,8 N ÷ 41°10’,4 N Long.\n009°04’,3 E ÷ 009°04’,9 E"
+        "E"
+      ],
+      "meta": {
+        "table_index": 0,
+        "row_index": 14,
+        "numero_risposte": 1,
+        "formato_riga": "singola_risposta",
+        "progressivo": "5.7.3 - 1",
+        "tipologia": "C",
+        "settore": "C",
+        "argomento": "navigazione costiera",
+        "pagina_pdf": "333",
+        "html_id": 173
+      },
+      "spiegazione": "",
+      "risposta": "E"
+    },
+    {
+      "id": 16,
+      "domanda": "42D RISPOSTA 2 RISPOSTA 3 RISPOSTA 4 RISPOSTA 5 RISPOSTA 6 PROGRESSIVO DOMANDA L’imbarcazione “Enif” è in navigazione ad W della Sardegna e, alle ore 10h 00m, determina la propria posizione individuata dalle seguenti coordinate geografiche GPS: Lat. 41° 08’,5 N - Long. 009° 01’,5 E (punto A). Alla stessa ora, l’unità “Enif”, riceve una richiesta di assistenza dall’imbarcazione “Denebola” che, a causa di un’avaria al propulsore, procede con rotta vera Rv = 280° e velocità propulsiva Vp = 2 kn. L’unità “Denebola” comunica la propria posizione individuata dalle seguenti coordinate geografiche GPS: Lat. 41° 12’,0 N - Long. 009° 02’,5 E (punto B). L’imbarcazione “Enif” decide, quindi, di raggiungere l’unità “Denebola” per prestarle assistenza impostando la velocità propulsiva Vp = 3 kn. Considerando che in zona non sono presenti elementi perturbatori del moto, determinare le coordinate geografiche del punto D di intercettazione. Lat. 41°12’,3 N ÷ 41°12’,9 N Long. 008°58’,2 E ÷ 008°58’,8",
+      "risposte": [
+        "E"
       ],
       "meta": {
         "table_index": 0,
         "row_index": 15,
         "numero_risposte": 1,
-        "formato_riga": "singola_risposta"
+        "formato_riga": "singola_risposta",
+        "progressivo": "5.7.3 - 2",
+        "tipologia": "C",
+        "settore": "C",
+        "argomento": "navigazione costiera",
+        "pagina_pdf": "334",
+        "html_id": 174
       },
-      "risposta": "Lat. 41°09’,8 N ÷ 41°10’,4 N Long.\n009°04’,3 E ÷ 009°04’,9 E",
-      "spiegazione": "La risposta corretta è Lat. 41°09’,8 N ÷ 41°10’,4 N Long. 009°04’,3 E ÷ 009°04’,9 E perché si ottiene dall intersezione dei rilevamenti o dal punto stimato sulla carta. La prora bussola è la direzione della prua rispetto al Nord bussola. Il punto nave è la posizione dell'unità determinata con carteggio o strumenti di bordo. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
+      "spiegazione": "",
+      "risposta": "E"
     },
     {
-      "id": 16,
-      "domanda": "L’imbarcazione “Enif” è in navigazione ad W della Sardegna e, alle ore 10h 00m, determina la propria posizione individuata dalle seguenti coordinate geografiche GPS: Lat. 41° 08’,5 N - Long. 009° 01’,5 E (punto A).\nAlla stessa ora, l’unità “Enif”, riceve una richiesta di assistenza dall’imbarcazione “Denebola” che, a causa di un’avaria al propulsore, procede con rotta vera Rv = 280° e velocità propulsiva Vp = 2 kn.\nL’unità “Denebola” comunica la propria posizione individuata dalle seguenti coordinate geografiche GPS: Lat.\n41° 12’,0 N - Long. 009° 02’,5 E (punto B).\nL’imbarcazione “Enif” decide, quindi, di raggiungere l’unità “Denebola” per prestarle assistenza impostando la velocità propulsiva Vp = 3 kn.\nConsiderando che in zona non sono presenti elementi perturbatori del moto, determinare le coordinate geografiche del punto D di intercettazione.",
+      "id": 17,
+      "domanda": "Alle ore 11h15m dal punto nave A di coordinate geografiche GPS: Lat. 40° 56’,7 N e Long. 008° 42’,5 E si procede con rotta vera Rv = 045° e velocità effettiva Ve = 5,5 kn. Considerando che nella zona soffia un vento di Maestrale che crea uno scarroccio di 6°, determinare l’orario in cui si rileva alla nostra dritta P.ta li Canneddi, per rilevamento polare ρ = 90°. Ora traverso 12h 47m",
       "risposte": [
-        "Lat. 41°12’,3 N ÷ 41°12’,9 N Long.\n008°58’,2 E ÷ 008°58’,8 E"
+        "÷ 12h 54m"
       ],
       "meta": {
         "table_index": 0,
         "row_index": 16,
         "numero_risposte": 1,
-        "formato_riga": "singola_risposta"
+        "formato_riga": "singola_risposta",
+        "progressivo": "5.7.4 - 1",
+        "tipologia": "C",
+        "settore": "C",
+        "argomento": "scarroccio",
+        "pagina_pdf": "334",
+        "html_id": 175
       },
-      "risposta": "Lat. 41°12’,3 N ÷ 41°12’,9 N Long.\n008°58’,2 E ÷ 008°58’,8 E",
-      "spiegazione": "La risposta corretta è Lat. 41°12’,3 N ÷ 41°12’,9 N Long. 008°58’,2 E ÷ 008°58’,8 E perché si ottiene dall intersezione dei rilevamenti o dal punto stimato sulla carta. L'intercettazione si ricava dall'incontro tra le due rotte o tra la rotta dell'unità soccorritrice e quella dell'unità in difficoltà. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
+      "spiegazione": "",
+      "risposta": "÷ 12h 54m"
     },
     {
-      "id": 17,
-      "domanda": "Alle ore 11h15m dal punto nave A di coordinate geografiche GPS: Lat. 40° 56’,7 N e Long. 008° 42’,5 E si procede con rotta vera Rv = 045° e velocità effettiva Ve = 5,5 kn.\nConsiderando che nella zona soffia un vento di Maestrale che crea uno scarroccio di 6°, determinare l’orario in cui si rileva alla nostra dritta P.ta li Canneddi, per rilevamento polare ρ = 90°.",
+      "id": 18,
+      "domanda": "L’imbarcazione “Markab” si trova in navigazione a SE di Capo Figari (Lat. 40° 59’,7 N - Long. 009° 39’,9 E) e, alle ore 14h20m, determina la propria posizione attraverso l’osservazione simultanea dei rilevamenti veri dell’ex Semaforo di Capo Figari per Rilv = 288° e del Faro di P.ta Timone (Lam.L.(2)10s72m15M) (I. Tavolara) per Rilv = 216° (punto A). Da tale posizione dirige per giungere alle ore 16h00m sul punto B, situato alla distanza di 2 miglia nautiche sul rilevamento vero Rilv = 235° del Fanale delle Isole Nibani (Lam.4s21m2M), segnalamento luminoso marittimo posto a SE di Capo Ferro. Tenuto conto che in zona vi è una corrente dalle seguenti caratteristiche Dc = 246° e Vc = 2,4 kn, determinare la velocità propulsiva Vp.",
       "risposte": [
-        "Ora traverso 12h 47m ÷ 12h 54m"
+        "Vp = 7,7 ÷ 8,3 kn"
       ],
       "meta": {
         "table_index": 0,
         "row_index": 17,
         "numero_risposte": 1,
-        "formato_riga": "singola_risposta"
+        "formato_riga": "singola_risposta",
+        "progressivo": "5.8.1 - 1",
+        "tipologia": "C",
+        "settore": "D",
+        "argomento": "correnti",
+        "pagina_pdf": "334",
+        "html_id": 176
       },
-      "risposta": "Ora traverso 12h 47m ÷ 12h 54m",
-      "spiegazione": "La risposta corretta è Ora traverso 12h 47m ÷ 12h 54m perché è coerente con i dati di partenza e con le formule di carteggio previste dal quesito. Il rilevamento polare è l'angolo misurato rispetto alla prua dell'unità. Lo scarroccio è la deviazione laterale causata dal vento rispetto alla rotta impostata. Il punto nave è la posizione dell'unità determinata con carteggio o strumenti di bordo. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
-    },
-    {
-      "id": 18,
-      "domanda": "L’imbarcazione “Markab” si trova in navigazione a SE di Capo Figari (Lat. 40° 59’,7 N - Long. 009° 39’,9 E) e, alle ore 14h20m, determina la propria posizione attraverso l’osservazione simultanea dei rilevamenti veri dell’ex Semaforo di Capo Figari per Rilv = 288° e del Faro di P.ta Timone (Lam.L.(2)10s72m15M) (I. Tavolara) per Rilv = 216° (punto A).\nDa tale posizione dirige per giungere alle ore 16h00m sul punto B, situato alla distanza di 2 miglia nautiche sul rilevamento vero Rilv = 235° del Fanale delle Isole Nibani (Lam.4s21m2M), segnalamento luminoso marittimo posto a SE di Capo Ferro.\nTenuto conto che in zona vi è una corrente dalle seguenti caratteristiche Dc = 246° e Vc = 2,4 kn, determinare la velocità propulsiva Vp.",
-      "risposte": [
-        "Vp = 7,7 ÷ 8,3 kn"
-      ],
-      "meta": {
-        "table_index": 1,
-        "row_index": 0,
-        "numero_risposte": 1,
-        "formato_riga": "singola_risposta"
-      },
-      "risposta": "Vp = 7,7 ÷ 8,3 kn",
-      "spiegazione": "La risposta corretta è Vp = 7,7 ÷ 8,3 kn perché si ricava dalla distanza da coprire e dal tempo disponibile, correggendo eventualmente per la corrente presente in zona. Il rilevamento vero è misurato rispetto al Nord geografico. La corrente è lo spostamento della massa d'acqua che modifica il moto reale dell'unità. Il fanale è un segnalamento luminoso costiero. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
+      "spiegazione": "",
+      "risposta": "Vp = 7,7 ÷ 8,3 kn"
     },
     {
       "id": 19,
-      "domanda": "Nel 2008 siete in navigazione a bordo dell’imbarcazione “Canopo” ad E dell’Isola Tavolara, alla velocità propulsiva Vp di 7 kn e con prora bussola Pb = 348°.\nAlle ore 05h30m determinate la vostra posizione attraverso l’osservazione simultanea dei rilevamenti bussola del Faro di P.ta Timone (Lam.L.(2)10s72m15M) per Rilb = 242° e del Faro dell’Isola di Figarolo (Lam.5s71m11M) per Rilb = 283° (punto A).\nIn zona vi è una corrente dalle seguenti caratteristiche Dc = 100° e Vc =1,5 kn. Il valore di declinazione riportato sulla carta nautica è: 0° 10’ E 1993 (7’ E)\nConsiderando che gli elementi perturbatori del moto restano invariati, determinare la rotta vera Rv. PER LA RISOLUZIONE DEL QUESITO E' NECESSARIO UTILIZZARE LA TABELLA DELLE DEVIAZIONI ALLEGATA",
+      "domanda": "42D RISPOSTA 2 RISPOSTA 3 RISPOSTA 4 RISPOSTA 5 RISPOSTA 6 PROGRESSIVO DOMANDA Nel 2008 siete in navigazione a bordo dell’imbarcazione “Canopo” ad E dell’Isola Tavolara, alla velocità propulsiva Vp di 7 kn e con prora bussola Pb = 348°. Alle ore 05h30m determinate la vostra posizione attraverso l’osservazione simultanea dei rilevamenti bussola del Faro di P.ta Timone (Lam.L.(2)10s72m15M) per Rilb = 242° e del Faro dell’Isola di Figarolo (Lam.5s71m11M) per Rilb = 283° (punto A). In zona vi è una corrente dalle seguenti caratteristiche Dc = 100° e Vc =1,5 kn. Il valore di declinazione riportato sulla carta nautica è: 0° 10’ E 1993 (7’ E) Considerando che gli elementi perturbatori del moto restano invariati, determinare la rotta vera Rv. PER LA RISOLUZIONE DEL QUESITO E' NECESSARIO UTILIZZARE LA TABELLA DELLE DEVIAZIONI ALLEGATA",
       "risposte": [
         "Rv = 357° ÷ 003°"
       ],
       "meta": {
-        "table_index": 1,
-        "row_index": 1,
+        "table_index": 0,
+        "row_index": 18,
         "numero_risposte": 1,
-        "formato_riga": "singola_risposta"
+        "formato_riga": "singola_risposta",
+        "progressivo": "5.8.1 - 2",
+        "tipologia": "C",
+        "settore": "D",
+        "argomento": "correnti",
+        "pagina_pdf": "335",
+        "html_id": 177
       },
-      "risposta": "Rv = 357° ÷ 003°",
-      "spiegazione": "La risposta corretta è Rv = 357° ÷ 003° perché è coerente con i dati di partenza e con le formule di carteggio previste dal quesito. La prora bussola è la direzione della prua rispetto al Nord bussola. La corrente è lo spostamento della massa d'acqua che modifica il moto reale dell'unità. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
+      "spiegazione": "",
+      "risposta": "Rv = 357° ÷ 003°"
     },
     {
       "id": 20,
-      "domanda": "L’imbarcazione “Nunki” alle ore 19h00m, in navigazione ad E di Capo Ferro, segue una navigazione stimata con prora vera Pv = 160° ad una velocità propulsiva Vp = 7 kn.\nTrascorse 01h20m stima di trovarsi nella posizione individuata dalle seguenti coordinate geografiche: Lat. 41° 08’,5 N - Long. 009° 37’,6 E (punto A).\nAl fine di verificare l’eventuale presenza di elementi perturbatori del moto, al medesimo orario (20h20m) determina la propria posizione osservando simultaneamente il Radiofaro Circolare di Capo Ferro (Lam.(3)15s52m24M) per rilevamento vero Rilv = 281° e il Faro P.ta Timone (Lam.L.(2)10s72m15M) (Isola Tavolara) per rilevamento vero Rilv = 173° (punto B).\nPertanto, deducendo la presenza di una corrente in zona, durante la navigazione seguita in questo intervallo temporale, determinare la direzione della corrente Dc.",
+      "domanda": "L’imbarcazione “Nunki” alle ore 19h00m, in navigazione ad E di Capo Ferro, segue una navigazione stimata con prora vera Pv = 160° ad una velocità propulsiva Vp = 7 kn. Trascorse 01h20m stima di trovarsi nella posizione individuata dalle seguenti coordinate geografiche: Lat. 41° 08’,5 N - Long. 009° 37’,6 E (punto A). Al fine di verificare l’eventuale presenza di elementi perturbatori del moto, al medesimo orario (20h20m) determina la propria posizione osservando simultaneamente il Radiofaro Circolare di Capo Ferro (Lam.(3)15s52m24M) per rilevamento vero Rilv = 281° e il Faro P.ta Timone (Lam.L.(2)10s72m15M) (Isola Tavolara) per rilevamento vero Rilv = 173° (punto B). Pertanto, deducendo la presenza di una corrente in zona, durante la navigazione seguita in questo intervallo temporale, determinare la direzione della corrente Dc.",
       "risposte": [
         "Dc = 101° ÷ 107°"
       ],
       "meta": {
-        "table_index": 1,
-        "row_index": 2,
+        "table_index": 0,
+        "row_index": 19,
         "numero_risposte": 1,
-        "formato_riga": "singola_risposta"
+        "formato_riga": "singola_risposta",
+        "progressivo": "5.8.1 - 3",
+        "tipologia": "C",
+        "settore": "D",
+        "argomento": "correnti",
+        "pagina_pdf": "335",
+        "html_id": 178
       },
-      "risposta": "Dc = 101° ÷ 107°",
-      "spiegazione": "La risposta corretta è Dc = 101° ÷ 107° perché si ricava confrontando il punto stimato con quello osservato per dedurre direzione e intensità della corrente. Il rilevamento vero è misurato rispetto al Nord geografico. La prora vera è la direzione della prua rispetto al Nord vero. La corrente è lo spostamento della massa d'acqua che modifica il moto reale dell'unità. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
+      "spiegazione": "",
+      "risposta": "Dc = 101° ÷ 107°"
     },
     {
       "id": 21,
-      "domanda": "L’imbarcazione “Zuben el Genubi” è in navigazione a E della Sardegna settentrionale, alle ore 08h00m, determina la propria posizione situata sul rilevamento vero Rilv = 250° dell’ex semaforo di Capo Figari ad una distanza di 4,3 miglia nautiche (punto A).\nDal punto A delle ore 08h00m l’unità assume una rotta per lasciare a sinistra il fanale delle Isole Nibani (Lam.4s21m2M), a una distanza di 1 miglio nautico dallo stesso (punto B) e una velocità propulsiva Vp = 6 kn. Considerato che in zona è presente una corrente di direzione Dc = 180° e di velocità Vc = 2 kn, determinare la prora vera Pv.",
+      "domanda": "L’imbarcazione “Zuben el Genubi” è in navigazione a E della Sardegna settentrionale, alle ore 08h00m, determina la propria posizione situata sul rilevamento vero Rilv = 250° dell’ex semaforo di Capo Figari ad una distanza di 4,3 miglia nautiche (punto A). Dal punto A delle ore 08h00m l’unità assume una rotta per lasciare a sinistra il fanale delle Isole Nibani (Lam.4s21m2M), a una distanza di 1 miglio nautico dallo stesso (punto B) e una velocità propulsiva Vp = 6 kn. Considerato che in zona è presente una corrente di direzione Dc = 180° e di velocità Vc = 2 kn, determinare la prora vera Pv.",
       "risposte": [
         "Pv = 323° ÷ 329°"
       ],
       "meta": {
-        "table_index": 1,
-        "row_index": 3,
+        "table_index": 0,
+        "row_index": 20,
         "numero_risposte": 1,
-        "formato_riga": "singola_risposta"
+        "formato_riga": "singola_risposta",
+        "progressivo": "5.8.1 - 4",
+        "tipologia": "C",
+        "settore": "D",
+        "argomento": "correnti",
+        "pagina_pdf": "335",
+        "html_id": 179
       },
-      "risposta": "Pv = 323° ÷ 329°",
-      "spiegazione": "La risposta corretta è Pv = 323° ÷ 329° perché si ottiene correggendo la rotta vera per lo scarroccio e, quando presente, per l effetto della corrente. Il rilevamento vero è misurato rispetto al Nord geografico. La prora vera è la direzione della prua rispetto al Nord vero. La corrente è lo spostamento della massa d'acqua che modifica il moto reale dell'unità. Il fanale è un segnalamento luminoso costiero. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
+      "spiegazione": "",
+      "risposta": "Pv = 323° ÷ 329°"
     },
     {
       "id": 22,
-      "domanda": "Il M/Y “Aldebaran” si trova in navigazione con prora vera Pv = 000° e velocità propulsiva Vp = 7 kn.\nDopo un’ora di navigazione determina la propria posizione osservando la costa effettuando un punto nave A\ncon due rilevamenti simultanei:\nfaro di “Punta timone –tavolara” con Rilp = 118° a sinistra;\nfaro “ Isola di Figarolo”con Rilp = 77° a sinistra.\nAvendo calcolato il punto stimato B, allo stesso orario, di coordinate geografiche: Lat. 40°57,5’ N – Long.\n009°46,1’ E, considerato che esistono elementi perturbatori del moto, determinare la velocità della corrente\nVc.",
+      "domanda": "42D RISPOSTA 2 RISPOSTA 3 RISPOSTA 4 RISPOSTA 5 RISPOSTA 6 PROGRESSIVO DOMANDA Il M/Y “Aldebaran” si trova in navigazione con prora vera Pv = 000° e velocità propulsiva Vp = 7 kn. Dopo un’ora di navigazione determina la propria posizione osservando la costa effettuando un punto nave A con due rilevamenti simultanei: faro di “Punta timone –tavolara” con Rilp = 118° a sinistra; faro “ Isola di Figarolo”con Rilp = 77° a sinistra. Avendo calcolato il punto stimato B, allo stesso orario, di coordinate geografiche: Lat. 40°57,5’ N – Long. 009°46,1’ E, considerato che esistono elementi perturbatori del moto, determinare la velocità della corrente Vc.",
       "risposte": [
         "Vc = 0,9 ÷ 1,5 kn"
       ],
       "meta": {
-        "table_index": 1,
-        "row_index": 4,
+        "table_index": 0,
+        "row_index": 21,
         "numero_risposte": 1,
-        "formato_riga": "singola_risposta"
+        "formato_riga": "singola_risposta",
+        "progressivo": "5.8.1 - 5",
+        "tipologia": "C",
+        "settore": "D",
+        "argomento": "correnti",
+        "pagina_pdf": "336",
+        "html_id": 180
       },
-      "risposta": "Vc = 0,9 ÷ 1,5 kn",
-      "spiegazione": "La risposta corretta è Vc = 0,9 ÷ 1,5 kn perché è coerente con i dati di partenza e con le formule di carteggio previste dal quesito. La prora vera è la direzione della prua rispetto al Nord vero. La corrente è lo spostamento della massa d'acqua che modifica il moto reale dell'unità. Il punto nave è la posizione dell'unità determinata con carteggio o strumenti di bordo. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
+      "spiegazione": "",
+      "risposta": "Vc = 0,9 ÷ 1,5 kn"
     },
     {
       "id": 23,
-      "domanda": "Nel 2008 l’imbarcazione “Aliseo” si trova in navigazione a NE di Capo Figari (Golfo di Congianus), seguendo una rotta vera Rv = 350° ad una velocità propulsiva Vp = 7,5 kn e, alle ore 07h00m, determina la propria posizione attraverso l’osservazione simultanea dei rilevamenti veri del Faro Scoglio Mortoriotto (Lam.(2)6s10m2M) per Rilv = 317° e dell’ex Semaforo di Capo Figari per Rilv = 196° (punto A).\nTenuto conto che in zona vi è una corrente dalle seguenti caratteristiche Dc = 115° e Vc =2,5 kn, determinare la prora vera Pv.",
+      "domanda": "Nel 2008 l’imbarcazione “Aliseo” si trova in navigazione a NE di Capo Figari (Golfo di Congianus), seguendo una rotta vera Rv = 350° ad una velocità propulsiva Vp = 7,5 kn e, alle ore 07h00m, determina la propria posizione attraverso l’osservazione simultanea dei rilevamenti veri del Faro Scoglio Mortoriotto (Lam.(2)6s10m2M) per Rilv = 317° e dell’ex Semaforo di Capo Figari per Rilv = 196° (punto A). Tenuto conto che in zona vi è una corrente dalle seguenti caratteristiche Dc = 115° e Vc =2,5 kn, determinare la prora vera Pv.",
       "risposte": [
         "Pv = 331° ÷ 337°"
       ],
       "meta": {
-        "table_index": 1,
-        "row_index": 5,
+        "table_index": 0,
+        "row_index": 22,
         "numero_risposte": 1,
-        "formato_riga": "singola_risposta"
+        "formato_riga": "singola_risposta",
+        "progressivo": "5.8.1 - 6",
+        "tipologia": "C",
+        "settore": "D",
+        "argomento": "correnti",
+        "pagina_pdf": "336",
+        "html_id": 181
       },
-      "risposta": "Pv = 331° ÷ 337°",
-      "spiegazione": "La risposta corretta è Pv = 331° ÷ 337° perché si ottiene correggendo la rotta vera per lo scarroccio e, quando presente, per l effetto della corrente. La prora vera è la direzione della prua rispetto al Nord vero. La corrente è lo spostamento della massa d'acqua che modifica il moto reale dell'unità. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
+      "spiegazione": "",
+      "risposta": "Pv = 331° ÷ 337°"
     },
     {
       "id": 24,
-      "domanda": "Avvicinandoci al Golfo di Olbia da Sud-Est con prora bussola Pb = 317° (declinazione 4°E, deviazione 6°W) e velocità propulsiva Vp = 14 kn, alle ore 06h30m rileviamo il Faro di P.ta Timone per Rilb = 272°. Successivamente, alle ore 06h42m rileviamo il Faro della Bocca di Olbia per Rilb = 255°, dove accosteremo per dirigere verso la rada di Olbia.\nDeterminare le coordinate geografiche del punto di accostata.",
+      "domanda": "Avvicinandoci al Golfo di Olbia da Sud-Est con prora bussola Pb = 317° (declinazione 4°E, deviazione 6°W) e velocità propulsiva Vp = 14 kn, alle ore 06h30m rileviamo il Faro di P.ta Timone per Rilb = 272°. Successivamente, alle ore 06h42m rileviamo il Faro della Bocca di Olbia per Rilb = 255°, dove accosteremo per dirigere verso la rada di Olbia. Determinare le coordinate geografiche del punto di accostata. Lat. 40°57’,2N ÷ 40°57’,8 N Long. 009°43’,7 E ÷ 009°44’,3",
       "risposte": [
-        "Lat. 40°57’,2N ÷ 40°57’,8 N Long.\n009°43’,7 E ÷ 009°44’,3 E"
+        "E"
       ],
       "meta": {
-        "table_index": 1,
-        "row_index": 6,
+        "table_index": 0,
+        "row_index": 23,
         "numero_risposte": 1,
-        "formato_riga": "singola_risposta"
+        "formato_riga": "singola_risposta",
+        "progressivo": "5.8.3 - 1",
+        "tipologia": "C",
+        "settore": "D",
+        "argomento": "navigazione costiera",
+        "pagina_pdf": "336",
+        "html_id": 182
       },
-      "risposta": "Lat. 40°57’,2N ÷ 40°57’,8 N Long.\n009°43’,7 E ÷ 009°44’,3 E",
-      "spiegazione": "La risposta corretta è Lat. 40°57’,2N ÷ 40°57’,8 N Long. 009°43’,7 E ÷ 009°44’,3 E perché si ottiene dall intersezione dei rilevamenti o dal punto stimato sulla carta. La prora bussola è la direzione della prua rispetto al Nord bussola. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
+      "spiegazione": "",
+      "risposta": "E"
     },
     {
       "id": 25,
-      "domanda": "L’imbarcazione “Alpheratz” è in navigazione ad E dell’Isola Mortorio e segue una Rotta vera Rv = 348° con una velocità propulsiva Vp = 6,6 kn e, alle ore 07h 00m , determina la propria posizione individuata dalle seguenti coordinate geografiche GPS: Lat. 41° 05’,2 N - Long. 009° 48’,0 E (punto A).\nAlla medesima ora, l’unità “Alpheratz” riceve una richiesta di assistenza dall’imbarcazione “Schedar” che, a causa di un’avaria al propulsore, procede con rotta vera Rv = 100° e velocità effettiva Ve = 1,5 kn.\nL’unità “Schedar” comunica la propria posizione situata a 8 miglia nautiche a levante del Faro delle Isole\nMonaci (Lam.5s26m10M) (punto B).\nL’imbarcazione “Alpheratz” decide, quindi, di raggiungere l’unità in difficoltà per prestare assistenza mantenendo invariata la propria velocità.\nConsiderando che in zona non sono presenti elementi perturbatori del moto, determinare le coordinate geografiche del punto D di intercettazione.",
+      "domanda": "42D RISPOSTA 2 RISPOSTA 3 RISPOSTA 4 RISPOSTA 5 RISPOSTA 6 PROGRESSIVO DOMANDA L’imbarcazione “Alpheratz” è in navigazione ad E dell’Isola Mortorio e segue una Rotta vera Rv = 348° con una velocità propulsiva Vp = 6,6 kn e, alle ore 07h 00m , determina la propria posizione individuata dalle seguenti coordinate geografiche GPS: Lat. 41° 05’,2 N - Long. 009° 48’,0 E (punto A). Alla medesima ora, l’unità “Alpheratz” riceve una richiesta di assistenza dall’imbarcazione “Schedar” che, a causa di un’avaria al propulsore, procede con rotta vera Rv = 100° e velocità effettiva Ve = 1,5 kn. L’unità “Schedar” comunica la propria posizione situata a 8 miglia nautiche a levante del Faro delle Isole Monaci (Lam.5s26m10M) (punto B). L’imbarcazione “Alpheratz” decide, quindi, di raggiungere l’unità in difficoltà per prestare assistenza mantenendo invariata la propria velocità. Considerando che in zona non sono presenti elementi perturbatori del moto, determinare le coordinate geografiche del punto D di intercettazione. Lat. 41°12’,3 N ÷ 41°12’,9 N Long. 009°43’,5 E ÷ 009°44’,1",
       "risposte": [
-        "Lat. 41°12’,3 N ÷ 41°12’,9 N Long.\n009°43’,5 E ÷ 009°44’,1 E"
+        "E"
       ],
       "meta": {
-        "table_index": 1,
-        "row_index": 7,
+        "table_index": 0,
+        "row_index": 24,
         "numero_risposte": 1,
-        "formato_riga": "singola_risposta"
+        "formato_riga": "singola_risposta",
+        "progressivo": "5.8.3 - 2",
+        "tipologia": "C",
+        "settore": "D",
+        "argomento": "navigazione costiera",
+        "pagina_pdf": "337",
+        "html_id": 183
       },
-      "risposta": "Lat. 41°12’,3 N ÷ 41°12’,9 N Long.\n009°43’,5 E ÷ 009°44’,1 E",
-      "spiegazione": "La risposta corretta è Lat. 41°12’,3 N ÷ 41°12’,9 N Long. 009°43’,5 E ÷ 009°44’,1 E perché si ottiene dall intersezione dei rilevamenti o dal punto stimato sulla carta. L'intercettazione si ricava dall'incontro tra le due rotte o tra la rotta dell'unità soccorritrice e quella dell'unità in difficoltà. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
+      "spiegazione": "",
+      "risposta": "E"
     },
     {
       "id": 26,
-      "domanda": "L’imbarcazione “Hamal”, in navigazione ad E del Golfo del Pevero con Rotta vera Rv = 330° e con una velocità propulsiva Vp = 5 kn, alle ore 07h 51m determina la propria posizione individuata dalle seguenti coordinate geografiche GPS: Lat. 41° 07’,6 N - Long. 009° 39’,1 E (punto A).\nAlla medesima ora, l’unità “Hamal”, riceve una richiesta di assistenza dall’imbarcazione “Spica” che, a causa di un’avaria al propulsore, procede con rotta vera Rv = 170° e velocità effettiva Ve = 3,2 kn.\nL’unità “Spica” comunica la propria posizione situata sul rilevamento vero Rilv = 249° del Faro Isole Monaci\n(Lam.5s26m10M) posto ad una distanza di 8 miglia nautiche dal Faro stesso (punto B).\nL’imbarcazione “Hamal” decide, quindi, di raggiungere l’unità in difficoltà per prestare assistenza all’unità\n“Spica” mantenendo invariata la propria velocità.\nConsiderando che in zona non sono presenti elementi perturbatori del moto, determinare le coordinate geografiche del punto D di intercettazione.",
+      "domanda": "L’imbarcazione “Hamal”, in navigazione ad E del Golfo del Pevero con Rotta vera Rv = 330° e con una velocità propulsiva Vp = 5 kn, alle ore 07h 51m determina la propria posizione individuata dalle seguenti coordinate geografiche GPS: Lat. 41° 07’,6 N - Long. 009° 39’,1 E (punto A). Alla medesima ora, l’unità “Hamal”, riceve una richiesta di assistenza dall’imbarcazione “Spica” che, a causa di un’avaria al propulsore, procede con rotta vera Rv = 170° e velocità effettiva Ve = 3,2 kn. L’unità “Spica” comunica la propria posizione situata sul rilevamento vero Rilv = 249° del Faro Isole Monaci (Lam.5s26m10M) posto ad una distanza di 8 miglia nautiche dal Faro stesso (punto B). L’imbarcazione “Hamal” decide, quindi, di raggiungere l’unità in difficoltà per prestare assistenza all’unità “Spica” mantenendo invariata la propria velocità. Considerando che in zona non sono presenti elementi perturbatori del moto, determinare le coordinate geografiche del punto D di intercettazione. Lat. 41°12’,2 N ÷ 41°12’,8 N Long. 009°41’,3 E ÷ 009°41’,9",
       "risposte": [
-        "Lat. 41°12’,2 N ÷ 41°12’,8 N Long.\n009°41’,3 E ÷ 009°41’,9 E"
+        "E"
       ],
       "meta": {
-        "table_index": 1,
-        "row_index": 8,
+        "table_index": 0,
+        "row_index": 25,
         "numero_risposte": 1,
-        "formato_riga": "singola_risposta"
+        "formato_riga": "singola_risposta",
+        "progressivo": "5.8.3 - 3",
+        "tipologia": "C",
+        "settore": "D",
+        "argomento": "navigazione costiera",
+        "pagina_pdf": "337",
+        "html_id": 184
       },
-      "risposta": "Lat. 41°12’,2 N ÷ 41°12’,8 N Long.\n009°41’,3 E ÷ 009°41’,9 E",
-      "spiegazione": "La risposta corretta è Lat. 41°12’,2 N ÷ 41°12’,8 N Long. 009°41’,3 E ÷ 009°41’,9 E perché si ottiene dall intersezione dei rilevamenti o dal punto stimato sulla carta. Il rilevamento vero è misurato rispetto al Nord geografico. L'intercettazione si ricava dall'incontro tra le due rotte o tra la rotta dell'unità soccorritrice e quella dell'unità in difficoltà. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
+      "spiegazione": "",
+      "risposta": "E"
     },
     {
       "id": 27,
-      "domanda": "L’imbarcazione “Starfive” è in navigazione nel Golfo di Olbia; alle ore 10h 25m stima la sua posizione (punto\nA) rilevando il Faro di P.ta Timone (I. Tavolara) per Rlv = 127° ad una distanza di 1,8 miglia nautiche.\nDa detta posizione si vuole seguire Rv = 345° e nella zona è presente un vento di Grecale che crea uno scarroccio di 10°con una velocita effettiva Ve di 6,5 kn.\nDeterminare l’ora in cui si rileva il Faro dello Scoglio Mortoriotto per Rilevamento polare a sinistra ρ = - 90.",
+      "domanda": "L’imbarcazione “Starfive” è in navigazione nel Golfo di Olbia; alle ore 10h 25m stima la sua posizione (punto A) rilevando il Faro di P.ta Timone (I. Tavolara) per Rlv = 127° ad una distanza di 1,8 miglia nautiche. Da detta posizione si vuole seguire Rv = 345° e nella zona è presente un vento di Grecale che crea uno scarroccio di 10°con una velocita effettiva Ve di 6,5 kn. Determinare l’ora in cui si rileva il Faro dello Scoglio Mortoriotto per Rilevamento polare a sinistra ρ = - 90. Ora traverso 11h 45m",
       "risposte": [
-        "Ora traverso 11h 45m ÷ 11h 51m"
+        "÷ 11h 51m"
       ],
       "meta": {
-        "table_index": 1,
-        "row_index": 9,
+        "table_index": 0,
+        "row_index": 26,
         "numero_risposte": 1,
-        "formato_riga": "singola_risposta"
+        "formato_riga": "singola_risposta",
+        "progressivo": "5.8.4 - 1",
+        "tipologia": "C",
+        "settore": "D",
+        "argomento": "scarroccio",
+        "pagina_pdf": "337",
+        "html_id": 185
       },
-      "risposta": "Ora traverso 11h 45m ÷ 11h 51m",
-      "spiegazione": "La risposta corretta è Ora traverso 11h 45m ÷ 11h 51m perché è coerente con i dati di partenza e con le formule di carteggio previste dal quesito. Il rilevamento polare è l'angolo misurato rispetto alla prua dell'unità. Lo scarroccio è la deviazione laterale causata dal vento rispetto alla rotta impostata. Le altre grandezze possibili non sarebbero coerenti con il calcolo richiesto."
+      "spiegazione": "",
+      "risposta": "÷ 11h 51m"
     }
   ]
 }
