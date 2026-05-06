@@ -4,7 +4,7 @@ Web app responsive per allenarsi ai quiz della patente nautica con modalità esa
 
 ## Link utili
 
-- Web app: https://moorada.github.io/patente-nautica/
+- Web app: https://patentenautica.alongale.com/
 - Dona con PayPal: https://www.paypal.com/donate/?hosted_button_id=8KWRVYPQ5Q49J
 - Buy Me a Coffee: https://www.buymeacoffee.com/moorada
 - Segnala un problema: https://github.com/moorada/patente-nautica/issues/new

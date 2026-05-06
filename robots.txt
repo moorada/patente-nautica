@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /tools/
+Disallow: /quiz_patente_nautica_corretto.html
+
+Sitemap: https://patentenautica.alongale.com/sitemap.xml
