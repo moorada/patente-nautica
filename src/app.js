@@ -136,9 +136,7 @@ const THEME_KEY = "nautica-theme";
 const PROGRESS_KEY = "nautica-progress-v1";
 const MAX_STORED_RESPONSES = 8000;
 const REPORT_COMMENT_MIN_LENGTH = 5;
-const SUPABASE_PROJECT_ID = "xdkptbdhhcpfoslpjjpq";
-const SUPABASE_PUBLISHABLE_KEY = "sb_publishable_07BoN8Itxi_UTLSDu9YaRg_gl4kS-II";
-const SUPABASE_URL = resolveSupabaseUrl();
+const ERROR_REPORTS_API_URL = "https://error-reports-api.alongale.com";
 
 const state = {
   loaded: false,
@@ -469,22 +467,6 @@ function closeResetConfirmModal() {
   refs.resetConfirmModal.classList.add("hidden");
 }
 
-function resolveSupabaseUrl() {
-  const fromWindow = typeof window !== "undefined" && typeof window.__SUPABASE_URL__ === "string"
-    ? window.__SUPABASE_URL__.trim()
-    : "";
-  if (fromWindow) {
-    return fromWindow.replace(/\/+$/, "");
-  }
-
-  if (SUPABASE_PROJECT_ID) {
-    return `https://${SUPABASE_PROJECT_ID}.supabase.co`;
-  }
-
-  const match = SUPABASE_PUBLISHABLE_KEY.match(/^sb_publishable_([A-Za-z0-9-]+)_/);
-  return match ? `https://${match[1].toLowerCase()}.supabase.co` : "";
-}
-
 function toggleReportPanel() {
   if (!state.session) {
     return;
@@ -492,12 +474,6 @@ function toggleReportPanel() {
 
   if (state.reportPanelOpen) {
     closeReportPanel({ resetFields: false, clearStatus: false });
-    return;
-  }
-
-  if (!SUPABASE_PUBLISHABLE_KEY || !SUPABASE_URL) {
-    setReportStatus("Config Supabase incompleta. Imposta window.__SUPABASE_URL__.", "error");
-    openReportPanel();
     return;
   }
 
@@ -564,11 +540,6 @@ async function submitErrorReport() {
     return;
   }
 
-  if (!SUPABASE_PUBLISHABLE_KEY || !SUPABASE_URL) {
-    setReportStatus("Config Supabase incompleta. Imposta window.__SUPABASE_URL__.", "error");
-    return;
-  }
-
   const payload = {
     question_id: question.originKey,
     dataset_id: question.datasetId || "unknown",
@@ -582,13 +553,10 @@ async function submitErrorReport() {
   setReportStatus("Invio segnalazione...", "info");
 
   try {
-    const response = await fetch(`${SUPABASE_URL}/rest/v1/error_reports`, {
+    const response = await fetch(ERROR_REPORTS_API_URL, {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
-        apikey: SUPABASE_PUBLISHABLE_KEY,
-        Authorization: `Bearer ${SUPABASE_PUBLISHABLE_KEY}`,
-        Prefer: "return=minimal",
       },
       body: JSON.stringify(payload),
     });
@@ -1339,7 +1307,7 @@ function renderQuiz() {
     ? " · immagine non disponibile nel dataset"
     : "";
   refs.questionSource.textContent = `${question.sectionLabel} · ${question.sourceLabel}${missingImageHint}`;
-  refs.reportErrorBtn.disabled = !SUPABASE_PUBLISHABLE_KEY || !SUPABASE_URL;
+  refs.reportErrorBtn.disabled = false;
   refs.questionText.textContent = question.text;
 
   if (question.image) {
